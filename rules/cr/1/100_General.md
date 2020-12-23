@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /rules/cr/game-concepts/100-general
+permalink: /rules/cr/1/100
 title: 100. General
 parent: 1. Game Concepts
 grand_parent: Comprehensive Rules

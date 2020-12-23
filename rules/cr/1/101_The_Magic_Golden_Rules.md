@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /rules/cr/game-concepts/101-the-magic-golden-rules
+permalink: /rules/cr/1/101
 title: 101. The Magic Golden Rules
 parent: 1. Game Concepts
 grand_parent: Comprehensive Rules
