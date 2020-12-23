@@ -2,10 +2,10 @@
 layout: page
 title: Comprehensive Rules
 permalink: /rules/cr/
-translate: true
+has_children: true
 ---
 
-# {% t Magic: The Gathering Comprehensive Rules %}
+# Magic: The Gathering Comprehensive Rules
 
 
 These rules are effective as of November 20, 2020.

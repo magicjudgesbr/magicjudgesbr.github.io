@@ -1,2 +1,0 @@
-msgid "Magic: The Gathering Comprehensive Rules"
-msgstr ""
