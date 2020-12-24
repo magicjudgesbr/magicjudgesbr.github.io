@@ -28,7 +28,6 @@ github_username:  jekyll
 markdown: kramdown
 remote_theme: pmarsceill/just-the-docs
 #theme: just-the-docs
-source: i18n/pt
 search_enabled: true
 
 # the files that are ignored by jekyll.
