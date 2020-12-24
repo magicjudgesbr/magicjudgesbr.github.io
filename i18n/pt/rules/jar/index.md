@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Judging at Regular
-permalink: /rules/jar/
+permalink: /regras/jar/
 has_children: false
 ---
 
 # Judging at Regular
 
 
-These rules are effective as of January 21, 2019.
+Essas regras entram em vigor em 21 de janeiro de 2019.
 
