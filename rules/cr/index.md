@@ -3,6 +3,7 @@ layout: page
 title: Regras Abrangentes
 permalink: /regras/cr/
 has_children: true
+nav_order: 1
 ---
 
 # Magic: The Gathering Regras Abrangentes

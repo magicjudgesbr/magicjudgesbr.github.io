@@ -3,6 +3,7 @@ layout: page
 title: Tournament Rules
 permalink: /regras/mtr/
 has_children: false
+nav_order: 3
 ---
 
 # Magic: The Gathering Tournament Rules
