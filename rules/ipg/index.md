@@ -8,4 +8,4 @@ has_children: false
 # Magic Infraction Procedure Guide
 
 
-These rules are effective as of September 28, 2020.
+Essas regras entram em vigor em 28 de janeiro de 2020.
