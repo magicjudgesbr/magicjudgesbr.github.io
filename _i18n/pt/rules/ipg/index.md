@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Infraction Procedure Guide
-permalink: /rules/ipg/
+permalink: /regras/ipg/
 has_children: false
 nav_order: 4
 ---
@@ -9,4 +9,4 @@ nav_order: 4
 # Magic Infraction Procedure Guide
 
 
-These rules are effective as of September 28, 2020.
+Essas regras entram em vigor em 28 de janeiro de 2020.
