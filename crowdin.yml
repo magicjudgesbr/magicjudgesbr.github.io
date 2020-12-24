@@ -1,5 +1,3 @@
 files:
-  - source: _rules/**/*.md
-    translation: /_i18n/%two_letters_code%/%original_path%/%original_file_name%
-    translation_replace:
-      _rules: rules
+  - source: _i18n/en/cr/*.txt
+    translation: /_i18n/%two_letters_code%/cr/%original_file_name%
