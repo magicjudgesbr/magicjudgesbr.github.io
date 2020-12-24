@@ -1,9 +1,9 @@
 ---
 layout: page
-permalink: /rules/cr/1/100
-title: 100. General
-parent: 1. Game Concepts
-grand_parent: Comprehensive Rules
+permalink: /regras/cr/1/100
+title: 100. Geral
+parent: 1. Conceitos do Jogo
+grand_parent: Regras Abrangentes
 ---
 
-# 100. General
+# 100. Geral
