@@ -3,6 +3,7 @@ layout: page
 title: Comprehensive Rules
 permalink: /rules/cr/
 has_children: true
+nav_order: 1
 ---
 
 # Magic: The Gathering Comprehensive Rules

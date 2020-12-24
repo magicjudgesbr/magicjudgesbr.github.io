@@ -3,6 +3,7 @@ layout: page
 title: Infraction Procedure Guide
 permalink: /rules/ipg/
 has_children: false
+nav_order: 4
 ---
 
 # Magic Infraction Procedure Guide

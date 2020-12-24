@@ -3,6 +3,7 @@ layout: page
 title: Judging at Regular
 permalink: /rules/jar/
 has_children: false
+nav_order: 2
 ---
 
 # Judging at Regular
