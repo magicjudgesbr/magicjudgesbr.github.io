@@ -6,4 +6,4 @@ parent: 1. Conceitos do Jogo
 grand_parent: Regras Abrangentes
 ---
 
-# 100. Geral
+# 101. As Regras de Ouro do Magic
