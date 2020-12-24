@@ -29,7 +29,8 @@ markdown: kramdown
 remote_theme: pmarsceill/just-the-docs
 #theme: just-the-docs
 search_enabled: true
-source: i18n/pt
+include:
+  - _i18n
 
 # the files that are ignored by jekyll.
 # This variable is automatically filled to avoid build loops
@@ -39,3 +40,4 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+  - crowdin.yml
