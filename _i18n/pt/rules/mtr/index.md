@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Tournament Rules
-permalink: /rules/mtr/
+title: Regras de Torneio
+permalink: /regras/mtr/
 has_children: false
 nav_order: 3
 ---
@@ -9,4 +9,4 @@ nav_order: 3
 # Magic: The Gathering Tournament Rules
 
 
-These rules are effective as of October 12, 2020.
+Estas regras entram em vigor em 12 de Outubro de 2020.
