@@ -2,4 +2,4 @@ files:
   - source: _rules/**/*.md
     translation: /_i18n/%two_letters_code%/%original_path%/%original_file_name%
     translation_replace:
-      - _rules: rules
+      - _rules: "rules"
