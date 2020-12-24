@@ -1,8 +1,9 @@
 ---
 layout: page
-permalink: /rules/cr/1
-title: 1. Game Concepts
+permalink: /regras/cr/1
+title: 1. Conceitos do Jogo
 has_children: true
-parent: Comprehensive Rules 
+parent: Regras Abrangentes
 ---
-# 1. Game Concepts
+
+# 1. Conceitos do Jogo
