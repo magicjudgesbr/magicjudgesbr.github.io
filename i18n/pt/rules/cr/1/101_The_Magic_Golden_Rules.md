@@ -1,9 +1,9 @@
 ---
 layout: page
-permalink: /rules/cr/1/101
-title: 101. The Magic Golden Rules
-parent: 1. Game Concepts
-grand_parent: Comprehensive Rules
+permalink: /regras/cr/1/101
+title: 101. As Regras de Ouro do Magic
+parent: 1. Conceitos do Jogo
+grand_parent: Regras Abrangentes
 ---
 
-# 100. General
+# 100. Geral
