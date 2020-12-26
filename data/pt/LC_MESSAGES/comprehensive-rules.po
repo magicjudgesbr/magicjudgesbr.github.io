@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2020-12-26 22:30\n"
+"PO-Revision-Date: 2020-12-26 22:54\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -22,13 +22,13 @@ msgid "Introduction"
 msgstr "Introdução"
 
 msgid "This document is the ultimate authority for Magic: The Gathering® competitive game play. It consists of a series of numbered rules followed by a glossary. Many of the numbered rules are divided into subrules, and each separate rule and subrule of the game has its own number. (Note that subrules skip the letters “l” and “o” due to potential confusion with the numbers “1” and “0”; subrule 704.5k is followed by 704.5m, then 704.5n, then 704.5p, for example.)"
-msgstr ""
+msgstr "Este documento é a autoridade final para a jogos competitivos de Magic: The Gathering®. Consiste em uma série de regras numeradas seguidas por um glossário. Muitas das regras numeradas são divididas em subregras, e cada regra e subregra do jogo tem seu próprio número. (Observe que as subregras pulam as letras \"l\" e \"o\", devido à potencial confusão com os números \"1\" e \"0\"; subregra 704.5k é seguido por 704.5m, depois 704.5n, e depois 704.5p, por exemplo.)"
 
 msgid "Changes may have been made to this document since its publication. You can download the most recent version from the Magic rules website at Magic.Wizards.com/Rules. If you have questions, you can get the answers from us at Support.Wizards.com."
-msgstr ""
+msgstr "Alterações podem ter sido feitas neste documento desde a sua publicação. Você pode baixar a versão mais recente das regras de Magic no site Magic.Wizards.com/Rules. Se você tem dúvidas, você pode obter as respostas de nós em Support.Wizards.com."
 
 msgid "Contents"
-msgstr ""
+msgstr "Conteúdo"
 
 msgid "1. Game Concepts"
 msgstr "1. Conceitos do Jogo"
@@ -73,13 +73,13 @@ msgid "112. Spells"
 msgstr ""
 
 msgid "113. Abilities"
-msgstr ""
+msgstr "113. Habilidades"
 
 msgid "114. Emblems"
-msgstr ""
+msgstr "114. Emblemas"
 
 msgid "115. Targets"
-msgstr ""
+msgstr "115. Alvos"
 
 msgid "116. Special Actions"
 msgstr ""
@@ -91,16 +91,16 @@ msgid "118. Costs"
 msgstr ""
 
 msgid "119. Life"
-msgstr ""
+msgstr "119. Vida"
 
 msgid "120. Damage"
-msgstr ""
+msgstr "120. Dano"
 
 msgid "121. Drawing a Card"
 msgstr ""
 
 msgid "122. Counters"
-msgstr ""
+msgstr "122. Contadores"
 
 msgid "2. Parts of a Card"
 msgstr ""
@@ -109,7 +109,7 @@ msgid "200. General"
 msgstr ""
 
 msgid "201. Name"
-msgstr ""
+msgstr "201. Nome"
 
 msgid "202. Mana Cost and Color"
 msgstr ""
@@ -457,10 +457,10 @@ msgid "905. Conspiracy Draft"
 msgstr ""
 
 msgid "Glossary"
-msgstr ""
+msgstr "Glossário"
 
 msgid "Credits"
-msgstr ""
+msgstr "Créditos"
 
 msgid "1. Game Concepts"
 msgstr "1. Conceitos do Jogo"
@@ -469,13 +469,13 @@ msgid "100. General"
 msgstr "100. Geral"
 
 msgid "100.1. These Magic rules apply to any Magic game with two or more players, including two-player games and multiplayer games."
-msgstr ""
+msgstr "100.1. Estas regras de Magic se aplicam a qualquer jogo de Magic com dois ou mais jogadores, incluindo jogos de dois jogadores e jogos multijogador."
 
 msgid "100.1a A two-player game is a game that begins with only two players."
-msgstr ""
+msgstr "100.1a Um jogo de dois jogadores é um jogo que começa com apenas dois jogadores."
 
 msgid "100.1b A multiplayer game is a game that begins with more than two players. See section 8, “Multiplayer Rules.”"
-msgstr ""
+msgstr "100.1b Um jogo multijogador é um jogo que começa com mais de dois jogadores. Veja a seção 8, \"Regras Multijogador.\""
 
 msgid "100.2. To play, each player needs their own deck of traditional Magic cards, small items to represent any tokens and counters, and some way to clearly track life totals."
 msgstr ""
@@ -1210,7 +1210,7 @@ msgid "Example: If an effect changes a black creature spell to white, the creatu
 msgstr ""
 
 msgid "113. Abilities"
-msgstr ""
+msgstr "113. Habilidades"
 
 msgid "113.1. An ability can be one of three things:"
 msgstr ""
@@ -1345,7 +1345,7 @@ msgid "Example: Muraganda Petroglyphs reads, “Creatures with no abilities get 
 msgstr ""
 
 msgid "114. Emblems"
-msgstr ""
+msgstr "114. Emblemas"
 
 msgid "114.1. Some effects put emblems into the command zone. An emblem is a marker used to represent an object that has one or more abilities, but no other characteristics."
 msgstr ""
@@ -1363,7 +1363,7 @@ msgid "114.5. An emblem is neither a card nor a permanent. Emblem isn’t a card
 msgstr ""
 
 msgid "115. Targets"
-msgstr ""
+msgstr "115. Alvos"
 
 msgid "115.1. Some spells and abilities require their controller to choose one or more targets for them. The targets are object(s) and/or player(s) the spell or ability will affect. These targets are declared as part of the process of putting the spell or ability on the stack. The targets can’t be changed except by another spell or ability that explicitly says it can do so."
 msgstr ""
@@ -1681,7 +1681,7 @@ msgid "118.13c If the cost associated with a special action contains a mana symb
 msgstr ""
 
 msgid "119. Life"
-msgstr ""
+msgstr "119. Vida"
 
 msgid "119.1. Each player begins the game with a starting life total of 20. Some variant games have different starting life totals."
 msgstr ""
@@ -1732,7 +1732,7 @@ msgid "119.10. Some replacement effects are written, “If [a player] would gain
 msgstr ""
 
 msgid "120. Damage"
-msgstr ""
+msgstr "120. Dano"
 
 msgid "120.1. Objects can deal damage to creatures, planeswalkers, and players. This is generally detrimental to the object or player that receives that damage. An object that deals damage is the source of that damage."
 msgstr ""
@@ -1864,7 +1864,7 @@ msgid "121.9. If an effect gives a player the option to reveal a card as they dr
 msgstr ""
 
 msgid "122. Counters"
-msgstr ""
+msgstr "122. Contadores"
 
 msgid "122.1. A counter is a marker placed on an object or player that modifies its characteristics and/or interacts with a rule, ability, or effect. Counters are not objects and have no characteristics. Notably, a counter is not a token, and a token is not a counter. Counters with the same name or description are interchangeable."
 msgstr ""
@@ -1921,7 +1921,7 @@ msgid "200.3. Some objects that aren’t cards (tokens, copies of cards, and cop
 msgstr ""
 
 msgid "201. Name"
-msgstr ""
+msgstr "201. Nome"
 
 msgid "201.1. The name of a card is printed on its upper left corner."
 msgstr ""
@@ -9139,7 +9139,7 @@ msgid "905.6. Once the starting player has been determined, each player sets the
 msgstr ""
 
 msgid "Glossary"
-msgstr ""
+msgstr "Glossário"
 
 msgid "Abandon"
 msgstr ""
@@ -12715,7 +12715,7 @@ msgid "Trigger events that involve objects changing zones. See rule 603.6."
 msgstr ""
 
 msgid "Credits"
-msgstr ""
+msgstr "Créditos"
 
 msgid "Magic: The Gathering Original Game Design: Richard Garfield"
 msgstr ""
