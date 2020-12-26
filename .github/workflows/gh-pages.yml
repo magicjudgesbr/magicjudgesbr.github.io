@@ -28,8 +28,7 @@ jobs:
       run: |
          msgfmt data/pt/LC_MESSAGES/comprehensive-rules.po --output data/pt/LC_MESSAGES/comprehensive-rules.mo
     - name: Build static data
-        run: |
-          python build.py
+      run: python build.py
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
       with:
