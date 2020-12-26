@@ -10,10 +10,10 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2020-12-26 17:36\n"
+"PO-Revision-Date: 2020-12-26 17:38\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
-msgstr ""
+msgstr "Magic: The Gathering Regras Abrangentes"
 
 msgid "These rules are effective as of November 20, 2020."
 msgstr ""
