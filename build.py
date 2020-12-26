@@ -8,5 +8,7 @@ if __name__ == '__main__':
         datefmt='%d/%m/%Y %H:%M:%S',
         level=logging.INFO
     )
+    import os
+    logging.info(os.getcwd())
     pipeline = BuildPipeline()
     pipeline.build()
