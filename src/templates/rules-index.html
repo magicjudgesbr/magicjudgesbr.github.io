@@ -1,0 +1,9 @@
+{% extends "layouts/default.html" %}
+{% block content %}
+    <h1>{{ gettext(cr.title) }}</h1>
+    <p>{{ gettext(cr.effective_date_str) }}</p>
+    <h2>Introdução</h2>
+    {%- for intro in cr.intro -%}
+        <p>{{ gettext(intro) }}</p>
+    {%- endfor %}
+{% endblock %}

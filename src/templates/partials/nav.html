@@ -1,0 +1,77 @@
+<ul class="nav-list">
+{#  {%- set titled_pages = pages | selectattr("title") -%}#}
+{##}
+{#  {%- set string_ordered_pages = titled_pages | selectattr("nav_order", None) -%}#}
+{#  {%- set nav_ordered_pages = titled_pages | selectattr("nav_order") -%}#}
+{##}
+{#  {%- set nav_ordered_groups = nav_ordered_pages | group_by_exp:"item", "item.nav_order | jsonify | slice: 0" -%}#}
+{#  {%- set number_ordered_pages = "" | split:"X" -%}#}
+{#  {%- for group in nav_ordered_groups -%}#}
+{#    {%- if group.name == '"' -%}#}
+{#      {%- assign string_ordered_pages = string_ordered_pages | concat: group.items -%}#}
+{#    {%- else -%}#}
+{#      {%- assign number_ordered_pages = number_ordered_pages | concat: group.items -%}#}
+{#    {%- endif -%}#}
+{#  {%- endfor -%}#}
+{##}
+{#  {%- assign sorted_number_ordered_pages = number_ordered_pages | sort:"nav_order" -%}#}
+{##}
+{#  {%- comment -%}#}
+{#    The string_ordered_pages have to be sorted by nav_order, and otherwise title#}
+{#    (where appending the empty string to a numeric title converts it to a string).#}
+{#    After grouping them by those values, the groups are sorted, then the items#}
+{#    of each group are concatenated.#}
+{#  {%- endcomment -%}#}
+{#  {%- assign string_ordered_groups = string_ordered_pages#}
+{#        | group_by_exp:"item", "item.nav_order | default: item.title | append:''" -%}#}
+{#  {%- if site.nav_sort == 'case_insensitive' -%}#}
+{#    {%- assign sorted_string_ordered_groups = string_ordered_groups | sort_natural:"name" -%}#}
+{#  {%- else -%}#}
+{#    {%- assign sorted_string_ordered_groups = string_ordered_groups | sort:"name" -%}#}
+{#  {%- endif -%}#}
+{#  {%- assign sorted_string_ordered_pages = "" | split:"X" -%}#}
+{#  {%- for group in sorted_string_ordered_groups -%}#}
+{#    {%- assign sorted_string_ordered_pages = sorted_string_ordered_pages | concat: group.items -%}#}
+{#  {%- endfor -%}#}
+
+  {%- for page_id in pages -%}
+    {%- set node = pages[page_id] -%}
+    {%- if not node.parent -%}
+      {%- if not node.nav_exclude -%}
+      <li class="nav-list-item{% if page.url == node.url or page.parent == node.title or page.grand_parent == node.title %} active{% endif %}">
+        {%- if node.has_children -%}
+          <a href="#" class="nav-list-expander"><svg viewBox="0 0 24 24"><use xlink:href="#svg-arrow-right"></use></svg></a>
+        {%- endif -%}
+        <a href="{{ node.url }}" class="nav-list-link{% if page.url == node.url %} active{% endif %}">{{ node.nav_name or node.title }}</a>
+        {%- if node.has_children -%}
+          {%- set children_list = pages | selectattr("parent", node.title) -%}
+          <ul class="nav-list ">
+          {%- for child in children_list -%}
+            {%- if not child.nav_exclude -%}
+            <li class="nav-list-item {% if page.url == child.url or page.parent == child.title %} active{% endif %}">
+              {%- if child.has_children -%}
+                <a href="#" class="nav-list-expander"><svg viewBox="0 0 24 24"><use xlink:href="#svg-arrow-right"></use></svg></a>
+              {%- endif -%}
+              <a href="{{ child.url }}" class="nav-list-link{% if page.url == child.url %} active{% endif %}">{{ child.title }}</a>
+              {%- if child.has_children -%}
+                {%- set grand_children_list = pages | selectattr("parent", child.title) | selectattr("grand_parent", node.title) -%}
+                <ul class="nav-list">
+                {%- for grand_child in grand_children_list -%}
+                  {%- if not grand_child.nav_exclude -%}
+                  <li class="nav-list-item {% if page.url == grand_child.url %} active{% endif %}">
+                    <a href="{{ grand_child.url }}" class="nav-list-link{% if page.url == grand_child.url %} active{% endif %}">{{ grand_child.title }}</a>
+                  </li>
+                  {%- endif -%}
+                {%- endfor -%}
+                </ul>
+              {%- endif -%}
+            </li>
+            {%- endif -%}
+          {%- endfor -%}
+          </ul>
+        {%- endif -%}
+      </li>
+      {%- endif -%}
+    {%- endif -%}
+  {%- endfor -%}
+</ul>

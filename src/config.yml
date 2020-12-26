@@ -1,0 +1,14 @@
+site:
+  search:
+
+  pages:
+    index:
+      title: "Magic Judges BR"
+      nav_name: "Home"
+      url: "/"
+    cr:
+      title: "Regras Abrangentes"
+      url: "/regras/cr/"
+    about:
+      title: "Sobre"
+      url: "/sobre/"

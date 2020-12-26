@@ -1,0 +1,6 @@
+//$logo: "{{ site.logo | absolute_url }}";
+$color-scheme: "light";
+//$theme: "./scss/color_schemes/#{$color-scheme}";
+@import "support/support";
+//@import $theme;
+@import "modules";
