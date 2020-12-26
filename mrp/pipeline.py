@@ -22,6 +22,8 @@ template_env.install_gettext_translations(gettext.translation(
 
 
 def copy_tree(src, dst, ignore=None):
+    if not os.path.exists(src):
+        return
     for item in os.listdir(src):
         item_src = os.path.join(src, item)
         item_dst = os.path.join(dst, item)
