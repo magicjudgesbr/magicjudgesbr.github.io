@@ -91,7 +91,7 @@
             <div class="search">
                 <div class="search-input-wrap">
                     <input type="text" id="search-input" class="search-input" tabindex="0"
-                           placeholder="Search {{ site.title }}" aria-label="Search {{ site.title }}"
+                           placeholder="Pesquisar..." aria-label="Pesquisar..."
                            autocomplete="off">
                     <label for="search-input" class="search-label">
                         <svg viewBox="0 0 24 24" class="search-icon">
@@ -180,7 +180,6 @@
 
             {%- include "partials/footer_custom.html" ignore missing -%}
             {% if footer_custom != "" or site.last_edit_timestamp or site.gh_edit_link %}
-                <hr>
                 <footer>
                     {% if site.back_to_top %}
                         <p><a href="#top" id="back-to-top">{{ site.back_to_top_text }}</a></p>
@@ -216,7 +215,7 @@
         </div>
     </div>
 
-    {% if site.search_enabled != false %}
+    {% if site.search_enabled %}
         {% if site.search.button %}
             <a href="#" id="search-button" class="search-button">
                 <svg viewBox="0 0 24 24" class="icon">

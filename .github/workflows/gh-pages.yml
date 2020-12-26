@@ -24,12 +24,12 @@ jobs:
         pip install flake8 pytest
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
         sudo apt-get install -y gettext
-    - name: Build static data
-      run: |
-        python build.py
     - name: Generate i18n data
       run: |
          msgfmt data/pt/LC_MESSAGES/comprehensive-rules.po --output data/pt/LC_MESSAGES/comprehensive-rules.mo
+    - name: Build static data
+        run: |
+          python build.py
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
       with:

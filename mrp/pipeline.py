@@ -16,8 +16,7 @@ template_env = Environment(
 template_env.install_gettext_translations(gettext.translation(
     domain="comprehensive-rules",
     localedir="data",
-    languages=["pt", "pt_BR"],
-    fallback=True
+    languages=["pt"]
 ))
 
 
@@ -54,6 +53,7 @@ class BuildPipeline(object):
     src_dir = "src/"
     dst_dir = "docs/"
     simple_pages = ["index", "about"]
+    scripts = ["main"]
     config = None
     cr = {}
 
@@ -122,6 +122,13 @@ class BuildPipeline(object):
 
             with open(output_file, "w") as out:
                 out.write(template.render(page=page_data, **self.config))
+
+        for script in self.scripts:
+            template = template_env.get_template(f"{script}.js")
+            output_file = os.path.join(self.dst_dir, "assets/js", template.name)
+
+            with open(output_file, "w") as out:
+                out.write(template.render(**self.config))
 
         self._create_cr_pages()
 
