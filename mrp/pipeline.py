@@ -3,12 +3,17 @@ import shutil
 import os
 import yaml
 import sass
+import gettext
 from livereload import Server
 from jinja2 import Environment, FileSystemLoader
 
+from mrp.structurer import RulesStructurer
+
 template_env = Environment(
-    loader=FileSystemLoader("src/templates")
+    loader=FileSystemLoader("src/templates"),
+    extensions=['jinja2.ext.i18n']
 )
+template_env.install_gettext_translations(gettext.translation("comprehensive-rules", "data", ["pt", "pt_BR"]))
 
 
 def copy_tree(src, dst, ignore=None):
@@ -41,7 +46,9 @@ class BuildPipeline(object):
     logger = logging.getLogger(__name__)
     src_dir = "src/"
     dst_dir = "docs/"
+    simple_pages = ["index", "about"]
     config = None
+    cr = {}
 
     def start(self):
         # first build
@@ -63,6 +70,7 @@ class BuildPipeline(object):
         self._copy_assets()
         self._copy_static()
         self._process_sass()
+        self._parse_rules_structure()
         self._process_templates()
 
     def _copy_assets(self):
@@ -76,7 +84,7 @@ class BuildPipeline(object):
     def _process_sass(self):
         css = sass.compile(
             filename=os.path.join(self.src_dir, "assets/scss/main.scss"),
-            output_style ='compressed'
+            output_style='compressed'
         )
 
         output_dir = os.path.join(self.dst_dir, "assets/css")
@@ -86,10 +94,41 @@ class BuildPipeline(object):
         with open(os.path.join(output_dir, "main.css"), "w") as file:
             file.write(css)
 
+    def _get_page_output_file(self, page_data, template):
+        output_file = os.path.join(self.dst_dir, page_data["url"][1:], template.name)
+        if page_data["url"][-1] == "/":
+            output_file = os.path.join(self.dst_dir, page_data["url"][1:], "index.html")
+
+        output_dir = os.path.dirname(output_file)
+        if not os.path.exists(output_dir):
+            os.makedirs(output_dir)
+
+        return output_file
+
     def _process_templates(self):
-        # create index
-        template = template_env.get_template("index.html")
-        page_data = self.config["site"].get("pages", {}).get("index", None)
-        print(self.config)
-        with open(os.path.join(self.dst_dir, template.name), "w") as out:
-            out.write(template.render(page=page_data, **self.config))
+        # create simple pages
+
+        for simple_page in self.simple_pages:
+            template = template_env.get_template(f"{simple_page}.html")
+            page_data = self.config["site"]["pages"][simple_page]
+            output_file = self._get_page_output_file(page_data, template)
+
+            with open(output_file, "w") as out:
+                out.write(template.render(page=page_data, **self.config))
+
+        self._create_cr_pages()
+
+    def _parse_rules_structure(self):
+        # comprehensive rules
+        structurer = RulesStructurer()
+        self.cr = structurer.process("data/en/comprehensive-rules.txt")
+        cr_data = self.config["site"]["pages"]["cr"]
+
+    def _create_cr_pages(self):
+        template = template_env.get_template("rules-index.html")
+        page_data = self.config["site"]["pages"]["cr"]
+
+        output_file = self._get_page_output_file(page_data, template)
+
+        with open(output_file, "w") as out:
+            out.write(template.render(page=page_data, **self.config, cr=self.cr))
