@@ -13,11 +13,12 @@ template_env = Environment(
     loader=FileSystemLoader("src/templates"),
     extensions=['jinja2.ext.i18n']
 )
-template_env.install_gettext_translations(gettext.translation(
+translations = gettext.translation(
     domain="comprehensive-rules",
     localedir="data",
     languages=["pt"]
-))
+)
+template_env.install_gettext_translations(translations)
 
 
 def copy_tree(src, dst, ignore=None):
@@ -142,7 +143,7 @@ class BuildPipeline(object):
         pages = self.config["site"]["pages"]
         for group in self.cr["rules"]:
             rule_group = self.cr["rules"][group]
-            group_title = gettext.gettext(f"{group}. {rule_group['name']}")
+            group_title = translations.gettext(f"{group}. {rule_group['name']}")
             page_id = f"cr_{group}"
             group_children = []
             pages[page_id] = {
@@ -150,18 +151,23 @@ class BuildPipeline(object):
                 "url": f"/regras/cr/{group}/",
                 "parent": cr_data["title"],
                 "has_children": True,
-                "children": group_children
+                "children": group_children,
+                "template": "rules-group",
+                "group": group,
             }
             cr_data["children"].append(page_id)
 
             for item in rule_group["items"]:
                 subgroup = item["group"]
-                subgroup_title = gettext.gettext(f"{subgroup}. {item['name']}")
+                subgroup_title = translations.gettext(f"{subgroup}. {item['name']}")
                 page_id = f"cr_{group}_{subgroup}"
                 pages[page_id] = {
                     "title": subgroup_title,
-                    "url": f"/regras/cr/{group}/{subgroup}",
+                    "url": f"/regras/cr/{group}/{subgroup}/",
                     "parent": group_title,
+                    "template": "rules-subgroup",
+                    "group": group,
+                    "subgroup": subgroup,
                 }
                 group_children.append(page_id)
 
@@ -173,3 +179,19 @@ class BuildPipeline(object):
 
         with open(output_file, "w") as out:
             out.write(template.render(page=page_data, **self.config, cr=self.cr))
+
+        for page_id in self.config["site"]["pages"]:
+            page_data = self.config["site"]["pages"][page_id]
+            if page_id.startswith("cr") and "template" in page_data:
+                template = template_env.get_template(f"{page_data['template']}.html")
+                output_file = self._get_page_output_file(page_data, template)
+
+                with open(output_file, "w") as out:
+                    if "subgroup" in page_data:
+                        items = self.cr["rules"][page_data["group"]]["items"]
+                        subgroup = page_data["subgroup"]
+                        index = int(subgroup) - int(subgroup[0]) * 100
+                        rules = items[index]["rules"]
+                    else:
+                        rules = []
+                    out.write(template.render(page=page_data, **self.config, rules=rules))
