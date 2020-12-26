@@ -137,6 +137,33 @@ class BuildPipeline(object):
         structurer = RulesStructurer()
         self.cr = structurer.process("data/en/comprehensive-rules.txt")
         cr_data = self.config["site"]["pages"]["cr"]
+        cr_data["has_children"] = True
+        cr_data["children"] = []
+        pages = self.config["site"]["pages"]
+        for group in self.cr["rules"]:
+            rule_group = self.cr["rules"][group]
+            group_title = gettext.gettext(f"{group}. {rule_group['name']}")
+            page_id = f"cr_{group}"
+            group_children = []
+            pages[page_id] = {
+                "title": group_title,
+                "url": f"/regras/cr/{group}/",
+                "parent": cr_data["title"],
+                "has_children": True,
+                "children": group_children
+            }
+            cr_data["children"].append(page_id)
+
+            for item in rule_group["items"]:
+                subgroup = item["group"]
+                subgroup_title = gettext.gettext(f"{subgroup}. {item['name']}")
+                page_id = f"cr_{group}_{subgroup}"
+                pages[page_id] = {
+                    "title": subgroup_title,
+                    "url": f"/regras/cr/{group}/{subgroup}",
+                    "parent": group_title,
+                }
+                group_children.append(page_id)
 
     def _create_cr_pages(self):
         template = template_env.get_template("rules-index.html")
