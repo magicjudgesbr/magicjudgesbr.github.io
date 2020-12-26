@@ -26,7 +26,8 @@ jobs:
         sudo apt-get install -y gettext
     - name: Generate i18n data
       run: |
-         msgfmt data/pt/LC_MESSAGES/comprehensive-rules.po --output data/pt/LC_MESSAGES/comprehensive-rules.mo
+        msguniq data/pt/LC_MESSAGES/comprehensive-rules.po --output data/pt/LC_MESSAGES/comprehensive-rules.po
+        msgfmt data/pt/LC_MESSAGES/comprehensive-rules.po --output data/pt/LC_MESSAGES/comprehensive-rules.mo
     - name: Build static data
       run: python build.py
     - name: Deploy
