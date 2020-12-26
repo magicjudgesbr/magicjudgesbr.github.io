@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2020-12-26 18:19\n"
+"PO-Revision-Date: 2020-12-26 19:18\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -462,6 +462,12 @@ msgstr ""
 msgid "Credits"
 msgstr ""
 
+msgid "1. Game Concepts"
+msgstr ""
+
+msgid "100. General"
+msgstr ""
+
 msgid "100.1. These Magic rules apply to any Magic game with two or more players, including two-player games and multiplayer games."
 msgstr ""
 
@@ -516,6 +522,9 @@ msgstr ""
 msgid "100.7. Certain promotional cards and cards in the Unglued, Unhinged, and Unstable sets are printed with a silver border. These cards are intended for casual play and may have features and text that aren’t covered by these rules."
 msgstr ""
 
+msgid "101. The Magic Golden Rules"
+msgstr ""
+
 msgid "101.1. Whenever a card’s text directly contradicts these rules, the card takes precedence. The card overrides only the rule that applies to that specific situation. The only exception is that a player can concede the game at any time (see rule 104.3a)."
 msgstr ""
 
@@ -552,6 +561,9 @@ msgstr ""
 msgid "101.4e If multiple players would make choices or take actions while starting the game, the starting player is considered the active player and each other player is considered a nonactive player."
 msgstr ""
 
+msgid "102. Players"
+msgstr ""
+
 msgid "102.1. A player is one of the people in the game. The active player is the player whose turn it is. The other players are nonactive players."
 msgstr ""
 
@@ -562,6 +574,9 @@ msgid "102.3. In a multiplayer game between teams, a player’s teammates are th
 msgstr ""
 
 msgid "102.4. A spell or ability may use the term “your team” as shorthand for “you and/or your teammates.” In a game that isn’t a multiplayer game between teams, “your team” means the same thing as “you.”"
+msgstr ""
+
+msgid "103. Starting the Game"
 msgstr ""
 
 msgid "103.1. At the start of a game, the players determine which one of them will choose who takes the first turn. In the first game of a match (including a single-game match), the players may use any mutually agreeable method (flipping a coin, rolling dice, etc.) to do so. In a match of several games, the loser of the previous game chooses who takes the first turn. If the previous game was a draw, the player who made the choice in that game makes the choice in this game. The player chosen to take the first turn is the starting player. The game’s default turn order begins with the starting player and proceeds clockwise."
@@ -649,6 +664,9 @@ msgid "103.7b In a Two-Headed Giant game, the team who plays first skips the dra
 msgstr ""
 
 msgid "103.7c In all other multiplayer games, no player skips the draw step of their first turn."
+msgstr ""
+
+msgid "104. Ending the Game"
 msgstr ""
 
 msgid "104.1. A game ends immediately when a player wins, when the game is a draw, or when the game is restarted."
@@ -741,6 +759,9 @@ msgstr ""
 msgid "104.6. One card (Karn Liberated) restarts the game. All players still in the game when it restarts then immediately begin a new game. See rule 719, “Restarting the Game.”"
 msgstr ""
 
+msgid "105. Colors"
+msgstr ""
+
 msgid "105.1. There are five colors in the Magic game: white, blue, black, red, and green."
 msgstr ""
 
@@ -763,6 +784,9 @@ msgid "105.4. If a player is asked to choose a color, they must choose one of th
 msgstr ""
 
 msgid "105.5. If an effect refers to a color pair, it means exactly two of the five colors. There are ten color pairs: white and blue, white and black, blue and black, blue and red, black and red, black and green, red and green, red and white, green and white, and green and blue."
+msgstr ""
+
+msgid "106. Mana"
 msgstr ""
 
 msgid "106.1. Mana is the primary resource in the game. Players spend mana to pay costs, usually when casting spells and activating abilities."
@@ -832,6 +856,9 @@ msgid "106.12b A replacement effect that applies if a permanent “is tapped for
 msgstr ""
 
 msgid "106.13. One card (Drain Power) causes one player to lose unspent mana and another to add “the mana lost this way.” (Note that these may be the same player.) This empties the former player’s mana pool and causes the mana emptied this way to be put into the latter player’s mana pool. Which permanents, spells, and/or abilities produced that mana are unchanged, as are any restrictions or additional effects associated with any of that mana."
+msgstr ""
+
+msgid "107. Numbers and Symbols"
 msgstr ""
 
 msgid "107.1. The only numbers the Magic game uses are integers."
@@ -978,6 +1005,9 @@ msgstr ""
 msgid "107.15b “{rN1}, {rN2}—[Effect]” is the same as “{rN1}—[Effect]” and “{rN2}—[Effect].”"
 msgstr ""
 
+msgid "108. Cards"
+msgstr "108. Cartas"
+
 msgid "108.1. Use the Oracle card reference when determining a card’s wording. A card’s Oracle text can be found using the Gatherer card database at Gatherer.Wizards.com."
 msgstr ""
 
@@ -1009,6 +1039,9 @@ msgid "108.5. Nontraditional Magic cards can’t start the game in any zone othe
 msgstr ""
 
 msgid "108.6. For more information about cards, see section 2, “Parts of a Card.”"
+msgstr ""
+
+msgid "109. Objects"
 msgstr ""
 
 msgid "109.1. An object is an ability on the stack, a card, a copy of a card, a token, a spell, a permanent, or an emblem."
@@ -1056,6 +1089,9 @@ msgstr ""
 msgid "109.5. The words “you” and “your” on an object refer to the object’s controller, its would-be controller (if a player is attempting to play, cast, or activate it), or its owner (if it has no controller). For a static ability, this is the current controller of the object it’s on. For an activated ability, this is the player who activated the ability. For a triggered ability, this is the controller of the object when the ability triggered, unless it’s a delayed triggered ability. To determine the controller of a delayed triggered ability, see rules 603.7d–f."
 msgstr ""
 
+msgid "110. Permanents"
+msgstr ""
+
 msgid "110.1. A permanent is a card or token on the battlefield. A permanent remains on the battlefield indefinitely. A card or token becomes a permanent as it enters the battlefield and it stops being a permanent as it’s moved to another zone by an effect or rule."
 msgstr ""
 
@@ -1099,6 +1135,9 @@ msgid "Example: Dimir Doppelganger says “{1}{U}{B}: Exile target creature card
 msgstr ""
 
 msgid "110.5d Only permanents have status. Cards not on the battlefield do not. Although an exiled card may be face down, this has no correlation to the face-down status of a permanent. Similarly, cards not on the battlefield are neither tapped nor untapped, regardless of their physical state."
+msgstr ""
+
+msgid "111. Tokens"
 msgstr ""
 
 msgid "111.1. Some effects put tokens onto the battlefield. A token is a marker used to represent any permanent that isn’t represented by a card."
@@ -1146,6 +1185,9 @@ msgstr ""
 msgid "111.11. A copy of a permanent spell becomes a token as it resolves. The token has the characteristics of the spell that became that token. The token is not “created” for the purposes of any replacement effects or triggered abilities that refer to creating a token."
 msgstr ""
 
+msgid "112. Spells"
+msgstr ""
+
 msgid "112.1. A spell is a card on the stack. As the first step of being cast (see rule 601, “Casting Spells”), the card becomes a spell and is moved to the top of the stack from the zone it was in, which is usually its owner’s hand. (See rule 405, “Stack.”) A spell remains on the stack as a spell until it resolves (see rule 608, “Resolving Spells and Abilities”), is countered (see rule 701.5), or otherwise leaves the stack. For more information, see section 6, “Spells, Abilities, and Effects.”"
 msgstr ""
 
@@ -1165,6 +1207,9 @@ msgid "112.4. If an effect changes any characteristics of a permanent spell, the
 msgstr ""
 
 msgid "Example: If an effect changes a black creature spell to white, the creature is white when it enters the battlefield and remains white for the duration of the effect changing its color."
+msgstr ""
+
+msgid "113. Abilities"
 msgstr ""
 
 msgid "113.1. An ability can be one of three things:"
@@ -1299,6 +1344,9 @@ msgstr ""
 msgid "Example: Muraganda Petroglyphs reads, “Creatures with no abilities get +2/+2.” A Runeclaw Bear (a creature with no abilities) enchanted by an Aura that says “Enchanted creature has flying” would not get +2/+2. A Runeclaw Bear enchanted by an Aura that says “Enchanted creature is red” or “Enchanted creature can’t be blocked” would get +2/+2."
 msgstr ""
 
+msgid "114. Emblems"
+msgstr ""
+
 msgid "114.1. Some effects put emblems into the command zone. An emblem is a marker used to represent an object that has one or more abilities, but no other characteristics."
 msgstr ""
 
@@ -1312,6 +1360,9 @@ msgid "114.4. Abilities of emblems function in the command zone."
 msgstr ""
 
 msgid "114.5. An emblem is neither a card nor a permanent. Emblem isn’t a card type."
+msgstr ""
+
+msgid "115. Targets"
 msgstr ""
 
 msgid "115.1. Some spells and abilities require their controller to choose one or more targets for them. The targets are object(s) and/or player(s) the spell or ability will affect. These targets are declared as part of the process of putting the spell or ability on the stack. The targets can’t be changed except by another spell or ability that explicitly says it can do so."
@@ -1398,6 +1449,9 @@ msgstr ""
 msgid "115.10b In particular, the word “you” in an object’s text doesn’t indicate a target."
 msgstr ""
 
+msgid "116. Special Actions"
+msgstr ""
+
 msgid "116.1. Special actions are actions a player may take when they have priority that don’t use the stack. These are not to be confused with turn-based actions and state-based actions, which the game generates automatically. (See rule 703, “Turn-Based Actions,” and rule 704, “State-Based Actions.”)"
 msgstr ""
 
@@ -1432,6 +1486,9 @@ msgid "116.2i In a Conspiracy Draft game, turning a face-down conspiracy card in
 msgstr ""
 
 msgid "116.3. If a player takes a special action, that player receives priority afterward."
+msgstr ""
+
+msgid "117. Timing and Priority"
 msgstr ""
 
 msgid "117.1. Unless a spell or ability is instructing a player to take an action, which player can take actions at any given time is determined by a system of priority. The player with priority may cast spells, activate abilities, and take special actions."
@@ -1492,6 +1549,9 @@ msgid "117.6. In a multiplayer game using the shared team turns option, teams ra
 msgstr ""
 
 msgid "117.7. If a player with priority casts a spell or activates an activated ability while another spell or ability is already on the stack, the new spell or ability has been cast or activated “in response to” the earlier spell or ability. The new spell or ability will resolve first. See rule 608, “Resolving Spells and Abilities.”"
+msgstr ""
+
+msgid "118. Costs"
 msgstr ""
 
 msgid "118.1. A cost is an action or payment necessary to take another action or to stop another action from taking place. To pay a cost, a player carries out the instructions specified by the spell, ability, or effect that contains that cost."
@@ -1620,6 +1680,9 @@ msgstr ""
 msgid "118.13c If the cost associated with a special action contains a mana symbol that can be paid in multiple ways, the player taking the special action chooses how to pay for that symbol immediately before they pay that cost."
 msgstr ""
 
+msgid "119. Life"
+msgstr ""
+
 msgid "119.1. Each player begins the game with a starting life total of 20. Some variant games have different starting life totals."
 msgstr ""
 
@@ -1666,6 +1729,9 @@ msgid "119.9. Some triggered abilities are written, “Whenever [a player] gains
 msgstr ""
 
 msgid "119.10. Some replacement effects are written, “If [a player] would gain life, . . . .” Such abilities are treated as though they are written, “If a source would cause [a player] to gain life, . . . .” If a player gains 0 life, no life gain event would occur, and these effects won’t apply."
+msgstr ""
+
+msgid "120. Damage"
 msgstr ""
 
 msgid "120.1. Objects can deal damage to creatures, planeswalkers, and players. This is generally detrimental to the object or player that receives that damage. An object that deals damage is the source of that damage."
@@ -1743,6 +1809,9 @@ msgstr ""
 msgid "120.9. If an ability triggers on damage being dealt by a specific source or sources, and the effect refers to the “damage dealt,” it refers only to the damage dealt by the specified sources and not to any damage dealt at the same time by other sources."
 msgstr ""
 
+msgid "121. Drawing a Card"
+msgstr ""
+
 msgid "121.1. A player draws a card by putting the top card of their library into their hand. This is done as a turn-based action during each player’s draw step. It may also be done as part of a cost or effect of a spell or ability."
 msgstr ""
 
@@ -1794,6 +1863,9 @@ msgstr ""
 msgid "121.9. If an effect gives a player the option to reveal a card as they draw it, that player may look at that card as they draw it before choosing whether to reveal it."
 msgstr ""
 
+msgid "122. Counters"
+msgstr ""
+
 msgid "122.1. A counter is a marker placed on an object or player that modifies its characteristics and/or interacts with a rule, ability, or effect. Counters are not objects and have no characteristics. Notably, a counter is not a token, and a token is not a counter. Counters with the same name or description are interchangeable."
 msgstr ""
 
@@ -1833,6 +1905,12 @@ msgstr ""
 msgid "122.8. If a triggered ability instructs a player to “put those counters” or to “put [an object’s] counters” on another object and that ability’s trigger condition or effect checks that the object with those counters left the battlefield, that player puts a number of counters on the second object of each kind the first object had before it left the battlefield. The player doesn’t move counters from one object to another."
 msgstr ""
 
+msgid "2. Parts of a Card"
+msgstr ""
+
+msgid "200. General"
+msgstr ""
+
 msgid "200.1. The parts of a card are name, mana cost, illustration, color indicator, type line, expansion symbol, text box, power and toughness, loyalty, hand modifier, life modifier, illustration credit, legal text, and collector number. Some cards may have more than one of any or all of these parts."
 msgstr ""
 
@@ -1840,6 +1918,9 @@ msgid "200.2. Some parts of a card are also characteristics of the object that h
 msgstr ""
 
 msgid "200.3. Some objects that aren’t cards (tokens, copies of cards, and copies of spells) have some of the parts of a card, but only the ones that are also characteristics. See rule 111 and rule 706."
+msgstr ""
+
+msgid "201. Name"
 msgstr ""
 
 msgid "201.1. The name of a card is printed on its upper left corner."
@@ -1906,6 +1987,9 @@ msgid "201.4c Text printed on some legendary cards refers to that card by a shor
 msgstr ""
 
 msgid "201.5. Some versions of Ikoria™: Lair of Behemoths cards and other promotional cards feature a name other than their own in the upper left corner, with their normal name in a secondary title bar below it. These cards have only the card name specified in the secondary title bar, not the name printed where a card’s name would normally appear. That name is considered flavor text and has no effect on game play."
+msgstr ""
+
+msgid "202. Mana Cost and Color"
 msgstr ""
 
 msgid "202.1. A card’s mana cost is indicated by mana symbols near the top of the card. (See rule 107.4.) On most cards, these symbols are printed in the upper right corner. Some cards from the Future Sight set have alternate frames in which the mana symbols appear to the left of the illustration."
@@ -1989,13 +2073,22 @@ msgstr ""
 msgid "202.4. Any additional cost listed in an object’s rules text or imposed by an effect isn’t part of the mana cost. (See rule 601, “Casting Spells.”) Such costs are paid at the same time as the spell’s other costs."
 msgstr ""
 
+msgid "203. Illustration"
+msgstr ""
+
 msgid "203.1. The illustration is printed on the upper half of a card and has no effect on game play. For example, a creature doesn’t have the flying ability unless stated in its rules text, even if it’s depicted as flying."
+msgstr ""
+
+msgid "204. Color Indicator"
 msgstr ""
 
 msgid "204.1. The color indicator is printed to the left of the type line directly below the illustration. It consists of a circular symbol filled in with one or more colors. A color indicator is usually found on nonland cards without a mana cost."
 msgstr ""
 
 msgid "204.2. An object with a color indicator is each color denoted by that color indicator."
+msgstr ""
+
+msgid "205. Type Line"
 msgstr ""
 
 msgid "205.1. The type line is printed directly below the illustration. It contains the card’s card type(s). It also contains the card’s subtype(s) and supertype(s), if applicable."
@@ -2115,6 +2208,9 @@ msgstr ""
 msgid "205.4h Any scheme card with the supertype “ongoing” is exempt from the state-based action for schemes (see rule 704.6e)."
 msgstr ""
 
+msgid "206. Expansion Symbol"
+msgstr ""
+
 msgid "206.1. The expansion symbol indicates which Magic set a card is from. It’s a small icon normally printed below the right edge of the illustration. It has no effect on game play."
 msgstr ""
 
@@ -2139,6 +2235,9 @@ msgstr ""
 msgid "206.5. The full list of expansions and expansion symbols can be found in the Card Set Archive section of the Magic website (Magic.Wizards.com/en/game-info/products/card-set-archive)."
 msgstr ""
 
+msgid "207. Text Box"
+msgstr ""
+
 msgid "207.1. The text box is printed on the lower half of the card. It usually contains rules text defining the card’s abilities."
 msgstr ""
 
@@ -2158,6 +2257,9 @@ msgid "207.3. Some cards have decorative icons in the background of their text b
 msgstr ""
 
 msgid "207.4. The chaos symbol {CHAOS} appears in the text box of each plane card to the left of a triggered ability that triggers whenever {CHAOS} is rolled on the planar die. The symbol itself has no special rules meaning."
+msgstr ""
+
+msgid "208. Power/Toughness"
 msgstr ""
 
 msgid "208.1. A creature card has two numbers separated by a slash printed in its lower right corner. The first number is its power (the amount of damage it deals in combat); the second is its toughness (the amount of damage needed to destroy it). For example, 2/3 means the object has power 2 and toughness 3. Power and toughness can be modified or set to particular values by effects."
@@ -2190,16 +2292,28 @@ msgstr ""
 msgid "208.5. If a creature somehow has no value for its power, its power is 0. The same is true for toughness."
 msgstr ""
 
+msgid "209. Loyalty"
+msgstr ""
+
 msgid "209.1. Each planeswalker card has a loyalty number printed in its lower right corner. This indicates its loyalty while it’s not on the battlefield, and it also indicates that the planeswalker enters the battlefield with that many loyalty counters on it."
 msgstr ""
 
 msgid "209.2. An activated ability with a loyalty symbol in its cost is a loyalty ability. Loyalty abilities follow special rules: A player may activate a loyalty ability of a permanent they control any time they have priority and the stack is empty during a main phase of their turn, but only if none of that permanent’s loyalty abilities have been activated that turn. See rule 606, “Loyalty Abilities.”"
 msgstr ""
 
+msgid "210. Hand Modifier"
+msgstr ""
+
 msgid "210.1. Each vanguard card has a hand modifier printed in its lower left corner. This is a number preceded by a plus sign, a number preceded by a minus sign, or a zero. This modifier is applied as the starting hand size and the maximum hand size of the vanguard card’s owner are determined. See rule 103.4."
 msgstr ""
 
+msgid "211. Life Modifier"
+msgstr ""
+
 msgid "211.1. Each vanguard card has a life modifier printed in its lower right corner. This is a number preceded by a plus sign, a number preceded by a minus sign, or a zero. This modifier is applied as the starting life total of the vanguard card’s owner is determined. See rule 103.3."
+msgstr ""
+
+msgid "212. Information Below the Text Box"
 msgstr ""
 
 msgid "212.1. Each card features text printed below the text box that has no effect on game play. Not all card sets were printed with all of the information listed below on each card."
@@ -2223,6 +2337,12 @@ msgstr ""
 msgid "212.1f Legal text (the fine print at the bottom or bottom-right of the card) lists the trademark and copyright information."
 msgstr ""
 
+msgid "3. Card Types"
+msgstr ""
+
+msgid "300. General"
+msgstr ""
+
 msgid "300.1. The card types are artifact, conspiracy, creature, enchantment, instant, land, phenomenon, plane, planeswalker, scheme, sorcery, tribal, and vanguard."
 msgstr ""
 
@@ -2233,6 +2353,9 @@ msgid "300.2a An object that’s both a land and another card type (for example,
 msgstr ""
 
 msgid "300.2b Each tribal card has another card type. Casting and resolving a tribal card follow the rules for casting and resolving a card of the other card type."
+msgstr ""
+
+msgid "301. Artifacts"
 msgstr ""
 
 msgid "301.1. A player who has priority may cast an artifact card from their hand during a main phase of their turn when the stack is empty. Casting an artifact as a spell uses the stack. (See rule 601, “Casting Spells.”)"
@@ -2277,6 +2400,9 @@ msgstr ""
 msgid "301.7b If a Vehicle becomes a creature, it immediately has its printed power and toughness. Other effects, including the effect that makes it a creature, may modify these values or set them to different values."
 msgstr ""
 
+msgid "302. Creatures"
+msgstr ""
+
 msgid "302.1. A player who has priority may cast a creature card from their hand during a main phase of their turn when the stack is empty. Casting a creature as a spell uses the stack. (See rule 601, “Casting Spells.”)"
 msgstr ""
 
@@ -2308,6 +2434,9 @@ msgid "302.6. A creature’s activated ability with the tap symbol or the untap 
 msgstr ""
 
 msgid "302.7. Damage dealt to a creature by a source with neither wither nor infect is marked on that creature (see rule 120.3). If the total damage marked on that creature is greater than or equal to its toughness, that creature has been dealt lethal damage and is destroyed as a state-based action (see rule 704). All damage marked on a creature is removed when it regenerates (see rule 701.15, “Regenerate”) and during the cleanup step (see rule 514.2)."
+msgstr ""
+
+msgid "303. Enchantments"
 msgstr ""
 
 msgid "303.1. A player who has priority may cast an enchantment card from their hand during a main phase of their turn when the stack is empty. Casting an enchantment as a spell uses the stack. (See rule 601, “Casting Spells.”)"
@@ -2361,6 +2490,9 @@ msgstr ""
 msgid "303.5. Some enchantments have the subtype “Saga.” See rule 714 for more information about Saga cards."
 msgstr ""
 
+msgid "304. Instants"
+msgstr ""
+
 msgid "304.1. A player who has priority may cast an instant card from their hand. Casting an instant as a spell uses the stack. (See rule 601, “Casting Spells.”)"
 msgstr ""
 
@@ -2374,6 +2506,9 @@ msgid "304.4. Instants can’t enter the battlefield. If an instant would enter 
 msgstr ""
 
 msgid "304.5. If text states that a player may do something “any time they could cast an instant,” it means only that the player must have priority. The player doesn’t need to have an instant they could cast. Effects that would preclude that player from casting a spell or casting an instant don’t affect the player’s capability to perform that action (unless the action is actually casting a spell or casting an instant)."
+msgstr ""
+
+msgid "305. Lands"
 msgstr ""
 
 msgid "305.1. A player who has priority may play a land card from their hand during a main phase of their turn when the stack is empty. Playing a land is a special action; it doesn’t use the stack (see rule 116). Rather, the player simply puts the land onto the battlefield. Since the land doesn’t go on the stack, it is never a spell, and players can’t respond to it with instants or activated abilities."
@@ -2410,6 +2545,9 @@ msgid "305.8. Any land with the supertype “basic” is a basic land. Any land 
 msgstr ""
 
 msgid "305.9. If an object is both a land and another card type, it can be played only as a land. It can’t be cast as a spell."
+msgstr ""
+
+msgid "306. Planeswalkers"
 msgstr ""
 
 msgid "306.1. A player who has priority may cast a planeswalker card from their hand during a main phase of their turn when the stack is empty. Casting a planeswalker as a spell uses the stack. (See rule 601, “Casting Spells.”)"
@@ -2451,6 +2589,9 @@ msgstr ""
 msgid "306.9. If a planeswalker’s loyalty is 0, it’s put into its owner’s graveyard. (This is a state-based action. See rule 704.)"
 msgstr ""
 
+msgid "307. Sorceries"
+msgstr ""
+
 msgid "307.1. A player who has priority may cast a sorcery card from their hand during a main phase of their turn when the stack is empty. Casting a sorcery as a spell uses the stack. (See rule 601, “Casting Spells.”)"
 msgstr ""
 
@@ -2469,10 +2610,16 @@ msgstr ""
 msgid "307.5a Similarly, if an effect checks to see if a spell was cast “any time a sorcery couldn’t have been cast,” it’s checking only whether the spell’s controller cast it without having priority, during a phase other than their main phase, or while another object was on the stack."
 msgstr ""
 
+msgid "308. Tribals"
+msgstr ""
+
 msgid "308.1. Each tribal card has another card type. Casting and resolving a tribal card follows the rules for casting and resolving a card of the other card type."
 msgstr ""
 
 msgid "308.2. Tribal subtypes are always a single word and are listed after a long dash: “Tribal Enchantment — Merfolk.” The set of tribal subtypes is the same as the set of creature subtypes; these subtypes are called creature types. Tribals may have multiple subtypes. See rule 205.3m for the complete list of creature types."
+msgstr ""
+
+msgid "309. Planes"
 msgstr ""
 
 msgid "309.1. Plane is a card type seen only on nontraditional Magic cards. Only the Planechase casual variant uses plane cards. See rule 901, “Planechase.”"
@@ -2496,6 +2643,9 @@ msgstr ""
 msgid "309.7. Each plane card has a triggered ability that triggers “Whenever you roll {CHAOS}.” These are called “chaos abilities.” Each one is indicated by a {CHAOS} to its left, though the symbol itself has no special rules meaning."
 msgstr ""
 
+msgid "310. Phenomena"
+msgstr ""
+
 msgid "310.1. Phenomenon is a card type seen only on nontraditional Magic cards. Only the Planechase casual variant uses phenomenon cards. See rule 901, “Planechase.”"
 msgstr ""
 
@@ -2515,6 +2665,9 @@ msgid "310.6. A face-up phenomenon card that’s turned face down becomes a new 
 msgstr ""
 
 msgid "310.7. If a phenomenon card is face up in the command zone, and it isn’t the source of a triggered ability that has triggered but not yet left the stack, the planar controller planeswalks the next time a player would receive priority. (This is a state-based action; see rule 704. See also rule 701.24, “Planeswalk.”)"
+msgstr ""
+
+msgid "311. Vanguards"
 msgstr ""
 
 msgid "311.1. Vanguard is a card type seen only on nontraditional Magic cards. Only the Vanguard casual variant uses vanguard cards. See rule 902, “Vanguard.”"
@@ -2538,6 +2691,9 @@ msgstr ""
 msgid "311.7. Each vanguard card has a life modifier printed in its lower right corner. This is a number preceded by a plus sign, a number preceded by a minus sign, or a zero. This modifier is applied as the starting life total of the vanguard card’s owner (normally 20) to is determined. See rule 103.3."
 msgstr ""
 
+msgid "312. Schemes"
+msgstr ""
+
 msgid "312.1. Scheme is a card type seen only on nontraditional Magic cards. Only the Archenemy casual variant uses scheme cards. See rule 904, “Archenemy.”"
 msgstr ""
 
@@ -2557,6 +2713,9 @@ msgid "312.6. If a non-ongoing scheme card is face up in the command zone, and n
 msgstr ""
 
 msgid "312.7. If an ability of a scheme card includes the text “this scheme,” it means the scheme card in the command zone that’s the source of that ability. This is an exception to rule 109.2."
+msgstr ""
+
+msgid "313. Conspiracies"
 msgstr ""
 
 msgid "313.1. Conspiracy cards are used only in limited play, particularly in the Conspiracy Draft variant (see rule 905). Conspiracy cards aren’t used in constructed play."
@@ -2584,6 +2743,12 @@ msgid "313.6. The owner of a conspiracy card is the player who put it into the c
 msgstr ""
 
 msgid "313.7. At any time, you may look at a face-down conspiracy card you control. You can’t look at face-down conspiracy cards controlled by other players."
+msgstr ""
+
+msgid "4. Zones"
+msgstr ""
+
+msgid "400. General"
 msgstr ""
 
 msgid "400.1. A zone is a place where objects can be during a game. There are normally seven zones: library, hand, battlefield, graveyard, stack, exile, and command. Some older cards also use the ante zone. Each player has their own library, hand, and graveyard. The other zones are shared by all players."
@@ -2667,6 +2832,9 @@ msgstr ""
 msgid "400.12. Some effects instruct a player to do something to a zone (such as “Shuffle your hand into your library”). That action is performed on all cards in that zone. The zone itself is not affected."
 msgstr ""
 
+msgid "401. Library"
+msgstr ""
+
 msgid "401.1. When a game begins, each player’s deck becomes their library."
 msgstr ""
 
@@ -2688,6 +2856,9 @@ msgstr ""
 msgid "401.7. If an effect causes a player to put a card into a library “Nth from the top,” and that library has fewer than N cards in it, the player puts that card on the bottom of that library."
 msgstr ""
 
+msgid "402. Hand"
+msgstr ""
+
 msgid "402.1. The hand is where a player holds cards that have been drawn. Cards can be put into a player’s hand by other effects as well. At the beginning of the game, each player draws a number of cards equal to that player’s starting hand size, normally seven. (See rule 103, “Starting the Game.”)"
 msgstr ""
 
@@ -2695,6 +2866,9 @@ msgid "402.2. Each player has a maximum hand size, which is normally seven cards
 msgstr ""
 
 msgid "402.3. A player may arrange their hand in any convenient fashion and look at it at any time. A player can’t look at the cards in another player’s hand but may count those cards at any time."
+msgstr ""
+
+msgid "403. Battlefield"
 msgstr ""
 
 msgid "403.1. Most of the area between the players represents the battlefield. The battlefield starts out empty. Permanents a player controls are normally kept in front of them on the battlefield, though there are some cases (such as an Aura attached to another player’s permanent) when a permanent one player controls is kept closer to a different player."
@@ -2712,6 +2886,9 @@ msgstr ""
 msgid "403.5. Previously, the battlefield was called the “in-play zone.” Cards that were printed with text that contains the phrases “in play,” “from play,” “into play,” or the like are referring to the battlefield. Cards that were printed with that text have received errata in the Oracle card reference."
 msgstr ""
 
+msgid "404. Graveyard"
+msgstr ""
+
 msgid "404.1. A player’s graveyard is their discard pile. Any object that’s countered, discarded, destroyed, or sacrificed is put on top of its owner’s graveyard, as is any instant or sorcery spell that’s finished resolving. Each player’s graveyard starts out empty."
 msgstr ""
 
@@ -2719,6 +2896,9 @@ msgid "404.2. Each graveyard is kept in a single face-up pile. A player can exam
 msgstr ""
 
 msgid "404.3. If an effect or rule puts two or more cards into the same graveyard at the same time, the owner of those cards may arrange them in any order."
+msgstr ""
+
+msgid "405. Stack"
 msgstr ""
 
 msgid "405.1. When a spell is cast, the physical card is put on the stack (see rule 601.2a). When an ability is activated or triggers, it goes on top of the stack without any card associated with it (see rules 602.2a and 603.3)."
@@ -2763,6 +2943,9 @@ msgstr ""
 msgid "405.6h If a player leaves a multiplayer game, objects may leave the game, cease to exist, change control, or be exiled as a result. These actions happen immediately. See rule 800.4a."
 msgstr ""
 
+msgid "406. Exile"
+msgstr ""
+
 msgid "406.1. The exile zone is essentially a holding area for objects. Some spells and abilities exile an object without any way to return that object to another zone. Other spells and abilities exile an object only temporarily."
 msgstr ""
 
@@ -2787,6 +2970,9 @@ msgstr ""
 msgid "406.8. Previously, the exile zone was called the “removed-from-the-game zone.” Cards that were printed with text that “removes [an object] from the game” exiles that object. The same is true for cards printed with text that “sets [an object] aside.” Cards that were printed with that text have received errata in the Oracle card reference."
 msgstr ""
 
+msgid "407. Ante"
+msgstr ""
+
 msgid "407.1. Earlier versions of the Magic rules included an ante rule as a way of playing “for keeps.” Playing Magic games for ante is now considered an optional variation on the game, and it’s allowed only where it’s not forbidden by law or by other rules. Playing for ante is strictly forbidden under the Magic: The Gathering Tournament Rules (WPN.Wizards.com/en/resources/rules-documents)."
 msgstr ""
 
@@ -2799,6 +2985,9 @@ msgstr ""
 msgid "407.4. To ante an object is to put that object into the ante zone from whichever zone it’s currently in. The owner of an object is the only person who can ante that object."
 msgstr ""
 
+msgid "408. Command"
+msgstr ""
+
 msgid "408.1. The command zone is a game area reserved for certain specialized objects that have an overarching effect on the game, yet are not permanents and cannot be destroyed."
 msgstr ""
 
@@ -2806,6 +2995,12 @@ msgid "408.2. Emblems may be created in the command zone. See rule 114, “Emble
 msgstr ""
 
 msgid "408.3. In the Planechase, Vanguard, Commander, Archenemy, and Conspiracy Draft casual variants, nontraditional Magic cards and/or specially designated cards start the game in the command zone. Each variant has its own rules regarding such cards. See section 9, “Casual Variants.”"
+msgstr ""
+
+msgid "5. Turn Structure"
+msgstr ""
+
+msgid "500. General"
 msgstr ""
 
 msgid "500.1. A turn consists of five phases, in this order: beginning, precombat main, combat, postcombat main, and ending. Each of these phases takes place every turn, even if nothing happens during the phase. The beginning, combat, and ending phases are further broken down into steps, which proceed in order."
@@ -2841,7 +3036,13 @@ msgstr ""
 msgid "500.11. No game events can occur between turns, phases, or steps."
 msgstr ""
 
+msgid "501. Beginning Phase"
+msgstr ""
+
 msgid "501.1. The beginning phase consists of three steps, in this order: untap, upkeep, and draw."
+msgstr ""
+
+msgid "502. Untap Step"
 msgstr ""
 
 msgid "502.1. First, all phased-in permanents with phasing that the active player controls phase out, and all phased-out permanents that the active player controlled when they phased out phase in. This all happens simultaneously. This turn-based action doesn’t use the stack. See rule 702.25, “Phasing.”"
@@ -2853,6 +3054,9 @@ msgstr ""
 msgid "502.3. No player receives priority during the untap step, so no spells can be cast or resolve and no abilities can be activated or resolve. Any ability that triggers during this step will be held until the next time a player would receive priority, which is usually during the upkeep step. (See rule 503, “Upkeep Step.”)"
 msgstr ""
 
+msgid "503. Upkeep Step"
+msgstr ""
+
 msgid "503.1. The upkeep step has no turn-based actions. Once it begins, the active player gets priority. (See rule 117, “Timing and Priority.”)"
 msgstr ""
 
@@ -2862,10 +3066,16 @@ msgstr ""
 msgid "503.2. If a spell states that it may be cast only “after [a player’s] upkeep step,” and the turn has multiple upkeep steps, that spell may be cast any time after the first upkeep step ends."
 msgstr ""
 
+msgid "504. Draw Step"
+msgstr ""
+
 msgid "504.1. First, the active player draws a card. This turn-based action doesn’t use the stack."
 msgstr ""
 
 msgid "504.2. Second, the active player gets priority. (See rule 117, “Timing and Priority.”)"
+msgstr ""
+
+msgid "505. Main Phase"
 msgstr ""
 
 msgid "505.1. There are two main phases in a turn. In each turn, the first main phase (also known as the precombat main phase) and the second main phase (also known as the postcombat main phase) are separated by the combat phase (see rule 506, “Combat Phase”). The precombat and postcombat main phases are individually and collectively known as the main phase."
@@ -2890,6 +3100,9 @@ msgid "505.5a The main phase is the only phase in which a player can normally ca
 msgstr ""
 
 msgid "505.5b During either main phase, the active player may play one land card from their hand if the stack is empty, if the player has priority, and if they haven’t played a land this turn (unless an effect states the player may play additional lands). This action doesn’t use the stack. Neither the land nor the action of playing the land is a spell or ability, so it can’t be countered, and players can’t respond to it with instants or activated abilities. (See rule 305, “Lands.”)"
+msgstr ""
+
+msgid "506. Combat Phase"
 msgstr ""
 
 msgid "506.1. The combat phase has five steps, which proceed in order: beginning of combat, declare attackers, declare blockers, combat damage, and end of combat. The declare blockers and combat damage steps are skipped if no creatures are declared as attackers or put onto the battlefield attacking (see rule 508.8). There are two combat damage steps if any attacking or blocking creature has first strike (see rule 702.7) or double strike (see rule 702.4)."
@@ -2961,10 +3174,16 @@ msgstr ""
 msgid "506.6g Rules 506.6 and 506.6a–f apply to abilities that state that they may be activated only at certain times with respect to combat just as they apply to spells that state that they may be cast only at certain times with respect to combat."
 msgstr ""
 
+msgid "507. Beginning of Combat Step"
+msgstr ""
+
 msgid "507.1. First, if the game being played is a multiplayer game in which the active player’s opponents don’t all automatically become defending players, the active player chooses one of their opponents. That player becomes the defending player. This turn-based action doesn’t use the stack. (See rule 506.2.)"
 msgstr ""
 
 msgid "507.2. Second, the active player gets priority. (See rule 117, “Timing and Priority.”)"
+msgstr ""
+
+msgid "508. Declare Attackers Step"
 msgstr ""
 
 msgid "508.1. First, the active player declares attackers. This turn-based action doesn’t use the stack. To declare attackers, the active player follows the steps below, in order. If at any point during the declaration of attackers, the active player is unable to comply with any of the steps listed below, the declaration is illegal; the game returns to the moment before the declaration (see rule 723, “Handling Illegal Actions”)."
@@ -3081,6 +3300,9 @@ msgstr ""
 msgid "508.8. If no creatures are declared as attackers or put onto the battlefield attacking, skip the declare blockers and combat damage steps."
 msgstr ""
 
+msgid "509. Declare Blockers Step"
+msgstr ""
+
 msgid "509.1. First, the defending player declares blockers. This turn-based action doesn’t use the stack. To declare blockers, the defending player follows the steps below, in order. If at any point during the declaration of blockers, the defending player is unable to comply with any of the steps listed below, the declaration is illegal; the game returns to the moment before the declaration (see rule 723, “Handling Illegal Actions”)."
 msgstr ""
 
@@ -3183,6 +3405,9 @@ msgstr ""
 msgid "509.7b A creature that’s put onto the battlefield blocking isn’t affected by requirements or restrictions that apply to the declaration of blockers."
 msgstr ""
 
+msgid "510. Combat Damage Step"
+msgstr ""
+
 msgid "510.1. First, the active player announces how each attacking creature assigns its combat damage, then the defending player announces how each blocking creature assigns its combat damage. This turn-based action doesn’t use the stack. A player assigns a creature’s combat damage according to the following rules:"
 msgstr ""
 
@@ -3228,6 +3453,9 @@ msgstr ""
 msgid "510.4. If at least one attacking or blocking creature has first strike (see rule 702.7) or double strike (see rule 702.4) as the combat damage step begins, the only creatures that assign combat damage in that step are those with first strike or double strike. After that step, instead of proceeding to the end of combat step, the phase gets a second combat damage step. The only creatures that assign combat damage in that step are the remaining attackers and blockers that had neither first strike nor double strike as the first combat damage step began, as well as the remaining attackers and blockers that currently have double strike. After that step, the phase proceeds to the end of combat step."
 msgstr ""
 
+msgid "511. End of Combat Step"
+msgstr ""
+
 msgid "511.1. The end of combat step has no turn-based actions. Once it begins, the active player gets priority. (See rule 117, “Timing and Priority.”)"
 msgstr ""
 
@@ -3237,7 +3465,13 @@ msgstr ""
 msgid "511.3. As soon as the end of combat step ends, all creatures and planeswalkers are removed from combat. After the end of combat step ends, the combat phase is over and the postcombat main phase begins (see rule 505)."
 msgstr ""
 
+msgid "512. Ending Phase"
+msgstr ""
+
 msgid "512.1. The ending phase consists of two steps: end and cleanup."
+msgstr ""
+
+msgid "513. End Step"
 msgstr ""
 
 msgid "513.1. The end step has no turn-based actions. Once it begins, the active player gets priority. (See rule 117, “Timing and Priority.”)"
@@ -3247,6 +3481,9 @@ msgid "513.1a Previously, abilities that triggered at the beginning of the end s
 msgstr ""
 
 msgid "513.2. If a permanent with an ability that triggers “at the beginning of the end step” enters the battlefield during this step, that ability won’t trigger until the next turn’s end step. Likewise, if a delayed triggered ability that triggers “at the beginning of the next end step” is created during this step, that ability won’t trigger until the next turn’s end step. In other words, the step doesn’t “back up” so those abilities can go on the stack. This rule applies only to triggered abilities; it doesn’t apply to continuous effects whose durations say “until end of turn” or “this turn.” (See rule 514, “Cleanup Step.”)"
+msgstr ""
+
+msgid "514. Cleanup Step"
 msgstr ""
 
 msgid "514.1. First, if the active player’s hand contains more cards than their maximum hand size (normally seven), they discard enough cards to reduce their hand size to that number. This turn-based action doesn’t use the stack."
@@ -3259,6 +3496,15 @@ msgid "514.3. Normally, no player receives priority during the cleanup step, so 
 msgstr ""
 
 msgid "514.3a At this point, the game checks to see if any state-based actions would be performed and/or any triggered abilities are waiting to be put onto the stack (including those that trigger “at the beginning of the next cleanup step”). If so, those state-based actions are performed, then those triggered abilities are put on the stack, then the active player gets priority. Players may cast spells and activate abilities. Once the stack is empty and all players pass in succession, another cleanup step begins."
+msgstr ""
+
+msgid "6. Spells, Abilities, and Effects"
+msgstr ""
+
+msgid "600. General"
+msgstr ""
+
+msgid "601. Casting Spells"
 msgstr ""
 
 msgid "601.1. Previously, the action of casting a spell, or casting a card as a spell, was referred to on cards as “playing” that spell or that card. Cards that were printed with that text have received errata in the Oracle card reference so they now refer to “casting” that spell or that card."
@@ -3348,6 +3594,9 @@ msgstr ""
 msgid "601.6. Casting a spell that alters costs won’t affect spells and abilities that are already on the stack."
 msgstr ""
 
+msgid "602. Activating Activated Abilities"
+msgstr ""
+
 msgid "602.1. Activated abilities have a cost and an effect. They are written as “[Cost]: [Effect.] [Activation instructions (if any).]”"
 msgstr ""
 
@@ -3403,6 +3652,9 @@ msgid "602.5d Activated abilities that read “Activate this ability only any ti
 msgstr ""
 
 msgid "602.5e Activated abilities that read “Activate this ability only any time you could cast an instant” mean the player must follow the timing rules for casting an instant spell, though the ability isn’t actually an instant. The player doesn’t actually need to have an instant card that they could cast."
+msgstr ""
+
+msgid "603. Handling Triggered Abilities"
 msgstr ""
 
 msgid "603.1. Triggered abilities have a trigger condition and an effect. They are written as “[When/Whenever/At] [trigger condition or event], [effect]. [Instructions (if any).]”"
@@ -3570,6 +3822,9 @@ msgstr ""
 msgid "Example: Heart-Piercer Manticore has an ability that reads “When Heart-Piercer Manticore enters the battlefield, you may sacrifice another creature. When you do, Heart-Piercer Manticore deals damage equal to that creature’s power to any target.” The reflexive triggered ability triggers only when you sacrifice another creature due to the original triggered ability, and not if you sacrifice a creature for any other reason."
 msgstr ""
 
+msgid "604. Handling Static Abilities"
+msgstr ""
+
 msgid "604.1. Static abilities do something all the time rather than being activated or triggered. They are written as statements, and they’re simply true."
 msgstr ""
 
@@ -3592,6 +3847,9 @@ msgid "604.6. Some static abilities apply while a card is in any zone that you c
 msgstr ""
 
 msgid "604.7. Unlike spells and other kinds of abilities, static abilities can’t use an object’s last known information for purposes of determining how their effects are applied."
+msgstr ""
+
+msgid "605. Mana Abilities"
 msgstr ""
 
 msgid "605.1. Some activated abilities and some triggered abilities are mana abilities, which are subject to special rules. Only abilities that meet either of the following two sets of criteria are mana abilities, regardless of what other effects they may generate or what timing restrictions (such as “Activate this ability only any time you could cast an instant”) they may have."
@@ -3639,6 +3897,9 @@ msgstr ""
 msgid "605.5b A spell can never be a mana ability, even if it could put mana into a player’s mana pool when it resolves. It’s cast and resolves just like any other spell. Some older cards were printed with the card type “mana source”; these cards have received errata in the Oracle card reference and are now instants."
 msgstr ""
 
+msgid "606. Loyalty Abilities"
+msgstr ""
+
 msgid "606.1. Some activated abilities are loyalty abilities, which are subject to special rules."
 msgstr ""
 
@@ -3652,6 +3913,9 @@ msgid "606.4. The cost to activate a loyalty ability of a permanent is to put on
 msgstr ""
 
 msgid "606.5. A loyalty ability with a negative loyalty cost can’t be activated unless the permanent has at least that many loyalty counters on it."
+msgstr ""
+
+msgid "607. Linked Abilities"
 msgstr ""
 
 msgid "607.1. An object may have two abilities printed on it such that one of them causes actions to be taken or objects or players to be affected and the other one directly refers to those actions, objects, or players. If so, these two abilities are linked: the second refers only to actions that were taken or objects or players that were affected by the first, and not by any other ability."
@@ -3730,6 +3994,9 @@ msgid "Example: Voice of All enters the battlefield and Unstable Shapeshifter co
 msgstr ""
 
 msgid "Example: A Vesuvan Doppelganger enters the battlefield as a copy of Voice of All, and the Doppelganger’s controller chooses blue. Later, the Doppelganger copies Quirion Elves, which has the ability, “{T}: Add one mana of the chosen color.” Even though a color was chosen for the Doppelganger, it wasn’t chosen for the ability linked to the mana ability copied from the Elves. If that mana ability of the Doppelganger is activated, it will not produce mana."
+msgstr ""
+
+msgid "608. Resolving Spells and Abilities"
 msgstr ""
 
 msgid "608.1. Each time all players pass in succession, the spell or ability on top of the stack resolves. (See rule 609, “Effects.”)"
@@ -3813,6 +4080,9 @@ msgstr ""
 msgid "Example: Worms of the Earth has the ability “Lands can’t enter the battlefield.” Clone says “You may have Clone enter the battlefield as a copy of any creature on the battlefield.” If a player casts Clone and chooses to copy Dryad Arbor (a land creature) while Worms of the Earth is on the battlefield, Clone can’t enter the battlefield from the stack. It’s put into its owner’s graveyard."
 msgstr ""
 
+msgid "609. Effects"
+msgstr ""
+
 msgid "609.1. An effect is something that happens in the game as a result of a spell or ability. When a spell, activated ability, or triggered ability resolves, it may create one or more one-shot or continuous effects. Static abilities may create one or more continuous effects. Text itself is never an effect."
 msgstr ""
 
@@ -3858,6 +4128,9 @@ msgstr ""
 msgid "609.7c Some effects from static abilities prevent or replace damage from sources with certain properties. For these effects, the prevention or replacement applies to sources that are permanents with that property and to any sources that aren’t on the battlefield that have that property."
 msgstr ""
 
+msgid "610. One-Shot Effects"
+msgstr ""
+
 msgid "610.1. A one-shot effect does something just once and doesn’t have a duration. Examples include dealing damage, destroying a permanent, creating a token, and moving an object from one zone to another."
 msgstr ""
 
@@ -3895,6 +4168,9 @@ msgid "610.4c If a resolving triggered ability creates the initial one-shot effe
 msgstr ""
 
 msgid "610.4d If multiple one-shot effects are created this way immediately after one or more simultaneous events, those one-shot effects are also simultaneous."
+msgstr ""
+
+msgid "611. Continuous Effects"
 msgstr ""
 
 msgid "611.1. A continuous effect modifies characteristics of objects, modifies control of objects, or affects players or the rules of the game, for a fixed or indefinite period."
@@ -3948,6 +4224,9 @@ msgstr ""
 msgid "Example: A permanent with the static ability “All white creatures get +1/+1” is on the battlefield. A creature spell that would normally create a 1/1 white creature instead creates a 2/2 white creature. The creature doesn’t enter the battlefield as 1/1 and then change to 2/2."
 msgstr ""
 
+msgid "612. Text-Changing Effects"
+msgstr ""
+
 msgid "612.1. Some continuous effects change an object’s text. This can apply to any words or symbols printed on that object, but generally affects only that object’s rules text (which appears in its text box) and/or the text that appears in its type line. Such an effect is a text-changing effect."
 msgstr ""
 
@@ -3973,6 +4252,9 @@ msgid "612.7. One card (Awakening of Vitu-Ghazi) creates a continuous effect tha
 msgstr ""
 
 msgid "612.8. A splice ability changes a spell’s text by adding the rules text of the card with splice to the spell, following that spell’s own rules text. It doesn’t modify or replace any of that spell’s own text. (See rule 702.46, “Splice.”)"
+msgstr ""
+
+msgid "613. Interaction of Continuous Effects"
 msgstr ""
 
 msgid "613.1. The values of an object’s characteristics are determined by starting with the actual object. For a card, that means the values of the characteristics printed on that card. For a token or a copy of a spell or card, that means the values of the characteristics defined by the effect that created it. Then all applicable continuous effects are applied in a series of layers in the following order:"
@@ -4125,6 +4407,9 @@ msgstr ""
 msgid "613.11. Some continuous effects affect game rules rather than objects. For example, effects may modify a player’s maximum hand size, or say that a creature must attack this turn if able. These effects are applied after all other continuous effects have been applied. Continuous effects that affect the costs of spells or abilities are applied according to the order specified in rule 601.2f. All other such effects are applied in timestamp order. See also the rules for timestamp order and dependency (rules 613.7 and 613.8)."
 msgstr ""
 
+msgid "614. Replacement Effects"
+msgstr ""
+
 msgid "614.1. Some continuous effects are replacement effects. Like prevention effects (see rule 615), replacement effects apply continuously as events happen—they aren’t locked in ahead of time. Such effects watch for a particular event that would happen and completely or partially replace that event with a different event. They act like “shields” around whatever they’re affecting."
 msgstr ""
 
@@ -4251,6 +4536,9 @@ msgstr ""
 msgid "614.17d Some “can’t” effects modify how a permanent enters the battlefield or whether it can enter the battlefield. Such effects may come from the permanent itself if they affect only that permanent (as opposed to a general subset of permanents that includes it). They may also come from other sources. To determine which “can’t” effects apply, check the characteristics of the permanent as it would exist on the battlefield, taking into account replacement effects that have already modified how it enters the battlefield (see rule 616.1), continuous effects from the permanent’s own static abilities that would apply to it once it’s on the battlefield, and continuous effects that already exist and would apply to the permanent."
 msgstr ""
 
+msgid "615. Prevention Effects"
+msgstr ""
+
 msgid "615.1. Some continuous effects are prevention effects. Like replacement effects (see rule 614), prevention effects apply continuously as events happen—they aren’t locked in ahead of time. Such effects watch for a damage event that would happen and completely or partially prevent the damage that would be dealt. They act like “shields” around whatever they’re affecting."
 msgstr ""
 
@@ -4305,6 +4593,9 @@ msgstr ""
 msgid "615.13. Some triggered abilities trigger when damage that would be dealt is prevented. Such an ability triggers each time a prevention effect is applied to one or more simultaneous damage events and prevents some or all of that damage."
 msgstr ""
 
+msgid "616. Interaction of Replacement and/or Prevention Effects"
+msgstr ""
+
 msgid "616.1. If two or more replacement and/or prevention effects are attempting to modify the way an event affects an object or player, the affected object’s controller (or its owner if it has no controller) or the affected player chooses one to apply, following the steps listed below. If two or more players have to make these choices at the same time, choices are made in APNAP order (see rule 101.4)."
 msgstr ""
 
@@ -4339,6 +4630,12 @@ msgid "616.2. A replacement or prevention effect can become applicable to an eve
 msgstr ""
 
 msgid "Example: One effect reads “If you would gain life, draw that many cards instead,” and another reads “If you would draw a card, return a card from your graveyard to your hand instead.” Both effects combine (regardless of the order they came into existence): Instead of gaining 1 life, the player puts a card from their graveyard into their hand."
+msgstr ""
+
+msgid "7. Additional Rules"
+msgstr ""
+
+msgid "700. General"
 msgstr ""
 
 msgid "700.1. Anything that happens in a game is an event. Multiple events may take place during the resolution of a spell or ability. The text of triggered abilities and replacement effects defines the event they’re looking for. One “happening” may be treated as a single event by one ability and as multiple events by another."
@@ -4414,6 +4711,9 @@ msgid "700.8b If a creature has multiple creature types for which it could be th
 msgstr ""
 
 msgid "700.8c A player has a full party if there are four creatures in that player’s party."
+msgstr ""
+
+msgid "701. Keyword Actions"
 msgstr ""
 
 msgid "701.1. Most actions described in a card’s rules text use the standard English definitions of the verbs within, but some specialized verbs are used whose meanings may not be clear. These “keywords” are game terms; sometimes reminder text summarizes their meanings."
@@ -4978,6 +5278,9 @@ msgid "701.44a To amass N means “If you don’t control an Army creature, crea
 msgstr ""
 
 msgid "701.44b The phrase “the [subtype] you amassed” refers to the creature you chose, whether or not it received counters."
+msgstr ""
+
+msgid "702. Keyword Abilities"
 msgstr ""
 
 msgid "702.1. Most abilities describe exactly what they do in the card’s rules text. Some, though, are very common or would require too much space to define on the card. In these cases, the object lists only the name of the ability as a “keyword”; sometimes reminder text summarizes the game rule."
@@ -6687,6 +6990,9 @@ msgstr ""
 msgid "702.140a Encore is an activated ability that functions while the card with encore is in a graveyard. “Encore [cost]” means “[Cost], Exile this card from your graveyard: For each opponent, create a token that’s a copy of this card that attacks that opponent this turn if able. The tokens gain haste. Sacrifice them at the beginning of the next end step. Activate this ability only any time you could cast a sorcery.”"
 msgstr ""
 
+msgid "703. Turn-Based Actions"
+msgstr ""
+
 msgid "703.1. Turn-based actions are game actions that happen automatically when certain steps or phases begin, or when each step and phase ends. Turn-based actions don’t use the stack."
 msgstr ""
 
@@ -6745,6 +7051,9 @@ msgid "703.4p Immediately after the active player has discarded cards (if necess
 msgstr ""
 
 msgid "703.4q When each step or phase ends, any unused mana left in a player’s mana pool empties. See rule 500.4."
+msgstr ""
+
+msgid "704. State-Based Actions"
 msgstr ""
 
 msgid "704.1. State-based actions are game actions that happen automatically whenever certain conditions (listed below) are met. State-based actions don’t use the stack."
@@ -6852,6 +7161,9 @@ msgstr ""
 msgid "Example: You control Young Wolf, a 1/1 creature with undying, and it has a +1/+1 counter on it. A spell puts three -1/-1 counters on Young Wolf. Before state-based actions are performed, Young Wolf has one +1/+1 counter and three -1/-1 counters on it. After state-based actions are performed, Young Wolf is in the graveyard. When it was last on the battlefield, it had a +1/+1 counter on it, so undying will not trigger."
 msgstr ""
 
+msgid "705. Flipping a Coin"
+msgstr ""
+
 msgid "705.1. An effect that instructs a player to flip a coin may care whether that player wins or loses the flip. To flip a coin for such an effect, the player flips the coin and calls “heads” or “tails.” If the call matches the result, the player wins the flip. Otherwise, the player loses the flip. Only the player who flips the coin wins or loses the flip; no other players are involved."
 msgstr ""
 
@@ -6859,6 +7171,9 @@ msgid "705.2. If an effect instructs a player to flip a coin and that effect car
 msgstr ""
 
 msgid "705.3. A coin used in a flip must be a two-sided object with easily distinguished sides and equal likelihood that either side lands face up. If the coin that’s being flipped doesn’t have an obvious “heads” or “tails,” designate one side to be “heads,” and the other side to be “tails.” Other methods of randomization may be substituted for flipping a coin as long as there are two possible outcomes of equal likelihood and all players agree to the substitution. For example, the player may roll an even-sided die and call “odds” or “evens,” or roll an even-sided die and designate that “odds” means “heads” and “evens” means “tails.”"
+msgstr ""
+
+msgid "706. Copying Objects"
 msgstr ""
 
 msgid "706.1. Some objects become or turn another object into a “copy” of a spell, permanent, or card. Some effects create a token that’s a copy of another object. (Certain older cards were printed with the phrase “search for a copy.” This section doesn’t cover those cards, which have received new text in the Oracle card reference.)"
@@ -6996,6 +7311,9 @@ msgstr ""
 msgid "706.12. An effect that instructs a player to cast a copy of an object (and not just copy a spell) follows the rules for casting spells, except that the copy is created in the same zone the object is in and then cast while another spell or ability is resolving. Casting a copy of an object follows steps 601.2a–h of rule 601, “Casting Spells,” and then the copy becomes cast. Once cast, the copy is a spell on the stack, and just like any other spell it can resolve or be countered."
 msgstr ""
 
+msgid "707. Face-Down Spells and Permanents"
+msgstr ""
+
 msgid "707.1. Some cards allow spells and permanents to be face down."
 msgstr ""
 
@@ -7030,6 +7348,9 @@ msgid "707.10. If a face-down permanent becomes a copy of another permanent, its
 msgstr ""
 
 msgid "707.11. If a face-down permanent would have an “As [this permanent] is turned face up . . .” ability after it’s turned face up, that ability is applied while that permanent is being turned face up, not afterward."
+msgstr ""
+
+msgid "708. Split Cards"
 msgstr ""
 
 msgid "708.1. Split cards have two card faces on a single card. The back of a split card is the normal Magic card back."
@@ -7071,6 +7392,9 @@ msgstr ""
 msgid "708.4d The characteristics of a fused split spell on the stack are also those of its two halves combined (see rule 702.101, “Fuse”)."
 msgstr ""
 
+msgid "709. Flip Cards"
+msgstr ""
+
 msgid "709.1. Flip cards have a two-part card frame on a single card. The text that appears right side up on the card defines the card’s normal characteristics. Additional alternative characteristics appear upside down on the card. The back of a flip card is the normal Magic card back."
 msgstr ""
 
@@ -7098,6 +7422,9 @@ msgstr ""
 msgid "709.5. If an effect instructs a player to choose a card name and the player wants to choose a flip card’s alternative name, the player may do so."
 msgstr ""
 
+msgid "710. Leveler Cards"
+msgstr ""
+
 msgid "710.1. Each leveler card has a striated text box and three power/toughness boxes. The text box of a leveler card contains two level symbols."
 msgstr ""
 
@@ -7120,6 +7447,9 @@ msgid "710.5. If the number of level counters on a leveler creature is less than
 msgstr ""
 
 msgid "710.6. In every zone other than the battlefield, a leveler card has the power and toughness denoted by its uppermost power/toughness box."
+msgstr ""
+
+msgid "711. Double-Faced Cards"
 msgstr ""
 
 msgid "711.1. A double-faced card has a Magic card face on each side rather than a Magic card face on one side and a Magic card back on the other. There are two kinds of double-faced cards. Transforming double-faced cards include abilities on one or both of their faces that allow the card to “transform” (turn over to its other face) or allow the card to enter the battlefield “transformed” (with its back face up). Modal double-faced cards have two faces that are independent from one another and can’t transform."
@@ -7224,6 +7554,9 @@ msgstr ""
 msgid "711.15. If an effect instructs a player to choose a card name, the player may name either face of a double-faced card but not both."
 msgstr ""
 
+msgid "712. Meld Cards"
+msgstr ""
+
 msgid "712.1. A meld card has a Magic card face on one side and half of an oversized Magic card face on the other. It doesn’t have a Magic card back."
 msgstr ""
 
@@ -7308,6 +7641,9 @@ msgstr ""
 msgid "712.11. If an effect instructs a player to choose a card name, the player may choose the name of a front face of a meld card or the combined back face of a meld pair."
 msgstr ""
 
+msgid "713. Substitute Cards"
+msgstr ""
+
 msgid "713.1. A substitute card is a game supplement that can be used to represent a double-faced card or meld card. A substitute card has a normal Magic card back."
 msgstr ""
 
@@ -7330,6 +7666,9 @@ msgid "713.4. For all game purposes, the substitute card is considered to be the
 msgstr ""
 
 msgid "713.5. If the substitute card is face up in a public zone, it should be set aside and the double-faced card or meld card that it represents should be used instead."
+msgstr ""
+
+msgid "714. Saga Cards"
 msgstr ""
 
 msgid "714.1. Each Saga card has a striated text box containing a number of chapter symbols. Its illustration is vertically oriented on the right side of the card, and its type line is along the bottom of the card."
@@ -7360,6 +7699,9 @@ msgid "714.3b As a player’s precombat main phase begins, that player puts a lo
 msgstr ""
 
 msgid "714.4. If the number of lore counters on a Saga permanent is greater than or equal to its final chapter number, and it isn’t the source of a chapter ability that has triggered but not yet left the stack, that Saga’s controller sacrifices it. This state-based action doesn’t use the stack."
+msgstr ""
+
+msgid "715. Adventurer Cards"
 msgstr ""
 
 msgid "715.1. Adventurer cards have a two-part card frame, with a smaller frame inset within their text box."
@@ -7396,6 +7738,9 @@ msgid "715.4. In every zone except the stack, and while on the stack not as an A
 msgstr ""
 
 msgid "715.5. If an effect instructs a player to choose a card name and the player wants to choose an adventurer card’s alternative name, the player may do so."
+msgstr ""
+
+msgid "716. Controlling Another Player"
 msgstr ""
 
 msgid "716.1. Some cards allow a player to control another player during that player’s next turn. This effect applies to the next turn that the affected player actually takes. The affected player is controlled during the entire turn; the effect doesn’t end until the beginning of the next turn."
@@ -7452,6 +7797,9 @@ msgstr ""
 msgid "716.9. A player may gain control of themselves. That player will make their own decisions and choices as normal."
 msgstr ""
 
+msgid "717. Ending Turns and Phases"
+msgstr ""
+
 msgid "717.1. Some cards end the turn. When an effect ends the turn, follow these steps in order, as they differ from the normal process for resolving spells and abilities (see rule 608, “Resolving Spells and Abilities”)."
 msgstr ""
 
@@ -7497,6 +7845,9 @@ msgstr ""
 msgid "717.2g If an effect attempts to end the combat phase at any time that’s not a combat phase, nothing happens."
 msgstr ""
 
+msgid "718. The Monarch"
+msgstr ""
+
 msgid "718.1. The monarch is a designation a player can have. There is no monarch in a game until an effect instructs a player to become the monarch."
 msgstr ""
 
@@ -7507,6 +7858,9 @@ msgid "718.3. Only one player can be the monarch at a time. As a player becomes 
 msgstr ""
 
 msgid "718.4. If the monarch leaves the game, the active player becomes the monarch at the same time as that player leaves the game. If the active player is leaving the game or if there is no active player, the next player in turn order becomes the monarch. If no player still in the game can become the monarch, the game continues with no monarch."
+msgstr ""
+
+msgid "719. Restarting the Game"
 msgstr ""
 
 msgid "719.1. One card (Karn Liberated) restarts the game. A game that is restarted immediately ends. No players in that game win, lose, or draw that game. All players in that game when it ended then start a new game following the procedures set forth in rule 103, “Starting the Game,” with the following exception:"
@@ -7537,6 +7891,9 @@ msgid "719.6. If a Magic subgame (see rule 720) is restarted, the main game is u
 msgstr ""
 
 msgid "719.7. If a multiplayer game using the limited range of influence option (see rule 801) is restarted, all players in the game are involved, regardless of the range of influence of the player who controls the ability that restarted the game."
+msgstr ""
+
+msgid "720. Subgames"
 msgstr ""
 
 msgid "720.1. One card (Shahrazad) allows players to play a Magic subgame."
@@ -7596,6 +7953,9 @@ msgstr ""
 msgid "720.6. A subgame can be created within a subgame. The existing subgame becomes the main game in relation to the new subgame."
 msgstr ""
 
+msgid "721. Merging with Permanents"
+msgstr ""
+
 msgid "721.1. One keyword causes an object to merge with a permanent. See rule 702.139, “Mutate.”"
 msgstr ""
 
@@ -7650,6 +8010,9 @@ msgstr ""
 msgid "721.3e If a replacement effect applies to a “card” being put into a zone without also including tokens, that effect applies to all components of the merged permanent if it’s not a token, including components that are tokens. If the merged permanent is a token but some of its components are cards, the merged permanent and its token components are put into the appropriate zone, and the components that are cards are moved by the replacement effect."
 msgstr ""
 
+msgid "722. Taking Shortcuts"
+msgstr ""
+
 msgid "722.1. When playing a game, players typically make use of mutually understood shortcuts rather than explicitly identifying each game choice (either taking an action or passing priority) a player makes."
 msgstr ""
 
@@ -7698,10 +8061,19 @@ msgstr ""
 msgid "722.6. If a loop contains an effect that says “[A] unless [B],” where [A] and [B] are each actions, no player can be forced to perform [B] to break the loop. If no player chooses to perform [B], the loop will continue as though [A] were mandatory."
 msgstr ""
 
+msgid "723. Handling Illegal Actions"
+msgstr ""
+
 msgid "723.1. If a player takes an illegal action or starts to take an action but can’t legally complete it, the entire action is reversed and any payments already made are canceled. No abilities trigger and no effects apply as a result of an undone action. If the action was casting a spell, the spell returns to the zone it came from. Each player may also reverse any legal mana abilities that player activated while making the illegal play, unless mana from those abilities or from any triggered mana abilities they caused to trigger was spent on another mana ability that wasn’t reversed. Players may not reverse actions that moved cards to a library, moved cards from a library to any zone other than the stack, caused a library to be shuffled, or caused cards from a library to be revealed."
 msgstr ""
 
 msgid "723.2. When reversing illegal spells and abilities, the player who had priority retains it and may take another action or pass. The player may redo the reversed action in a legal way or take any other action allowed by the rules."
+msgstr ""
+
+msgid "8. Multiplayer Rules"
+msgstr ""
+
+msgid "800. General"
 msgstr ""
 
 msgid "800.1. A multiplayer game is a game that begins with more than two players. This section contains additional optional rules that can be used for multiplayer play."
@@ -7777,6 +8149,9 @@ msgid "800.6. In a multiplayer game, the first mulligan a player takes doesn’t
 msgstr ""
 
 msgid "800.7. In a multiplayer game other than a Two-Headed Giant game, the starting player doesn’t skip the draw step of their first turn. In a Two-Headed Giant game, the team who plays first skips the draw step of their first turn. See rule 103.7."
+msgstr ""
+
+msgid "801. Limited Range of Influence Option"
 msgstr ""
 
 msgid "801.1. Limited range of influence is an option that can be applied to most multiplayer games. It’s always used in the Emperor variant (see rule 809), and it’s often used for games involving five or more players."
@@ -7908,6 +8283,9 @@ msgstr ""
 msgid "801.18. In multiplayer Planechase games other than Grand Melee games, plane cards and phenomenon cards are exempt from the limited range of influence option. Their abilities, and the effects of those abilities, affect all applicable objects and players in the game. See rule 901, “Planechase.”"
 msgstr ""
 
+msgid "802. Attack Multiple Players Option"
+msgstr ""
+
 msgid "802.1. Some multiplayer games allow the active player to attack multiple other players. If this option is used, a player can also choose to attack only one player during a particular combat."
 msgstr ""
 
@@ -7944,6 +8322,9 @@ msgstr ""
 msgid "802.6. Combat damage is assigned in APNAP order. Other than that, the combat damage step proceeds just as in a two-player game. See rule 510, “Combat Damage Step.”"
 msgstr ""
 
+msgid "803. Attack Left and Attack Right Options"
+msgstr ""
+
 msgid "803.1. Some multiplayer games use the optional attack left or attack right rules."
 msgstr ""
 
@@ -7953,10 +8334,16 @@ msgstr ""
 msgid "803.1b If the attack right option is used, a player can attack only an opponent seated immediately to their right. If a player’s nearest opponent to the right is more than one seat away, the player can’t attack."
 msgstr ""
 
+msgid "804. Deploy Creatures Option"
+msgstr ""
+
 msgid "804.1. The Emperor variant always uses the deploy creatures option, and it can be used in other variants that allow players to compete in teams. Multiplayer formats in which players compete as individuals usually don’t use this option."
 msgstr ""
 
 msgid "804.2. Each creature has the ability “{T}: Target teammate gains control of this creature. Activate this ability only any time you could cast a sorcery.”"
+msgstr ""
+
+msgid "805. Shared Team Turns Option"
 msgstr ""
 
 msgid "805.1. Some multiplayer games between teams use the shared team turns option. It’s always used in the Two-Headed Giant variant (see rule 810) and the Archenemy casual variant (see rule 904). It can be used only if the members of each team are sitting in adjacent seats."
@@ -8037,6 +8424,9 @@ msgstr ""
 msgid "805.10g As the combat damage step begins, the active team announces how each attacking creature will assign its combat damage. Then the defending team announces how each blocking creature will assign its combat damage. See rule 510.1."
 msgstr ""
 
+msgid "806. Free-for-All Variant"
+msgstr ""
+
 msgid "806.1. In Free-for-All multiplayer games, a group of players compete as individuals against each other."
 msgstr ""
 
@@ -8053,6 +8443,9 @@ msgid "806.2c The deploy creatures option isn’t used in the Free-for-All varia
 msgstr ""
 
 msgid "806.3. The players are randomly seated around the table."
+msgstr ""
+
+msgid "807. Grand Melee Variant"
 msgstr ""
 
 msgid "807.1. The Grand Melee variant is a modification of the Free-for-All variant, in which a group of players compete against each other as individuals. Grand Melee is normally used only in games begun with ten or more players."
@@ -8121,6 +8514,9 @@ msgstr ""
 msgid "807.5b If a player has priority for multiple stacks and casts a spell, activates an ability, or a triggered ability they control triggers, the player must specify which one of those stacks the spell or ability is put on. If an object on one of those stacks caused the triggered ability to trigger, the player must put it on that stack. If a resolving spell or ability on one of those stacks causes a player to cast a spell or create a copy of a spell, the new spell must be put on the same stack. If a spell or ability targets an object on one of those stacks, it must be put on the same stack as its target; it can’t target objects on multiple stacks."
 msgstr ""
 
+msgid "808. Team vs. Team Variant"
+msgstr ""
+
 msgid "808.1. Team vs. Team games are played with two or more teams. Each team may have any number of players on it."
 msgstr ""
 
@@ -8140,6 +8536,9 @@ msgid "808.4. To determine which player goes first, randomly choose a team. If t
 msgstr ""
 
 msgid "808.5. In the Team vs. Team variant, a team’s resources (cards in hand, mana, and so on) are not shared. Teammates may review each other’s hands and discuss strategies at any time. Teammates can’t manipulate each other’s cards or permanents."
+msgstr ""
+
+msgid "809. Emperor Variant"
 msgstr ""
 
 msgid "809.1. The Emperor variant involves two or more teams of three players each."
@@ -8188,6 +8587,9 @@ msgid "Example: In an Emperor game between two teams of four players each, the p
 msgstr ""
 
 msgid "809.7. In the Emperor variant, a team’s resources (cards in hand, mana, and so on) are not shared. Teammates may review each other’s hands and discuss strategies at any time. Teammates can’t manipulate each other’s cards or permanents."
+msgstr ""
+
+msgid "810. Two-Headed Giant Variant"
 msgstr ""
 
 msgid "810.1. Two-Headed Giant games are played with two teams of two players each."
@@ -8298,6 +8700,9 @@ msgstr ""
 msgid "810.11. The Two-Headed Giant variant can also be played with equally sized teams of more than two players. For each player a team has beyond the second, that team’s starting life total is increased by 15 and the number of poison counters required for the team to lose is increased by five. (These variants are called Three-Headed Giant, Four-Headed Giant, and so on.)"
 msgstr ""
 
+msgid "811. Alternating Teams Variant"
+msgstr ""
+
 msgid "811.1. Alternating Teams games are played with two or more teams of equal size."
 msgstr ""
 
@@ -8325,10 +8730,19 @@ msgstr ""
 msgid "811.5. In the Alternating Teams variant, a team’s resources (cards in hand, mana, and so on) are not shared. Teammates can’t review each other’s hands unless they are sitting next to each other. Teammates may discuss strategies at any time. Teammates can’t manipulate each other’s cards or permanents."
 msgstr ""
 
+msgid "9. Casual Variants"
+msgstr ""
+
+msgid "900. General"
+msgstr ""
+
 msgid "900.1. This section contains additional optional rules that can be used for certain casual game variants. It is by no means comprehensive."
 msgstr ""
 
 msgid "900.2. The casual variants detailed here use supplemental zones, rules, cards, and other game implements not used in traditional Magic games."
+msgstr ""
+
+msgid "901. Planechase"
 msgstr ""
 
 msgid "901.1. In the Planechase variant, plane cards and phenomenon cards add additional abilities and randomness to the game. The Planechase variant uses all the normal rules for a Magic game, with the following additions."
@@ -8433,6 +8847,9 @@ msgstr ""
 msgid "901.15c If any rule or ability refers to a player’s planar deck, the communal planar deck is used."
 msgstr ""
 
+msgid "902. Vanguard"
+msgstr ""
+
 msgid "902.1. In the Vanguard variant, a vanguard card allows each player to play the role of a famous character. Each player will have one face-up vanguard card whose abilities and other characteristics affect the game. The Vanguard variant uses all the normal rules for a Magic game, with the following additions."
 msgstr ""
 
@@ -8467,6 +8884,9 @@ msgid "902.6. The owner of a vanguard card is the player who started the game wi
 msgstr ""
 
 msgid "902.7. Any abilities of a face-up vanguard card in the command zone function from that zone. The card’s static abilities affect the game, its triggered abilities may trigger, and its activated abilities may be activated."
+msgstr ""
+
+msgid "903. Commander"
 msgstr ""
 
 msgid "903.1. In the Commander variant, each deck is led by a legendary creature designated as that deck’s commander. The Commander variant was created and popularized by fans; an independent rules committee maintains additional resources at MTGCommander.net. The Commander variant uses all the normal rules for a Magic game, with the following additions."
@@ -8619,6 +9039,9 @@ msgstr ""
 msgid "903.13g Commander Draft games follow the same rules as Commander games. See rules 903.6–903.11."
 msgstr ""
 
+msgid "904. Archenemy"
+msgstr ""
+
 msgid "904.1. In the Archenemy variant, a team of players faces off against a single opponent strengthened with powerful scheme cards. The Archenemy variant uses all the normal rules for a Magic game, with the following additions."
 msgstr ""
 
@@ -8670,6 +9093,9 @@ msgstr ""
 msgid "904.12c As in a normal Free-for-All game, the starting player is randomly determined. All other rules that apply to the archenemy in an Archenemy game apply to each player in a Supervillain Rumble game."
 msgstr ""
 
+msgid "905. Conspiracy Draft"
+msgstr ""
+
 msgid "905.1. The Conspiracy Draft variant consists of a draft (a style of limited play where players choose cards from sealed booster packs to build their decks) followed by a multiplayer game. The Conspiracy Draft variant uses Magic: The Gathering—Conspiracy™ and/or Conspiracy: Take the Crown™ booster packs by default."
 msgstr ""
 
@@ -8710,6 +9136,9 @@ msgid "905.5. The owner of a conspiracy card is the player who put it into the c
 msgstr ""
 
 msgid "905.6. Once the starting player has been determined, each player sets their life total to 20 and draws a hand of seven cards."
+msgstr ""
+
+msgid "Glossary"
 msgstr ""
 
 msgid "Abandon"
@@ -8980,6 +9409,9 @@ msgid "An option that may be used in certain multiplayer variants. See rule 802,
 msgstr ""
 
 msgid "Attack Right Option"
+msgstr ""
+
+msgid "An option that may be used in certain multiplayer variants. See rule 803, “Attack Left and Attack Right Options.”"
 msgstr ""
 
 msgid "Attacking Creature"
@@ -10086,6 +10518,9 @@ msgstr ""
 msgid "Forestcycling"
 msgstr ""
 
+msgid "See Typecycling."
+msgstr ""
+
 msgid "Forestwalk"
 msgstr ""
 
@@ -10389,6 +10824,9 @@ msgstr ""
 msgid "Islandcycling"
 msgstr ""
 
+msgid "See Typecycling."
+msgstr ""
+
 msgid "Islandhome (Obsolete)"
 msgstr ""
 
@@ -10396,6 +10834,9 @@ msgid "An obsolete keyword ability that meant “This creature can’t attack un
 msgstr ""
 
 msgid "Islandwalk"
+msgstr ""
+
+msgid "See Landwalk."
 msgstr ""
 
 msgid "Jump-Start"
@@ -10465,6 +10906,9 @@ msgid "A permanent “leaves the battlefield” when it’s moved from the battl
 msgstr ""
 
 msgid "Legal Text"
+msgstr ""
+
+msgid "Information printed directly below the text box that has no effect on game play. See rule 212, “Information Below the Text Box.”"
 msgstr ""
 
 msgid "Legend (Obsolete)"
@@ -10809,7 +11253,13 @@ msgstr ""
 msgid "Mountaincycling"
 msgstr ""
 
+msgid "See Typecycling."
+msgstr ""
+
 msgid "Mountainwalk"
+msgstr ""
+
+msgid "See Landwalk."
 msgstr ""
 
 msgid "Move"
@@ -11091,7 +11541,13 @@ msgstr ""
 msgid "Plainscycling"
 msgstr ""
 
+msgid "See Typecycling."
+msgstr ""
+
 msgid "Plainswalk"
+msgstr ""
+
+msgid "See Landwalk."
 msgstr ""
 
 msgid "Planar Deck"
@@ -11550,6 +12006,9 @@ msgstr ""
 msgid "Slivercycling"
 msgstr ""
 
+msgid "See Typecycling."
+msgstr ""
+
 msgid "Snow"
 msgstr ""
 
@@ -11805,7 +12264,13 @@ msgstr ""
 msgid "Swampcycling"
 msgstr ""
 
+msgid "See Typecycling."
+msgstr ""
+
 msgid "Swampwalk"
+msgstr ""
+
+msgid "See Landwalk."
 msgstr ""
 
 msgid "Tap"
@@ -11908,6 +12373,9 @@ msgid "Toughness"
 msgstr ""
 
 msgid "1. Part of a card that only creatures have. A creature card’s toughness is printed after the slash in its lower right corner. See rule 208, “Power/Toughness.”"
+msgstr ""
+
+msgid "2. A characteristic that only creatures have. See rule 302.4."
 msgstr ""
 
 msgid "Tournament"
@@ -12201,6 +12669,9 @@ msgstr ""
 msgid "Wizardcycling"
 msgstr ""
 
+msgid "See Typecycling."
+msgstr ""
+
 msgid "World"
 msgstr ""
 
@@ -12243,6 +12714,9 @@ msgstr ""
 msgid "Trigger events that involve objects changing zones. See rule 603.6."
 msgstr ""
 
+msgid "Credits"
+msgstr ""
+
 msgid "Magic: The Gathering Original Game Design: Richard Garfield"
 msgstr ""
 
@@ -12259,6 +12733,9 @@ msgid "The Magic: The Gathering game was designed by Richard Garfield, with cont
 msgstr ""
 
 msgid "Thanks to all our project team members and the many others too numerous to mention who have contributed to this product."
+msgstr ""
+
+msgid "These rules are effective as of November 20, 2020."
 msgstr ""
 
 msgid "Published by Wizards of the Coast LLC, PO Box 707, Renton, WA 98057-0707, USA. Wizards of the Coast, Magic: The Gathering, Magic, Oracle, Arabian Nights, Antiquities, Homelands, Exodus, Odyssey, Mirrodin, Kamigawa, Ravnica: City of Guilds, Time Spiral, Future Sight, Lorwyn, Shadowmoor, Zendikar, Scars of Mirrodin, Innistrad, Return to Ravnica, Khans of Tarkir, Magic Origins, Shadows over Innistrad, Eldritch Moon, Magic: The Gathering—Conspiracy, Conspiracy: Take the Crown, Ixalan, Rivals of Ixalan, Unglued, Unstable, Dominaria, Ikoria, and Planeswalker Decks are trademarks of Wizards of the Coast LLC in the USA and other countries. Unhinged is a trademark of Horn Abbot Ltd. and is used with permission. ©2020 Wizards. U.S. Pat. No. RE 37,957."
