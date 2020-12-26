@@ -8,7 +8,7 @@ site:
       url: "/"
     cr:
       title: "Regras Abrangentes"
-      url: "/regras/cr"
+      url: "/regras/cr/"
     about:
       title: "Sobre"
-      url: "/sobre"
+      url: "/sobre/"

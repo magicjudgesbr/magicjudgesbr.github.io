@@ -1,5 +1,5 @@
 files:
   - source: data/en/*.pot
-    translation: /data/%two_letters_code%/%original_file_name%
+    translation: /data/%two_letters_code%/LC_MESSAGES/%original_file_name%
     translation_replace:
       pot: po
