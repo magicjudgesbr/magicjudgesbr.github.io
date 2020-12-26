@@ -10,13 +10,13 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2020-12-26 19:18\n"
+"PO-Revision-Date: 2020-12-26 20:48\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
 
 msgid "These rules are effective as of November 20, 2020."
-msgstr ""
+msgstr "Estas regras entram em vigor em 20 de Novembro de 2020."
 
 msgid "Introduction"
 msgstr ""
@@ -31,7 +31,7 @@ msgid "Contents"
 msgstr ""
 
 msgid "1. Game Concepts"
-msgstr ""
+msgstr "1. Conceitos do Jogo"
 
 msgid "100. General"
 msgstr ""
@@ -463,7 +463,7 @@ msgid "Credits"
 msgstr ""
 
 msgid "1. Game Concepts"
-msgstr ""
+msgstr "1. Conceitos do Jogo"
 
 msgid "100. General"
 msgstr ""
@@ -12736,7 +12736,7 @@ msgid "Thanks to all our project team members and the many others too numerous t
 msgstr ""
 
 msgid "These rules are effective as of November 20, 2020."
-msgstr ""
+msgstr "Estas regras entram em vigor em 20 de Novembro de 2020."
 
 msgid "Published by Wizards of the Coast LLC, PO Box 707, Renton, WA 98057-0707, USA. Wizards of the Coast, Magic: The Gathering, Magic, Oracle, Arabian Nights, Antiquities, Homelands, Exodus, Odyssey, Mirrodin, Kamigawa, Ravnica: City of Guilds, Time Spiral, Future Sight, Lorwyn, Shadowmoor, Zendikar, Scars of Mirrodin, Innistrad, Return to Ravnica, Khans of Tarkir, Magic Origins, Shadows over Innistrad, Eldritch Moon, Magic: The Gathering—Conspiracy, Conspiracy: Take the Crown, Ixalan, Rivals of Ixalan, Unglued, Unstable, Dominaria, Ikoria, and Planeswalker Decks are trademarks of Wizards of the Coast LLC in the USA and other countries. Unhinged is a trademark of Horn Abbot Ltd. and is used with permission. ©2020 Wizards. U.S. Pat. No. RE 37,957."
 msgstr ""
