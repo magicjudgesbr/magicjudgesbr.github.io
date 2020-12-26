@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2020-12-26 22:54\n"
+"PO-Revision-Date: 2020-12-26 23:50\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -82,13 +82,13 @@ msgid "115. Targets"
 msgstr "115. Alvos"
 
 msgid "116. Special Actions"
-msgstr ""
+msgstr "116. Ações especiais"
 
 msgid "117. Timing and Priority"
 msgstr ""
 
 msgid "118. Costs"
-msgstr ""
+msgstr "118. Custos"
 
 msgid "119. Life"
 msgstr "119. Vida"
@@ -97,43 +97,43 @@ msgid "120. Damage"
 msgstr "120. Dano"
 
 msgid "121. Drawing a Card"
-msgstr ""
+msgstr "121. Comprando uma Carta"
 
 msgid "122. Counters"
 msgstr "122. Contadores"
 
 msgid "2. Parts of a Card"
-msgstr ""
+msgstr "2. Partes de uma Carta"
 
 msgid "200. General"
-msgstr ""
+msgstr "200. Geral"
 
 msgid "201. Name"
 msgstr "201. Nome"
 
 msgid "202. Mana Cost and Color"
-msgstr ""
+msgstr "202. Custo de Mana e Cor"
 
 msgid "203. Illustration"
-msgstr ""
+msgstr "203. Ilustração"
 
 msgid "204. Color Indicator"
-msgstr ""
+msgstr "204. Indicador de Cor"
 
 msgid "205. Type Line"
-msgstr ""
+msgstr "205. Linha de Tipo"
 
 msgid "206. Expansion Symbol"
-msgstr ""
+msgstr "206. Símbolo da Expansão"
 
 msgid "207. Text Box"
-msgstr ""
+msgstr "207. Caixa de Texto"
 
 msgid "208. Power/Toughness"
-msgstr ""
+msgstr "208. Poder/Resistência"
 
 msgid "209. Loyalty"
-msgstr ""
+msgstr "209. Lealdade"
 
 msgid "210. Hand Modifier"
 msgstr ""
@@ -145,40 +145,40 @@ msgid "212. Information Below the Text Box"
 msgstr ""
 
 msgid "3. Card Types"
-msgstr ""
+msgstr "3. Tipos de Carta"
 
 msgid "300. General"
-msgstr ""
+msgstr "300. Geral"
 
 msgid "301. Artifacts"
-msgstr ""
+msgstr "301. Artefatos"
 
 msgid "302. Creatures"
-msgstr ""
+msgstr "302. Criaturas"
 
 msgid "303. Enchantments"
-msgstr ""
+msgstr "303. Encantamentos"
 
 msgid "304. Instants"
-msgstr ""
+msgstr "304. Instantâneas"
 
 msgid "305. Lands"
-msgstr ""
+msgstr "305. Terrenos"
 
 msgid "306. Planeswalkers"
-msgstr ""
+msgstr "306. Planinautas"
 
 msgid "307. Sorceries"
-msgstr ""
+msgstr "307. Feitiços"
 
 msgid "308. Tribals"
-msgstr ""
+msgstr "308. Tribais"
 
 msgid "309. Planes"
-msgstr ""
+msgstr "309. Planos"
 
 msgid "310. Phenomena"
-msgstr ""
+msgstr "310. Fenômenos"
 
 msgid "311. Vanguards"
 msgstr ""
@@ -190,28 +190,28 @@ msgid "313. Conspiracies"
 msgstr ""
 
 msgid "4. Zones"
-msgstr ""
+msgstr "4. Zonas"
 
 msgid "400. General"
-msgstr ""
+msgstr "400. Geral"
 
 msgid "401. Library"
-msgstr ""
+msgstr "401. Grimório"
 
 msgid "402. Hand"
-msgstr ""
+msgstr "402. Mão"
 
 msgid "403. Battlefield"
-msgstr ""
+msgstr "403. Campo de Batalha"
 
 msgid "404. Graveyard"
-msgstr ""
+msgstr "404. Cemitério"
 
 msgid "405. Stack"
-msgstr ""
+msgstr "405. Pilha"
 
 msgid "406. Exile"
-msgstr ""
+msgstr "406. Exílio"
 
 msgid "407. Ante"
 msgstr ""
@@ -223,7 +223,7 @@ msgid "5. Turn Structure"
 msgstr ""
 
 msgid "500. General"
-msgstr ""
+msgstr "500. Geral"
 
 msgid "501. Beginning Phase"
 msgstr ""
@@ -478,7 +478,7 @@ msgid "100.1b A multiplayer game is a game that begins with more than two player
 msgstr "100.1b Um jogo multijogador é um jogo que começa com mais de dois jogadores. Veja a seção 8, \"Regras Multijogador.\""
 
 msgid "100.2. To play, each player needs their own deck of traditional Magic cards, small items to represent any tokens and counters, and some way to clearly track life totals."
-msgstr ""
+msgstr "100.2. Para jogar, cada jogador precisa de seu próprio deck de cartas de Magic tradicionais, pequenos itens para representar quaisquer tokens e contadores, e alguma forma de rastrear claramente os totais da vida."
 
 msgid "100.2a In constructed play (a way of playing in which each player creates their own deck ahead of time), each deck has a minimum deck size of 60 cards. A constructed deck may contain any number of basic land cards and no more than four of any card with a particular English name other than basic land cards."
 msgstr ""
@@ -1450,7 +1450,7 @@ msgid "115.10b In particular, the word “you” in an object’s text doesn’t
 msgstr ""
 
 msgid "116. Special Actions"
-msgstr ""
+msgstr "116. Ações especiais"
 
 msgid "116.1. Special actions are actions a player may take when they have priority that don’t use the stack. These are not to be confused with turn-based actions and state-based actions, which the game generates automatically. (See rule 703, “Turn-Based Actions,” and rule 704, “State-Based Actions.”)"
 msgstr ""
@@ -1552,7 +1552,7 @@ msgid "117.7. If a player with priority casts a spell or activates an activated 
 msgstr ""
 
 msgid "118. Costs"
-msgstr ""
+msgstr "118. Custos"
 
 msgid "118.1. A cost is an action or payment necessary to take another action or to stop another action from taking place. To pay a cost, a player carries out the instructions specified by the spell, ability, or effect that contains that cost."
 msgstr ""
@@ -1810,7 +1810,7 @@ msgid "120.9. If an ability triggers on damage being dealt by a specific source 
 msgstr ""
 
 msgid "121. Drawing a Card"
-msgstr ""
+msgstr "121. Comprando uma Carta"
 
 msgid "121.1. A player draws a card by putting the top card of their library into their hand. This is done as a turn-based action during each player’s draw step. It may also be done as part of a cost or effect of a spell or ability."
 msgstr ""
@@ -1906,10 +1906,10 @@ msgid "122.8. If a triggered ability instructs a player to “put those counters
 msgstr ""
 
 msgid "2. Parts of a Card"
-msgstr ""
+msgstr "2. Partes de uma Carta"
 
 msgid "200. General"
-msgstr ""
+msgstr "200. Geral"
 
 msgid "200.1. The parts of a card are name, mana cost, illustration, color indicator, type line, expansion symbol, text box, power and toughness, loyalty, hand modifier, life modifier, illustration credit, legal text, and collector number. Some cards may have more than one of any or all of these parts."
 msgstr ""
@@ -1990,7 +1990,7 @@ msgid "201.5. Some versions of Ikoria™: Lair of Behemoths cards and other prom
 msgstr ""
 
 msgid "202. Mana Cost and Color"
-msgstr ""
+msgstr "202. Custo de Mana e Cor"
 
 msgid "202.1. A card’s mana cost is indicated by mana symbols near the top of the card. (See rule 107.4.) On most cards, these symbols are printed in the upper right corner. Some cards from the Future Sight set have alternate frames in which the mana symbols appear to the left of the illustration."
 msgstr ""
@@ -2074,13 +2074,13 @@ msgid "202.4. Any additional cost listed in an object’s rules text or imposed 
 msgstr ""
 
 msgid "203. Illustration"
-msgstr ""
+msgstr "203. Ilustração"
 
 msgid "203.1. The illustration is printed on the upper half of a card and has no effect on game play. For example, a creature doesn’t have the flying ability unless stated in its rules text, even if it’s depicted as flying."
 msgstr ""
 
 msgid "204. Color Indicator"
-msgstr ""
+msgstr "204. Indicador de Cor"
 
 msgid "204.1. The color indicator is printed to the left of the type line directly below the illustration. It consists of a circular symbol filled in with one or more colors. A color indicator is usually found on nonland cards without a mana cost."
 msgstr ""
@@ -2089,7 +2089,7 @@ msgid "204.2. An object with a color indicator is each color denoted by that col
 msgstr ""
 
 msgid "205. Type Line"
-msgstr ""
+msgstr "205. Linha de Tipo"
 
 msgid "205.1. The type line is printed directly below the illustration. It contains the card’s card type(s). It also contains the card’s subtype(s) and supertype(s), if applicable."
 msgstr ""
@@ -2209,7 +2209,7 @@ msgid "205.4h Any scheme card with the supertype “ongoing” is exempt from th
 msgstr ""
 
 msgid "206. Expansion Symbol"
-msgstr ""
+msgstr "206. Símbolo da Expansão"
 
 msgid "206.1. The expansion symbol indicates which Magic set a card is from. It’s a small icon normally printed below the right edge of the illustration. It has no effect on game play."
 msgstr ""
@@ -2236,7 +2236,7 @@ msgid "206.5. The full list of expansions and expansion symbols can be found in 
 msgstr ""
 
 msgid "207. Text Box"
-msgstr ""
+msgstr "207. Caixa de Texto"
 
 msgid "207.1. The text box is printed on the lower half of the card. It usually contains rules text defining the card’s abilities."
 msgstr ""
@@ -2260,7 +2260,7 @@ msgid "207.4. The chaos symbol {CHAOS} appears in the text box of each plane car
 msgstr ""
 
 msgid "208. Power/Toughness"
-msgstr ""
+msgstr "208. Poder/Resistência"
 
 msgid "208.1. A creature card has two numbers separated by a slash printed in its lower right corner. The first number is its power (the amount of damage it deals in combat); the second is its toughness (the amount of damage needed to destroy it). For example, 2/3 means the object has power 2 and toughness 3. Power and toughness can be modified or set to particular values by effects."
 msgstr ""
@@ -2293,7 +2293,7 @@ msgid "208.5. If a creature somehow has no value for its power, its power is 0. 
 msgstr ""
 
 msgid "209. Loyalty"
-msgstr ""
+msgstr "209. Lealdade"
 
 msgid "209.1. Each planeswalker card has a loyalty number printed in its lower right corner. This indicates its loyalty while it’s not on the battlefield, and it also indicates that the planeswalker enters the battlefield with that many loyalty counters on it."
 msgstr ""
@@ -2338,10 +2338,10 @@ msgid "212.1f Legal text (the fine print at the bottom or bottom-right of the ca
 msgstr ""
 
 msgid "3. Card Types"
-msgstr ""
+msgstr "3. Tipos de Carta"
 
 msgid "300. General"
-msgstr ""
+msgstr "300. Geral"
 
 msgid "300.1. The card types are artifact, conspiracy, creature, enchantment, instant, land, phenomenon, plane, planeswalker, scheme, sorcery, tribal, and vanguard."
 msgstr ""
@@ -2356,7 +2356,7 @@ msgid "300.2b Each tribal card has another card type. Casting and resolving a tr
 msgstr ""
 
 msgid "301. Artifacts"
-msgstr ""
+msgstr "301. Artefatos"
 
 msgid "301.1. A player who has priority may cast an artifact card from their hand during a main phase of their turn when the stack is empty. Casting an artifact as a spell uses the stack. (See rule 601, “Casting Spells.”)"
 msgstr ""
@@ -2401,7 +2401,7 @@ msgid "301.7b If a Vehicle becomes a creature, it immediately has its printed po
 msgstr ""
 
 msgid "302. Creatures"
-msgstr ""
+msgstr "302. Criaturas"
 
 msgid "302.1. A player who has priority may cast a creature card from their hand during a main phase of their turn when the stack is empty. Casting a creature as a spell uses the stack. (See rule 601, “Casting Spells.”)"
 msgstr ""
@@ -2437,7 +2437,7 @@ msgid "302.7. Damage dealt to a creature by a source with neither wither nor inf
 msgstr ""
 
 msgid "303. Enchantments"
-msgstr ""
+msgstr "303. Encantamentos"
 
 msgid "303.1. A player who has priority may cast an enchantment card from their hand during a main phase of their turn when the stack is empty. Casting an enchantment as a spell uses the stack. (See rule 601, “Casting Spells.”)"
 msgstr ""
@@ -2491,7 +2491,7 @@ msgid "303.5. Some enchantments have the subtype “Saga.” See rule 714 for mo
 msgstr ""
 
 msgid "304. Instants"
-msgstr ""
+msgstr "304. Instantâneas"
 
 msgid "304.1. A player who has priority may cast an instant card from their hand. Casting an instant as a spell uses the stack. (See rule 601, “Casting Spells.”)"
 msgstr ""
@@ -2509,7 +2509,7 @@ msgid "304.5. If text states that a player may do something “any time they cou
 msgstr ""
 
 msgid "305. Lands"
-msgstr ""
+msgstr "305. Terrenos"
 
 msgid "305.1. A player who has priority may play a land card from their hand during a main phase of their turn when the stack is empty. Playing a land is a special action; it doesn’t use the stack (see rule 116). Rather, the player simply puts the land onto the battlefield. Since the land doesn’t go on the stack, it is never a spell, and players can’t respond to it with instants or activated abilities."
 msgstr ""
@@ -2548,7 +2548,7 @@ msgid "305.9. If an object is both a land and another card type, it can be playe
 msgstr ""
 
 msgid "306. Planeswalkers"
-msgstr ""
+msgstr "306. Planinautas"
 
 msgid "306.1. A player who has priority may cast a planeswalker card from their hand during a main phase of their turn when the stack is empty. Casting a planeswalker as a spell uses the stack. (See rule 601, “Casting Spells.”)"
 msgstr ""
@@ -2590,7 +2590,7 @@ msgid "306.9. If a planeswalker’s loyalty is 0, it’s put into its owner’s 
 msgstr ""
 
 msgid "307. Sorceries"
-msgstr ""
+msgstr "307. Feitiços"
 
 msgid "307.1. A player who has priority may cast a sorcery card from their hand during a main phase of their turn when the stack is empty. Casting a sorcery as a spell uses the stack. (See rule 601, “Casting Spells.”)"
 msgstr ""
@@ -2611,7 +2611,7 @@ msgid "307.5a Similarly, if an effect checks to see if a spell was cast “any t
 msgstr ""
 
 msgid "308. Tribals"
-msgstr ""
+msgstr "308. Tribais"
 
 msgid "308.1. Each tribal card has another card type. Casting and resolving a tribal card follows the rules for casting and resolving a card of the other card type."
 msgstr ""
@@ -2620,7 +2620,7 @@ msgid "308.2. Tribal subtypes are always a single word and are listed after a lo
 msgstr ""
 
 msgid "309. Planes"
-msgstr ""
+msgstr "309. Planos"
 
 msgid "309.1. Plane is a card type seen only on nontraditional Magic cards. Only the Planechase casual variant uses plane cards. See rule 901, “Planechase.”"
 msgstr ""
@@ -2644,7 +2644,7 @@ msgid "309.7. Each plane card has a triggered ability that triggers “Whenever 
 msgstr ""
 
 msgid "310. Phenomena"
-msgstr ""
+msgstr "310. Fenômenos"
 
 msgid "310.1. Phenomenon is a card type seen only on nontraditional Magic cards. Only the Planechase casual variant uses phenomenon cards. See rule 901, “Planechase.”"
 msgstr ""
@@ -2746,10 +2746,10 @@ msgid "313.7. At any time, you may look at a face-down conspiracy card you contr
 msgstr ""
 
 msgid "4. Zones"
-msgstr ""
+msgstr "4. Zonas"
 
 msgid "400. General"
-msgstr ""
+msgstr "400. Geral"
 
 msgid "400.1. A zone is a place where objects can be during a game. There are normally seven zones: library, hand, battlefield, graveyard, stack, exile, and command. Some older cards also use the ante zone. Each player has their own library, hand, and graveyard. The other zones are shared by all players."
 msgstr ""
@@ -2833,7 +2833,7 @@ msgid "400.12. Some effects instruct a player to do something to a zone (such as
 msgstr ""
 
 msgid "401. Library"
-msgstr ""
+msgstr "401. Grimório"
 
 msgid "401.1. When a game begins, each player’s deck becomes their library."
 msgstr ""
@@ -2857,7 +2857,7 @@ msgid "401.7. If an effect causes a player to put a card into a library “Nth f
 msgstr ""
 
 msgid "402. Hand"
-msgstr ""
+msgstr "402. Mão"
 
 msgid "402.1. The hand is where a player holds cards that have been drawn. Cards can be put into a player’s hand by other effects as well. At the beginning of the game, each player draws a number of cards equal to that player’s starting hand size, normally seven. (See rule 103, “Starting the Game.”)"
 msgstr ""
@@ -2869,7 +2869,7 @@ msgid "402.3. A player may arrange their hand in any convenient fashion and look
 msgstr ""
 
 msgid "403. Battlefield"
-msgstr ""
+msgstr "403. Campo de Batalha"
 
 msgid "403.1. Most of the area between the players represents the battlefield. The battlefield starts out empty. Permanents a player controls are normally kept in front of them on the battlefield, though there are some cases (such as an Aura attached to another player’s permanent) when a permanent one player controls is kept closer to a different player."
 msgstr ""
@@ -2887,7 +2887,7 @@ msgid "403.5. Previously, the battlefield was called the “in-play zone.” Car
 msgstr ""
 
 msgid "404. Graveyard"
-msgstr ""
+msgstr "404. Cemitério"
 
 msgid "404.1. A player’s graveyard is their discard pile. Any object that’s countered, discarded, destroyed, or sacrificed is put on top of its owner’s graveyard, as is any instant or sorcery spell that’s finished resolving. Each player’s graveyard starts out empty."
 msgstr ""
@@ -2899,7 +2899,7 @@ msgid "404.3. If an effect or rule puts two or more cards into the same graveyar
 msgstr ""
 
 msgid "405. Stack"
-msgstr ""
+msgstr "405. Pilha"
 
 msgid "405.1. When a spell is cast, the physical card is put on the stack (see rule 601.2a). When an ability is activated or triggers, it goes on top of the stack without any card associated with it (see rules 602.2a and 603.3)."
 msgstr ""
@@ -2944,7 +2944,7 @@ msgid "405.6h If a player leaves a multiplayer game, objects may leave the game,
 msgstr ""
 
 msgid "406. Exile"
-msgstr ""
+msgstr "406. Exílio"
 
 msgid "406.1. The exile zone is essentially a holding area for objects. Some spells and abilities exile an object without any way to return that object to another zone. Other spells and abilities exile an object only temporarily."
 msgstr ""
@@ -3001,7 +3001,7 @@ msgid "5. Turn Structure"
 msgstr ""
 
 msgid "500. General"
-msgstr ""
+msgstr "500. Geral"
 
 msgid "500.1. A turn consists of five phases, in this order: beginning, precombat main, combat, postcombat main, and ending. Each of these phases takes place every turn, even if nothing happens during the phase. The beginning, combat, and ending phases are further broken down into steps, which proceed in order."
 msgstr ""
