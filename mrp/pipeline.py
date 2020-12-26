@@ -13,7 +13,12 @@ template_env = Environment(
     loader=FileSystemLoader("src/templates"),
     extensions=['jinja2.ext.i18n']
 )
-template_env.install_gettext_translations(gettext.translation("comprehensive-rules", "data", ["pt", "pt_BR"]))
+template_env.install_gettext_translations(gettext.translation(
+    domain="comprehensive-rules",
+    localedir="data",
+    languages=["pt", "pt_BR"],
+    fallback=True
+))
 
 
 def copy_tree(src, dst, ignore=None):

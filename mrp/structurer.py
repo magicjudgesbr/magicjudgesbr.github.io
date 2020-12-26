@@ -39,6 +39,7 @@ class RulesStructurer:
                     strdate = match.group(1)
                     date = datetime.datetime.strptime(strdate, "%B %d, %Y")
                     cr["effective_date"] = date
+                    cr["effective_date_str"] = line
                     state = State.INTRO
                 else:
                     cr["title"] = line
