@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2020-12-26 20:49\n"
+"PO-Revision-Date: 2020-12-26 22:30\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -19,7 +19,7 @@ msgid "These rules are effective as of November 20, 2020."
 msgstr "Estas regras entram em vigor em 20 de Novembro de 2020."
 
 msgid "Introduction"
-msgstr ""
+msgstr "Introdução"
 
 msgid "This document is the ultimate authority for Magic: The Gathering® competitive game play. It consists of a series of numbered rules followed by a glossary. Many of the numbered rules are divided into subrules, and each separate rule and subrule of the game has its own number. (Note that subrules skip the letters “l” and “o” due to potential confusion with the numbers “1” and “0”; subrule 704.5k is followed by 704.5m, then 704.5n, then 704.5p, for example.)"
 msgstr ""
