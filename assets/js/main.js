@@ -67,7 +67,7 @@
 
     function initSearch() {
         var request = new XMLHttpRequest();
-        request.open('GET', 'assets/js/search-data.json', true);
+        request.open('GET', "/assets/js/search-data.json", true);
 
         request.onload = function () {
             if (request.status >= 200 && request.status < 400) {
@@ -77,9 +77,11 @@
                 /[\s\-/]+/
 
                 var index = lunr(function () {
+                     // use the language (pt)
+                    // this.use(lunr.pt);
                     this.ref('id');
                     this.field('title', {boost: 200});
-                    this.field('content', {boost: 2});
+                    this.field('content', {boost: 10});
                     this.metadataWhitelist = ['position']
 
                     for (var i in docs) {
