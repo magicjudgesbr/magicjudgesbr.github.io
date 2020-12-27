@@ -5,22 +5,11 @@ import yaml
 import sass
 import json
 import gettext
+import re
 from livereload import Server
-from jinja2 import Environment, FileSystemLoader
+from jinja2 import Environment, FileSystemLoader, contextfilter
 
 from mrp.structurer import RulesStructurer
-
-template_env = Environment(
-    loader=FileSystemLoader("src/templates"),
-    extensions=['jinja2.ext.i18n']
-)
-translations = gettext.translation(
-    domain="comprehensive-rules",
-    localedir="data",
-    languages=["pt"]
-)
-template_env.install_gettext_translations(translations)
-
 
 def copy_tree(src, dst, ignore=None):
     if not os.path.exists(src):
@@ -50,6 +39,41 @@ def copy_tree(src, dst, ignore=None):
     remove_empty_folders(dst)
 
 
+template_env = Environment(
+    loader=FileSystemLoader("src/templates"),
+    extensions=['jinja2.ext.i18n']
+)
+translations = gettext.translation(
+    domain="comprehensive-rules",
+    localedir="data",
+    languages=["pt"]
+)
+template_env.install_gettext_translations(translations)
+
+
+class TemplateFilters(object):
+
+    def __init__(self, cr):
+        self.terms = []
+        for entry in cr["glossary"]:
+            self.terms.append(translations.gettext(entry["term"]).lower())
+
+    def ref_rules(self, value):
+        return value
+
+    def glossary(self, value):
+        for term in self.terms:
+            pattern = re.compile(f"\\b{re.escape(term)}s?\\b", re.IGNORECASE)
+            for match in pattern.finditer(value):
+                value = self._wrap_term(value, match, term)
+
+        return value
+
+    def _wrap_term(self, value, match, term):
+        term = term.lower().replace(' ', '-')
+        return f"{value[:match.start()]}<span class='tooltip term-{term}'>{value[match.start():match.end()]}</span>{value[match.end():]}"
+
+
 class BuildPipeline(object):
     logger = logging.getLogger(__name__)
     src_dir = "src/"
@@ -76,10 +100,18 @@ class BuildPipeline(object):
             self.config = yaml.load(file, Loader=yaml.FullLoader)
 
         self.logger.info("building...")
+        self._parse_rules_structure()
+
         self._copy_assets()
         self._copy_static()
         self._process_sass()
-        self._parse_rules_structure()
+
+        self._create_terms_classes()
+
+        filters = TemplateFilters(self.cr)
+        template_env.filters["ref_rules"] = filters.ref_rules
+        template_env.filters["glossary"] = filters.glossary
+
         self._process_templates()
         self._create_search_data()
 
@@ -246,3 +278,11 @@ class BuildPipeline(object):
                 }
         with open(os.path.join(self.dst_dir, "assets/js/search-data.json"), "w") as file:
             json.dump(search_data, file)
+
+    def _create_terms_classes(self):
+        template = template_env.get_template("terms.css")
+
+        output_file = os.path.join(self.dst_dir, "assets/css/terms.css")
+
+        with open(output_file, "w") as out:
+            out.write(template.render(glossary=self.cr["glossary"], **self.config))
