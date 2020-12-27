@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2020-12-27 13:20\n"
+"PO-Revision-Date: 2020-12-27 14:20\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -298,7 +298,7 @@ msgid "608. Resolving Spells and Abilities"
 msgstr ""
 
 msgid "609. Effects"
-msgstr ""
+msgstr "609. Efeitos"
 
 msgid "610. One-Shot Effects"
 msgstr ""
@@ -322,7 +322,7 @@ msgid "616. Interaction of Replacement and/or Prevention Effects"
 msgstr ""
 
 msgid "7. Additional Rules"
-msgstr ""
+msgstr "7. Regras Adicionais"
 
 msgid "700. General"
 msgstr "700. Geral"
@@ -12187,7 +12187,7 @@ msgid "A creature type with no particular rules meaning. Older cards with the Wa
 msgstr ""
 
 msgid "Win the Game"
-msgstr ""
+msgstr "Ganhar o Jogo"
 
 msgid "There are several ways to win the game. See rule 104, “Ending the Game,” and rules 810.8 (for additional rules for Two-Headed Giant games) and rule 809.5 (for additional rules for Emperor games)."
 msgstr ""
