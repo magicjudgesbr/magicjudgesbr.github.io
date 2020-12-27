@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2020-12-27 00:49\n"
+"PO-Revision-Date: 2020-12-27 01:49\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -514,7 +514,7 @@ msgid "100.6. Most Magic tournaments (organized play activities where players co
 msgstr ""
 
 msgid "100.6a Tournaments usually consist of a series of matches. A two-player match usually involves playing until one player has won two games. A multiplayer match usually consists of only one game."
-msgstr ""
+msgstr "100.6a Torneios geralmente consistem em uma série de partidas. Uma partida de dois jogadores normalmente envolve jogar até um jogador ganhar duas partidas. Uma partida de vários jogadores geralmente consiste de apenas um jogo."
 
 msgid "100.6b Players can use the Magic Store & Event Locator at Wizards.com/Locator to find tournaments in their area."
 msgstr ""
@@ -529,13 +529,13 @@ msgid "101.1. Whenever a card’s text directly contradicts these rules, the car
 msgstr "101.1. Sempre que o texto de uma carta contradiz diretamente essas regras, o carta tem precedência. A carta sobrescreve apenas a regra que se aplica a essa situação específica. A única exceção é que um jogador pode conceder o jogo a qualquer momento (veja a regra 104.3a)."
 
 msgid "101.2. When a rule or effect allows or directs something to happen, and another effect states that it can’t happen, the “can’t” effect takes precedence."
-msgstr ""
+msgstr "101.2. Quando uma regra ou efeito permite ou direciona algo para acontecer, e outro efeito afirma que não pode acontecer, o efeito \"não pode\" tem precedência."
 
 msgid "Example: If one effect reads “You may play an additional land this turn” and another reads “You can’t play lands this turn,” the effect that precludes you from playing lands wins."
 msgstr ""
 
 msgid "101.2a Adding abilities to objects and removing abilities from objects don’t fall under this rule. (See rule 113.10.)"
-msgstr ""
+msgstr "101.2a Adicionar habilidades a objetos e remover habilidades de objetos não se enquadram nesta regra. (Veja a regra 113.10.)"
 
 msgid "101.3. Any part of an instruction that’s impossible to perform is ignored. (In many cases the card will specify consequences for this; if it doesn’t, there’s no effect.)"
 msgstr ""
@@ -9955,10 +9955,10 @@ msgid "A keyword ability that causes damage dealt by an object to be especially 
 msgstr ""
 
 msgid "Deck"
-msgstr ""
+msgstr "Grimório"
 
 msgid "The collection of cards a player starts the game with; it becomes that player’s library. See rule 100, “General,” and rule 103, “Starting the Game.”"
-msgstr ""
+msgstr "O conjunto de cartas com as quais um jogador começa o jogo; torna-se o grimório desse jogador. Veja a regra 100, \"Geral\", e a regra 103, \"Iniciando o Jogo.\""
 
 msgid "Declare Attackers"
 msgstr ""
@@ -12106,7 +12106,7 @@ msgid "A keyword ability that makes it nearly impossible for a player to respond
 msgstr ""
 
 msgid "Stack"
-msgstr ""
+msgstr "Pilha"
 
 msgid "A zone. The stack is the zone in which spells, activated abilities, and triggered abilities wait to resolve. See rule 405, “Stack.”"
 msgstr ""
@@ -12256,7 +12256,7 @@ msgid "A keyword ability that provides an alternative way to play a card. See ru
 msgstr ""
 
 msgid "Swamp"
-msgstr ""
+msgstr "Pântano"
 
 msgid "One of the five basic land types. Any land with this subtype has the ability “{T}: Add {B}.” See rule 305.6."
 msgstr ""
@@ -12292,7 +12292,7 @@ msgid "The tap symbol {T} in an activation cost means “Tap this permanent.” 
 msgstr ""
 
 msgid "Target"
-msgstr ""
+msgstr "Alvo"
 
 msgid "A preselected object or player a spell or ability will affect. See rule 115, “Targets.”"
 msgstr ""
@@ -12340,7 +12340,7 @@ msgid "A system used to determine in which order continuous effects in the same 
 msgstr ""
 
 msgid "Token"
-msgstr ""
+msgstr "Token"
 
 msgid "A marker used to represent any permanent that isn’t represented by a card. See rule 111, “Tokens.”"
 msgstr ""
@@ -12370,7 +12370,7 @@ msgid "A keyword ability that allows an Aura to protect the permanent it’s enc
 msgstr ""
 
 msgid "Toughness"
-msgstr ""
+msgstr "Resistência"
 
 msgid "1. Part of a card that only creatures have. A creature card’s toughness is printed after the slash in its lower right corner. See rule 208, “Power/Toughness.”"
 msgstr ""
@@ -12379,7 +12379,7 @@ msgid "2. A characteristic that only creatures have. See rule 302.4."
 msgstr ""
 
 msgid "Tournament"
-msgstr ""
+msgstr "Torneio"
 
 msgid "An organized play activity where players compete against other players. See rule 100.6."
 msgstr ""
@@ -12685,16 +12685,16 @@ msgid "A state-based action that causes all permanents with the world supertype 
 msgstr ""
 
 msgid "X"
-msgstr ""
+msgstr "X"
 
 msgid "A placeholder for a number that needs to be determined. See rule 107.3."
 msgstr ""
 
 msgid "Y"
-msgstr ""
+msgstr "Y"
 
 msgid "See X."
-msgstr ""
+msgstr "Veja X."
 
 msgid "You, Your"
 msgstr ""
@@ -12703,10 +12703,10 @@ msgid "Words that refer to an object’s controller, its would-be controller (if
 msgstr ""
 
 msgid "Zone"
-msgstr ""
+msgstr "Zona"
 
 msgid "A place where objects can be during a game. See section 4, “Zones.”"
-msgstr ""
+msgstr "Um lugar onde objetos podem estar durante um jogo. Veja a seção 4, \"Zonas.\""
 
 msgid "Zone-Change Triggers"
 msgstr ""
