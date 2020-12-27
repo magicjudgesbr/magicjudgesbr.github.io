@@ -12,6 +12,7 @@
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
 
     <link rel="stylesheet" href="/assets/css/main.css">
+    <link rel="stylesheet" href="/assets/css/terms.css">
 
     
 
@@ -440,7 +441,7 @@
                 </svg>
             </a>
             
-            603.1. Triggered abilities have a trigger condition and an effect. They are written as “[When/Whenever/At] [trigger condition or event], [effect]. [Instructions (if any).]”
+            603.1. Triggered abilities have a <span class='tooltip term-trigger'>trigger</span> condition and an <span class='tooltip term-effect'>effect</span>. They are written as “[When/Whe<span clas<span class='tooltip term-trigger'>s='tool</span>tip term-effect'>never/</span>At] [<span class='tooltip term-trigger-condition'>trigger condition</span> or <span class='tooltip term-event'>event</span>], [effect]. [Instructions (<span class='tooltip term-if'>if</span> any).]”
         </h3>
         <h4 id="1a">
             <a href="#1a" class="anchor-heading" aria-labelledby="1a">
@@ -449,7 +450,7 @@
                 </svg>
             </a>
             
-            603.1a A triggered ability may include instructions after its effects that limit what the ability may target or state that it can’t be countered. This text is not part of the ability’s effect. It functions while the ability is on the stack.
+            603.1a A triggered <span class='tooltip term-ability'>ability</span> may include instructi<span class='tooltip term-ability'>ons aft</span>er its <span class='tooltip term-effect'>effects</span> that limit what the a<span class='tooltip term-ability'>bility<span class='tooltip term-ability'> </span</span>>may target or state that it can’t be countered<span class='tooltip term-effect'>. This</span> text is not part of the ability’s effect. It functions while the ability is on the stack.
         </h4>
         <h3 id="2">
             <a href="#2" class="anchor-heading" aria-labelledby="2">
@@ -458,7 +459,7 @@
                 </svg>
             </a>
             
-            603.2. Whenever a game event or game state matches a triggered ability’s trigger event, that ability automatically triggers. The ability doesn’t do anything at this point.
+            603.2. Whenever a game <span class='tooltip term-event'>event</span> or game state matches a triggered <span class='tooltip term-abil<span class='tooltip term-ability'>i<span class='tooltip term-ability'>ty'<span class='tooltip term-event'>>ab<<</span>/span>/span>ility</span>’s <span class='tooltip term-trigger'>trigger<span class='tooltip term-trigger'></span> </span>event, that ability automatically triggers. The ability doesn’t do anything at this point.
         </h3>
         <h4 id="2a">
             <a href="#2a" class="anchor-heading" aria-labelledby="2a">
@@ -467,7 +468,7 @@
                 </svg>
             </a>
             
-            603.2a Because they aren’t cast or activated, triggered abilities can trigger even when it isn’t legal to cast spells and activate abilities. Effects that preclude abilities from being activated don’t affect them.
+            603.2a Because they aren’t <span class='tooltip term-cast'>cast</span> or activated, triggered abilities c<span class='tooltip term-cast'>an t</span>rigger even when it isn’t legal to cast <span class='tooltip term-spell'>spells</span> and <span class='tooltip term-activate'>activate</span> abilities. <span class='tooltip term-effect'>Effects</span> that preclude abilities from being activated don’t affect them.
         </h4>
         <h4 id="2b">
             <a href="#2b" class="anchor-heading" aria-labelledby="2b">
@@ -476,7 +477,7 @@
                 </svg>
             </a>
             
-            603.2b When a phase or step begins, all abilities that trigger “at the beginning of” that phase or step trigger.
+            603.2b When a <span class='tooltip term-phase'>phase</span> or <span class='tooltip term-step'>step</span> begins, all abilities <span class='tooltip term-phase'>that </span>trigg<span class='tooltip term-step'>er “</span>at the beginning of” that phase or step <span class='tooltip term-trigger'>trigger</span>.
         </h4>
         <h4 id="2c">
             <a href="#2c" class="anchor-heading" aria-labelledby="2c">
@@ -485,7 +486,7 @@
                 </svg>
             </a>
             
-            603.2c An ability triggers only once each time its trigger event occurs. However, it can trigger repeatedly if one event contains multiple occurrences.
+            603.2c An <span class='tooltip term-ability'>ability</span> <span class='tooltip term-trigger<span class='tooltip term-trigger'>'>trigg</span>ers</span> only once each time its trigger <span class='tooltip term-<span class='tooltip term-trigger'>event'></span>event</span> occurs. Ho<span class='tooltip term-event'>wever</span>, it can trigger repeatedly <span class='tooltip term-if'>if</span> one event contains multiple occurrences.
         </h4>
             <blockquote>
             Example: A permanent has an ability whose trigger condition reads, “Whenever a land is put into a graveyard from the battlefield, . . . .” If someone casts a spell that destroys all lands, the ability will trigger once for each land put into the graveyard during the spell’s resolution.
@@ -497,7 +498,7 @@
                 </svg>
             </a>
             
-            603.2d An ability may state that a triggered ability triggers additional times. In this case, rather than simply determining that such an ability has triggered, determine how many times it should trigger, then that ability triggers that many times. An effect that states that an ability triggers additional times doesn’t invoke itself repeatedly and doesn’t apply to other effects that affect how many times an ability triggers.
+            603.2d An <span class='tooltip term-ability'><span class='tooltip term-ability'>ability</span></span> may state that a <span class='tooltip term-triggered-ability'>triggered ability</span> t<span class='tooltip term-ability'>riggers</span> additional times. In this c<span class='tooltip term-ability'>ase, ra</span>ther than simpl<span class='tooltip term-ability'><span class='tooltip term-y'>y</span> deter</span>mining that such an ability has triggered, determine how many times it should trigg<span class='tooltip term-ability'>er, the</span>n that ability <span class='tooltip term-trigger'>triggers</span> that many times. An <span class='tooltip term-effect'><span class='tooltip term-trigger'>effect</</span>span> that states that an ability triggers additional times doesn’t invoke itse<span class='tooltip term-effect'>lf repe</s<span class='tooltip term-trigger'>pan>ated</span>ly and doesn’t apply to other effects that affect how many times an ability triggers.
         </h4>
         <h4 id="2e">
             <a href="#2e" class="anchor-heading" aria-labelledby="2e">
@@ -506,7 +507,7 @@
                 </svg>
             </a>
             
-            603.2e Some trigger events use the word “becomes” (for example, “becomes attached” or “becomes blocked”). These trigger only at the time the named event happens—they don’t trigger if that state already exists or retrigger if it persists. An ability that triggers when a permanent “becomes tapped” or “becomes untapped” doesn’t trigger if the permanent enters the battlefield in that state.
+            603.2e Some <span class='tooltip term-trigger'>trigger</span> <span class='tooltip term-event'>events</span> use the word “<span class='tooltip ter<span class='tooltip t<span class='tooltip term-becomes'>erm-bec</span>omes'>m-becom</span>es'>becomes</span>” (for example, “becomes attached” or “becomes blocked”). T<sp<span class='tooltip term-trigger'>an clas</span>s='tooltip <span class='tooltip term-trigger'>term-ev</span>ent'>hese </span>trigger only at the time the named event happens—they don’t trigger <span class='tooltip term-if'>if</span> that state alr<span class='tooltip<span class='tooltip term-becomes'> term-b</span>eco<span class='tooltip term-if'>me</span>s'>eady ex</span>ists or <span class='tooltip term-trigger'>retrigg</span>er if it <span class='tooltip term-persist'>persists</span>. An <span class='tooltip term-ability'>ability</span> that trigger<span class='tooltip term-if'>s </span>when a <span class='toolt<span class='tooltip term-trigger'>ip term</span>-permanent'>permanent</span> “becomes <span class='tooltip term-tapped'>tapped</span>” o<span class='tooltip term-permanent'>r “become</span>s <span class='tooltip term-untapped'>untapped</span>” doesn’t trigger if the permanent enters the <span class='tooltip term-battlefield'>battlefield</span> in that state.
         </h4>
             <blockquote>
             Example: An ability that triggers when a permanent “becomes tapped” triggers only when the status of a permanent that’s already on the battlefield changes from untapped to tapped.
@@ -518,7 +519,7 @@
                 </svg>
             </a>
             
-            603.2f If a triggered ability’s trigger condition is met, but the object with that triggered ability is at no time visible to all players, the ability does not trigger.
+            603.2f <span class='tooltip term-if'>If</span> a triggered <span class='tooltip term-ability'>ability</span>’s <span class='tooltip term-trigger'>trigger</span> condition i<span class='tooltip term-ability'>s met, </span>b<span class='tooltip term-ability'>ut the </span><span class='tooltip term-object'>object</span> with that <span class='tooltip term-triggered-ability'>triggered ability</span> is at no time visible to all <span class='tooltip term-pla<span class='tooltip term-trigger'>yer'>pl</span>ayers</span>, the ability does not trigger.
         </h4>
         <h4 id="2g">
             <a href="#2g" class="anchor-heading" aria-labelledby="2g">
@@ -527,7 +528,7 @@
                 </svg>
             </a>
             
-            603.2g An ability triggers only if its trigger event actually occurs. An event that’s prevented or replaced won’t trigger anything.
+            603.2g An <span class='tooltip term-ability'>ability</span> <span class='tooltip term-trigger'>triggers</span> only <s<span class='tooltip term-trigger'>pan cla</span>ss='tooltip term-if'>if</span> its trigger <span class='tooltip term-<span class='tooltip term-event'>even<span class='tooltip term-trigger'>t</span</span>>'>event</span> actually occurs. An event that’s prevented or replaced won’t trigger anything.
         </h4>
             <blockquote>
             Example: An ability that triggers on damage being dealt won’t trigger if all the damage is prevented.
@@ -539,7 +540,7 @@
                 </svg>
             </a>
             
-            603.3. Once an ability has triggered, its controller puts it on the stack as an object that’s not a card the next time a player would receive priority. See rule 117, “Timing and Priority.” The ability becomes the topmost object on the stack. It has the text of the ability that created it, and no other characteristics. It remains on the stack until it’s countered, it resolves, a rule causes it to be removed from the stack, or an effect moves it elsewhere.
+            603.3. Once an <span class='tooltip term-ability'>ability</span> has triggered, its controller puts it on the stack as an <span class='tooltip term-object'>object</span> that’s not a <span class='tooltip term-card'>card</span> the next time a <span class='tooltip term-player'>player</span> would receive <span class='tooltip term-priority'>priority</span>.<span class='tooltip term-ability'> See ru</span>le 117, “Timing and Pri<span class='tooltip term-ability'>ority.”</span> The ability <span class='tooltip <span class='tooltip term-object'>term-b</span>ecomes'>becomes</span> the topmost object on the stack. It has the text of the ability that created it, and no other <span class='tooltip term-characteristics'>characteristics</span>. It remains on the stack until it’s countered, it <span class='tooltip term-resolve'>resolves</span>, a rule causes it to be removed from the stack, or an <span class='tooltip term-effect'>effect</span> <span class='tooltip term-move'>moves</span> it elsewhere.
         </h3>
         <h4 id="3a">
             <a href="#3a" class="anchor-heading" aria-labelledby="3a">
@@ -548,7 +549,7 @@
                 </svg>
             </a>
             
-            603.3a A triggered ability is controlled by the player who controlled its source at the time it triggered, unless it’s a delayed triggered ability. To determine the controller of a delayed triggered ability, see rules 603.7d–f.
+            603.3a A triggered <span class='tooltip term-ability'>ability</span> is controlled by the <span class='tooltip term-player'>player</span> who controlled its source at the time it t<span class='tooltip term-ability'>riggere</span>d, <span class='tooltip term-unless'>unless</span> i<span class='tooltip term-ability'>t’s a d</span>elayed <span class='tooltip term-triggered-ability'>triggered ability</span>. To determine the controller of a <span cla<span class='tooltip term-triggered-ability'>ss='tooltip term-</span>delayed-triggered-ability'>delayed triggered ability</span>, see rules 603.7d–f.
         </h4>
         <h4 id="3b">
             <a href="#3b" class="anchor-heading" aria-labelledby="3b">
@@ -557,7 +558,7 @@
                 </svg>
             </a>
             
-            603.3b If multiple abilities have triggered since the last time a player received priority, each player, in APNAP order, puts triggered abilities they control on the stack in any order they choose. (See rule 101.4.) Then the game once again checks for and resolves state-based actions until none are performed, then abilities that triggered during this process go on the stack. This process repeats until no new state-based actions are performed and no abilities trigger. Then the appropriate player gets priority.
+            603.3b <span class='tooltip term-if'>If</span> multiple abilities have triggered since the last time a <span class='tooltip term-playe<span class='tooltip term-player'>r'>pla</span>yer</span> received <span class='tooltip term-priority'>priority</span>, each player, in <span class='tooltip term-apnap-order'>APNAP order</span>, puts triggered abilities they control on the stack in any order they choose. (See rule 101.4.) Then the game once again checks for and <span class='tooltip term-resolve'>resolves</span> <span class='tooltip term-state-based-actions'>state-based actions</span> until none are performed, then abilities that triggered during this process go on the stack. This process repeats until no new<span class='tooltip term-player'> state</span>-based actions are performed and no abilities<span class='tooltip term-priority'> <span class='tooltip term-trigger'>trigger</span></span>. Then the appropriate player gets priority.
         </h4>
         <h4 id="3c">
             <a href="#3c" class="anchor-heading" aria-labelledby="3c">
@@ -566,7 +567,7 @@
                 </svg>
             </a>
             
-            603.3c If a triggered ability is modal, its controller announces the mode choice when putting the ability on the stack. If one of the modes would be illegal (due to an inability to choose legal targets, for example), that mode can’t be chosen. If no mode is chosen, the ability is removed from the stack. (See rule 700.2.)
+            603.3c <span class='tooltip term-if'>If</span> a triggered <span class='tooltip term-ability'>ability</span> is modal, its controller a<span class='tooltip term-ability'>nnounce</span>s the mode choice wh<span class='tooltip term-if'>en</span> putting the ability on the stack. If one of the modes would be illegal (due to an inability to choos<span class='tooltip term-<span class='tooltip term-if'>ab</span>ility'>e legal</span> targets, for example), that mode can’t be chosen. If no mode is chosen, the ability is removed from the stack. (See rule 700.2.)
         </h4>
         <h4 id="3d">
             <a href="#3d" class="anchor-heading" aria-labelledby="3d">
@@ -575,7 +576,7 @@
                 </svg>
             </a>
             
-            603.3d The remainder of the process for putting a triggered ability on the stack is identical to the process for casting a spell listed in rules 601.2c–d. If a choice is required when the triggered ability goes on the stack but no legal choices can be made for it, or if a rule or a continuous effect otherwise makes the ability illegal, the ability is simply removed from the stack.
+            603.3d The remainder of the process for putting a triggered <span class='tooltip term-ability'>ability</span> on the stack is identical to the process for casting a <span class='tooltip term-spell'>spell</span> listed in rules 601.2c–d. I<span class='tooltip term-ability'>f a cho</span>ice is required when the <span class='tooltip term-triggered-ability'>triggered ability</span> goes on the stack but no legal <span class='tooltip <span class='tooltip term-ability'>term-ab</span>ility'>choices</span> can be made for it, or <span class='tooltip term-if'>if</span> a rule or a <span class='tooltip term-continuous-<span class='toolti<span class='tooltip term-effect'>p term</span>-effect'>effect</span>'>continuous effect</span> otherwise makes the ability illegal, the ability is simply removed from the stack.
         </h4>
         <h3 id="4">
             <a href="#4" class="anchor-heading" aria-labelledby="4">
@@ -584,7 +585,7 @@
                 </svg>
             </a>
             
-            603.4. A triggered ability may read “When/Whenever/At [trigger event], if [condition], [effect].” When the trigger event occurs, the ability checks whether the stated condition is true. The ability triggers only if it is; otherwise it does nothing. If the ability triggers, it checks the stated condition again as it resolves. If the condition isn’t true at that time, the ability is removed from the stack and does nothing. Note that this mirrors the check for legal targets. This rule is referred to as the “intervening ‘if’ clause” rule. (The word “if” has only its normal English meaning anywhere else in the text of a card; this rule only applies to an “if” that immediately follows a trigger condition.)
+            603.4. A triggered <span class='tooltip term-ability'>ability</span> may read “When/Whenever/At [<span class='tooltip term-trigger'>trigger</span> <span class='tooltip term-event'>event</span>], <span class='tooltip term-if'>if</span> [condition], [eff<span class='tooltip term-ability'>ect].” </span>When the<span class<span class='tooltip term-event'>='too</span>ltip term-ability'> trigge</span>r event occurs, t<span class='tooltip term-ability'>he abil</span>ity checks whether <span class='tooltip term-trigger'>the sta</span>ted condition is true. The ability trigger<span class=<span class='tooltip term-if'>'t</spa<span class='tooltip term-if'>n></span>ooltip term-ability'>s only </span>if i<<span class='tooltip term-trigger'>span cla</span>ss='tooltip term-if'>t </span>is; otherwise it does nothing. If the ability triggers, it checks the stated condition again as it <span class='tooltip term-resolve'>resolves</span>. If the condition isn’t true at that time, the ab<span class='tooltip term-if'<span class='tooltip term-if'>>i</span>l</span>ity is removed from the stack and does nothing. Note that this mirrors the check for legal targets.<span class='tooltip term-if'> T</span>his rule is referred to as the “intervening ‘if’ clause” rule. (The word “if” has only its normal English meaning anywhere el<span class='tooltip term-trigger'>se in t</span>he text of a <span class='tooltip term-card'>card</span>; this rule only applies to an “if” that immediately follows a <span class='tooltip term-trigger-condition'>trigger condition</span>.)
         </h3>
             <blockquote>
             Example: Felidar Sovereign reads, “At the beginning of your upkeep, if you have 40 or more life, you win the game.” Its controller’s life total is checked as that player’s upkeep begins. If that player has 39 or less life, the ability doesn’t trigger at all. If that player has 40 or more life, the ability triggers and goes on the stack. As the ability resolves, that player’s life total is checked again. If that player has 39 or less life at this time, the ability is removed from the stack and has no effect. If that player has 40 or more life at this time, the ability resolves and that player wins the game.
@@ -596,7 +597,7 @@
                 </svg>
             </a>
             
-            603.5. Some triggered abilities’ effects are optional (they contain “may,” as in “At the beginning of your upkeep, you may draw a card”). These abilities go on the stack when they trigger, regardless of whether their controller intends to exercise the ability’s option or not. The choice is made when the ability resolves. Likewise, triggered abilities that have an effect “unless” something is true or a player chooses to do something will go on the stack normally; the “unless” part of the ability is dealt with when the ability resolves.
+            603.5. Some triggered abilities’ <span class='tooltip term-effect'>effects</span> are optional (they contain “may,” as in “At the beginning of your upkeep, you may <span class='tooltip term-draw'>draw</span> a <span class='tooltip term-card'>card</span>”). These abilities go on the stack when they <span class='tooltip term-trigger'>trigger</span>, regardless of whether their controller intends to exercise the <span class='tooltip term-ability'>ability</span>’s o<span class='tooltip term-ability'>ption o</span>r not. The choice is made when the ability <span class='tooltip term-resolve'>resolves</span>. Li<span class='tooltip term-effect'>kewise</span>, triggered abilities that have an effect “<span class='tooltip term-unless'>unless</span>” something is true or a pla<span class='tooltip term-abili<span class='tooltip term-ability'>ty'>yer</span> cho</span>oses to do somet<span class='tooltip term-unless'>hing w</span>ill go on the stack normally; the “unless” part of t<span class='tooltip term-resolve'>he abili</span>ty is dealt with when the ability resolves.
         </h3>
         <h3 id="6">
             <a href="#6" class="anchor-heading" aria-labelledby="6">
@@ -605,7 +606,7 @@
                 </svg>
             </a>
             
-            603.6. Trigger events that involve objects changing zones are called “zone-change triggers.” Many abilities with zone-change triggers attempt to do something to that object after it changes zones. During resolution, these abilities look for the object in the zone that it moved to. If the object is unable to be found in the zone it went to, the part of the ability attempting to do something to the object will fail to do anything. The ability could be unable to find the object because the object never entered the specified zone, because it left the zone before the ability resolved, or because it is in a zone that is hidden from a player, such as a library or an opponent’s hand. (This rule applies even if the object leaves the zone and returns again before the ability resolves.) The most common zone-change triggers are enters-the-battlefield triggers and leaves-the-battlefield triggers.
+            603.6. <span class='tooltip term-trigger'>Trigger</span> <span class='tooltip term-event'>events</span> that involve <span class='tooltip term-object'>objects</spa<span class='tooltip term-trigger'>n> chang</span>ing zones are called “<span class='tooltip term-zone-change-triggers'>zone-change triggers</span>.” Many abilities with zone-change <span class='tooltip term-object'>trigge</span>rs attempt to do something to th<span class='tooltip term-object'>at obj</span>ect after it changes zones. During<span class='tooltip term-object'> resol</span>ution, these abilities look for the object in the zone that it moved to. <span class='tooltip term-if'>If</span> the object is unable to be found in the zone it went to, the part of the <span class='tooltip term-ability'><span class='tooltip term-object'>abilit</span><span class='tooltip term-y'>y</span></span> attem<span class='tooltip term-object'>pting </span>to do something to<span class='tooltip term-ability'> the ob</span>ject will fail to do anything. The ability could be unable to find the object becau<span class='tooltip term-ability'>se the </span>object never entered the specified zone, because it left the zone before the ability resolved, or because it is in a zone that is hidden f<span class='tooltip term-object'>rom a </span><span class='tooltip term-player'>player</span><span class='tooltip term-ability'>, such </span>as a <span class='tooltip term-library'>library</span> or an <span class='tooltip term-opponent'>opponent</span>’s <span class='tooltip term-hand'><span class='tooltip term-if'>ha</span>nd</span>. (This rule applies even if the object leaves the zone and returns again before the abili<span class='tooltip term-trigger'>ty <span</span> class='tooltip term-resolve'>resolves</span>.) The most common zone-change tr<span class='tooltip term-trigger'>i<span class='tooltip term-trigger'>ggers a<</span>/span>re enters-the-<span class='tooltip term-battlefiel<span class='tooltip term-battlefield'>d'>battlefi</span>eld</span> triggers and leaves-the-battlefield triggers.
         </h3>
         <h4 id="6a">
             <a href="#6a" class="anchor-heading" aria-labelledby="6a">
@@ -614,7 +615,7 @@
                 </svg>
             </a>
             
-            603.6a Enters-the-battlefield abilities trigger when a permanent enters the battlefield. These are written, “When [this object] enters the battlefield, . . . “ or “Whenever a [type] enters the battlefield, . . .” Each time an event puts one or more permanents onto the battlefield, all permanents on the battlefield (including the newcomers) are checked for any enters-the-battlefield triggers that match the event.
+            603.6a Enters-the-<span class='tooltip term-battlefield'>battlefield</span> <span class='tooltip term-battlefield'>abilities t</span>rigger<span class='tooltip term-battlefield'> when a per</sp<span class='tooltip term-battlefield'>an>manent e</span>nters the battlefie<span class='tooltip term-battlefie<span class='tooltip term-battlefield'>ld'>ld. The</span>se a</span>r<span class='tooltip term-battlefield'>e written, </span>“When [this <span class='tooltip term-object'>object</span>] <span class='tooltip term-enters-the-battlefield'>ente<span class='tooltip term-enters-the-battlefield'>rs the battlefield</sp</span>an>, . . . “ or “Whenever a [<span class='tooltip term-type'>type</span>] enters the battlefield, . . .” Each time an <span class='tooltip term-event'>event</span> puts one or more <span class='tooltip term-permanent'><span class='tooltip term-permanent'>permanents</span></span> onto the battlefield, all permanents on the battlefield (including the newcomers) are checked for any enters-<span class='tooltip term-event'>the-b</span>attlefield <span class='tooltip term-trigger'>triggers</span> that <span class='tooltip term-match'>match</span> the event.
         </h4>
         <h4 id="6b">
             <a href="#6b" class="anchor-heading" aria-labelledby="6b">
@@ -623,7 +624,7 @@
                 </svg>
             </a>
             
-            603.6b Continuous effects that modify characteristics of a permanent do so the moment the permanent is on the battlefield (and not before then). The permanent is never on the battlefield with its unmodified characteristics. Continuous effects don’t apply before the permanent is on the battlefield, however (see rule 603.6d).
+            603.6b <span class='tooltip term-continuous-<span class='toolti<span class='tooltip term-effect'>p term-</span>effect'>effect</span>'>Continuous effects</span> that modify <span class='tooltip term-characteristics'>characteristics</span> of a <span class='tooltip term-perma<span class='tooltip term-permanent'>nent'>per</span>manent</span> do so the moment the permanent is on the <span class='tooltip term-battlefield'>batt<span class='tooltip term-permanent'>lefield</</span>span> (and no<span class='tooltip term-battlefield'>t before th</span>en). The permanent is never on the battlefield with it<span cla<span class='tooltip<span class='tooltip term-effect'> term-</span>characteristics'>ss='tooltip te<span class='tooltip term-effect'>r</span</span>><span class='t<span class='tooltip term-permanent'>ooltip te</span>rm-continuous-effect'>m-battlefield'>s u</span>nmodifie</span>d characteristics. Continuous effects don’t apply before the permanent is on the battlefield, however (see rule 603.6d).
         </h4>
             <blockquote>
             Example: If an effect reads “All lands are creatures” and a land card is played, the effect makes the land card into a creature the moment it enters the battlefield, so it would trigger abilities that trigger when a creature enters the battlefield. Conversely, if an effect reads “All creatures lose all abilities” and a creature card with an enters-the-battlefield triggered ability enters the battlefield, that effect will cause it to lose its abilities the moment it enters the battlefield, so the enters-the-battlefield ability won’t trigger.
@@ -635,7 +636,7 @@
                 </svg>
             </a>
             
-            603.6c Leaves-the-battlefield abilities trigger when a permanent moves from the battlefield to another zone, or when a phased-in permanent leaves the game because its owner leaves the game. These are written as, but aren’t limited to, “When [this object] leaves the battlefield, . . .” or “Whenever [something] is put into a graveyard from the battlefield, . . . .” (See also rule 603.10.) An ability that attempts to do something to the card that left the battlefield checks for it only in the first zone that it went to. An ability that triggers when a card is put into a certain zone “from anywhere” is never treated as a leaves-the-battlefield ability, even if an object is put into that zone from the battlefield.
+            603.6c Leaves-the-<span class='tooltip term-battlefield'>battlefield</span> abil<span class='tooltip term-battlefield'>ities trigg</span>er when a <span class='tooltip term-permanent'>permanent</span> <span class='tooltip term-move'>moves</span> from the battl<span class='tooltip term-permanent'>efield to</span> another zone, or when a phased-in permanent leaves the game because its <span class='tooltip term-owner'>owner</span> l<span class='tooltip term-battlefield'>eaves the g</span>ame. These are writte<span class='tooltip term-battlefield'>n as, but a</span>ren’t <span class='tooltip term-limited'>limited</span> to, “When [this <span class='tooltip term-object'>object</span>] <span class='tooltip term-leaves-the-battlefield'>leaves the battlefield</span>, . . .” or “Whenever [something] is p<span class='tooltip term-battlefield'>ut into a g</span>raveyard from the battlefield, . . . .” (See also rule 603.10.) An <span class='tooltip term-ability'>ability</span> that attempts to do something to the <span class='tooltip term-card'>card</span> that left the battlefield checks for it o<span <span class='tooltip term-battlefield'>class='tool</span>tip term-abil<span class='tooltip term-battlefield'>ity'>nly in</span> </span>the first zone that it we<span class='tooltip term-card'>nt t</span>o. An ability that <span class='tooltip term-trigger'>triggers</span> when a card is p<span class='tooltip term-ability'>ut into</span> a certain zone “from anywhere” is never treated as a leaves-the-battlefield ability, even <s<span class='tooltip term-object'>pan cl</span>ass='tooltip term-if'>if</span> an object is put into that zone from the battlefield.
         </h4>
         <h4 id="6d">
             <a href="#6d" class="anchor-heading" aria-labelledby="6d">
@@ -644,7 +645,7 @@
                 </svg>
             </a>
             
-            603.6d Some permanents have text that reads “[This permanent] enters the battlefield with . . . ,” “As [this permanent] enters the battlefield . . . ,” “[This permanent] enters the battlefield as . . . ,” or “[This permanent] enters the battlefield tapped.” Such text is a static ability—not a triggered ability—whose effect occurs as part of the event that puts the permanent onto the battlefield.
+            603.6d Some <span class='tooltip term-permanent'>pe<span class='tooltip term-permanent'>rmanents<</span>/span> have text that reads “[This permanent] enters the <span class='tooltip term-battlefield'>battlefield</span> <span class='tooltip term-battlefield'>with . . . <span class='tooltip term-battlefield'></span>,” “</span<span class='tooltip term-battlefield'>>As [this p</span>ermanent] <span class='tooltip term-enters-the-battlefield'><span class='tooltip term-enters-the-battlefield'>enters<span class='too<span class='tooltip term-permanent'>ltip term</span>-en<span class='tooltip term-permanent'>ters-the-</span>battlefield'> the battlefield</span</span>></span> . . . ,” “[This permanent] enters the battlefield as . . . ,” or “[This permanent] enters the battlefield <span class='tooltip term-tapped'>tapped</span>.” Such text is a static <span <span class='tooltip term-battlefield'>class='tool</span>tip ter<span class='tooltip term-ability'>m-abili</span>ty'<span class='tooltip term-permanent'>>ability<</span>/span>—not a <span class='tooltip term-triggered-ability'>triggered ability</span>—whose <span class='tooltip term-effect'>effect</span> occurs as part of the <span class='tooltip term-event'>event</span> that puts the permanent onto the battlefield.
         </h4>
         <h4 id="6e">
             <a href="#6e" class="anchor-heading" aria-labelledby="6e">
@@ -653,7 +654,7 @@
                 </svg>
             </a>
             
-            603.6e Some Auras have triggered abilities that trigger on the enchanted permanent leaving the battlefield. These triggered abilities can find the new object that permanent card became in the zone it moved to; they can also find the new object the Aura card became in its owner’s graveyard after state-based actions have been checked. See rule 400.7.
+            603.6e Some <span class='tooltip term-aura'>Auras</span> have triggered abilities that <span class='tooltip term-trigger'>trigger</span> on the enchanted <span class='tooltip term-permanent'>permanent</span> leaving the <span class='tooltip term-battlefield'>battlefield</span>. These triggered abilities can find the new <span cla<span class='tooltip term-permanent'>ss='toolt</span>ip term-object'>object</span> that permanent <span class='tooltip term-card'>card</span> became in the zone it moved to;<span class='tooltip term-aura'> the</span><span class='tooltip term-y'>y</span><span class='tooltip <span class='tooltip term-object'>term-c</span>ard'> can</span> also find the new object the Aura card became in its <span class='tooltip term-owner'>owner</span>’s <span class='tooltip term-graveyard'>graveyard</span> after <span class='tooltip term-state-based-actions'>state-based actions</span> have been checked. See rule 400.7.
         </h4>
         <h3 id="7">
             <a href="#7" class="anchor-heading" aria-labelledby="7">
@@ -662,7 +663,7 @@
                 </svg>
             </a>
             
-            603.7. An effect may create a delayed triggered ability that can do something at a later time. A delayed triggered ability will contain “when,” “whenever,” or “at,” although that word won’t usually begin the ability.
+            603.7. An <span class='tooltip term-effect'>effect</span> may <span class='tooltip term-create'>create</span> a delayed triggered <span class='tooltip term-ability'>ability</span> that can do somet<span class='tooltip term-ability'>hing at</span> a later time. A <span class='tooltip term-delayed-triggered-ability'>delayed <span class='tooltip term-triggered-ability'>triggered ability</span></span> w<span class='tooltip term-ability'>ill con</span>tain “when,” “whenever,” or “at,” although that word won’t usually begin the ability.
         </h3>
         <h4 id="7a">
             <a href="#7a" class="anchor-heading" aria-labelledby="7a">
@@ -671,7 +672,7 @@
                 </svg>
             </a>
             
-            603.7a Delayed triggered abilities are created during the resolution of spells or abilities, as the result of a replacement effect being applied, or as a result of a static ability that allows a player to take an action. A delayed triggered ability won’t trigger until it has actually been created, even if its trigger event occurred just beforehand. Other events that happen earlier may make the trigger event impossible.
+            603.7a Delayed triggered abilities are created during the resolution of <span class='tooltip term-spell'>spells</span> or abilities, as the result of a replacement <span class='tooltip term-effect'>effect</span> being applied, or as a result of a static <span class='tooltip term-ability'>ability</span> that allows a <span class='tooltip term-play'>play</span><span class='tooltip term-ability'>er to t</span>ake an action. A <span class='tooltip term-delayed-triggered-ability'>delayed <span class='tooltip term-triggered-ability'>triggered ability</span></span> won’t <span class='tooltip term-trigger'>trigger</span> until it has actually been created, even <s<span class='tooltip term-trigger'>pan cla</span>ss='tooltip term-if'>if</span> its trigger <span class='tooltip term-event'>event<span class='tooltip term-event'></span</span>> <span class='tooltip term-ev<span class='tooltip term-trigger'>ent'>oc</span>cur</span>red just beforehand. Other events that happen earlier may make the <span class='tooltip term-trigger-event'>trigger event</span> impossible.
         </h4>
             <blockquote>
             Example: Part of an effect reads “When this creature leaves the battlefield,” but the creature in question leaves the battlefield before the spell or ability creating the effect resolves. In this case, the delayed ability never triggers.
@@ -686,7 +687,7 @@
                 </svg>
             </a>
             
-            603.7b A delayed triggered ability will trigger only once—the next time its trigger event occurs—unless it has a stated duration, such as “this turn.” If its trigger event occurs more than once simultaneously and the ability doesn’t have a stated duration, the controller of the delayed triggered ability chooses which event causes the ability to trigger.
+            603.7b A delayed triggered <span class='tooltip term-ability'>ability</span> will <span class='tooltip term-trigger'>t<span class='tooltip term-trigger'>rigger<</span>/span> only once—the next time its trigger <span class='tooltip term-event'>event</span> occurs—<span class='tooltip term-unless'>unless</span> it has a stated durati<span class='tooltip term<span class='tooltip term-trigger'>-event'</span>>on, s</span>uch as “this turn.” <span class='tooltip term-if'>If</span> its <span class='tooltip term-trigger-event'>trigger event</span> occ<span class='tooltip term-ability'>urs mor</span>e than once simultaneously and <span class='tooltip term-ability'>the <span class='tooltip term-ability'>abi</sp</span>an>lity doesn’t have a stated duration, the controller of the <span class='tooltip<span class='tooltip t<span class='tooltip term-trigger'>erm-eve</span>nt'> term</span>-delayed-triggered-ability'>delayed <span class='tooltip term-triggered-ability'>triggered ability</span></span> chooses which event causes the ability to trigger.
         </h4>
         <h4 id="7c">
             <a href="#7c" class="anchor-heading" aria-labelledby="7c">
@@ -695,7 +696,7 @@
                 </svg>
             </a>
             
-            603.7c A delayed triggered ability that refers to a particular object still affects it even if the object changes characteristics. However, if that object is no longer in the zone it’s expected to be in at the time the delayed triggered ability resolves, the ability won’t affect it. (Note that if that object left that zone and then returned, it’s a new object and thus won’t be affected. See rule 400.7.)
+            603.7c A delayed triggered <span class='tooltip term-ability'>ability</span> that refers to a particular <span class='tooltip term-object'>object</span> still affects it even <sp<span class='tooltip term-object'>an cla</span>ss='tooltip term-if'>if</span> the object changes <span class='tooltip term-characteristi<span class='tooltip term-object'><span </span>class='tooltip term-if'>cs</span>'>characteristics</span>. However, if that object is no longer in the zone it’s expected t<span class='tooltip t<span class='tooltip term-ability'>erm-abi</span>lity'>o be in</span> at the time the <span class='tooltip term-delayed-triggered-ability'>delay<span class='tooltip term-object'>ed t<s</span>pan c<span class='tooltip term-object'>lass='</span>tooltip term-if'>ri</span>ggered ability</span> <span class='tooltip term-resolve'>resolves</span>, the ability won’t affect it. (Note that if that object left that zone and then returned, it’s a new object and thus won’t be affected. See rule 400.7.)
         </h4>
             <blockquote>
             Example: An ability that reads “Exile this creature at the beginning of the next end step” will exile the permanent even if it’s no longer a creature during the next end step. However, it won’t do anything if the permanent left the battlefield before then.
@@ -707,7 +708,7 @@
                 </svg>
             </a>
             
-            603.7d If a spell creates a delayed triggered ability, the source of that delayed triggered ability is that spell. The controller of that delayed triggered ability is the player who controlled that spell as it resolved.
+            603.7d <span class='tooltip term-if'>If</span> a <span class='tooltip term-spell'>spell</span> <span class='tooltip term-create'>creates</span> a delayed triggered <span class='tooltip term-ability'>ability</sp<span class='tooltip term-ability'>an>, th</span>e source of tha<span class='tooltip term-ability'>t d<span class='tooltip term-spell'>elay<</span>/span>ed <span class='tooltip term-triggered-ability'>triggered ability</span> is that spell. The controller of that <span cla<span class='tooltip term-triggered-ability'>ss='tooltip term-</span>delayed-triggered-ability'>delayed triggered ability</s<span class='tooltip term-spell'>pan> </span>is the <span class='tooltip term-player'>player</span> who controlled that spell as it resolved.
         </h4>
         <h4 id="7e">
             <a href="#7e" class="anchor-heading" aria-labelledby="7e">
@@ -716,7 +717,7 @@
                 </svg>
             </a>
             
-            603.7e If an activated or triggered ability creates a delayed triggered ability, the source of that delayed triggered ability is the same as the source of that other ability. The controller of that delayed triggered ability is the player who controlled that other ability as it resolved.
+            603.7e <span class='tooltip term-if'>If</span> an activated or triggered <span class='tooltip term-ability'>a<span class='tooltip term-ability'>bility<</sp<span class='tooltip term-ability'>an>/spa</span<span class='tooltip term-ability'>>n> cre</span>a<span class='tooltip term-ability'>tes a d</span<span class='tooltip term-ability'>>elayed</span> <span class='tooltip term-triggered-ability'>triggered ability</span>, the source of that <span cla<span class='tooltip term-triggered-ability'>ss='tooltip term-</span>delayed-triggered-ability'>delayed triggered ability</span> is the same <span class='tooltip ter<span class='tooltip term-triggered-ability'>m-delayed-trigger</span>ed-ability'>as the source of that oth</span>er ability. The controller of that delayed triggered ability is the <span class='tooltip term-player'>player</span> who controlled that other ability as it resolved.
         </h4>
         <h4 id="7f">
             <a href="#7f" class="anchor-heading" aria-labelledby="7f">
@@ -725,7 +726,7 @@
                 </svg>
             </a>
             
-            603.7f If a static ability generates a replacement effect which causes a delayed triggered ability to be created, the source of that delayed triggered ability is the object with that static ability. The controller of that delayed triggered ability is the same as the controller of that object at the time the replacement effect was applied.
+            603.7f <span class='tooltip term-if'>If</span> a static <span class='tooltip term-ability'>ability</span> generates a replacemen<span class='tooltip term-ability'>t effec</span>t which cau<span class='tooltip term-ability'>ses <span class='tooltip term-ability'>a d</sp</span>a<span class='tooltip term-ability'>n>elaye</span>d <span class='tooltip term-triggered-ability'>triggered ability</span> to be created, the source of that <span cla<span class='tooltip term-triggered-ability'>ss='tooltip term-</span>delayed-triggered-ability'>delayed triggered ability</span> is <span class='tooltip term-delayed-triggered-ability'>the <span class='tooltip term-object'>object</span> with that stat</span>ic ability. The controller of that delayed triggered abili<span class='tooltip term-object'>ty is </span>the same as the controller of that object at the time the replacement <span class='tooltip term-effect'>effect</span> was applied.
         </h4>
         <h4 id="7g">
             <a href="#7g" class="anchor-heading" aria-labelledby="7g">
@@ -734,7 +735,7 @@
                 </svg>
             </a>
             
-            603.7g If a static ability allows a player to take an action and creates a delayed triggered ability if that player does so, the source of that delayed triggered ability is the object with that static ability. The controller of that delayed triggered ability is the same as the controller of that object at the time the action was taken.
+            603.7g <span class='tooltip term-if'>If</span> a static <span class='tooltip term-ability'>ability</span> allows a <span class='tooltip term-player'>player</span> to take <span class='tooltip term-ability'>an acti</span>on and <span class='tooltip term-create'>creates</span> a del<span class='tooltip term-ability'>ayed<span class='tooltip term-ability'> tr</sp</span>a<span class='tooltip te<span class='tooltip term-if'>rm</span>-a<span class='tooltip term-player'>bility</span>'>n>igger</span>ed ability if that player does so, the source of that <span class='tooltip term-delayed-triggered-ability'>delayed <span class='tooltip term-triggered-ability'>triggered ability</span></span> is <span class='tooltip term-delayed-triggered-ability'>the <span class='tooltip term-object'>object</span> with that stat</span>ic ability. The controller of that delayed triggered abili<span class='tooltip term-object'>ty is </span>the same as the controller of that object at the time the action was taken.
         </h4>
         <h3 id="8">
             <a href="#8" class="anchor-heading" aria-labelledby="8">
@@ -743,7 +744,7 @@
                 </svg>
             </a>
             
-            603.8. Some triggered abilities trigger when a game state (such as a player controlling no permanents of a particular card type) is true, rather than triggering when an event occurs. These abilities trigger as soon as the game state matches the condition. They’ll go onto the stack at the next available opportunity. These are called state triggers. (Note that state triggers aren’t the same as state-based actions.) A state-triggered ability doesn’t trigger again until the ability has resolved, has been countered, or has otherwise left the stack. Then, if the object with the ability is still in the same zone and the game state still matches its trigger condition, the ability will trigger again.
+            603.8. Some triggered abilities <span class='tooltip term-trigger'>trigger</span> when a game state (such as a <span class='tooltip term-player'>player</span> controlling no <span class='tooltip term-permanent'>permanents</span> of a particular <span class='tooltip term-card'>card</span> <span class='tooltip term-type'>type</span>) is true, rather than triggering when an <span class='tooltip term-ev<span class='tooltip term-trigger'>ent'>ev</span>ent</span> occurs. These abilities trigger as soon as the game state matches the condition. They’ll go onto the stack at the next available oppor<span class='t<span class='tooltip t<span class='tooltip term-trigger'<span class='tooltip term-trigger'>>erm-tri</span>g</span>ger'>ooltip </span>term-trigger'>tunity.</span> These are called <span class='tooltip term-s<span class='tooltip term-state-trigger'>tate-trigger'></span>state trig<span class='tooltip term-trigger'>gers</s</span>pan>. (Note that state triggers aren’t the same as <span class='tooltip term-state-based-actions'>state-based actions</span>.) A state-triggered <span class='tooltip term-ability'>abili<span class='tooltip term-ability'>ty</spa</span>n> doesn’t trigger again until the ability has resolved<span class='tooltip te<span class='tooltip term-trigger'>r<span class='tooltip term-trigger'>m-abil<</span>/span>ity'>, has b</span>een countered, or has otherwise left the stac<span class='tooltip term-ability'>k. Then</span>, <span class='tooltip term-if'>if</span> the <span class='tooltip term-object'>object</span> with the ability is still in the same zone and the game state still matches its <span class='tooltip term-trigger-condition'>trigger condition</span>, the ability will trigger again.
         </h3>
             <blockquote>
             Example: A permanent’s ability reads, “Whenever you have no cards in hand, draw a card.” If its controller plays the last card from their hand, the ability will trigger once and won’t trigger again until it has left the stack. If its controller casts a spell that reads “Discard your hand, then draw that many cards,” the ability will trigger during the spell’s resolution because the player’s hand was momentarily empty.
@@ -755,7 +756,7 @@
                 </svg>
             </a>
             
-            603.9. Some triggered abilities trigger specifically when a player loses the game. These abilities trigger when a player loses or leaves the game, regardless of the reason, unless that player leaves the game as the result of a draw. See rule 104.3.
+            603.9. Some triggered abilities <span class='tooltip term-trigger'>trigger</span> specifically when a <span class='tooltip term-player'>player</span> loses <span class='tooltip term-player'>the ga</span>me. These abilities trig<span class='tooltip term-player'>ger wh</span>en a player loses or leaves the game, regardless of the reason, <span class='tooltip term-unless'>unless</span> that player leaves the game as the result of a <span class='tooltip term-draw'>draw</span>. See rule 104.3.
         </h3>
         <h3 id="10">
             <a href="#10" class="anchor-heading" aria-labelledby="10">
@@ -764,7 +765,7 @@
                 </svg>
             </a>
             
-            603.10. Normally, objects that exist immediately after an event are checked to see if the event matched any trigger conditions, and continuous effects that exist at that time are used to determine what the trigger conditions are and what the objects involved in the event look like. However, some triggered abilities are exceptions to this rule; the game “looks back in time” to determine if those abilities trigger, using the existence of those abilities and the appearance of objects immediately prior to the event. The list of exceptions is as follows:
+            603.10. Normally, <span class='tooltip term-object'>objects</span> that exist immediately after an <span class='tooltip term-event'<span class='tooltip term-event'>>even</span>t</span> are checked to see <span class='tooltip term-if'>if</span> the event matched any <span class='tooltip term-trigger'>trigger</span> conditions, and <span class='tooltip term-continuous-<span class='toolti<span class='tooltip term-effect'>p term-</span>effect'>effect</span>'>continuous effects</span> that exist at that time are used to<span class='tooltip term-event'> dete</span>rmine what<span class='tooltip term-object'> the tr</span>igger conditions are and what the objects involved in the event look like. However, some triggered abilities are exceptions to this rule; the ga<span class='tooltip term-if'>me</span> “looks back in time” to determine if<span class='tooltip term-event'> thos</span><span class<span class='tooltip term-trigger'>='toolt</span>ip term-object'>e abili</span>ties trigger, using the existence of those abilities and the appearance of objects immediately prior to the event. The list of exceptions is as follows:
         </h3>
         <h4 id="10a">
             <a href="#10a" class="anchor-heading" aria-labelledby="10a">
@@ -773,7 +774,7 @@
                 </svg>
             </a>
             
-            603.10a Some zone-change triggers look back in time. These are leaves-the-battlefield abilities, abilities that trigger when a card leaves a graveyard, and abilities that trigger when an object that all players can see is put into a hand or library.
+            603.10a Some zone-change <span class='tooltip term-trigger'>triggers</span> look back in time. These are leaves-the-<span class='tooltip term-battlefield'>bat<span class='tooltip term-trigger'>tlefiel</span>d</span> abilities, abilities that trigger when a <span class='tooltip term-card'>card</span><span class='tooltip term-trigger'> leaves</span> a <span class='tooltip term-graveyard'>graveyard</span>, and abilities that trigger when an <span class='tooltip term-object'>object</span> that all <span class='tooltip term-player'>players</span> can see is put into a <span class='tooltip term-hand'>hand</span> or <span class='tooltip term-library'>library</span>.
         </h4>
             <blockquote>
             Example: Two creatures are on the battlefield along with an artifact that has the ability “Whenever a creature dies, you gain 1 life.” Someone casts a spell that destroys all artifacts, creatures, and enchantments. The artifact’s ability triggers twice, even though the artifact goes to its owner’s graveyard at the same time as the creatures.
@@ -785,7 +786,7 @@
                 </svg>
             </a>
             
-            603.10b Abilities that trigger when a permanent phases out look back in time.
+            603.10b Abilities that <span class='tooltip term-trigger'>trigger</span> when a <span class='tooltip term-permanent'>permanent</span> <span class='tooltip term-phase'>phases</span> out look back in time.
         </h4>
         <h4 id="10c">
             <a href="#10c" class="anchor-heading" aria-labelledby="10c">
@@ -794,7 +795,7 @@
                 </svg>
             </a>
             
-            603.10c Abilities that trigger specifically when an object becomes unattached look back in time.
+            603.10c Abilities that <span class='tooltip term-trigger'>trigger</span> specifically when an <span class='tooltip term-object'>object</span> <span class='tooltip term-becomes'>becomes</span> unattached look back in time.
         </h4>
         <h4 id="10d">
             <a href="#10d" class="anchor-heading" aria-labelledby="10d">
@@ -803,7 +804,7 @@
                 </svg>
             </a>
             
-            603.10d Abilities that trigger when a player loses control of an object look back in time.
+            603.10d Abilities that <span class='tooltip term-trigger'>trigger</span> when a <span class='tooltip term-player'>player</span> loses control of an <span class='tooltip term-object'>object</span> look back in time.
         </h4>
         <h4 id="10e">
             <a href="#10e" class="anchor-heading" aria-labelledby="10e">
@@ -812,7 +813,7 @@
                 </svg>
             </a>
             
-            603.10e Abilities that trigger when a spell is countered look back in time.
+            603.10e Abilities that <span class='tooltip term-trigger'>trigger</span> when a <span class='tooltip term-spell'>spell</span> is countered look back in time.
         </h4>
         <h4 id="10f">
             <a href="#10f" class="anchor-heading" aria-labelledby="10f">
@@ -821,7 +822,7 @@
                 </svg>
             </a>
             
-            603.10f Abilities that trigger when a player loses the game look back in time.
+            603.10f Abilities that <span class='tooltip term-trigger'>trigger</span> when a <span class='tooltip term-player'>player</span> loses the game look back in time.
         </h4>
         <h4 id="10g">
             <a href="#10g" class="anchor-heading" aria-labelledby="10g">
@@ -830,7 +831,7 @@
                 </svg>
             </a>
             
-            603.10g Abilities that trigger when a player planeswalks away from a plane look back in time.
+            603.10g Abilities that <span class='tooltip term-trigger'>trigger</span> when a <span class='tooltip term-player'>player</span> <span class='tooltip term-planeswalk'>planeswalks</span> away from a <span class='tooltip term-plane'>plane</span> look back in time.
         </h4>
         <h3 id="11">
             <a href="#11" class="anchor-heading" aria-labelledby="11">
@@ -839,7 +840,7 @@
                 </svg>
             </a>
             
-            603.11. Some objects have a static ability that’s linked to one or more triggered abilities. (See rule 607, “Linked Abilities.”) These objects combine the abilities into one paragraph, with the static ability first, followed by each triggered ability that’s linked to it. A very few objects have triggered abilities which are written with the trigger condition in the middle of the ability, rather than at the beginning.
+            603.11. Some <span class='tooltip term-object'>objects</span> have a static <span class='tooltip term-ability'>ability</span> that’s linked to one or more triggered abilities. (See rule 607, “<span class='tooltip term-linked-abi<span class='tooltip term-object'>lities'</span>>Linked Abilities</span>.”) These objects combine the abil<span class='tooltip term-ability'>ities i<span class='tooltip term-ability'></span></span>nto one paragraph, with the <span class='tooltip term-static-ability'>static ability</span> first, followed by each triggered <span class='tooltip term-object'>ability</span> that’<span class='tooltip term-ability'>s linke</span>d to it. A very few objects have triggered abilities which are written with the <span class='tooltip term-trigger'>trigger</span> condition in the middle of the ability, rather than at the beginning.
         </h3>
             <blockquote>
             Example: An ability that reads “Reveal the first card you draw each turn. Whenever you reveal a basic land card this way, draw a card” is a static ability linked to a triggered ability.
@@ -851,7 +852,7 @@
                 </svg>
             </a>
             
-            603.12. A resolving spell or ability may allow or instruct a player to take an action and create a triggered ability that triggers “when [a player] [does or doesn’t]” take that action or “when [something happens] this way.” These reflexive triggered abilities follow the rules for delayed triggered abilities (see rule 603.7), except that they’re checked immediately after being created and trigger based on whether the trigger event or events occurred earlier during the resolution of the spell or ability that created them. If the trigger event or events occur multiple times during that time, the reflexive triggered ability will trigger once for each of those times.
+            603.12. A resolving <span class='tooltip term-spell'>spell</span> or <span class='tooltip term-ability'>ability</span> may allow or instruct a <span class='tooltip term-player'>player</span><span class='tooltip term-ability'> to tak</span>e an action and <span class='tooltip term-create'>create</span> a <span class='tooltip term-player'>trigge</span>red ability that <span class='tooltip term-trigger'>triggers</span> “when [a player] [does or doesn’t]” take that action or “when [something happens] this way.” These reflexive triggered abilities follow the rules for delayed triggered abilities (see rule 603.7), except that they’re ch<span class='tooltip term-trigger'>ecked i</span>mmediately after being created and trigger based on whether<span class='tooltip term-ability'> the tr</span>igger <span cla<span class='tooltip term-event'>ss='to</span>oltip term-event'>event</span> or events occurred earlier during the resolution of the spel<span cla<span cla<span class='tooltip term-event'>ss='to</span>oltip term-event'>ss='t</span>ooltip term-ability'<span class='tooltip term-trigger'>>l or a</span>b</span>ility that created them. <span class='tooltip term-if'>If</span> the <span class='tooltip term-trigger-event'>trigger event</span> or events occur multip<span class='tooltip term-trigger'>le time</span>s during that time, the <span class='tooltip term-reflexive-triggered-ability'>reflexive <span class='tooltip term-triggered-ability'>triggered ability</span></span> will trigger once for each of those times.
         </h3>
             <blockquote>
             Example: Heart-Piercer Manticore has an ability that reads “When Heart-Piercer Manticore enters the battlefield, you may sacrifice another creature. When you do, Heart-Piercer Manticore deals damage equal to that creature’s power to any target.” The reflexive triggered ability triggers only when you sacrifice another creature due to the original triggered ability, and not if you sacrifice a creature for any other reason.

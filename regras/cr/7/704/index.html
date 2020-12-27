@@ -12,6 +12,7 @@
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
 
     <link rel="stylesheet" href="/assets/css/main.css">
+    <link rel="stylesheet" href="/assets/css/terms.css">
 
     
 
@@ -440,7 +441,7 @@
                 </svg>
             </a>
             
-            704.1. State-based actions are game actions that happen automatically whenever certain conditions (listed below) are met. State-based actions don’t use the stack.
+            704.1. <span class='tooltip term-state-based-actions'>State-based actions</span> are game actions that happen automaticall<span class='tooltip term-state-based-actions'><span class='tooltip term-y'>y</span> whenever certain </span>conditions (listed below) are met. State-based actions don’t use the stack.
         </h3>
         <h4 id="1a">
             <a href="#1a" class="anchor-heading" aria-labelledby="1a">
@@ -449,7 +450,7 @@
                 </svg>
             </a>
             
-            704.1a Abilities that watch for a specified game state are triggered abilities, not state-based actions. (See rule 603, “Handling Triggered Abilities.”)
+            704.1a Abilities that watch for a specified game state are triggered abilities, not <span class='tooltip term-state-based-actions'>state-based actions</span>. (See rule 603, “Handling Triggered Abilities.”)
         </h4>
         <h3 id="2">
             <a href="#2" class="anchor-heading" aria-labelledby="2">
@@ -458,7 +459,7 @@
                 </svg>
             </a>
             
-            704.2. State-based actions are checked throughout the game and are not controlled by any player.
+            704.2. <span class='tooltip term-state-based-actions'>State-based actions</span> are checked throughout the game and are not controlled by any <span class='tooltip term-player'>player</span>.
         </h3>
         <h3 id="3">
             <a href="#3" class="anchor-heading" aria-labelledby="3">
@@ -467,7 +468,7 @@
                 </svg>
             </a>
             
-            704.3. Whenever a player would get priority (see rule 117, “Timing and Priority”), the game checks for any of the listed conditions for state-based actions, then performs all applicable state-based actions simultaneously as a single event. If any state-based actions are performed as a result of a check, the check is repeated; otherwise all triggered abilities that are waiting to be put on the stack are put on the stack, then the check is repeated. Once no more state-based actions have been performed as the result of a check and no triggered abilities are waiting to be put on the stack, the appropriate player gets priority. This process also occurs during the cleanup step (see rule 514), except that if no state-based actions are performed as the result of the step’s first check and no triggered abilities are waiting to be put on the stack, then no player gets priority and the step ends.
+            704.3. Whenever a <span class='tooltip term-player'>player</span> would get <span class='tooltip term-priority'><span class='tooltip term-priority'>priority</span></span> (see rule 117, “Timing and Priority”), the game checks for any of the listed conditions for <span class='tooltip term-state-based-actions'>sta<span class='tooltip term-state-based-actions'>te-based actions</s</span>pan>, then performs all applicable state-based actions simultaneo<span class='tooltip term-state-based-actions'>usly as a single <s</span>pan class='tooltip term-event'>event</span>. <span class='tooltip term-if'>If</span> any state-based actions are performed as a result of a check<span class='tooltip term-state-based-actions'>, the check is repe</span>ated; otherwise all triggered abilities that are waiting to be put on the stack are put on the stack, then the check is repeated. Once no more state-based actions have been performed as the result of a check and no triggered abilities are waiting<span cl<span class='tooltip term-priority'>ass='too</span>ltip term-player'> to be</span> put on <span class='tooltip term-state-based-actions'>the stack, the appr</span>opriate player gets priority. This process also occurs during the <span class='tooltip term-cleanup-<span class='tooltip term-step'>step</span>'>cleanup ste<span class='tooltip term-if'>p<</span>/span> (see rule 514), except that if no state-based acti<span class='tooltip term-step'>ons </span>are performed as the result of the step’s f<span <span class='tooltip term-priority'>class='t</span>ooltip term-player'>irst c</span>heck and no triggered abili<span class='tooltip term-step'>ties</span> are waiting to be put on the stack, then no player gets priority and the step ends.
         </h3>
         <h3 id="4">
             <a href="#4" class="anchor-heading" aria-labelledby="4">
@@ -476,7 +477,7 @@
                 </svg>
             </a>
             
-            704.4. Unlike triggered abilities, state-based actions pay no attention to what happens during the resolution of a spell or ability.
+            704.4. Unlike triggered abilities, <span class='tooltip term-state-based-actions'>state-based actions</span> <span class='tooltip term-pay'>pay</span> no attention to what happens during the resolution of a <span class='tooltip term-spell'>spell</span> or <span class='tooltip term-ability'>ability</span>.
         </h3>
             <blockquote>
             Example: A player controls a creature with the ability “This creature’s power and toughness are each equal to the number of cards in your hand” and casts a spell whose effect is “Discard your hand, then draw seven cards.” The creature will temporarily have toughness 0 in the middle of the spell’s resolution but will be back up to toughness 7 when the spell finishes resolving. Thus the creature will survive when state-based actions are checked. In contrast, an ability that triggers when the player has no cards in hand goes on the stack after the spell resolves, because its trigger event happened during resolution.
@@ -488,7 +489,7 @@
                 </svg>
             </a>
             
-            704.5. The state-based actions are as follows:
+            704.5. The <span class='tooltip term-state-based-actions'>state-based actions</span> are as follows:
         </h3>
         <h4 id="5a">
             <a href="#5a" class="anchor-heading" aria-labelledby="5a">
@@ -497,7 +498,7 @@
                 </svg>
             </a>
             
-            704.5a If a player has 0 or less life, that player loses the game.
+            704.5a <span class='tooltip term-if'>If</span> a <span class='tooltip term-player<span class='tooltip term-player'>'>play</span>er</span> has 0 or less life, that player loses the game.
         </h4>
         <h4 id="5b">
             <a href="#5b" class="anchor-heading" aria-labelledby="5b">
@@ -506,7 +507,7 @@
                 </svg>
             </a>
             
-            704.5b If a player attempted to draw a card from a library with no cards in it since the last time state-based actions were checked, that player loses the game.
+            704.5b <span class='tooltip term-if'>If</span> a <span class='tooltip term-player'>player</span> attempted to <span class='tooltip term-draw'>draw</span> a <span class='tooltip term-ca<span class='tooltip term-card'>rd'>c</span>ard</span> from a <span class='tooltip term-library'>library</span> with no cards in it since the last tim<span class='tooltip term-player'>e stat</span>e-based actions were checked, that player loses the game.
         </h4>
         <h4 id="5c">
             <a href="#5c" class="anchor-heading" aria-labelledby="5c">
@@ -515,7 +516,7 @@
                 </svg>
             </a>
             
-            704.5c If a player has ten or more poison counters, that player loses the game. Ignore this rule in Two-Headed Giant games; see rule 704.6b instead.
+            704.5c <span class='tooltip term-if'>If</span> a <span class='tooltip term-player'>player</span> has ten or more poison <span class='too<span class='tooltip term-player'>ltip t</span>erm-counter'>counters</span>, that player loses the game. Ignore this rule in Two-Headed Giant games; see rule 704.6b <span class='tooltip term-instead'>instead</span>.
         </h4>
         <h4 id="5d">
             <a href="#5d" class="anchor-heading" aria-labelledby="5d">
@@ -524,7 +525,7 @@
                 </svg>
             </a>
             
-            704.5d If a token is in a zone other than the battlefield, it ceases to exist.
+            704.5d <span class='tooltip term-if'>If</span> a <span class='tooltip term-token'>token</span> is in a zone other than the <span class='tooltip term-battlefield'>battlefield</span>, it ceases to exist.
         </h4>
         <h4 id="5e">
             <a href="#5e" class="anchor-heading" aria-labelledby="5e">
@@ -533,7 +534,7 @@
                 </svg>
             </a>
             
-            704.5e If a copy of a spell is in a zone other than the stack, it ceases to exist. If a copy of a card is in any zone other than the stack or the battlefield, it ceases to exist.
+            704.5e <span class='tooltip term-if'>If</span> a <span class='tooltip term-copy'>copy</span> of a <span class='tooltip term-spell'>spell</span> is in a zone other th<span class='tooltip term-copy'>an t<span class='tooltip term-if'></</span>span>he stack, it ceases to exist. If a copy of a <span class='tooltip term-card'>card</span> is in any zone other than the stack or the <span class='tooltip term-battlefield'>battlefield</span>, it ceases to exist.
         </h4>
         <h4 id="5f">
             <a href="#5f" class="anchor-heading" aria-labelledby="5f">
@@ -542,7 +543,7 @@
                 </svg>
             </a>
             
-            704.5f If a creature has toughness 0 or less, it’s put into its owner’s graveyard. Regeneration can’t replace this event.
+            704.5f <span class='tooltip term-if'>If</span> a <span class='tooltip term-creature'>creature</span> has toughness 0 or less, it’s put into its <span class='tooltip term-owner'>owner</span>’s <span class='tooltip term-graveyard'>graveyard</span>. Regeneration can’t replace this <span class='tooltip term-event'>event</span>.
         </h4>
         <h4 id="5g">
             <a href="#5g" class="anchor-heading" aria-labelledby="5g">
@@ -551,7 +552,7 @@
                 </svg>
             </a>
             
-            704.5g If a creature has toughness greater than 0, it has damage marked on it, and the total damage marked on it is greater than or equal to its toughness, that creature has been dealt lethal damage and is destroyed. Regeneration can replace this event.
+            704.5g <span class='tooltip term-if'>If</span> a <span class='tooltip term-creature'>creature</span> has toughness greater than 0, it has <span class='tooltip term-damage'>d<span class='tooltip term-damage'>amage<</span>/span> marked on it, and the total damage marked on it is gr<span class='tooltip term-creature'<span class='tooltip term-damage'>>eater</span> th</span>an or equal to its toughness, that creature has been dealt <span class='tooltip term-lethal-damage'>lethal damage</span> and is destroyed. Regeneration can replace this <span class='tooltip term-event'>event</span>.
         </h4>
         <h4 id="5h">
             <a href="#5h" class="anchor-heading" aria-labelledby="5h">
@@ -560,7 +561,7 @@
                 </svg>
             </a>
             
-            704.5h If a creature has toughness greater than 0, and it’s been dealt damage by a source with deathtouch since the last time state-based actions were checked, that creature is destroyed. Regeneration can replace this event.
+            704.5h <span class='tooltip term-if'>If</span> a <span class='tooltip term-creature'>creature</span> has toughness greater than 0, and it’s been dealt <span class='tooltip term-damage'>damage</span> by a source with <span class='tooltip term-deathtouch'>deathtouch</span> since the last t<span class='tooltip term-creature'>ime stat</span>e-based actions were checked, that creature is destroyed. Regeneration can replace this <span class='tooltip term-event'>event</span>.
         </h4>
         <h4 id="5i">
             <a href="#5i" class="anchor-heading" aria-labelledby="5i">
@@ -569,7 +570,7 @@
                 </svg>
             </a>
             
-            704.5i If a planeswalker has loyalty 0, it’s put into its owner’s graveyard.
+            704.5i <span class='tooltip term-if'>If</span> a <span class='tooltip term-planeswalker'>planeswalker</span> has <span class='tooltip term-loyalty'>loyalty</span> 0, it’s put into its <span class='tooltip term-owner'>owner</span>’s <span class='tooltip term-graveyard'>graveyard</span>.
         </h4>
         <h4 id="5j">
             <a href="#5j" class="anchor-heading" aria-labelledby="5j">
@@ -578,7 +579,7 @@
                 </svg>
             </a>
             
-            704.5j If a player controls two or more legendary permanents with the same name, that player chooses one of them, and the rest are put into their owners’ graveyards. This is called the “legend rule.”
+            704.5j <span class='tooltip term-if'>If</span> a <span class='tooltip term-player'>player</span> controls two or more <span class='tooltip term-legendary'>legendary</span> <span class='tooltip term-permanent'>permanents</span> with the same <span cla<span class='tooltip term-player'>ss='to</span>oltip term-name'>name</span>, that player chooses one of them, and the rest are put into their <span class='tooltip term-owner'>owners</span>’ <span class='tooltip term-graveyard'>graveyards</span>. This is called the “<span class='tooltip term-legend-rule'>legend rule</span>.”
         </h4>
         <h4 id="5k">
             <a href="#5k" class="anchor-heading" aria-labelledby="5k">
@@ -587,7 +588,7 @@
                 </svg>
             </a>
             
-            704.5k If two or more permanents have the supertype world, all except the one that has had the world supertype for the shortest amount of time are put into their owners’ graveyards. In the event of a tie for the shortest amount of time, all are put into their owners’ graveyards. This is called the “world rule.”
+            704.5k <span class='tooltip term-if'>If</span> two or more <span class='tooltip term-permanent'>permanents</span> have the <span class='tooltip term-supertype'>supertype</span> <span class='tooltip term-world'>world</span><span class='tooltip term-supertype'>, all<span class='tooltip term-world'> exc<</span>/span>ept the one that has had the world supertype for the shortest amount of time are put into their <span class='tooltip term-owner'>owners</span>’ <span class='tooltip term-graveyard'>graveyards</span>. In the <span class='tooltip term-event'>event</span> of a tie for the shortest amo<span class='tooltip term-graveyard'>unt<span class='tooltip term-owner'> of ti<<span class='tooltip term-world'>/span</span>>m</span>e, all are put into their owners’ graveyards. This is called the “<span class='tooltip term-world-rule'>world rule</span>.”
         </h4>
         <h4 id="5m">
             <a href="#5m" class="anchor-heading" aria-labelledby="5m">
@@ -596,7 +597,7 @@
                 </svg>
             </a>
             
-            704.5m If an Aura is attached to an illegal object or player, or is not attached to an object or player, that Aura is put into its owner’s graveyard.
+            704.5m <span class='tooltip term-if'>If</span> an <span class='tooltip term-aura'>Aura</span> is attached to an illegal <span class='tooltip term-object'>object</span> or <span class='tooltip term-player'>player</span>, or is not<span class='t<span class='tooltip term-object'>ooltip</span> ter<span class='tooltip term-player'>m-aura</span>'> att</span>ached to an object or player, that Aura is put into its <span class='tooltip term-owner'>owner</span>’s <span class='tooltip term-graveyard'>graveyard</span>.
         </h4>
         <h4 id="5n">
             <a href="#5n" class="anchor-heading" aria-labelledby="5n">
@@ -605,7 +606,7 @@
                 </svg>
             </a>
             
-            704.5n If an Equipment or Fortification is attached to an illegal permanent or to a player, it becomes unattached from that permanent or player. It remains on the battlefield.
+            704.5n <span class='tooltip term-if'>If</span> an <span class='tooltip term-equipment'>Equipment</span> or <span class='tooltip term-fortification'>Fortification</span> is attached to an illegal <span class='tooltip term-permanent'>permanent</span> or to a <span class='tooltip term-player'>player</span>, it <span class='tooltip term-b<span class='tooltip term-permanent'>ecomes'>b</span>ecomes<<span class='tooltip term-player'>/span></span> unattached from that permanent or player. It remains on the <span class='tooltip term-battlefield'>battlefield</span>.
         </h4>
         <h4 id="5p">
             <a href="#5p" class="anchor-heading" aria-labelledby="5p">
@@ -614,7 +615,7 @@
                 </svg>
             </a>
             
-            704.5p If a creature is attached to an object or player, it becomes unattached and remains on the battlefield. Similarly, if a permanent that’s neither an Aura, an Equipment, nor a Fortification is attached to an object or player, it becomes unattached and remains on the battlefield.
+            704.5p <span class='tooltip term-if'>If</span> a <span class='tooltip term-creature'>creature</span> is attached to an <span class='tooltip term-object'>object</span> or <span class='tooltip term-player'>player</span>, it <span class='tooltip term-becomes'>becomes</span> unattached and remains on the <span class='tooltip term-battlef<span class='tooltip term-if'>ie</span>ld'>battlefield</span>. Similarly, if a <span class='tooltip term-permanent'>permanent</span> that’s neither an <span class='tooltip term-aura'>Aura</span>, an <span class='tooltip term-equipment'>Equipment</span>, nor a <span class='tooltip term-fortification<span class='tooltip term-object'>'>Fort</span>ification</span> is attached to an object or pla<span class='tooltip term-battlefield'>yer, it bec</span>omes unattached and remains on the battlefield.
         </h4>
         <h4 id="5q">
             <a href="#5q" class="anchor-heading" aria-labelledby="5q">
@@ -623,7 +624,7 @@
                 </svg>
             </a>
             
-            704.5q If a permanent has both a +1/+1 counter and a -1/-1 counter on it, N +1/+1 and N -1/-1 counters are removed from it, where N is the smaller of the number of +1/+1 and -1/-1 counters on it.
+            704.5q <span class='tooltip term-if'>If</span> a <span class='tooltip term-permanent'>permanent</span> has both a +1/+1 <span class='tooltip<span class='tooltip term-counter'><span class='tooltip term-counter'> term-c<</span>/span>ounter'>counter</span> and a -<span class='tooltip term-counter'>1/-1 cou</span>nter on it, N +1/+1 and N -1/-1 counters are removed from it, where N is the smaller of the number of +1/+1 and -1/-1 counters on it.
         </h4>
         <h4 id="5r">
             <a href="#5r" class="anchor-heading" aria-labelledby="5r">
@@ -632,7 +633,7 @@
                 </svg>
             </a>
             
-            704.5r If a permanent with an ability that says it can’t have more than N counters of a certain kind on it has more than N counters of that kind on it, all but N of those counters are removed from it.
+            704.5r <span class='tooltip term-if'>If</span> a <span class='tooltip term-permanent'>permanent</span> with an <span class='tooltip term-ability'>ability</span> that says it can’t have more than N <span class='tooltip term-counter'>counters</span<span class='tooltip term-counter'>> of a c</spa<span class='tooltip term-counter'>n>ertain</span> kind on it has more than N counters of that kind on it, all but N of those counters are removed from it.
         </h4>
         <h4 id="5s">
             <a href="#5s" class="anchor-heading" aria-labelledby="5s">
@@ -641,7 +642,7 @@
                 </svg>
             </a>
             
-            704.5s If the number of lore counters on a Saga permanent is greater than or equal to its final chapter number and it isn’t the source of a chapter ability that has triggered but not yet left the stack, that Saga’s controller sacrifices it. See rule 714, “Saga Cards.”
+            704.5s <span class='tooltip term-if'>If</span> the number of lore <span class='tooltip term-counter'>counters</span> on a <span class='tooltip term-saga'>Saga</span> <span class='tooltip term-permanent'>permanent</span> is greater than or equal to its final chapter number and it isn’t the source of a chapter <span class='tooltip term-ability'>ability</span> that has trig<span class='tooltip term-saga'>gere</span>d but not yet left the stack, that Saga’s control<span class='tooltip term-saga'>ler </span><span class='tooltip term-sacrifice'>sacrifices</span> it. See rule 714, “Saga <span class='tooltip term-card'>Cards</span>.”
         </h4>
         <h3 id="6">
             <a href="#6" class="anchor-heading" aria-labelledby="6">
@@ -650,7 +651,7 @@
                 </svg>
             </a>
             
-            704.6. Some variant games include additional state-based actions that aren’t normally applicable:
+            704.6. Some <span class='tooltip term-variant'>variant</span> games include additional <span class='tooltip term-state-based-actions'>state-based actions</span> that aren’t normally applicable:
         </h3>
         <h4 id="6a">
             <a href="#6a" class="anchor-heading" aria-labelledby="6a">
@@ -659,7 +660,7 @@
                 </svg>
             </a>
             
-            704.6a In a Two-Headed Giant game, if a team has 0 or less life, that team loses the game. See rule 810, “Two-Headed Giant Variant.”
+            704.6a In a Two-Headed Giant game, <span class='tooltip term-if'>if</span> a <span class='tooltip term-team<span class='tooltip term-team'>'>te</span>am</span> has 0 or less life, that team loses the game. See rule 810, “<span class='tooltip term-two-headed-giant-<span class='tooltip term-<span class='tooltip term-variant'>variant</span>'>variant</span>'>Two-Headed Giant Variant</span>.”
         </h4>
         <h4 id="6b">
             <a href="#6b" class="anchor-heading" aria-labelledby="6b">
@@ -668,7 +669,7 @@
                 </svg>
             </a>
             
-            704.6b In a Two-Headed Giant game, if a team has fifteen or more poison counters, that team loses the game. See rule 810, “Two-Headed Giant Variant.”
+            704.6b In a Two-Headed Giant game, <span class='tooltip term-if'>if</span> a <span class='tooltip term-team'>team</span> has fifteen or more poison <span class='toolt<span class='tooltip term-team'>ip t</span>erm-counter'>counters</span>, that team loses the game. See rule 810, “<span class='tooltip term-two-headed-giant-<span class='tooltip term-<span class='tooltip term-variant'>variant</span>'>variant</span>'>Two-Headed Giant Variant</span>.”
         </h4>
         <h4 id="6c">
             <a href="#6c" class="anchor-heading" aria-labelledby="6c">
@@ -677,7 +678,7 @@
                 </svg>
             </a>
             
-            704.6c In a Commander game, a player that’s been dealt 21 or more combat damage by the same commander over the course of the game loses the game. See rule 903, “Commander.”
+            704.6c In a <span class='tooltip term-commander'>Commander</span> game, a <span class='tooltip term-player'>player</span> that’s been dealt 21 or more <span class='tooltip term-comb<span class='tooltip term-commander'>at-<span class='tooltip t<span class='tooltip term-damage'>erm-da</span>mage'>damage</span></span>'>combat damage<<span class='tooltip term-commander'>/span> by</span> the same commander over the course of the game loses the game. See rule 903, “Commander.”
         </h4>
         <h4 id="6d">
             <a href="#6d" class="anchor-heading" aria-labelledby="6d">
@@ -686,7 +687,7 @@
                 </svg>
             </a>
             
-            704.6d In a Commander game, if a commander is in a graveyard or in exile and that card was put into that zone since the last time state-based actions were checked, its owner may put it into the command zone. See rule 903, “Commander.”
+            704.6d In a <span class='tooltip <span class='tooltip term-commander'>term-comm</span>ander'>Commander</span> game, <span class='tooltip term-if'>if</span> a commander is in a <span class='tooltip term-graveyard'>graveyard</span> or in <span class='tooltip term-exile'>exile</span> and that <span class='tooltip term-card'>card</span> was put into that zone since the last time <span class='tooltip term-state-based-actions'>state-based actions</span> were checked, its <span class='tooltip term-owner'>owner</span> may<span class='tooltip term-commander'> put it i</span>nto the <span class='tooltip term-command'>command</span> zone. See rule 903, “Commander.”
         </h4>
         <h4 id="6e">
             <a href="#6e" class="anchor-heading" aria-labelledby="6e">
@@ -695,7 +696,7 @@
                 </svg>
             </a>
             
-            704.6e In an Archenemy game, if a non-ongoing scheme card is face up in the command zone, and no triggered abilities of any scheme are on the stack or waiting to be put on the stack, that scheme card is turned face down and put on the bottom of its owner’s scheme deck. See rule 904, “Archenemy.”
+            704.6e In an <span class='tooltip term-archenemy'>Archenemy</span> game, <span class='tooltip term-if'>if</span> a non-<span class='tooltip term-ongoing'>ongoing</span> <span class='tooltip term-scheme'>scheme</span> <span class='tooltip term-card'>card</span> is <span class='tooltip term-face-up'>face up</span> in the <span class='tooltip term-command'>command</span><span class='tooltip term-scheme'> zone,</span> and no triggered abilities of any scheme are on the sta<span class='tooltip term-scheme'>ck or </span>waiti<span class='tooltip term-card'>ng t</span>o be put on the stack, that scheme card is turned <span class=<span class='tooltip term-scheme'>'toolt</span>ip term-face-down'>face down</span> and put on the bottom<span class='tooltip term-archenemy'> of its o</span>wner’s scheme deck. See rule 904, “Archenemy.”
         </h4>
         <h4 id="6f">
             <a href="#6f" class="anchor-heading" aria-labelledby="6f">
@@ -704,7 +705,7 @@
                 </svg>
             </a>
             
-            704.6f In a Planechase game, if a phenomenon card is face up in the command zone, and it isn’t the source of a triggered ability that has triggered but not yet left the stack, the planar controller planeswalks. See rule 901, “Planechase.”
+            704.6f In a <span class='tooltip term-planechase'>Planechase</span> game, <span class='tooltip term-if'>if</span> a <span class='tooltip term-phenomenon'>phenomenon</span> <span class='tooltip term-card'>card</span> is <span class='tooltip term-face-up'>face up</span> in the <span class='tooltip term-command'>command</span> zone, and it isn’t the source of a triggered <span class='tooltip term-ability'>ability</span> that has triggered but not yet left the stack, the p<span class='tooltip term-planechase'>lanar cont</span>roller <span class='tooltip term-planeswalk'>planeswalks</span>. See rule 901, “Planechase.”
         </h4>
         <h3 id="7">
             <a href="#7" class="anchor-heading" aria-labelledby="7">
@@ -713,7 +714,7 @@
                 </svg>
             </a>
             
-            704.7. If multiple state-based actions would have the same result at the same time, a single replacement effect will replace all of them.
+            704.7. <span class='tooltip term-if'>If</span> multiple <span class='tooltip term-state-based-actions'>state-based actions</span> would have the same result at the same time, a single replacement <span class='tooltip term-effect'>effect</span> will replace all of them.
         </h3>
             <blockquote>
             Example: You control Lich’s Mirror, which says “If you would lose the game, instead shuffle your hand, your graveyard, and all permanents you own into your library, then draw seven cards and your life total becomes 20.” There’s one card in your library and your life total is 1. A spell causes you to draw two cards and lose 2 life. The next time state-based actions are checked, you’d lose the game due to rule 704.5a and rule 704.5b. Instead, Lich’s Mirror replaces that game loss and you keep playing.
@@ -725,7 +726,7 @@
                 </svg>
             </a>
             
-            704.8. If a state-based action results in a permanent leaving the battlefield at the same time other state-based actions were performed, that permanent’s last known information is derived from the game state before any of those state-based actions were performed.
+            704.8. <span class='tooltip term-if'>If</span> a state-based action results in a <span class='tooltip term-permanent'>permanent</span> leaving the <span class='tooltip term-battlefield'>battlefield</span> at the same time oth<span class='tooltip term-permanent'>er state-</span>based actions were performed, that permanent’s <span class='tooltip term-last-known-information'>last known information</span> is derived from the game state before any of those <span class='tooltip term-state-based-actions'>state-based actions</span> were performed.
         </h3>
             <blockquote>
             Example: You control Young Wolf, a 1/1 creature with undying, and it has a +1/+1 counter on it. A spell puts three -1/-1 counters on Young Wolf. Before state-based actions are performed, Young Wolf has one +1/+1 counter and three -1/-1 counters on it. After state-based actions are performed, Young Wolf is in the graveyard. When it was last on the battlefield, it had a +1/+1 counter on it, so undying will not trigger.
