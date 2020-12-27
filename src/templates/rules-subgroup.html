@@ -1,11 +1,25 @@
 {% extends "layouts/default.html" %}
 {% block content %}
-{%- for rule in rules %}
-    {%- set rule_id = rule["rule"].split(".")[1] %}
-    <h3 id="{{ rule_id }}">
-        <a href="#{{ rule_id }}" class="anchor-heading" aria-labelledby="{{ rule_id }}"><svg viewBox="0 0 16 16" aria-hidden="true"><use xlink:href="#svg-link"></use></svg></a>
-        {% set text = rule["rule"] + " " + rule["text"] %}
-        {{ gettext(text)}}
-    </h3>
-{%-endfor %}
+    <h1>{{ page.title }}</h1>
+    <hr/>
+    {%- for rule in rules %}
+        {%- set rule_id = rule["rule"].split(".")[1] %}
+        {%- set subrule = rule["rule"][-1] != "." %}
+        {%- set examples = rule["examples"] %}
+        {%- set tag = "h4" if subrule else "h3" %}
+        <{{ tag }} id="{{ rule_id }}">
+            <a href="#{{ rule_id }}" class="anchor-heading" aria-labelledby="{{ rule_id }}">
+                <svg viewBox="0 0 16 16" aria-hidden="true">
+                    <use xlink:href="#svg-link"></use>
+                </svg>
+            </a>
+            {% set text = rule["rule"] + " " + rule["text"] %}
+            {{ gettext(text) }}
+        </{{ tag }}>
+        {%-for example in examples %}
+            <blockquote>
+            {{ gettext(example) }}
+            </blockquote>
+        {%-endfor %}
+    {%-endfor %}
 {% endblock %}

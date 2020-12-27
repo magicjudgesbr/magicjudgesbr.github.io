@@ -155,7 +155,7 @@
                 </nav>
             {% endif %}
         {% endif %}
-        <div id="main-content" class="main-content" role="main">
+        <div id="main-content" class="main-content {{ page.content_class }}" role="main">
             {% if site.heading_anchors %}
                 {% include "partials/vendor/anchor_headings.html" %}
                 {#html=content beforeHeading="true" anchorBody="<svg viewBox=\"0 0 16 16\" aria-hidden=\"true\"><use xlink:href=\"#svg-link\"></use></svg>" anchorClass="anchor-heading" anchorAttrs="aria-labelledby=\"%html_id%\""#}
@@ -164,12 +164,13 @@
                 {% endblock %}
             {% endif %}
 
-            {% if page.has_children == true and page.has_toc != false %}
+            {% if page.has_children and not page.has_toc %}
                 <hr>
-                <h2 class="text-delta">Table of contents</h2>
+                <h2 class="text-delta">Índice</h2>
                 <ul>
-                    {%- set children_list = pages_list | selectattr("parent", page.title) | selectattr("grand_parent", page.parent) -%}
-                    {% for child in children_list %}
+                    {%- set children_list = page.children -%}
+                    {% for child_id in children_list %}
+                        {%- set child = site.pages[child_id] %}
                         <li>
                             <a href="{{ child.url }}">{{ child.title }}</a>{% if child.summary %} -
                             {{ child.summary }}{% endif %}

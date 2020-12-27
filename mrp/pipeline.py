@@ -54,7 +54,7 @@ class BuildPipeline(object):
     src_dir = "src/"
     dst_dir = "docs/"
     simple_pages = ["index", "about"]
-    scripts = ["main"]
+    scripts = ["main.js"]
     config = None
     cr = {}
 
@@ -80,6 +80,7 @@ class BuildPipeline(object):
         self._process_sass()
         self._parse_rules_structure()
         self._process_templates()
+        # self._create_search_data()
 
     def _copy_assets(self):
         assets_dir = os.path.join(self.src_dir, "assets/")
@@ -125,7 +126,7 @@ class BuildPipeline(object):
                 out.write(template.render(page=page_data, **self.config))
 
         for script in self.scripts:
-            template = template_env.get_template(f"{script}.js")
+            template = template_env.get_template(f"{script}")
             output_file = os.path.join(self.dst_dir, "assets/js", template.name)
 
             with open(output_file, "w") as out:
@@ -154,6 +155,7 @@ class BuildPipeline(object):
                 "children": group_children,
                 "template": "rules-group",
                 "group": group,
+                "content_class": "rules"
             }
             cr_data["children"].append(page_id)
 
@@ -165,11 +167,24 @@ class BuildPipeline(object):
                     "title": subgroup_title,
                     "url": f"/regras/cr/{group}/{subgroup}/",
                     "parent": group_title,
+                    "grand_parent": cr_data["title"],
                     "template": "rules-subgroup",
                     "group": group,
                     "subgroup": subgroup,
+                    "content_class": "rules"
                 }
                 group_children.append(page_id)
+
+        # glossary
+        glossary_title = translations.gettext("Glossary")
+        page_id = "cr_glossary"
+        pages[page_id] = {
+            "title": glossary_title,
+            "url": "/regras/cr/glossario/",
+            "parent": cr_data["title"],
+            "template": "glossary",
+        }
+        cr_data["children"].append(page_id)
 
     def _create_cr_pages(self):
         template = template_env.get_template("rules-index.html")
@@ -187,11 +202,23 @@ class BuildPipeline(object):
                 output_file = self._get_page_output_file(page_data, template)
 
                 with open(output_file, "w") as out:
-                    if "subgroup" in page_data:
+                    if page_data["template"] == "glossary":
+                        out.write(template.render(page=page_data, **self.config, glossary=self.cr["glossary"]))
+                    elif "subgroup" in page_data:
                         items = self.cr["rules"][page_data["group"]]["items"]
                         subgroup = page_data["subgroup"]
                         index = int(subgroup) - int(subgroup[0]) * 100
                         rules = items[index]["rules"]
+                        out.write(template.render(page=page_data, **self.config, rules=rules))
                     else:
-                        rules = []
-                    out.write(template.render(page=page_data, **self.config, rules=rules))
+                        out.write(template.render(page=page_data, **self.config))
+
+    def _create_search_data(self):
+        search_data = {}
+        for group in self.cr["rules"]:
+            rule_group = self.cr["rules"][group]
+            items = rule_group["items"]
+            for subgroup in items:
+                for rule in subgroup["rules"]:
+                    print(rule)
+        print(search_data)

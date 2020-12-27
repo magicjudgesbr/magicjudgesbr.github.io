@@ -117,10 +117,9 @@ class RulesStructurer:
 
                 number, text = line.split(" ", maxsplit=1)
                 if number.endswith("."):
-                    number = number[:-1]
-                    if "." not in number:
+                    group = number[:-1]
+                    if "." not in number[:-1]:
                         # changed subgroup
-                        group = number
                         if int(group) < 100:
                             # changed group
                             current_rules_group = cr["rules"][group]
@@ -132,7 +131,7 @@ class RulesStructurer:
                 current_rule = {
                     "rule": number,
                     "text": text.strip(),
-                    "group": number.split(".", maxsplit=1)[0],
+                    "group": group.split(".", maxsplit=1)[0],
                     "examples": []
                 }
                 current_rules_subgroup["rules"].append(current_rule)
