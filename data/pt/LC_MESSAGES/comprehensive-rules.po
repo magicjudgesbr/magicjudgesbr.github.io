@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2020-12-27 01:49\n"
+"PO-Revision-Date: 2020-12-27 09:18\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -70,7 +70,7 @@ msgid "111. Tokens"
 msgstr "111. Tokens"
 
 msgid "112. Spells"
-msgstr ""
+msgstr "112. Mágicas"
 
 msgid "113. Abilities"
 msgstr "113. Habilidades"
@@ -142,7 +142,7 @@ msgid "211. Life Modifier"
 msgstr ""
 
 msgid "212. Information Below the Text Box"
-msgstr ""
+msgstr "212. Informação Abaixo da Caixa de Texto"
 
 msgid "3. Card Types"
 msgstr "3. Tipos de Carta"
@@ -181,7 +181,7 @@ msgid "310. Phenomena"
 msgstr "310. Fenômenos"
 
 msgid "311. Vanguards"
-msgstr ""
+msgstr "311. Vanguardas"
 
 msgid "312. Schemes"
 msgstr ""
@@ -1186,7 +1186,7 @@ msgid "111.11. A copy of a permanent spell becomes a token as it resolves. The t
 msgstr ""
 
 msgid "112. Spells"
-msgstr ""
+msgstr "112. Mágicas"
 
 msgid "112.1. A spell is a card on the stack. As the first step of being cast (see rule 601, “Casting Spells”), the card becomes a spell and is moved to the top of the stack from the zone it was in, which is usually its owner’s hand. (See rule 405, “Stack.”) A spell remains on the stack as a spell until it resolves (see rule 608, “Resolving Spells and Abilities”), is countered (see rule 701.5), or otherwise leaves the stack. For more information, see section 6, “Spells, Abilities, and Effects.”"
 msgstr ""
@@ -2314,7 +2314,7 @@ msgid "211.1. Each vanguard card has a life modifier printed in its lower right 
 msgstr ""
 
 msgid "212. Information Below the Text Box"
-msgstr ""
+msgstr "212. Informação Abaixo da Caixa de Texto"
 
 msgid "212.1. Each card features text printed below the text box that has no effect on game play. Not all card sets were printed with all of the information listed below on each card."
 msgstr ""
@@ -2668,7 +2668,7 @@ msgid "310.7. If a phenomenon card is face up in the command zone, and it isn’
 msgstr ""
 
 msgid "311. Vanguards"
-msgstr ""
+msgstr "311. Vanguardas"
 
 msgid "311.1. Vanguard is a card type seen only on nontraditional Magic cards. Only the Vanguard casual variant uses vanguard cards. See rule 902, “Vanguard.”"
 msgstr ""
