@@ -124,16 +124,19 @@
     <div id="main-content-wrap" class="main-content-wrap">
         {% if page.url != "/" %}
             {% if page.parent %}
-                {%- for node in pages_list -%}
-                    {%- if node.parent == nil -%}
+                {%- set level_urls = [] -%}
+                {%- for node_id in site.pages -%}
+                    {%- set node = site.pages[node_id] %}
+                    {%- if not node.parent -%}
                         {%- if page.parent == node.title or page.grand_parent == node.title -%}
-                            {%- set first_level_url = node.url -%}
+                            {%- do level_urls.append(node.url) %}
                         {%- endif -%}
                         {%- if node.has_children -%}
-                            {%- set children_list = pages_list | selectattr("parent", node.title) -%}
-                            {%- for child in children_list -%}
+                            {%- set children_list = node.children -%}
+                            {%- for child_id in children_list -%}
+                                {%- set child = site.pages[child_id] %}
                                 {%- if page.url == child.url or page.parent == child.title -%}
-                                    {%- set second_level_url = child.url -%}
+                                    {%- do level_urls.append(child.url) %}
                                 {%- endif -%}
                             {%- endfor -%}
                         {%- endif -%}
@@ -142,12 +145,11 @@
                 <nav aria-label="Breadcrumb" class="breadcrumb-nav">
                     <ol class="breadcrumb-nav-list">
                         {% if page.grand_parent %}
-                            <li class="breadcrumb-nav-list-item"><a
-                                    href="{{ first_level_url }}">{{ page.grand_parent }}</a></li>
-                            <li class="breadcrumb-nav-list-item"><a href="{{ second_level_url }}">{{ page.parent }}</a>
+                            <li class="breadcrumb-nav-list-item"><a href="{{ level_urls[0] }}">{{ page.grand_parent }}</a></li>
+                            <li class="breadcrumb-nav-list-item"><a href="{{ level_urls[1] }}">{{ page.parent }}</a>
                             </li>
                         {% else %}
-                            <li class="breadcrumb-nav-list-item"><a href="{{ first_level_url }}">{{ page.parent }}</a>
+                            <li class="breadcrumb-nav-list-item"><a href="{{ level_urls[0] }}">{{ page.parent }}</a>
                             </li>
                         {% endif %}
                         <li class="breadcrumb-nav-list-item"><span>{{ page.title }}</span></li>
