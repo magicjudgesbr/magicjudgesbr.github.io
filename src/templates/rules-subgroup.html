@@ -6,6 +6,7 @@
         {%- set rule_id = rule["rule"].split(".")[1] %}
         {%- set subrule = rule["rule"][-1] != "." %}
         {%- set examples = rule["examples"] %}
+        {%- set notes = rule["notes"] %}
         {%- set tag = "h4" if subrule else "h3" %}
         <{{ tag }} id="{{ rule_id }}">
             <a href="#{{ rule_id }}" class="anchor-heading" aria-labelledby="{{ rule_id }}">
@@ -16,6 +17,11 @@
             {% set text = rule["rule"] + " " + rule["text"] %}
             {{ gettext(text) }}
         </{{ tag }}>
+        {%-for note in notes %}
+            <blockquote>
+            {{ gettext(note) }}
+            </blockquote>
+        {%-endfor %}
         {%-for example in examples %}
             <blockquote>
             {{ gettext(example) }}

@@ -44,6 +44,7 @@ class RulesStructurer:
         current_is_blank = False
 
         for line in lines:
+            original_line = line
             line = line.strip()
             lc += 1
             last_was_blank = current_is_blank
@@ -114,11 +115,14 @@ class RulesStructurer:
                 if line.startswith("Example:"):
                     current_rules_subgroup["rules"][-1]["examples"].append(line)
                     continue
+                if original_line[0:5] == "     ":
+                    current_rules_subgroup["rules"][-1]["notes"].append(line)
+                    continue
 
                 number, text = line.split(" ", maxsplit=1)
                 if number.endswith("."):
                     group = number[:-1]
-                    if "." not in number[:-1]:
+                    if "." not in group:
                         # changed subgroup
                         if int(group) < 100:
                             # changed group
@@ -127,12 +131,14 @@ class RulesStructurer:
                             continue
                         index = int(group) - int(group[0]) * 100
                         current_rules_subgroup = current_rules_group["items"][index]
+                        continue
 
                 current_rule = {
                     "rule": number,
                     "text": text.strip(),
                     "group": group.split(".", maxsplit=1)[0],
-                    "examples": []
+                    "examples": [],
+                    "notes": []
                 }
                 current_rules_subgroup["rules"].append(current_rule)
 
