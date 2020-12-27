@@ -3,6 +3,7 @@ import shutil
 import os
 import yaml
 import sass
+import json
 import gettext
 from livereload import Server
 from jinja2 import Environment, FileSystemLoader
@@ -80,7 +81,7 @@ class BuildPipeline(object):
         self._process_sass()
         self._parse_rules_structure()
         self._process_templates()
-        # self._create_search_data()
+        self._create_search_data()
 
     def _copy_assets(self):
         assets_dir = os.path.join(self.src_dir, "assets/")
@@ -218,7 +219,30 @@ class BuildPipeline(object):
         for group in self.cr["rules"]:
             rule_group = self.cr["rules"][group]
             items = rule_group["items"]
-            for subgroup in items:
-                for rule in subgroup["rules"]:
-                    print(rule)
-        print(search_data)
+            for item in items:
+                subgroup_title = translations.gettext(f"{item['group']}. {item['name']}")
+                content = ""
+
+                for rule in item["rules"]:
+                    rule_content = translations.gettext(f"{rule['rule']} {rule['text']}")
+                    content += "\n" + rule_content
+                    rule_title = f"{rule['rule']}"
+                    rule_anchor = rule['rule'].split(".", maxsplit=1)[1]
+                    if rule_anchor[-1] == ".":
+                        rule_anchor = rule_anchor[:-1]
+
+                    search_data[rule['rule']] = {
+                        "doc": rule_title,
+                        "title": rule_title,
+                        "content": rule_content.strip(),
+                        "url": f"/regras/cr/{group}/{item['group']}/#{rule_anchor}"
+                    }
+
+                search_data[item['group']] = {
+                    "doc": subgroup_title,
+                    "title": subgroup_title,
+                    "content": content.strip(),
+                    "url": f"/regras/cr/{group}/{item['group']}/"
+                }
+        with open(os.path.join(self.dst_dir, "assets/js/search-data.json"), "w") as file:
+            json.dump(search_data, file)
