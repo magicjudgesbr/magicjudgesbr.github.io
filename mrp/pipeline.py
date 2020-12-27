@@ -53,18 +53,40 @@ template_env.install_gettext_translations(translations)
 
 class TemplateFilters(object):
 
+    allowed_terms = []
+    rule_pattern = re.compile(r"\b(\d{3}(\.\d+\w?)?)\b")
+
     def __init__(self, cr):
         self.terms = []
         for entry in cr["glossary"]:
-            self.terms.append(translations.gettext(entry["term"]).lower())
+            if entry["term"].lower() in self.allowed_terms:
+                self.terms.append(translations.gettext(entry["term"]).lower())
 
     def ref_rules(self, value):
-        return value
+        id, text = value.split(" ", maxsplit=1)
+        matches = self.rule_pattern.finditer(text)
+        if not matches:
+            return value
+        for match in reversed([m for m in matches]):
+            rule = match.group()
+            if "." in rule:
+                subgroup, subrule = rule.split(".")
+                group = subgroup[0]
+                link = f"/regras/cr/{group}/{subgroup}/#{subrule}"
+            else:
+                group = rule[0]
+                subgroup = rule
+                link = f"/regras/cr/{group}/{subgroup}"
+
+            text = self._wrap_rule_link(text, match, link)
+
+        return f"{id} {text}"
 
     def glossary(self, value):
         for term in self.terms:
             pattern = re.compile(f"\\b{re.escape(term)}s?\\b", re.IGNORECASE)
-            for match in pattern.finditer(value):
+            match = pattern.search(value)
+            if match:
                 value = self._wrap_term(value, match, term)
 
         return value
@@ -72,6 +94,9 @@ class TemplateFilters(object):
     def _wrap_term(self, value, match, term):
         term = term.lower().replace(' ', '-')
         return f"{value[:match.start()]}<span class='tooltip term-{term}'>{value[match.start():match.end()]}</span>{value[match.end():]}"
+
+    def _wrap_rule_link(self, value, match, link):
+        return f"{value[:match.start()]}<a href='{link}'>{value[match.start():match.end()]}</a>{value[match.end():]}"
 
 
 class BuildPipeline(object):
