@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2020-12-27 12:06\n"
+"PO-Revision-Date: 2020-12-27 13:20\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -12034,10 +12034,10 @@ msgid "An icon that appears in the upper left of some Future Sight cards that ha
 msgstr ""
 
 msgid "Type Line"
-msgstr ""
+msgstr "Linha de Tipo"
 
 msgid "Part of a card. The type line is printed directly below the illustration and contains the card’s card type(s), subtype(s), and/or supertype(s). See rule 205, “Type Line.”"
-msgstr ""
+msgstr "Parte de uma Carta. A linha de tipo é impressa diretamente abaixo da ilustração e contém o(s) tipo(s) de carta da carta, subtipo(s) e/ou supertipo(s). Ver regra 205, \"Linha de Tipo.\""
 
 msgid "Type-Changing Effect"
 msgstr ""
