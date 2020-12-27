@@ -41,7 +41,7 @@ def copy_tree(src, dst, ignore=None):
 
 template_env = Environment(
     loader=FileSystemLoader("src/templates"),
-    extensions=['jinja2.ext.i18n']
+    extensions=['jinja2.ext.i18n', 'jinja2.ext.do']
 )
 translations = gettext.translation(
     domain="comprehensive-rules",
