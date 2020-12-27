@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2020-12-27 09:18\n"
+"PO-Revision-Date: 2020-12-27 10:18\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -214,64 +214,64 @@ msgid "406. Exile"
 msgstr "406. Exílio"
 
 msgid "407. Ante"
-msgstr ""
+msgstr "407. Ante"
 
 msgid "408. Command"
 msgstr ""
 
 msgid "5. Turn Structure"
-msgstr ""
+msgstr "5. Estrutura do Turno"
 
 msgid "500. General"
 msgstr "500. Geral"
 
 msgid "501. Beginning Phase"
-msgstr ""
+msgstr "501. Fase Inicial"
 
 msgid "502. Untap Step"
-msgstr ""
+msgstr "502. Etapa de Desvirar"
 
 msgid "503. Upkeep Step"
-msgstr ""
+msgstr "503. Etapa de Manutenção"
 
 msgid "504. Draw Step"
-msgstr ""
+msgstr "504. Etapa de Compra"
 
 msgid "505. Main Phase"
-msgstr ""
+msgstr "505. Fase Principal"
 
 msgid "506. Combat Phase"
-msgstr ""
+msgstr "506. Fase de Combate"
 
 msgid "507. Beginning of Combat Step"
-msgstr ""
+msgstr "507. Etapa de Início de Combate"
 
 msgid "508. Declare Attackers Step"
-msgstr ""
+msgstr "502. Etapa de Declaração de Atacantes"
 
 msgid "509. Declare Blockers Step"
-msgstr ""
+msgstr "509. Etapa de Declaração de Bloqueadores"
 
 msgid "510. Combat Damage Step"
-msgstr ""
+msgstr "510. Etapa de Dano de Combate"
 
 msgid "511. End of Combat Step"
-msgstr ""
+msgstr "511. Etapa de Fim de Combate"
 
 msgid "512. Ending Phase"
-msgstr ""
+msgstr "512. Fase Final"
 
 msgid "513. End Step"
-msgstr ""
+msgstr "513. Etapa Final"
 
 msgid "514. Cleanup Step"
-msgstr ""
+msgstr "514. Etapa de Limpeza"
 
 msgid "6. Spells, Abilities, and Effects"
-msgstr ""
+msgstr "6. Mágicas, Habilidades, e Efeitos"
 
 msgid "600. General"
-msgstr ""
+msgstr "600. Geral"
 
 msgid "601. Casting Spells"
 msgstr ""
@@ -2971,7 +2971,7 @@ msgid "406.8. Previously, the exile zone was called the “removed-from-the-game
 msgstr ""
 
 msgid "407. Ante"
-msgstr ""
+msgstr "407. Ante"
 
 msgid "407.1. Earlier versions of the Magic rules included an ante rule as a way of playing “for keeps.” Playing Magic games for ante is now considered an optional variation on the game, and it’s allowed only where it’s not forbidden by law or by other rules. Playing for ante is strictly forbidden under the Magic: The Gathering Tournament Rules (WPN.Wizards.com/en/resources/rules-documents)."
 msgstr ""
@@ -2998,7 +2998,7 @@ msgid "408.3. In the Planechase, Vanguard, Commander, Archenemy, and Conspiracy 
 msgstr ""
 
 msgid "5. Turn Structure"
-msgstr ""
+msgstr "5. Estrutura do Turno"
 
 msgid "500. General"
 msgstr "500. Geral"
@@ -3037,13 +3037,13 @@ msgid "500.11. No game events can occur between turns, phases, or steps."
 msgstr ""
 
 msgid "501. Beginning Phase"
-msgstr ""
+msgstr "501. Fase Inicial"
 
 msgid "501.1. The beginning phase consists of three steps, in this order: untap, upkeep, and draw."
 msgstr ""
 
 msgid "502. Untap Step"
-msgstr ""
+msgstr "502. Etapa de Desvirar"
 
 msgid "502.1. First, all phased-in permanents with phasing that the active player controls phase out, and all phased-out permanents that the active player controlled when they phased out phase in. This all happens simultaneously. This turn-based action doesn’t use the stack. See rule 702.25, “Phasing.”"
 msgstr ""
@@ -3055,7 +3055,7 @@ msgid "502.3. No player receives priority during the untap step, so no spells ca
 msgstr ""
 
 msgid "503. Upkeep Step"
-msgstr ""
+msgstr "503. Etapa de Manutenção"
 
 msgid "503.1. The upkeep step has no turn-based actions. Once it begins, the active player gets priority. (See rule 117, “Timing and Priority.”)"
 msgstr ""
@@ -3067,7 +3067,7 @@ msgid "503.2. If a spell states that it may be cast only “after [a player’s]
 msgstr ""
 
 msgid "504. Draw Step"
-msgstr ""
+msgstr "504. Etapa de Compra"
 
 msgid "504.1. First, the active player draws a card. This turn-based action doesn’t use the stack."
 msgstr ""
@@ -3076,7 +3076,7 @@ msgid "504.2. Second, the active player gets priority. (See rule 117, “Timing 
 msgstr ""
 
 msgid "505. Main Phase"
-msgstr ""
+msgstr "505. Fase Principal"
 
 msgid "505.1. There are two main phases in a turn. In each turn, the first main phase (also known as the precombat main phase) and the second main phase (also known as the postcombat main phase) are separated by the combat phase (see rule 506, “Combat Phase”). The precombat and postcombat main phases are individually and collectively known as the main phase."
 msgstr ""
@@ -3103,7 +3103,7 @@ msgid "505.5b During either main phase, the active player may play one land card
 msgstr ""
 
 msgid "506. Combat Phase"
-msgstr ""
+msgstr "506. Fase de Combate"
 
 msgid "506.1. The combat phase has five steps, which proceed in order: beginning of combat, declare attackers, declare blockers, combat damage, and end of combat. The declare blockers and combat damage steps are skipped if no creatures are declared as attackers or put onto the battlefield attacking (see rule 508.8). There are two combat damage steps if any attacking or blocking creature has first strike (see rule 702.7) or double strike (see rule 702.4)."
 msgstr ""
@@ -3175,7 +3175,7 @@ msgid "506.6g Rules 506.6 and 506.6a–f apply to abilities that state that they
 msgstr ""
 
 msgid "507. Beginning of Combat Step"
-msgstr ""
+msgstr "507. Etapa de Início de Combate"
 
 msgid "507.1. First, if the game being played is a multiplayer game in which the active player’s opponents don’t all automatically become defending players, the active player chooses one of their opponents. That player becomes the defending player. This turn-based action doesn’t use the stack. (See rule 506.2.)"
 msgstr ""
@@ -3184,7 +3184,7 @@ msgid "507.2. Second, the active player gets priority. (See rule 117, “Timing 
 msgstr ""
 
 msgid "508. Declare Attackers Step"
-msgstr ""
+msgstr "502. Etapa de Declaração de Atacantes"
 
 msgid "508.1. First, the active player declares attackers. This turn-based action doesn’t use the stack. To declare attackers, the active player follows the steps below, in order. If at any point during the declaration of attackers, the active player is unable to comply with any of the steps listed below, the declaration is illegal; the game returns to the moment before the declaration (see rule 723, “Handling Illegal Actions”)."
 msgstr ""
@@ -3301,7 +3301,7 @@ msgid "508.8. If no creatures are declared as attackers or put onto the battlefi
 msgstr ""
 
 msgid "509. Declare Blockers Step"
-msgstr ""
+msgstr "509. Etapa de Declaração de Bloqueadores"
 
 msgid "509.1. First, the defending player declares blockers. This turn-based action doesn’t use the stack. To declare blockers, the defending player follows the steps below, in order. If at any point during the declaration of blockers, the defending player is unable to comply with any of the steps listed below, the declaration is illegal; the game returns to the moment before the declaration (see rule 723, “Handling Illegal Actions”)."
 msgstr ""
@@ -3406,7 +3406,7 @@ msgid "509.7b A creature that’s put onto the battlefield blocking isn’t affe
 msgstr ""
 
 msgid "510. Combat Damage Step"
-msgstr ""
+msgstr "510. Etapa de Dano de Combate"
 
 msgid "510.1. First, the active player announces how each attacking creature assigns its combat damage, then the defending player announces how each blocking creature assigns its combat damage. This turn-based action doesn’t use the stack. A player assigns a creature’s combat damage according to the following rules:"
 msgstr ""
@@ -3454,7 +3454,7 @@ msgid "510.4. If at least one attacking or blocking creature has first strike (s
 msgstr ""
 
 msgid "511. End of Combat Step"
-msgstr ""
+msgstr "511. Etapa de Fim de Combate"
 
 msgid "511.1. The end of combat step has no turn-based actions. Once it begins, the active player gets priority. (See rule 117, “Timing and Priority.”)"
 msgstr ""
@@ -3466,13 +3466,13 @@ msgid "511.3. As soon as the end of combat step ends, all creatures and planeswa
 msgstr ""
 
 msgid "512. Ending Phase"
-msgstr ""
+msgstr "512. Fase Final"
 
 msgid "512.1. The ending phase consists of two steps: end and cleanup."
 msgstr ""
 
 msgid "513. End Step"
-msgstr ""
+msgstr "513. Etapa Final"
 
 msgid "513.1. The end step has no turn-based actions. Once it begins, the active player gets priority. (See rule 117, “Timing and Priority.”)"
 msgstr ""
@@ -3484,7 +3484,7 @@ msgid "513.2. If a permanent with an ability that triggers “at the beginning o
 msgstr ""
 
 msgid "514. Cleanup Step"
-msgstr ""
+msgstr "514. Etapa de Limpeza"
 
 msgid "514.1. First, if the active player’s hand contains more cards than their maximum hand size (normally seven), they discard enough cards to reduce their hand size to that number. This turn-based action doesn’t use the stack."
 msgstr ""
@@ -3499,10 +3499,10 @@ msgid "514.3a At this point, the game checks to see if any state-based actions w
 msgstr ""
 
 msgid "6. Spells, Abilities, and Effects"
-msgstr ""
+msgstr "6. Mágicas, Habilidades, e Efeitos"
 
 msgid "600. General"
-msgstr ""
+msgstr "600. Geral"
 
 msgid "601. Casting Spells"
 msgstr ""
