@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2020-12-26 23:50\n"
+"PO-Revision-Date: 2020-12-27 00:49\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -526,7 +526,7 @@ msgid "101. The Magic Golden Rules"
 msgstr "101. As Regras de Ouro do Magic"
 
 msgid "101.1. Whenever a card’s text directly contradicts these rules, the card takes precedence. The card overrides only the rule that applies to that specific situation. The only exception is that a player can concede the game at any time (see rule 104.3a)."
-msgstr ""
+msgstr "101.1. Sempre que o texto de uma carta contradiz diretamente essas regras, o carta tem precedência. A carta sobrescreve apenas a regra que se aplica a essa situação específica. A única exceção é que um jogador pode conceder o jogo a qualquer momento (veja a regra 104.3a)."
 
 msgid "101.2. When a rule or effect allows or directs something to happen, and another effect states that it can’t happen, the “can’t” effect takes precedence."
 msgstr ""
