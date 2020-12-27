@@ -85,7 +85,7 @@
 
                 var index = lunr(function () {
                      // use the language (pt)
-                    this.use(lunr.pt);
+                    // this.use(lunr.pt);
                     this.ref('id');
                     this.field('title', {boost: 200});
                     this.field('content', {boost: 10});
