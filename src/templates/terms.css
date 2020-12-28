@@ -27,7 +27,7 @@
   display:none; /* hide by default */
 }
 {%-for entry in glossary-%}
-{%- set class = entry.term.lower().replace(' ', '-')%}
+{%- set class = entry.term | slug %}
 .term-{{ class }}:before {
 
   content: "{{ entry.desc | join("\n") }}"
