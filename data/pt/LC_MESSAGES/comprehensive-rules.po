@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2020-12-28 02:43\n"
+"PO-Revision-Date: 2020-12-28 12:24\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -100,7 +100,7 @@ msgid "121. Drawing a Card"
 msgstr "121. Comprando um Card"
 
 msgid "122. Counters"
-msgstr "122. Contadores"
+msgstr "122. Marcadores"
 
 msgid "2. Parts of a Card"
 msgstr "2. Partes de um Card"
@@ -160,13 +160,13 @@ msgid "303. Enchantments"
 msgstr "303. Encantamentos"
 
 msgid "304. Instants"
-msgstr "304. Instantâneas"
+msgstr "304. Mágicas Instantâneas"
 
 msgid "305. Lands"
 msgstr "305. Terrenos"
 
 msgid "306. Planeswalkers"
-msgstr "306. Planinautas"
+msgstr "306. Planeswalkers"
 
 msgid "307. Sorceries"
 msgstr "307. Feitiços"
@@ -178,16 +178,16 @@ msgid "309. Planes"
 msgstr "309. Planos"
 
 msgid "310. Phenomena"
-msgstr "310. Fenômenos"
+msgstr "310. Fenômeno"
 
 msgid "311. Vanguards"
-msgstr "311. Vanguardas"
+msgstr "311. Vanguard"
 
 msgid "312. Schemes"
-msgstr ""
+msgstr "312. Esquemas"
 
 msgid "313. Conspiracies"
-msgstr ""
+msgstr "313. Conspiracies"
 
 msgid "4. Zones"
 msgstr "4. Zonas"
