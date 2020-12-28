@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2020-12-28 18:38\n"
+"PO-Revision-Date: 2020-12-28 19:37\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -8713,100 +8713,105 @@ msgid "905.6. Once the starting player has been determined, each player sets the
 msgstr ""
 
 msgid "Abandon"
-msgstr ""
+msgstr "Abandonar"
 
 msgid "To turn a face-up ongoing scheme card face down and put it on the bottom of its owner’s scheme deck. See rule 701.26, “Abandon.”"
-msgstr ""
+msgstr "Virar a face de um card de esquema contínuo para baixo e colocá-lo no fundo do deck de esquemas de seu dono.\n"
+"Veja a regra 701.26, “Abandonar.”"
 
 msgid "Ability"
-msgstr ""
+msgstr "Habilidade"
 
 msgid "1. Text on an object that explains what that object does or can do."
-msgstr ""
+msgstr "1. Texto em um objeto que explica o que esse objeto faz ou pode fazer."
 
 msgid "2. An activated or triggered ability on the stack. This kind of ability is an object."
-msgstr ""
+msgstr "2. Uma habilidade ativada ou desencadeada na pilha. Este tipo de habilidade é um objeto."
 
 msgid "See rule 113, “Abilities,” and section 6, “Spells, Abilities, and Effects.”"
-msgstr ""
+msgstr "Veja a regra 113, “Habilidades,” e a seção 6, “Mágicas, Habilidades, e Efeitos.”"
 
 msgid "Ability Word"
-msgstr ""
+msgstr "Palavra de Habilidade"
 
 msgid "An italicized word with no rules meaning that ties together abilities on different cards that have similar functionality. See rule 207.2c."
-msgstr ""
+msgstr "Uma palavra em itálico sem significado nas regras que agrupam diferentes cards que têm uma funcionalidade semelhante. Veja a regra 207.2c."
 
 msgid "Absorb"
-msgstr ""
+msgstr "Absorver"
 
 msgid "A keyword ability that prevents damage. See rule 702.63, “Absorb.”"
-msgstr ""
+msgstr "Uma palavra-chave de habilidade que previne dano. Veja a regra 702.63, “Absorver.”"
 
 msgid "Activate"
-msgstr ""
+msgstr "Ativar"
 
 msgid "To put an activated ability onto the stack and pay its costs, so that it will eventually resolve and have its effect. See rule 602, “Activating Activated Abilities.”"
-msgstr ""
+msgstr "Colocar uma habilidade ativada na pilha e pagar seus custos, de modo que ele eventualmente resolverá e terá o seu\n"
+"efeito. Veja a regra 602, “Ativando Habilidades Ativadas.”"
 
 msgid "Activated Ability"
-msgstr ""
+msgstr "Habilidade Ativada"
 
 msgid "A kind of ability. Activated abilities are written as “[Cost]: [Effect.] [Activation instructions (if any).]” See rule 113, “Abilities,” and rule 602, “Activating Activated Abilities.”"
-msgstr ""
+msgstr "Um tipo de habilidade. Habilidades ativadas são escritas da seguinte forma “[Custo]: [Efeito] [Instrução de Ativação (se houver)]”. Veja a regra 113, “Habilidades,” e a regra 602, “Ativando Habilidades Ativadas.”"
 
 msgid "Activation Cost"
-msgstr ""
+msgstr "Custo de Ativação"
 
 msgid "Everything that appears before the colon in an activated ability’s text. It must be paid to activate the ability. See rule 118, “Costs,” and rule 602, “Activating Activated Abilities.”"
-msgstr ""
+msgstr "Tudo o que aparece antes dos dois pontos no texto de uma habilidade ativada. Ele deve ser pago para ativar a\n"
+"habilidade. Veja a regra 118, “Custos,” e a regra 602, “Ativando Habilidades Ativadas.”"
 
 msgid "Active Player"
-msgstr ""
+msgstr "Jogador Ativo"
 
 msgid "The player whose turn it is. See rule 102.1."
-msgstr ""
+msgstr "O jogador cujo turno está sendo jogado. Veja a regra 102.1."
 
 msgid "Active Player, Nonactive Player Order"
-msgstr ""
+msgstr "Ordem Jogador-Ativo/Não-Ativo"
 
 msgid "A system that determines the order by which players make choices if multiple players are instructed to make choices at the same time. See rule 101.4. This rule is modified for games using the shared team turns option; see rule 805.6."
-msgstr ""
+msgstr "Um sistema que determina a ordem pela qual os jogadores fazem escolhas se vários jogadores são orientados a fazerem escolhas ao mesmo tempo. Veja a regra 101.4. Esta regra é modificada para jogos que fazem uso da opção de turnos compartilhados pela equipe; veja a regra 805.6."
 
 msgid "Active Team"
-msgstr ""
+msgstr "Equipe Ativa"
 
 msgid "The team whose turn it is in a game using the shared team turns option. See rule 805.4a."
-msgstr ""
+msgstr "A equipe cujo turno está sendo jogado num jogo que usa a opção de turnos compartilhados pela equipe. Consulte a regra 805.4a."
 
 msgid "Adapt"
-msgstr ""
+msgstr "Adaptar (Adapt)"
 
 msgid "A keyword action that puts +1/+1 counters on a creature that doesn’t have any yet. See rule 701.43, “Adapt.”"
-msgstr ""
+msgstr "Uma palavra chave de ação que coloca marcadores +1/+1 em criaturas que não possuem nenhum marcador ainda.\n"
+"Veja a regra 701.43, “Adaptar.”"
 
 msgid "Additional Cost"
-msgstr ""
+msgstr "Custo Adicional"
 
 msgid "A cost a spell may have that its controller may pay (or, in some cases, must pay) in addition to its mana cost to cast that spell. See rule 118, “Costs,” and rule 601, “Casting Spells.”"
-msgstr ""
+msgstr "Um custo que uma mágica pode ter e que seu controlador pode pagar (ou em alguns casos, deve pagar), além de seu custo de mana para conjurar essa mágica. Veja a regra 118, “Custos,” e a regra 601, “Conjurando Mágicas.”"
 
 msgid "Adventurer Card"
-msgstr ""
+msgstr "Card Aventura"
 
 msgid "Cards with a two-part card frame (one part of which is inset on the left) on a single card. See rule 715, “Adventurer Cards.”"
-msgstr ""
+msgstr "Cards com duas partes (uma parte do qual está à esquerda) em um único card. Veja a regra 715, \"Cards de Aventura.\""
 
 msgid "Affinity"
-msgstr ""
+msgstr "Afinidade (Affinity)"
 
 msgid "A keyword ability that reduces how much mana you need to spend to cast a spell. See rule 702.40, “Affinity.”"
-msgstr ""
+msgstr "Uma palavra-chave de habilidade que reduz a quantidade de mana que você precisa gastar para conjurar uma mágica. Veja a regra 702.40, “Afinidade.”"
 
 msgid "Afflict"
-msgstr ""
+msgstr "Afligir (Afflict)"
 
 msgid "A keyword ability that makes the defending player lose life for blocking. See rule 702.129, “Afflict.”"
-msgstr ""
+msgstr "Uma palavra-chave de habilidade que que faz com que o jogador defensor perca pontos de vida. Veja a regra\n"
+"702.129, “Aflingir.”"
 
 msgid "Afterlife"
 msgstr ""
