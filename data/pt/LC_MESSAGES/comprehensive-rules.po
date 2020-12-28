@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2020-12-28 13:03\n"
+"PO-Revision-Date: 2020-12-28 15:50\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -187,7 +187,7 @@ msgid "312. Schemes"
 msgstr "312. Esquemas"
 
 msgid "313. Conspiracies"
-msgstr "313. Conspiracies"
+msgstr "313. Conspirações"
 
 msgid "4. Zones"
 msgstr "4. Zonas"
@@ -361,88 +361,88 @@ msgid "711. Double-Faced Cards"
 msgstr "711. Cards com Dupla Face"
 
 msgid "712. Meld Cards"
-msgstr ""
+msgstr "712. Cards Fusão"
 
 msgid "713. Substitute Cards"
-msgstr ""
+msgstr "713. Cards Substitutas"
 
 msgid "714. Saga Cards"
-msgstr ""
+msgstr "714. Cards Saga"
 
 msgid "715. Adventurer Cards"
-msgstr ""
+msgstr "715. Cards Aventura"
 
 msgid "716. Controlling Another Player"
-msgstr ""
+msgstr "716. Controlando Outro Jogador"
 
 msgid "717. Ending Turns and Phases"
-msgstr ""
+msgstr "717. Finalizando Turnos e Fases"
 
 msgid "718. The Monarch"
-msgstr ""
+msgstr "718. O Monarca"
 
 msgid "719. Restarting the Game"
-msgstr ""
+msgstr "719. Reiniciando o Jogo"
 
 msgid "720. Subgames"
-msgstr ""
+msgstr "720. Sub-jogos"
 
 msgid "721. Merging with Permanents"
-msgstr ""
+msgstr "721. Mesclando com Permanentes"
 
 msgid "722. Taking Shortcuts"
-msgstr ""
+msgstr "722. Pegando Atalhos"
 
 msgid "723. Handling Illegal Actions"
-msgstr ""
+msgstr "723. Lidando com Ações Ilegais"
 
 msgid "8. Multiplayer Rules"
-msgstr ""
+msgstr "8. Regras Multijogador"
 
 msgid "800. General"
 msgstr "800. Geral"
 
 msgid "801. Limited Range of Influence Option"
-msgstr ""
+msgstr "801. Opção de Alcance de Influência Limitado"
 
 msgid "802. Attack Multiple Players Option"
-msgstr ""
+msgstr "802. Opção de Atacar Vários Jogadores"
 
 msgid "803. Attack Left and Attack Right Options"
-msgstr ""
+msgstr "803. Opções de Ataque à Esquerda e Ataque à Direita"
 
 msgid "804. Deploy Creatures Option"
-msgstr ""
+msgstr "804. Opção de Realocação de Criaturas"
 
 msgid "805. Shared Team Turns Option"
-msgstr ""
+msgstr "805. Opção de Turnos Compartilhados pela Equipe"
 
 msgid "806. Free-for-All Variant"
-msgstr ""
+msgstr "806. Variante Competição Livre"
 
 msgid "807. Grand Melee Variant"
-msgstr ""
+msgstr "807. Variante Refrega Grandiosa"
 
 msgid "808. Team vs. Team Variant"
-msgstr ""
+msgstr "808. Variante Equipe vs. Equipe"
 
 msgid "809. Emperor Variant"
-msgstr ""
+msgstr "809. Variante Imperador"
 
 msgid "810. Two-Headed Giant Variant"
-msgstr ""
+msgstr "810. Variante Gigante de Duas Cabeças"
 
 msgid "811. Alternating Teams Variant"
-msgstr ""
+msgstr "811. Variant Equipes Intercaladas"
 
 msgid "9. Casual Variants"
-msgstr ""
+msgstr "9. Variantes Casuais"
 
 msgid "900. General"
 msgstr "900. Geral"
 
 msgid "901. Planechase"
-msgstr ""
+msgstr "901. Planechase"
 
 msgid "902. Vanguard"
 msgstr "902. Vanguard"
@@ -454,7 +454,7 @@ msgid "904. Archenemy"
 msgstr "904. Archenemy"
 
 msgid "905. Conspiracy Draft"
-msgstr ""
+msgstr "905. Draft de Conspiracy"
 
 msgid "Glossary"
 msgstr "Glossário"
@@ -523,34 +523,34 @@ msgid "101.2. When a rule or effect allows or directs something to happen, and a
 msgstr "101.2. Quando uma regra ou efeito permite ou direciona algo para acontecer, e outro efeito afirma que não pode acontecer, o efeito \"não pode\" tem precedência."
 
 msgid "Example: If one effect reads “You may play an additional land this turn” and another reads “You can’t play lands this turn,” the effect that precludes you from playing lands wins."
-msgstr ""
+msgstr "Exemplo: Se um efeito diz \"Você pode jogar um terreno adicional este turno\" e outro diz \"Você não pode jogar terrenos neste turno\", o efeito que o impede de jogar terrenos vence."
 
 msgid "101.2a Adding abilities to objects and removing abilities from objects don’t fall under this rule. (See rule 113.10.)"
 msgstr "101.2a Adicionar habilidades a objetos e remover habilidades de objetos não se enquadram nesta regra. (Veja a regra 113.10.)"
 
 msgid "101.3. Any part of an instruction that’s impossible to perform is ignored. (In many cases the card will specify consequences for this; if it doesn’t, there’s no effect.)"
-msgstr ""
+msgstr "101.3. Qualquer parte de uma instrução cuja realização seja impossível é ignorada. (Em muitos casos, o card especificará as consequências para isto; se isso não acontecer, não há efeito.)"
 
 msgid "101.4. If multiple players would make choices and/or take actions at the same time, the active player (the player whose turn it is) makes any choices required, then the next player in turn order (usually the player seated to the active player’s left) makes any choices required, followed by the remaining nonactive players in turn order. Then the actions happen simultaneously. This rule is often referred to as the “Active Player, Nonactive Player (APNAP) order” rule."
-msgstr ""
+msgstr "101.4. Se múltiplos jogadores tiverem que fazer escolhas e/ou realizar ações ao mesmo tempo, o jogador ativo (o jogador de quem é a vez), faz as escolhas necessárias, então o jogador seguinte na ordem de turno (normalmente o jogador sentado à esquerda do jogador ativo) faz todas as escolhas necessárias, seguido pelo restante dos jogadores não-ativos na ordem do turno. Em seguida as ações acontecem simultaneamente. Esta regra é muitas vezes referida como a regra da “ordem Jogador-Ativo/Não-Ativo” (do inglês APNAP)."
 
 msgid "Example: A card reads “Each player sacrifices a creature.” First, the active player chooses a creature they control. Then each of the nonactive players, in turn order, chooses a creature they control. Then all creatures chosen this way are sacrificed simultaneously."
-msgstr ""
+msgstr "Exemplo: Um card diz “Cada jogador sacrifica uma criatura”. Primeiro, o jogador ativo escolhe uma criatura que ele controla. Então, cada jogador não-ativo, na ordem de turno, escolhe uma criatura que ele controla. Então todas as criaturas escolhidas desta maneira são sacrificadas simultaneamente."
 
 msgid "101.4a If an effect has each player choose a card in a hidden zone, such as their hand or library, those cards may remain face down as they’re chosen. However, each player must clearly indicate which face-down card they are choosing."
-msgstr ""
+msgstr "101.4a Se um efeito faz com que cada jogador escolha um card em uma zona não revelada, como de sua mão ou grimório, esses cards podem permanecer com as faces voltadas para baixo conforme são escolhidos. No entanto, cada jogador deve indicar claramente qual card com a face voltada para baixo ele escolheu."
 
 msgid "101.4b A player knows the choices made by the previous players when making their choice, except as specified in 101.4a."
-msgstr ""
+msgstr "101.4b Um jogador conhece as escolhas feitas pelos jogadores anteriores quando ele faz a sua escolha, exceto quando especificado na 101.4a."
 
 msgid "101.4c If a player would make more than one choice at the same time, the player makes the choices in the order specified. If no order is specified, the player chooses the order."
-msgstr ""
+msgstr "101.4c Se um jogador faria mais do que uma escolha ao mesmo tempo, o jogador faz as escolhas na ordem especificada. Se não houver uma ordem especificada, o jogador escolhe a ordem."
 
 msgid "101.4d If a choice made by a nonactive player causes the active player, or a different nonactive player earlier in the turn order, to have to make a choice, APNAP order is restarted for all outstanding choices."
-msgstr ""
+msgstr "101.4d Se a escolha feita por um jogador não-ativo faz com que o jogador ativo, ou um jogador não-ativo anterior na ordem do turno, tenha que fazer uma escolha, a ordem Jogador-Ativo/Não-Ativo é reiniciada para todas as escolhas pendentes."
 
 msgid "101.4e If multiple players would make choices or take actions while starting the game, the starting player is considered the active player and each other player is considered a nonactive player."
-msgstr ""
+msgstr "101.4e Se vários jogadores fossem fazer escolhas ou ações enquanto iniciam o jogo, o jogador inicial é considerado o jogador ativo e cada outro jogador é considerado um jogador não ativo."
 
 msgid "102.1. A player is one of the people in the game. The active player is the player whose turn it is. The other players are nonactive players."
 msgstr ""
