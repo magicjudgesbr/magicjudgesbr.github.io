@@ -68,7 +68,7 @@ See rule 113, “Abilities,” and section 6, “Spells, Abilities, and Effects.
   content: "The player whose turn it is. See rule 102.1."
 
 }
-.term-active-player,-nonactive-player-order:before {
+.term-active-player-nonactive-player-order:before {
 
   content: "A system that determines the order by which players make choices if multiple players are instructed to make choices at the same time. See rule 101.4. This rule is modified for games using the shared team turns option; see rule 805.6."
 
@@ -211,7 +211,7 @@ See rule 407, “Ante.”"
   content: "A keyword ability that lets another player help you pay for a spell. See rule 702.131, “Assist.”"
 
 }
-.term-at-end-of-turn-(obsolete):before {
+.term-at-end-of-turn-obsolete:before {
 
   content: "A trigger condition printed on abilities that triggered at the beginning of the end step (which is not the last thing to happen in the turn). Cards that were printed with that text have received errata in the Oracle card reference to say “at the beginning of the end step” or “at the beginning of the next end step.” See rule 513, “End Step.”"
 
@@ -256,7 +256,7 @@ See rule 407, “Ante.”"
   content: "The team who can attack during the combat phase of a multiplayer game using the shared team turns option. See rule 805, “Shared Team Turns Option.”"
 
 }
-.term-attacks-and-isn’t-blocked:before {
+.term-attacks-and-isnt-blocked:before {
 
   content: "An ability that triggers when a creature “attacks and isn’t blocked” triggers when the creature becomes an unblocked attacking creature. See rule 509.1h."
 
@@ -276,12 +276,12 @@ See rule 407, “Ante.”"
   content: "A keyword ability that lets you turn a land you control into a creature. See rule 702.112, “Awaken.”"
 
 }
-.term-banding,-“bands-with-other”:before {
+.term-banding-bands-with-other:before {
 
   content: "Banding is a keyword ability that modifies the rules for declaring attackers and assigning combat damage. “Bands with other” is a specialized version of the ability. See rule 702.21, “Banding.”"
 
 }
-.term-base-power,-base-toughness:before {
+.term-base-power-base-toughness:before {
 
   content: "Effects that change the base power and/or base toughness of a creature set one or both of those values to a specific number. See rule 613, “Interaction of Continuous Effects.”"
 
@@ -371,7 +371,7 @@ See rule 407, “Ante.”"
   content: "An option for the Commander casual variant. See rule 903.12, “Brawl Option.”"
 
 }
-.term-bury-(obsolete):before {
+.term-bury-obsolete:before {
 
   content: "A term that meant “put [a permanent] into its owner’s graveyard.” In general, cards that were printed with the term “bury” have received errata in the Oracle card reference to read, “Destroy [a permanent]. It can’t be regenerated,” or “Sacrifice [a permanent].”"
 
@@ -411,17 +411,17 @@ See rule 407, “Ante.”"
   content: "To take a card from where it is (usually the hand), put it on the stack, and pay its costs, so that it will eventually resolve and have its effect. See rule 601, “Casting Spells.”"
 
 }
-.term-caster-(obsolete):before {
+.term-caster-obsolete:before {
 
   content: "An obsolete term that referred to the player who cast a spell. In general, cards that were printed with the term “caster” have received errata in the Oracle card reference to say “controller.”"
 
 }
-.term-casting-cost-(obsolete):before {
+.term-casting-cost-obsolete:before {
 
   content: "An obsolete term for mana cost. Cards printed with this text have received errata in the Oracle card reference."
 
 }
-.term-champion,-championed:before {
+.term-champion-championed:before {
 
   content: "“Champion” is a keyword ability that lets one creature temporarily replace another. A permanent is “championed” by another permanent if the latter exiles the former as the direct result of a champion ability. See rule 702.71, “Champion.”"
 
@@ -461,7 +461,7 @@ See rule 407, “Ante.”"
   content: "A keyword ability that allows you to encode a card on a creature and cast that card whenever that creature deals combat damage to a player. See rule 702.98, “Cipher.”"
 
 }
-.term-city’s-blessing:before {
+.term-citys-blessing:before {
 
   content: "A designation a player can have. The ascend keyword causes a player to get this designation once they control ten permanents. See rule 702.130, “Ascend.”"
 
@@ -579,12 +579,12 @@ See rule 407, “Ante.”"
   content: "An effect that modifies characteristics of objects, modifies control of objects, or affects players or the rules of the game, for a fixed or indefinite period. See rule 611, “Continuous Effects.”"
 
 }
-.term-continuous-artifact-(obsolete):before {
+.term-continuous-artifact-obsolete:before {
 
   content: "An obsolete term that appeared on the type line of artifacts without activated abilities. Cards printed with this text have received errata in the Oracle card reference to simply say “Artifact.”"
 
 }
-.term-control,-controller:before {
+.term-control-controller:before {
 
   content: "“Control” is the system that determines who gets to use an object in the game. An object’s “controller” is the player who currently controls it. See rule 108.4."
 
@@ -627,7 +627,7 @@ See rule 706, “Copying Objects.”"
 2. A marker placed on an object or player that modifies its characteristics or interacts with a rule or ability. See rule 122, “Counters.”"
 
 }
-.term-counts-as-(obsolete):before {
+.term-counts-as-obsolete:before {
 
   content: "Some older cards were printed with text stating that the card “counts as” something. Cards printed with this text have received errata in the Oracle card reference to state that the card actually is that thing."
 
@@ -829,7 +829,7 @@ See rule 706, “Copying Objects.”"
   content: "A keyword ability that lets a player return a card from their graveyard to their hand. See rule 702.51, “Dredge.”"
 
 }
-.term-during-(obsolete):before {
+.term-during-obsolete:before {
 
   content: "Some older cards used the phrase “during [phase], [action].” These abilities were called “phase abilities.” In general, cards that were printed with phase abilities have received errata in the Oracle card reference so they have abilities that trigger at the beginning of a step or phase. “During” still appears in current card text, but only in its normal English sense and not as game terminology."
 
@@ -839,7 +839,7 @@ See rule 706, “Copying Objects.”"
   content: "A keyword ability that imposes a cost to keep a permanent on the battlefield. See rule 702.29, “Echo.”"
 
 }
-.term-edh-(obsolete):before {
+.term-edh-obsolete:before {
 
   content: "An older name for the Commander casual variant. See rule 903, “Commander.”"
 
@@ -1199,7 +1199,7 @@ See rule 406, “Exile.”"
   content: "Mana in a cost represented by numerical symbols (such as {1}) or variable symbols (such as {X}) that can be paid with mana of any type. See rule 107.4."
 
 }
-.term-global-enchantment-(obsolete):before {
+.term-global-enchantment-obsolete:before {
 
   content: "An obsolete term for a non-Aura enchantment. Cards printed with this text have received errata in the Oracle card reference."
 
@@ -1328,7 +1328,7 @@ See rule 402, “Hand.”"
   content: "A keyword ability that lets you tap artifacts rather than pay mana to cast a spell. See rule 702.125, “Improvise.”"
 
 }
-.term-in-play-(obsolete):before {
+.term-in-play-obsolete:before {
 
   content: "An obsolete term for the battlefield. Cards that were printed with text that contain the phrases “in play,” “from play,” “into play,” or the like are referring to the battlefield and have received errata in the Oracle card reference. See Battlefield."
 
@@ -1368,12 +1368,12 @@ See rule 402, “Hand.”"
   content: "Effects that use the word “instead” are replacement effects. The word “instead” indicates what an event will be replaced with. See rule 614, “Replacement Effects.”"
 
 }
-.term-interrupt-(obsolete):before {
+.term-interrupt-obsolete:before {
 
   content: "An obsolete card type. All cards printed with this card type are now instants. All abilities that, as printed, said a player could “play as an interrupt” can now be activated like any other activated abilities (unless they’re mana abilities, in which case they follow those rules instead). All relevant cards have been given errata in the Oracle card reference."
 
 }
-.term-intervening-“if”-clause:before {
+.term-intervening-if-clause:before {
 
   content: "A specially worded condition checked as a triggered ability would trigger and again as it would resolve. See rule 603.4"
 
@@ -1398,7 +1398,7 @@ See rule 402, “Hand.”"
   content: "See Typecycling."
 
 }
-.term-islandhome-(obsolete):before {
+.term-islandhome-obsolete:before {
 
   content: "An obsolete keyword ability that meant “This creature can’t attack unless defending player controls an Island” and “When you control no Islands, sacrifice this creature.” Cards printed with this ability have been given errata in the Oracle card reference."
 
@@ -1428,7 +1428,7 @@ See rule 402, “Hand.”"
   content: "A marker placed on an object that modifies its characteristics by granting it a keyword. See rule 122, “Counters.”"
 
 }
-.term-kicker,-kicked:before {
+.term-kicker-kicked:before {
 
   content: "Kicker is a keyword ability that represents an optional additional cost. A spell has been kicked if its controller declared the intention to pay any or all of its kicker costs. See rule 702.32, “Kicker.”"
 
@@ -1468,7 +1468,7 @@ See rule 402, “Hand.”"
   content: "Information printed directly below the text box that has no effect on game play. See rule 212, “Information Below the Text Box.”"
 
 }
-.term-legend-(obsolete):before {
+.term-legend-obsolete:before {
 
   content: "An obsolete creature type. Cards printed with this subtype have been given errata in the Oracle card reference so they have the legendary supertype instead. See Legendary."
 
@@ -1510,7 +1510,7 @@ See rule 402, “Hand.”"
 See rule 401, “Library.”"
 
 }
-.term-life,-life-total:before {
+.term-life-life-total:before {
 
   content: "Each player has an amount of “life,” represented by that player’s “life total.” Life may be gained or lost. See rule 119, “Life.”"
 
@@ -1545,7 +1545,7 @@ See rule 401, “Library.”"
   content: "A keyword ability that creates a creature token and then attaches the Equipment with the ability to that token. See rule 702.91, “Living Weapon.”"
 
 }
-.term-local-enchantment-(obsolete):before {
+.term-local-enchantment-obsolete:before {
 
   content: "An obsolete term for an Aura. Cards printed with this text have received errata in the Oracle card reference."
 
@@ -1601,7 +1601,7 @@ See rule 401, “Library.”"
   content: "An activated or triggered ability that could create mana and doesn’t use the stack. See rule 605, “Mana Abilities.”"
 
 }
-.term-mana-burn-(obsolete):before {
+.term-mana-burn-obsolete:before {
 
   content: "Older versions of the rules stated that unspent mana caused a player to lose life; this was called “mana burn.” That rule no longer exists."
 
@@ -1616,7 +1616,7 @@ See rule 401, “Library.”"
   content: "Where mana created by an effect is temporarily stored. See rule 106.4."
 
 }
-.term-mana-source-(obsolete):before {
+.term-mana-source-obsolete:before {
 
   content: "An obsolete card type. All cards printed with this card type are now instants. All abilities that, as printed, said a player could “play as a mana source” are now mana abilities. All relevant cards have been given errata in the Oracle card reference."
 
@@ -1691,7 +1691,7 @@ See rule 401, “Library.”"
   content: "A keyword ability that lets you cast a spell for a reduced cost if it’s the first card you draw in a turn. See rule 702.93, “Miracle.”"
 
 }
-.term-modal,-mode:before {
+.term-modal-mode:before {
 
   content: "A spell or ability is “modal” if it has two or more options in a bulleted list preceded by instructions for a player to choose a number of those options, such as “Choose one —.” See rule 700.2."
 
@@ -1711,7 +1711,7 @@ See rule 401, “Library.”"
   content: "A designation a player can have. Some effects instruct a player to become the monarch. The monarch draws a card at the beginning of their end step. Dealing combat damage to the monarch steals the title from that player. See rule 718, “The Monarch.”"
 
 }
-.term-mono-artifact-(obsolete):before {
+.term-mono-artifact-obsolete:before {
 
   content: "An obsolete term that appeared on the type line of artifacts with activated abilities that caused the artifact to become tapped as a cost. Cards printed with this text have received errata in the Oracle card reference to simply say “Artifact,” and those abilities now include the tap symbol in their costs."
 
@@ -1887,7 +1887,7 @@ Some older cards used “move” with respect to Auras; those cards have receive
   content: "Informal term for a previous system of taking a mulligan. Using the Paris mulligan, a player who took a mulligan shuffled their hand into their library and drew one fewer card. For current mulligan rules, see rule 103.4."
 
 }
-.term-partner,-“partner-with-[name]”:before {
+.term-partner-partner-with-name:before {
 
   content: "A keyword ability that lets two legendary creatures or planeswalkers be your commander in the Commander variant rather than one. “Partner with [name]” is a specialized version of the ability that works even outside of the Commander variant to help two cards reach the battlefield together. See rule 702.123, “Partner,” and rule 903, “Commander.”"
 
@@ -1927,7 +1927,7 @@ Some older cards used “move” with respect to Auras; those cards have receive
   content: "A spell that will enter the battlefield as a permanent as part of its resolution. See rule 110.4b."
 
 }
-.term-permanently-(obsolete):before {
+.term-permanently-obsolete:before {
 
   content: "An obsolete term used to indicate that a continuous effect has no duration and thus lasts until the end of the game. Cards printed with this term have received errata in the Oracle card reference to delete it."
 
@@ -1943,7 +1943,7 @@ Some older cards used “move” with respect to Auras; those cards have receive
 2. A permanent “phases in” when its status changes from phased out to phased in. A permanent “phases out” when its status changes from phased in to phased out. See rule 702.25, “Phasing.”"
 
 }
-.term-phased-in,-phased-out:before {
+.term-phased-in-phased-out:before {
 
   content: "A status a permanent may have. Phased-in is the default status. Phased-out permanents are treated as though they do not exist. See rule 110.5 and rule 702.25, “Phasing.” (“Phased-out” was a zone in older versions of the rules.)"
 
@@ -2033,7 +2033,7 @@ Some older cards used “move” with respect to Auras; those cards have receive
   content: "A subtype that’s correlated to the planeswalker card type. See rule 306, “Planeswalkers.” See rule 205.3j for the list of planeswalker types."
 
 }
-.term-planeswalker-uniqueness-rule-(obsolete):before {
+.term-planeswalker-uniqueness-rule-obsolete:before {
 
   content: "Older versions of the rules stated that a player who controlled two or more planeswalkers with the same planeswalker type would put all but one of those planeswalkers into their owners’ graveyards. This rule was called the “planeswalker uniqueness rule” and no longer exists."
 
@@ -2067,7 +2067,7 @@ Some older cards used “move” with respect to Auras; those cards have receive
   content: "A keyword ability that causes a player to get poison counters. See rule 702.69, “Poisonous.”"
 
 }
-.term-poly-artifact-(obsolete):before {
+.term-poly-artifact-obsolete:before {
 
   content: "An obsolete term that appeared on the type line of artifacts with activated abilities that didn’t cause the artifact to be tapped as a cost. Cards printed with this text have received errata in the Oracle card reference to simply say “Artifact.”"
 
@@ -2163,7 +2163,7 @@ Some older cards used “move” with respect to Auras; those cards have receive
   content: "A keyword ability that lets a player return a card from their graveyard to their hand. See rule 702.58, “Recover.”"
 
 }
-.term-redirect-(obsolete):before {
+.term-redirect-obsolete:before {
 
   content: "Some older cards were printed with the term “redirect” to indicate a redirection effect. Such cards have received errata in the Oracle card reference so they explicitly state that damage that would be dealt to one object or player is dealt “instead” to another. See Redirection Effect."
 
@@ -2198,7 +2198,7 @@ Some older cards used “move” with respect to Auras; those cards have receive
   content: "Certain events can cause an attacking or blocking creature, or a planeswalker that’s being attacked, to be “removed from combat.” A permanent that’s removed from combat has no further involvement in that combat phase. See rule 506.4."
 
 }
-.term-remove-from-the-game,-removed,-removed-from-the-game-zone-(obsolete):before {
+.term-remove-from-the-game-removed-removed-from-the-game-zone-obsolete:before {
 
   content: "“Remove [something] from the game” is an obsolete term for “exile [something].” “The removed card” is an obsolete term for “the exiled card.” The removed-from-the-game zone is an obsolete term for the exile zone. Cards with that text have received errata in the Oracle card reference. See Exile."
 
@@ -2303,7 +2303,7 @@ Some older cards used “move” with respect to Auras; those cards have receive
   content: "To look at all cards in a stated zone and possibly find a card that matches a given description. See rule 701.19, “Search.”"
 
 }
-.term-set-aside-(obsolete):before {
+.term-set-aside-obsolete:before {
 
   content: "“Set [something] aside” is an obsolete term for “exile [something].” Cards with that text have received errata in the Oracle card reference. See Exile."
 
@@ -2378,7 +2378,7 @@ Some older cards used “move” with respect to Auras; those cards have receive
   content: "The snow mana symbol {S} represents a cost that can be paid with one mana produced by a snow permanent. See rule 107.4h."
 
 }
-.term-snow-covered-(obsolete):before {
+.term-snow-covered-obsolete:before {
 
   content: "Some older cards were printed with the term “snow-covered” in their rules text. Except when referencing card names, such cards have received errata in the Oracle card reference to reference the supertype “snow” instead. See Snow."
 
@@ -2523,12 +2523,12 @@ Some older cards used “move” with respect to Auras; those cards have receive
   content: "A characteristic that appears after the card type and a long dash on a card’s type line. See rule 205.3, “Subtypes.”"
 
 }
-.term-successfully-cast-(obsolete):before {
+.term-successfully-cast-obsolete:before {
 
   content: "A term that was printed on some older cards. In general, cards that referred to a spell being “successfully cast” have received errata in the Oracle card reference to simply refer to a spell being “cast.”"
 
 }
-.term-summon-(obsolete):before {
+.term-summon-obsolete:before {
 
   content: "Older creature cards were printed with “Summon [creature type]” on their type lines. All such cards have received errata in the Oracle card reference to say “Creature — [creature type].” (Many of these cards’ creature types have also been updated.) See Creature."
 
@@ -2618,7 +2618,7 @@ Some older cards used “move” with respect to Auras; those cards have receive
   content: "In a multiplayer game between teams, a player’s teammates are the other players on their team. See rule 102.3."
 
 }
-.term-team-vs.-team-variant:before {
+.term-team-vs-team-variant:before {
 
   content: "A multiplayer variant played among two or more teams, each of which sits together. See rule 808, “Team vs. Team Variant.”"
 
@@ -2653,7 +2653,7 @@ Some older cards used “move” with respect to Auras; those cards have receive
   content: "An icon that appears in the upper left of some Odyssey block cards that has no effect on game play. See rule 107.9."
 
 }
-.term-total-casting-cost-(obsolete):before {
+.term-total-casting-cost-obsolete:before {
 
   content: "An obsolete term for converted mana cost. Cards printed with this text have received errata in the Oracle card reference."
 
@@ -2795,7 +2795,7 @@ Some older cards used “move” with respect to Auras; those cards have receive
   content: "To move an Equipment away from the creature it’s attached to so that the Equipment is on the battlefield but is not equipping anything. See rule 701.3d."
 
 }
-.term-unblockable-(obsolete):before {
+.term-unblockable-obsolete:before {
 
   content: "A term that meant “can’t be blocked.” Cards that used this term have received errata in the Oracle card reference."
 
@@ -2936,7 +2936,7 @@ Some older cards used “move” with respect to Auras; those cards have receive
   content: "See X."
 
 }
-.term-you,-your:before {
+.term-you-your:before {
 
   content: "Words that refer to an object’s controller, its would-be controller (if a player is attempting to cast or activate it), or its owner (if it has no controller). See rule 109.5."
 
