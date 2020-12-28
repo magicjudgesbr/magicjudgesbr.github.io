@@ -5,11 +5,19 @@
     <dl>
     {%-for entry in glossary | sort(attribute="term") %}
         {%- set term = entry.term %}
+        {%- set term_anchor = entry.term | slug %}
         {%- set desc = entry.desc %}
-        <dt>{{ gettext(term) }}</dt>
+        <dt id="{{ term_anchor }}">
+            <a href="#{{ term_anchor }}" class="anchor-term" aria-labelledby="{{ term_anchor }}">
+                <svg viewBox="0 0 16 16" aria-hidden="true">
+                    <use xlink:href="#svg-link"></use>
+                </svg>
+            </a>
+            {{ gettext(term) }}
+        </dt>
         <dd>
             {%- for text in desc %}
-                {{ gettext(text) }}
+                {{ gettext(text) | ref_rules }}
             {%- endfor %}
         </dd>
     {%-endfor %}

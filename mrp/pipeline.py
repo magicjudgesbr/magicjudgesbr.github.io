@@ -6,10 +6,15 @@ import sass
 import json
 import gettext
 import re
+from slugify import slugify
 from livereload import Server
 from jinja2 import Environment, FileSystemLoader, contextfilter
 
 from mrp.structurer import RulesStructurer
+
+
+def slug_filter(txt, **kwargs):
+    return slugify(txt, **kwargs)
 
 def copy_tree(src, dst, ignore=None):
     if not os.path.exists(src):
@@ -51,10 +56,11 @@ translations = gettext.translation(
 template_env.install_gettext_translations(translations)
 
 
-class TemplateFilters(object):
 
+class TemplateFilters(object):
     allowed_terms = []
-    rule_pattern = re.compile(r"\b(\d{3}(\.\d+\w?)?)\b")
+    rule_pattern = re.compile(r'((\d{3}(\.\d+\w?)?)(, [“"][\w,.\s]+[”"])?)')
+    rule_section_pattern = re.compile(r'((\d), [“"][\s\w.,]+[”"])')
 
     def __init__(self, cr):
         self.terms = []
@@ -64,22 +70,8 @@ class TemplateFilters(object):
 
     def ref_rules(self, value):
         id, text = value.split(" ", maxsplit=1)
-        matches = self.rule_pattern.finditer(text)
-        if not matches:
-            return value
-        for match in reversed([m for m in matches]):
-            rule = match.group()
-            if "." in rule:
-                subgroup, subrule = rule.split(".")
-                group = subgroup[0]
-                link = f"/regras/cr/{group}/{subgroup}/#{subrule}"
-            else:
-                group = rule[0]
-                subgroup = rule
-                link = f"/regras/cr/{group}/{subgroup}"
-
-            text = self._wrap_rule_link(text, match, link)
-
+        text = self._check_rule_ref(text)
+        text = self._check_rule_section_ref(text)
         return f"{id} {text}"
 
     def glossary(self, value):
@@ -92,11 +84,58 @@ class TemplateFilters(object):
         return value
 
     def _wrap_term(self, value, match, term):
-        term = term.lower().replace(' ', '-')
+        term = slug_filter(term)
         return f"{value[:match.start()]}<span class='tooltip term-{term}'>{value[match.start():match.end()]}</span>{value[match.end():]}"
 
     def _wrap_rule_link(self, value, match, link):
+        try:
+            if value.rindex("<a", 0, match.start()) and value.index('</a>', match.end()):
+                return value
+        except:
+            pass
         return f"{value[:match.start()]}<a href='{link}'>{value[match.start():match.end()]}</a>{value[match.end():]}"
+
+    def _check_rule_ref(self, text):
+        matches = self.rule_pattern.finditer(text)
+
+        for match in reversed([m for m in matches]):
+            rule = match.group(2)
+            if "." in rule:
+                subgroup, subrule = rule.split(".")
+                group = subgroup[0]
+                link = f"/regras/cr/{group}/{subgroup}/#{subrule}"
+            else:
+                group = rule[0]
+                subgroup = rule
+                link = f"/regras/cr/{group}/{subgroup}"
+
+            text = self._wrap_rule_link(text, match, link)
+
+        return text
+
+    def _check_rule_section_ref(self, text):
+        matches = self.rule_section_pattern.finditer(text)
+
+        for match in reversed([m for m in matches]):
+            section = match.group(2)
+            link = f"/regras/cr/{section}/"
+
+            text = self._wrap_rule_link(text, match, link)
+
+        return text
+
+    def _check_rule_group_ref(self, text):
+        matches = self.rule_group_pattern.finditer(text)
+
+        for match in reversed([m for m in matches]):
+            rule = match.group(2)
+            group = rule[0]
+            subgroup = rule
+            link = f"/regras/cr/{group}/{subgroup}"
+
+            text = self._wrap_rule_link(text, match, link)
+
+        return text
 
 
 class BuildPipeline(object):
@@ -127,15 +166,16 @@ class BuildPipeline(object):
         self.logger.info("building...")
         self._parse_rules_structure()
 
+        filters = TemplateFilters(self.cr)
+        template_env.filters["ref_rules"] = filters.ref_rules
+        template_env.filters["glossary"] = filters.glossary
+        template_env.filters["slug"] = slug_filter
+
         self._copy_assets()
         self._copy_static()
         self._process_sass()
 
         self._create_terms_classes()
-
-        filters = TemplateFilters(self.cr)
-        template_env.filters["ref_rules"] = filters.ref_rules
-        template_env.filters["glossary"] = filters.glossary
 
         self._process_templates()
         self._create_search_data()
@@ -276,6 +316,7 @@ class BuildPipeline(object):
         for group in self.cr["rules"]:
             rule_group = self.cr["rules"][group]
             items = rule_group["items"]
+            group_title = translations.gettext(f"{group}. {rule_group['name']}")
             for item in items:
                 subgroup_title = translations.gettext(f"{item['group']}. {item['name']}")
                 content = ""
@@ -289,18 +330,30 @@ class BuildPipeline(object):
                         rule_anchor = rule_anchor[:-1]
 
                     search_data[rule['rule']] = {
-                        "doc": rule_title,
+                        "doc": subgroup_title,
                         "title": rule_title,
                         "content": rule_content.strip(),
                         "url": f"/regras/cr/{group}/{item['group']}/#{rule_anchor}"
                     }
 
                 search_data[item['group']] = {
-                    "doc": subgroup_title,
+                    "doc": group_title,
                     "title": subgroup_title,
                     "content": content.strip(),
                     "url": f"/regras/cr/{group}/{item['group']}/"
                 }
+
+        for entry in self.cr["glossary"]:
+            term = translations.gettext(entry["term"])
+            term_link = slug_filter(term)
+            content = "\n".join(map(translations.gettext, entry["desc"]))
+            search_data[entry["term"]] = {
+                "doc": "Glossário",
+                "title": term,
+                "content": content,
+                "url": f"/regras/cr/glossario/#{term_link}"
+            }
+
         with open(os.path.join(self.dst_dir, "assets/js/search-data.json"), "w") as file:
             json.dump(search_data, file)
 
