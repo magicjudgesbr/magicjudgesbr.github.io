@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2020-12-28 15:50\n"
+"PO-Revision-Date: 2020-12-28 17:40\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -553,13 +553,13 @@ msgid "101.4e If multiple players would make choices or take actions while start
 msgstr "101.4e Se vários jogadores fossem fazer escolhas ou ações enquanto iniciam o jogo, o jogador inicial é considerado o jogador ativo e cada outro jogador é considerado um jogador não ativo."
 
 msgid "102.1. A player is one of the people in the game. The active player is the player whose turn it is. The other players are nonactive players."
-msgstr ""
+msgstr "102.1 Um jogador é uma das pessoas no jogo. O jogador ativo é o jogador de quem é a vez. Os outros jogadores são jogadores não-ativos."
 
 msgid "102.2. In a two-player game, a player’s opponent is the other player."
-msgstr ""
+msgstr "102.2. Num jogo com dois jogadores, o oponente de um jogador é o outro jogador."
 
 msgid "102.3. In a multiplayer game between teams, a player’s teammates are the other players on their team, and the player’s opponents are all players not on their team."
-msgstr ""
+msgstr "102.3. Num jogo multijogador entre equipes, os companheiros de equipe de um jogador são os outros jogadores de sua equipe e os oponentes do jogador são todos os jogadores que não estiverem na sua equipe."
 
 msgid "102.4. A spell or ability may use the term “your team” as shorthand for “you and/or your teammates.” In a game that isn’t a multiplayer game between teams, “your team” means the same thing as “you.”"
 msgstr ""
