@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2020-12-27 14:20\n"
+"PO-Revision-Date: 2020-12-28 00:37\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -58,7 +58,7 @@ msgid "107. Numbers and Symbols"
 msgstr "107. Números e Símbolos"
 
 msgid "108. Cards"
-msgstr "108. Cartas"
+msgstr "108. Cards"
 
 msgid "109. Objects"
 msgstr "109. Objetos"
@@ -85,7 +85,7 @@ msgid "116. Special Actions"
 msgstr "116. Ações Especiais"
 
 msgid "117. Timing and Priority"
-msgstr ""
+msgstr "117. Tempo e Prioridade"
 
 msgid "118. Costs"
 msgstr "118. Custos"
@@ -97,13 +97,13 @@ msgid "120. Damage"
 msgstr "120. Dano"
 
 msgid "121. Drawing a Card"
-msgstr "121. Comprando uma Carta"
+msgstr "121. Comprando um Card"
 
 msgid "122. Counters"
 msgstr "122. Contadores"
 
 msgid "2. Parts of a Card"
-msgstr "2. Partes de uma Carta"
+msgstr "2. Partes de um Card"
 
 msgid "200. General"
 msgstr "200. Geral"
@@ -136,16 +136,16 @@ msgid "209. Loyalty"
 msgstr "209. Lealdade"
 
 msgid "210. Hand Modifier"
-msgstr ""
+msgstr "210. Modificador de Mão"
 
 msgid "211. Life Modifier"
-msgstr ""
+msgstr "211. Modificador de Vida"
 
 msgid "212. Information Below the Text Box"
 msgstr "212. Informação Abaixo da Caixa de Texto"
 
 msgid "3. Card Types"
-msgstr "3. Tipos de Carta"
+msgstr "3. Tipos de Card"
 
 msgid "300. General"
 msgstr "300. Geral"
@@ -274,28 +274,28 @@ msgid "600. General"
 msgstr "600. Geral"
 
 msgid "601. Casting Spells"
-msgstr ""
+msgstr "601. Conjurando Mágicas"
 
 msgid "602. Activating Activated Abilities"
-msgstr ""
+msgstr "602. Ativando Habilidades Ativadas"
 
 msgid "603. Handling Triggered Abilities"
-msgstr ""
+msgstr "603. Lidando com Habilidades Desencadeadas"
 
 msgid "604. Handling Static Abilities"
-msgstr ""
+msgstr "604. Lidando com Habilidades Estáticas"
 
 msgid "605. Mana Abilities"
-msgstr ""
+msgstr "605. Habilidades de Mana"
 
 msgid "606. Loyalty Abilities"
-msgstr ""
+msgstr "606. Habilidades de Lealdade"
 
 msgid "607. Linked Abilities"
 msgstr ""
 
 msgid "608. Resolving Spells and Abilities"
-msgstr ""
+msgstr "608. Resolvendo Mágicas e Habilidades"
 
 msgid "609. Effects"
 msgstr "609. Efeitos"
@@ -304,22 +304,22 @@ msgid "610. One-Shot Effects"
 msgstr ""
 
 msgid "611. Continuous Effects"
-msgstr ""
+msgstr "611. Efeitos Contínuos"
 
 msgid "612. Text-Changing Effects"
 msgstr ""
 
 msgid "613. Interaction of Continuous Effects"
-msgstr ""
+msgstr "613. Interação de Efeitos Contínuos"
 
 msgid "614. Replacement Effects"
-msgstr ""
+msgstr "614. Efeitos de Substituição"
 
 msgid "615. Prevention Effects"
-msgstr ""
+msgstr "615. Efeitos de Prevenção"
 
 msgid "616. Interaction of Replacement and/or Prevention Effects"
-msgstr ""
+msgstr "616. Interação de Efeitos de Substituição e/ou de Prevenção"
 
 msgid "7. Additional Rules"
 msgstr "7. Regras Adicionais"
@@ -472,7 +472,7 @@ msgid "100.1b A multiplayer game is a game that begins with more than two player
 msgstr "100.1b Um jogo multijogador é um jogo que começa com mais de dois jogadores. Veja a seção 8, \"Regras Multijogador.\""
 
 msgid "100.2. To play, each player needs their own deck of traditional Magic cards, small items to represent any tokens and counters, and some way to clearly track life totals."
-msgstr "100.2. Para jogar, cada jogador precisa de seu próprio deck de cartas de Magic tradicionais, pequenos itens para representar quaisquer tokens e contadores, e alguma forma de rastrear claramente os totais da vida."
+msgstr "100.2. Para jogar, cada jogador precisa de seu próprio deck de cards de Magic tradicionais, pequenos itens para representar quaisquer tokens e contadores, e alguma forma de rastrear claramente os totais da vida."
 
 msgid "100.2a In constructed play (a way of playing in which each player creates their own deck ahead of time), each deck has a minimum deck size of 60 cards. A constructed deck may contain any number of basic land cards and no more than four of any card with a particular English name other than basic land cards."
 msgstr ""
@@ -517,7 +517,7 @@ msgid "100.7. Certain promotional cards and cards in the Unglued, Unhinged, and 
 msgstr ""
 
 msgid "101.1. Whenever a card’s text directly contradicts these rules, the card takes precedence. The card overrides only the rule that applies to that specific situation. The only exception is that a player can concede the game at any time (see rule 104.3a)."
-msgstr "101.1. Sempre que o texto de uma carta contradiz diretamente essas regras, o carta tem precedência. A carta sobrescreve apenas a regra que se aplica a essa situação específica. A única exceção é que um jogador pode conceder o jogo a qualquer momento (veja a regra 104.3a)."
+msgstr "101.1. Sempre que o texto de um card contradiz diretamente essas regras, o card tem precedência. O card sobrescreve apenas a regra que se aplica a essa situação específica. A única exceção é que um jogador pode conceder o jogo a qualquer momento (veja a regra 104.3a)."
 
 msgid "101.2. When a rule or effect allows or directs something to happen, and another effect states that it can’t happen, the “can’t” effect takes precedence."
 msgstr "101.2. Quando uma regra ou efeito permite ou direciona algo para acontecer, e outro efeito afirma que não pode acontecer, o efeito \"não pode\" tem precedência."
@@ -9523,10 +9523,10 @@ msgid "A keyword ability that causes damage dealt by an object to be especially 
 msgstr ""
 
 msgid "Deck"
-msgstr "Grimório"
+msgstr "Deck"
 
 msgid "The collection of cards a player starts the game with; it becomes that player’s library. See rule 100, “General,” and rule 103, “Starting the Game.”"
-msgstr "O conjunto de cartas com as quais um jogador começa o jogo; torna-se o grimório desse jogador. Veja a regra 100, \"Geral\", e a regra 103, \"Iniciando o Jogo.\""
+msgstr "O conjunto de cards com as quais um jogador começa o jogo; torna-se o grimório desse jogador. Veja a regra 100, \"Geral\", e a regra 103, \"Iniciando o Jogo.\""
 
 msgid "Declare Attackers"
 msgstr ""
@@ -12037,7 +12037,7 @@ msgid "Type Line"
 msgstr "Linha de Tipo"
 
 msgid "Part of a card. The type line is printed directly below the illustration and contains the card’s card type(s), subtype(s), and/or supertype(s). See rule 205, “Type Line.”"
-msgstr "Parte de uma Carta. A linha de tipo é impressa diretamente abaixo da ilustração e contém o(s) tipo(s) de carta da carta, subtipo(s) e/ou supertipo(s). Ver regra 205, \"Linha de Tipo.\""
+msgstr "Parte de um card. A linha de tipo é impressa diretamente abaixo da ilustração e contém o(s) tipo(s) do card, subtipo(s) e/ou supertipo(s). Ver regra 205, \"Linha de Tipo.\""
 
 msgid "Type-Changing Effect"
 msgstr ""
