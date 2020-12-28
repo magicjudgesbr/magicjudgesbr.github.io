@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2020-12-28 17:40\n"
+"PO-Revision-Date: 2020-12-28 18:38\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -364,7 +364,7 @@ msgid "712. Meld Cards"
 msgstr "712. Cards Fusão"
 
 msgid "713. Substitute Cards"
-msgstr "713. Cards Substitutas"
+msgstr "713. Cards Curinga"
 
 msgid "714. Saga Cards"
 msgstr "714. Cards Saga"
@@ -562,52 +562,52 @@ msgid "102.3. In a multiplayer game between teams, a player’s teammates are th
 msgstr "102.3. Num jogo multijogador entre equipes, os companheiros de equipe de um jogador são os outros jogadores de sua equipe e os oponentes do jogador são todos os jogadores que não estiverem na sua equipe."
 
 msgid "102.4. A spell or ability may use the term “your team” as shorthand for “you and/or your teammates.” In a game that isn’t a multiplayer game between teams, “your team” means the same thing as “you.”"
-msgstr ""
+msgstr "102.4 Uma mágica ou habilidade pode usar o termo \"sua equipe\" como uma forma abreviada de \"você e/ou seus parceiros de equipe\". Em um jogo que não é um jogo multijogador entre equipes, \"sua equipe\" significa a mesma coisa que \"você.\""
 
 msgid "103.1. At the start of a game, the players determine which one of them will choose who takes the first turn. In the first game of a match (including a single-game match), the players may use any mutually agreeable method (flipping a coin, rolling dice, etc.) to do so. In a match of several games, the loser of the previous game chooses who takes the first turn. If the previous game was a draw, the player who made the choice in that game makes the choice in this game. The player chosen to take the first turn is the starting player. The game’s default turn order begins with the starting player and proceeds clockwise."
-msgstr ""
+msgstr "103.1. No início de um jogo, os jogadores determinam qual deles vai escolher quem joga o primeiro turno. No primeiro jogo de uma partida (incluindo partidas de um jogo), os jogadores podem usar qualquer método mutuamente aceitável (jogar uma moeda, dados, etc.) para fazer isso. Em uma partida de vários jogos, o perdedor do jogo anterior escolhe quem joga o primeiro turno. Se o resultado do jogo anterior foi empate, o jogador que escolheu naquele jogo fará a escolha neste jogo. O jogador escolhido para jogar o primeiro turno é o jogador inicial. A ordem padrão de turnos começa com o jogador inicial e segue no sentido horário."
 
 msgid "103.1a In a game using the shared team turns option, there is a starting team rather than a starting player."
-msgstr ""
+msgstr "103.1a Em um jogo usando a opção de turnos compartilhados pela equipe, há uma equipe inicial ao invés de um jogador inicial."
 
 msgid "103.1b In an Archenemy game, these methods aren’t used to determine who takes the first turn. Rather, the archenemy takes the first turn."
-msgstr ""
+msgstr "103.1b Num jogo de Archenemy, esses métodos não são usados para determinar quem joga primeiro. Em vez disso, o arqui-inimigo joga o primeiro turno."
 
 msgid "103.1c One card (Power Play) states that its controller is the starting player. This effect applies after this determination has happened and supersedes these methods."
-msgstr ""
+msgstr "103.1c Um card (Power Play) determina que seu controlador será o jogador inicial. Este efeito aplica-se após essa determinação ter acontecido e sobrepõe estes métodos."
 
 msgid "103.2. After the starting player has been determined, each player shuffles their deck so that the cards are in a random order. Each player may then shuffle or cut their opponents’ decks. The players’ decks become their libraries."
-msgstr ""
+msgstr "103.2. Depois que o jogador inicial for determinado, cada jogador embaralha seu deck para que os cards fiquem em uma ordem aleatória. Cada jogador pode então embaralhar ou cortar os decks de seus oponentes. Os decks dos jogadores tornam-se seus grimórios."
 
 msgid "103.2a If a player is using a sideboard (see rule 100.4) or cards being represented by substitute cards (see rule 713), those cards are set aside before shuffling."
-msgstr ""
+msgstr "103.2a Se um jogador está usando uma reserva (veja a regra 100.4) ou cards sendo representados por cards curinga (veja a regra 713), esses cards são colocados de lado antes de embaralhar."
 
 msgid "103.2b If a player wishes to reveal a card with a companion ability that they own from outside the game, they may do so after setting aside their sideboard. A player may reveal no more than one card this way, and they may do so only if their deck fulfills the condition of that card’s companion ability. (See rule 702.138, “Companion.”)"
-msgstr ""
+msgstr "103.2b Se um jogador desejar revelar um card com a habilidade companheiro que ele possui de fora do jogo, eles podem fazer depois de colocar de lado sua reserva. Um jogador não pode revelar mais do que um card desta maneira, e eles só podem fazê-lo se o deck cumprir a condição da habilidade companheiro daquele card. (Veja a regra 702.138, \"Companheiro\")"
 
 msgid "103.2c In a Commander game, each player puts their commander from their deck face up into the command zone after having the opportunity to reveal a card with a companion ability and before shuffling. See rule 903.6."
-msgstr ""
+msgstr "103.2c Num jogo de Commander, cada jogador coloca o comandante de seu deck na zona de comando com a face voltada para cima depois de ter a oportunidade de revelar uma carta com a habilidade companheiro e antes de embaralhar. Veja a regra 903.6."
 
 msgid "103.2d In a Conspiracy Draft game, each player puts any number of conspiracy cards from their sideboard into the command zone before shuffling. See rule 905.4."
-msgstr ""
+msgstr "103.2d Em um jogo Draft de Conspiracy, cada jogador coloca qualquer número de cards de conspiracy de sua reserva na zona de comando antes de embaralhar. Veja a regra 905.4."
 
 msgid "103.3. Each player begins the game with a starting life total of 20. Some variant games have different starting life totals."
-msgstr ""
+msgstr "103.3. Cada jogador começa o jogo com um total inicial de pontos de vida de 20. Alguns jogos variantes possuem diferentes totais de pontos de vida iniciais."
 
 msgid "103.3a In a Two-Headed Giant game, each team’s starting life total is 30."
-msgstr ""
+msgstr "103.3a Num jogo de Gigante de Duas Cabeças, o total inicial de pontos de vida de cada equipe é 30."
 
 msgid "103.3b In a Vanguard game, each player’s starting life total is 20 plus or minus the life modifier of their vanguard card."
-msgstr ""
+msgstr "103.3b Num jogo de Vanguard, o total inicial de pontos de vida de cada jogador é 20 somando ou subtraíndo o modificador de vida de seu card de Vanguard."
 
 msgid "103.3c In a Commander game, each player’s starting life total is 40."
-msgstr ""
+msgstr "103.3c Num jogo de Commander, o total inicial de pontos de vida de cada jogador é 40."
 
 msgid "103.3d In a two-player Brawl game, each player’s starting life total is 25. In a multiplayer Brawl game, each player’s starting life total is 30."
-msgstr ""
+msgstr "103.3d Num jogo de Brawl com dois jogadores, o total inicial de pontos de vida de cada jogador é 25. Num jogo de Brawl com multijogadores, o total inicial de pontos de vida de cada jogador é 30."
 
 msgid "103.3e In an Archenemy game, the archenemy’s starting life total is 40."
-msgstr ""
+msgstr "103.3e Num jogo de Archenemy, o total inicial de pontos do vida do arqui-inimigo é 40."
 
 msgid "103.4. Each player draws a number of cards equal to their starting hand size, which is normally seven. (Some effects can modify a player’s starting hand size.) A player who is dissatisfied with their initial hand may take a mulligan. First, the starting player declares whether they will take a mulligan. Then each other player in turn order does the same. Once each player has made a declaration, all players who decided to take mulligans do so at the same time. To take a mulligan, a player shuffles the cards in their hand back into their library, draws a new hand of cards equal to their starting hand size, then puts a number of those cards equal to the number of times that player has taken a mulligan on the bottom of their library in any order. Once a player chooses not to take a mulligan, the remaining cards become that player’s opening hand, and that player may not take any further mulligans. This process is then repeated until no player takes a mulligan. A player can take mulligans until their opening hand would be zero cards, after which they may not take further mulligans."
 msgstr ""
@@ -11725,7 +11725,7 @@ msgid "A completely separate Magic game created by an effect. See rule 720, “S
 msgstr ""
 
 msgid "Substitute Card"
-msgstr ""
+msgstr "Card Curinga"
 
 msgid "A game supplement with a Magic card back that can be used to represent a double-faced card or meld card. See rule 713, “Substitute Cards.”"
 msgstr ""
@@ -12202,22 +12202,22 @@ msgid "Wizardcycling"
 msgstr ""
 
 msgid "World"
-msgstr ""
+msgstr "Mundo"
 
 msgid "A supertype that’s normally relevant on enchantments. See rule 205.4, “Supertypes.” See also World Rule."
-msgstr ""
+msgstr "Um supertipo que normalmente é relevante aos encantamentos. Veja a regra 205.4, “Supertipos.” Veja também Regra de Mundo."
 
 msgid "World Rule"
-msgstr ""
+msgstr "Regra de Mundo"
 
 msgid "A state-based action that causes all permanents with the world supertype except the one that has had the world supertype for the shortest amount of time are put into their owners’ graveyards. See rule 704.5k."
-msgstr ""
+msgstr "Uma ação baseada em estado que faz com que todas as permanentes com o supertipo Mundo com exceção daquela que tiver o supertipo Mundo há menos tempo sejam colocadas nos cemitérios de seus donos. Veja a regra 704.5k."
 
 msgid "X"
 msgstr "X"
 
 msgid "A placeholder for a number that needs to be determined. See rule 107.3."
-msgstr ""
+msgstr "Um espaço reservado para um número que precisa ser determinado. Veja a regra 107.3."
 
 msgid "Y"
 msgstr "Y"
@@ -12226,10 +12226,10 @@ msgid "See X."
 msgstr "Veja X."
 
 msgid "You, Your"
-msgstr ""
+msgstr "Você, Seu"
 
 msgid "Words that refer to an object’s controller, its would-be controller (if a player is attempting to cast or activate it), or its owner (if it has no controller). See rule 109.5."
-msgstr ""
+msgstr "Palavras que se referem ao controlador de um objeto, candidato a controlador (se um jogador está tentando conjurá-lo ou ativá-lo), ou ao seu dono (se ele não tiver um controlador). Veja a regra 109.5."
 
 msgid "Zone"
 msgstr "Zona"
@@ -12238,29 +12238,31 @@ msgid "A place where objects can be during a game. See section 4, “Zones.”"
 msgstr "Um lugar onde objetos podem estar durante um jogo. Veja a seção 4, \"Zonas.\""
 
 msgid "Zone-Change Triggers"
-msgstr ""
+msgstr "Desencadeamento de Mudança de Zona"
 
 msgid "Trigger events that involve objects changing zones. See rule 603.6."
-msgstr ""
+msgstr "Eventos desencadeadores que envolvem objetos mudando de zonas. Veja a regra 603.6."
 
 msgid "Magic: The Gathering Original Game Design: Richard Garfield"
-msgstr ""
+msgstr "Magic: The Gathering Criação Original do Jogo: Richard Garfield"
 
 msgid "Comprehensive Rules Design and Development: Paul Barclay, Mark L. Gottlieb, Beth Moursund, Bill Rose, Eli Shiffrin, and Matt Tabak, with contributions from Charlie Cátinò, John Carter, Elaine Chase, Laurie Cheers, Stephen D’Angelo, Dave DeLaney, Brady Dommermuth, Mike Donais, Skaff Elias, Mike Elliott, Richard Garfield, Dan Gray, Robert Gutschera, Collin Jackson, William Jockusch, Jeff Jordan, Yonemura Kaoru, Russell Linnemann, Jim Lin, Steve Lord, Sheldon Menery, Michael Phoenix, Mark Rosewater, David Sachs, Lee Sharpe, Henry Stern, Donald X. Vaccarino, Thijs van Ommen, Ingo Warnke, Tom Wylie, and Bryan Zembruski"
-msgstr ""
+msgstr "Criação e desenvolvimento do Comprehensive Rules: Paul Barclay, Mark L. Gottlieb, Beth Moursund, Bill Rose, Eli Shiffrin, and Matt Tabak, with contributions from Charlie Cátinò, John Carter, Elaine Chase, Laurie Cheers, Stephen D’Angelo, Dave DeLaney, Brady Dommermuth, Mike Donais, Skaff Elias, Mike Elliott, Richard Garfield, Dan Gray, Robert Gutschera, Collin Jackson, William Jockusch, Jeff Jordan, Yonemura Kaoru, Russell Linnemann, Jim Lin, Steve Lord, Sheldon Menery, Michael Phoenix, Mark Rosewater, David Sachs, Lee Sharpe, Henry Stern, Donald X. Vaccarino, Thijs van Ommen, Ingo Warnke, Tom Wylie, and Bryan Zembruski"
 
 msgid "Editing: Del Laugel (lead), Gregg Luben, Nat Moes, Matt Tabak, Michael Zhang, and Hans Ziegler"
-msgstr ""
+msgstr "Edição: Del Laugel (lead), Gregg Luben, Nat Moes, Matt Tabak, Michael Zhang, and Hans Ziegler"
 
 msgid "Magic Rules Management: Eli Shiffrin and Matt Tabak"
-msgstr ""
+msgstr "Gestão das Regras de Magic: Eli Shiffrin and Matt Tabak"
 
 msgid "The Magic: The Gathering game was designed by Richard Garfield, with contributions from Charlie Cátinò, Skaff Elias, Don Felice, Tom Fontaine, Jim Lin, Joel Mick, Chris Page, Dave Pettey, Barry “Bit” Reich, Bill Rose, and Elliott Segal. The mana symbols were designed by Christopher Rush."
-msgstr ""
+msgstr "O jogo Magic: The Gathering foi criado por Richard Garfield, com contribuições de Charlie Cátinò, Skaff Elias, Don Felice, Tom Fontaine, Jim Lin, Joel Mick, Chris Page, Dave Pettey, Barry “Bit” Reich, Bill Rose, and Elliott Segal. Os\n"
+"símbolos de mana foram criados por Christopher Rush."
 
 msgid "Thanks to all our project team members and the many others too numerous to mention who have contributed to this product."
-msgstr ""
+msgstr "Obrigado a todos da nossa equipe de projetos e a muitos outros que contribuíram com esse produto e que são\n"
+"numerosos demais para mencionar."
 
 msgid "Published by Wizards of the Coast LLC, PO Box 707, Renton, WA 98057-0707, USA. Wizards of the Coast, Magic: The Gathering, Magic, Oracle, Arabian Nights, Antiquities, Homelands, Exodus, Odyssey, Mirrodin, Kamigawa, Ravnica: City of Guilds, Time Spiral, Future Sight, Lorwyn, Shadowmoor, Zendikar, Scars of Mirrodin, Innistrad, Return to Ravnica, Khans of Tarkir, Magic Origins, Shadows over Innistrad, Eldritch Moon, Magic: The Gathering—Conspiracy, Conspiracy: Take the Crown, Ixalan, Rivals of Ixalan, Unglued, Unstable, Dominaria, Ikoria, and Planeswalker Decks are trademarks of Wizards of the Coast LLC in the USA and other countries. Unhinged is a trademark of Horn Abbot Ltd. and is used with permission. ©2020 Wizards. U.S. Pat. No. RE 37,957."
-msgstr ""
+msgstr "Publicado por Wizards of the Coast LLC, PO Box 707, Renton, WA 98057-0707, EUA. Wizards of the Coast, Magic: The Gathering, Magic, Oracle, Arabian Nights, Antiquities, Homelands, Exodus, Odisséia, Mirrodin, Kamigawa, Ravnica: Cidade das Guildas, Time Spiral, Visão do Futuro, Lorwyn, Shadowmoor, Zendikar, Cicatrizes de Mirrodin, Innistrad, Retorno a Ravnica, Khans of Tarkir, Magic Origens, Sombras em Innistrad, Lua Arcana, Magic: The Gathering—Conspiracy, Conspiracy: Take the Crown, Ixalan, Rivais de Ixalan, Unglued, Unstable, Dominaria, Ikoria, e decks de Planeswalker são marcas registradas de Wizards of the Coast LLC nos EUA e outros países. Unhinged is uma marca registrada de Horn Abbot Ltd. e é usado com permissão. ©2020 Wizards. U.S. Pat. No. RE 37,957."
 
