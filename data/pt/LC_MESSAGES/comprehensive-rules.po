@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2020-12-28 12:24\n"
+"PO-Revision-Date: 2020-12-28 13:03\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -217,7 +217,7 @@ msgid "407. Ante"
 msgstr "407. Ante"
 
 msgid "408. Command"
-msgstr ""
+msgstr "408. Comando"
 
 msgid "5. Turn Structure"
 msgstr "5. Estrutura do Turno"
@@ -292,7 +292,7 @@ msgid "606. Loyalty Abilities"
 msgstr "606. Habilidades de Lealdade"
 
 msgid "607. Linked Abilities"
-msgstr ""
+msgstr "607. Habilidades Vinculadas"
 
 msgid "608. Resolving Spells and Abilities"
 msgstr "608. Resolvendo Mágicas e Habilidades"
@@ -301,13 +301,13 @@ msgid "609. Effects"
 msgstr "609. Efeitos"
 
 msgid "610. One-Shot Effects"
-msgstr ""
+msgstr "610. Efeitos Únicos"
 
 msgid "611. Continuous Effects"
 msgstr "611. Efeitos Contínuos"
 
 msgid "612. Text-Changing Effects"
-msgstr ""
+msgstr "612. Efeitos de Mudança de Texto"
 
 msgid "613. Interaction of Continuous Effects"
 msgstr "613. Interação de Efeitos Contínuos"
@@ -328,37 +328,37 @@ msgid "700. General"
 msgstr "700. Geral"
 
 msgid "701. Keyword Actions"
-msgstr ""
+msgstr "701. Ações de Palavra-chave"
 
 msgid "702. Keyword Abilities"
-msgstr ""
+msgstr "702. Habilidades de Palavra-chave"
 
 msgid "703. Turn-Based Actions"
-msgstr ""
+msgstr "703. Ações Baseadas em Turno"
 
 msgid "704. State-Based Actions"
-msgstr ""
+msgstr "704. Ações Baseadas em Estado"
 
 msgid "705. Flipping a Coin"
-msgstr ""
+msgstr "705. Jogando uma Moeda"
 
 msgid "706. Copying Objects"
-msgstr ""
+msgstr "706. Copiando Objetos"
 
 msgid "707. Face-Down Spells and Permanents"
-msgstr ""
+msgstr "707. Mágicas e Permanents com a Face Voltada para Baixo"
 
 msgid "708. Split Cards"
-msgstr ""
+msgstr "708. Cards Divididos"
 
 msgid "709. Flip Cards"
-msgstr ""
+msgstr "709. Cards que Giram"
 
 msgid "710. Leveler Cards"
-msgstr ""
+msgstr "710. Cards com Nível"
 
 msgid "711. Double-Faced Cards"
-msgstr ""
+msgstr "711. Cards com Dupla Face"
 
 msgid "712. Meld Cards"
 msgstr ""
@@ -445,13 +445,13 @@ msgid "901. Planechase"
 msgstr ""
 
 msgid "902. Vanguard"
-msgstr ""
+msgstr "902. Vanguard"
 
 msgid "903. Commander"
-msgstr ""
+msgstr "903. Commander"
 
 msgid "904. Archenemy"
-msgstr ""
+msgstr "904. Archenemy"
 
 msgid "905. Conspiracy Draft"
 msgstr ""
@@ -475,46 +475,46 @@ msgid "100.2. To play, each player needs their own deck of traditional Magic car
 msgstr "100.2. Para jogar, cada jogador precisa de seu próprio deck de cards de Magic tradicionais, pequenos itens para representar quaisquer tokens e contadores, e alguma forma de rastrear claramente os totais da vida."
 
 msgid "100.2a In constructed play (a way of playing in which each player creates their own deck ahead of time), each deck has a minimum deck size of 60 cards. A constructed deck may contain any number of basic land cards and no more than four of any card with a particular English name other than basic land cards."
-msgstr "100.2a No jogo construído (uma forma de jogo em que cada jogador previamente cria seu próprio deck), cada deck deve conter no mínimo 60 cards. Um deck construído pode conter qualquer número de cards de terreno básico e não mais que quatro de qualquer card que tenha o mesmo nome em Inglês que não sejam cards de terreno básico."
+msgstr "100.2a No formato construído (uma forma de jogo em que cada jogador previamente cria seu próprio deck), cada deck deve conter no mínimo 60 cards. Um deck construído pode conter qualquer número de cards de terreno básico e não mais que quatro de qualquer card que tenha o mesmo nome em Inglês que não sejam cards de terreno básico."
 
 msgid "100.2b In limited play (a way of playing in which each player gets the same quantity of unopened Magic product such as booster packs and creates their own deck using only this product and basic land cards), each deck has a minimum deck size of 40 cards. A limited deck may contain as many duplicates of a card as are included with the product."
-msgstr ""
+msgstr "100.2b No formato limitado (uma forma de jogo em que cada jogador recebe a mesma quantidade de produtos de Magic lacrados e cria seu próprio deck usando apenas esse produto e cards de terreno básico), cada deck deve conter no mínimo quarenta cards. Um deck limitado pode conter tantas cópias de um card quanto forem inclusas no produto."
 
 msgid "100.2c Commander decks are subject to additional deckbuilding restrictions and requirements. See rule 903, “Commander,” for details."
-msgstr ""
+msgstr "100.2c Decks de Commander estão sujeitos a restrições e requisitos adicionais de construção de deck. Veja a regra 903, \"Commander\", para mais detalhes."
 
 msgid "100.3. Some casual variants require additional items, such as specially designated cards, nontraditional Magic cards, and dice. See section 9, “Casual Variants.”"
-msgstr ""
+msgstr "100.3. Algumas variantes casuais exigem itens adicionais, como cards especialmente designados, cards de Magic não tradicionais e dados. Veja a seção 9, \"Variantes casuais.\""
 
 msgid "100.4. Each player may also have a sideboard, which is a group of additional cards the player may use to modify their deck between games of a match."
-msgstr ""
+msgstr "100.4. Cada jogador pode também ter uma reserva, que é um grupo de cards adicionais que o jogador pode usar para modificar seu deck entre jogos de uma partida."
 
 msgid "100.4a In constructed play, a sideboard may contain no more than fifteen cards. The four-card limit (see rule 100.2a) applies to the combined deck and sideboard."
-msgstr ""
+msgstr "100.4a No formato construído, a reservas pode conter no máximo 15 cards. O limite de quatro cards (consulte a regra 100.2a) aplica-se ao deck e reserva juntos."
 
 msgid "100.4b In limited play involving individual players, all cards in a player’s card pool not included in their deck are in that player’s sideboard."
-msgstr ""
+msgstr "100.4b No formato limitado envolvendo jogadores individuais, todos os cards que um jogador abrir porém não incluiu em seu deck estão na reserva daquele jogador."
 
 msgid "100.4c In limited play involving the Two-Headed Giant multiplayer variant, all cards in a team’s card pool but not in either player’s deck are in that team’s sideboard."
-msgstr ""
+msgstr "100.4c No formato limitado envolvendo a variante Gigante de Duas Cabeças, todos os cards que a equipe abrir mas não incluir no deck de algum jogador estão na reserva da equipe."
 
 msgid "100.4d In limited play involving other multiplayer team variants, each card in a team’s card pool but not in any player’s deck is assigned to the sideboard of one of those players. Each player has their own sideboard; cards may not be transferred between players."
-msgstr ""
+msgstr "100.4d No formato limitado envolvendo outras variantes de multiplayer em equipes, cada card que uma equipe abrir mas não incluir no deck de algum jogador é atribuído à reserva de um desses jogadores. Cada jogador possui a sua própria reserva; os cards não podem ser transferidos entre os jogadores."
 
 msgid "100.5. If a deck must contain at least a certain number of cards, that number is referred to as a minimum deck size. There is no maximum deck size for non-Commander decks."
-msgstr ""
+msgstr "100.5. Se um deck deve conter pelo menos um determinado número de cards, esse número é referido como um tamanho mínimo do deck. Não há o tamanho máximo para decks que não são de Commander."
 
 msgid "100.6. Most Magic tournaments (organized play activities where players compete against other players to win prizes) have additional rules covered in the Magic: The Gathering Tournament Rules (found at WPN.Wizards.com/en/resources/rules-documents). These rules may limit the use of some cards, including barring all cards from some older sets."
-msgstr ""
+msgstr "100.6. A maioria dos torneios de Magic (atividades organizadas onde os jogadores competem contra outros jogadores para ganhar prêmios) possui regras adicionais cobertas em Magic: The Gathering Regras de Torneio (encontradas em WPN.Wizards.com/en/resources/rules-documents). Estas regras podem limitar o uso de alguns cards, inclusive restringindo o uso de todos os cards de algumas edições mais antigas."
 
 msgid "100.6a Tournaments usually consist of a series of matches. A two-player match usually involves playing until one player has won two games. A multiplayer match usually consists of only one game."
 msgstr "100.6a Torneios geralmente consistem em uma série de partidas. Uma partida de dois jogadores normalmente envolve jogar até um jogador ganhar duas partidas. Uma partida de vários jogadores geralmente consiste de apenas um jogo."
 
 msgid "100.6b Players can use the Magic Store & Event Locator at Wizards.com/Locator to find tournaments in their area."
-msgstr ""
+msgstr "100.6b Jogadores podem usar o Localizador de Lojas e Eventos de Magic em Wizards.com/Locator para encontrar torneios em suas regiões."
 
 msgid "100.7. Certain promotional cards and cards in the Unglued, Unhinged, and Unstable sets are printed with a silver border. These cards are intended for casual play and may have features and text that aren’t covered by these rules."
-msgstr ""
+msgstr "100.7. Certos cards promocionais e cards das edições Unglued, Unhinged, e Unstable são impressos com uma borda prateada. Estes cards são destinados a jogos casuais e podem ter recursos e textos que não são cobertos por essas regras."
 
 msgid "101.1. Whenever a card’s text directly contradicts these rules, the card takes precedence. The card overrides only the rule that applies to that specific situation. The only exception is that a player can concede the game at any time (see rule 104.3a)."
 msgstr "101.1. Sempre que o texto de um card contradiz diretamente essas regras, o card tem precedência. O card sobrescreve apenas a regra que se aplica a essa situação específica. A única exceção é que um jogador pode conceder o jogo a qualquer momento (veja a regra 104.3a)."
@@ -11524,7 +11524,7 @@ msgid "To randomize the cards in a deck (before a game) or library (during a gam
 msgstr ""
 
 msgid "Sideboard"
-msgstr ""
+msgstr "Reserva"
 
 msgid "Extra cards that may be used to modify a deck between games of a match. See rules 100.4."
 msgstr ""
