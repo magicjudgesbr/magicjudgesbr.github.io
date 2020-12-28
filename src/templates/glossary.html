@@ -13,11 +13,11 @@
                     <use xlink:href="#svg-link"></use>
                 </svg>
             </a>
-            {{ gettext(term) }}
+            {{ term }}
         </dt>
         <dd>
             {%- for text in desc %}
-                {{ gettext(text) | ref_rules }}
+                {{ text | ref_rules }}
             {%- endfor %}
         </dd>
     {%-endfor %}
