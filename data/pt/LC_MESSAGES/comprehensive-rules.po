@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2020-12-28 00:37\n"
+"PO-Revision-Date: 2020-12-28 01:39\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -475,7 +475,7 @@ msgid "100.2. To play, each player needs their own deck of traditional Magic car
 msgstr "100.2. Para jogar, cada jogador precisa de seu próprio deck de cards de Magic tradicionais, pequenos itens para representar quaisquer tokens e contadores, e alguma forma de rastrear claramente os totais da vida."
 
 msgid "100.2a In constructed play (a way of playing in which each player creates their own deck ahead of time), each deck has a minimum deck size of 60 cards. A constructed deck may contain any number of basic land cards and no more than four of any card with a particular English name other than basic land cards."
-msgstr ""
+msgstr "100.2a No jogo construído (uma forma de jogo em que cada jogador previamente cria seu próprio deck), cada deck deve conter no mínimo 60 cards. Um deck construído pode conter qualquer número de cards de terreno básico e não mais que quatro de qualquer card que tenha o mesmo nome em Ingês que não sejam cards de terreno básico."
 
 msgid "100.2b In limited play (a way of playing in which each player gets the same quantity of unopened Magic product such as booster packs and creates their own deck using only this product and basic land cards), each deck has a minimum deck size of 40 cards. A limited deck may contain as many duplicates of a card as are included with the product."
 msgstr ""
