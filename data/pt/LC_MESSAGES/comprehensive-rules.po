@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2020-12-29 15:55\n"
+"PO-Revision-Date: 2020-12-29 18:56\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -8903,7 +8903,7 @@ msgid "A card type. An artifact is a permanent. See rule 301, “Artifacts.”"
 msgstr "Um tipo de card. Um artefato é uma permanente. Veja a regra 301, “Artefatos.”"
 
 msgid "Artifact Creature"
-msgstr ""
+msgstr "Criatura Artefato"
 
 msgid "A combination of artifact and creature that’s subject to the rules for both. See rule 301, “Artifacts,” and rule 302, “Creatures.”"
 msgstr ""
