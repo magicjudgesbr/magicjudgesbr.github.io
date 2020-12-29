@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2020-12-29 11:41\n"
+"PO-Revision-Date: 2020-12-29 12:44\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -616,7 +616,7 @@ msgid "103.4a In a Vanguard game, each player’s starting hand size is seven pl
 msgstr "103.4a Num jogo de Vanguard, o tamanho da mão inicial de cada jogador é sete, sendo isso diminuído ou aumentado em conformidade com o modificador de mão de seu card vanguard."
 
 msgid "103.4b If an effect allows a player to perform an action “any time [that player] could mulligan,” the player may perform that action at a time they would declare whether they will take a mulligan. This need not be in the first round of mulligans. Other players may have already made their mulligan declarations by the time the player has the option to perform this action. If the player performs the action, they then declare whether they will take a mulligan."
-msgstr ""
+msgstr "103.4b Se um efeito permite que um jogador realize uma ação “a qualquer momento em que [aquele jogador] puder fazer um mulligan”, o jogador pode fazer essa ação em um momento em que ele declararia ou não se fará um mulligan. Isso não precisa ser na primeira rodada de mulligans. Outros jogadores podem já ter feito suas declarações de mulligan no momento em que o jogador tem a opção de executar essa ação. Se o jogador realiza a ação, ele em seguida declara ou não se fará um mulligan."
 
 msgid "103.4c In a multiplayer game and in any Brawl game, the first mulligan a player takes doesn’t count toward the number of cards that player will put on the bottom of their library or the number of mulligans that player may take. Subsequent mulligans are counted toward these numbers as normal."
 msgstr ""
