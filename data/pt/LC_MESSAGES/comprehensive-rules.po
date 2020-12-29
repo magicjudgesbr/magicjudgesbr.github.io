@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2020-12-29 18:56\n"
+"PO-Revision-Date: 2020-12-29 20:18\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -8906,31 +8906,33 @@ msgid "Artifact Creature"
 msgstr "Criatura Artefato"
 
 msgid "A combination of artifact and creature that’s subject to the rules for both. See rule 301, “Artifacts,” and rule 302, “Creatures.”"
-msgstr ""
+msgstr "Uma combinação de criatura e artefato que está sujeita as regras para ambos. Veja a regra 301, “Artefatos,” e a regra 302, \"Criaturas.\""
 
 msgid "Artifact Land"
-msgstr ""
+msgstr "Terreno Artefato"
 
 msgid "A combination of artifact and land that’s subject to the rules for both. Artifact lands can only be played as lands, not cast as spells. See rule 301, “Artifacts,” and rule 305, “Lands.”"
-msgstr ""
+msgstr "Uma combinação de terreno e artefato que está sujeita as regras para ambos. Terrenos artefato só podem ser jogados como terrenos, e não conjurados como mágicas. Veja a regra 301, “Artefatos,” e a regra 305, ”Terrenos.”"
 
 msgid "Artifact Type"
-msgstr ""
+msgstr "Tipo de Artefato"
 
 msgid "A subtype that’s correlated to the artifact card type. See rule 301, “Artifacts.” See rule 205.3g for the list of artifact types."
-msgstr ""
+msgstr "Um subtipo que está correlacionada com o tipo de card artefato. Veja a regra 301, “Artefatos.” Veja a regra 205.3g\n"
+"para a lista de tipos de artefato."
 
 msgid "As Though"
-msgstr ""
+msgstr "Como Se"
 
 msgid "Text used to indicate that the game, for some specific purpose, treats a condition as true even though it’s not. See rule 609.4."
-msgstr ""
+msgstr "Texto usado para indicar que o jogo, para algum propósito específico, trata uma condição como verdadeira, mesmo ela não sendo. Veja a regra 609.4."
 
 msgid "Ascend"
-msgstr ""
+msgstr "Ascender (Ascend)"
 
 msgid "A keyword causing a player to get the designation of the city’s blessing once they control ten permanents. See rule 702.130, “Ascend.”"
-msgstr ""
+msgstr "Uma palavra chave que faz com que um jogador receba a benção da Cidade uma vez que controle dez ou mais\n"
+"permanentes. Veja a regra 702.130, “Ascender.”"
 
 msgid "Assemble"
 msgstr ""
@@ -8939,28 +8941,30 @@ msgid "Assemble is a keyword action in the Unstable set that puts Contraptions o
 msgstr ""
 
 msgid "Assign Combat Damage"
-msgstr ""
+msgstr "Atribuir Dano de Combate"
 
 msgid "To determine how an attacking or blocking creature will deal its combat damage. See rule 510, “Combat Damage Step.”"
-msgstr ""
+msgstr "Determinar como uma criatura atacante ou bloqueadora causará seu dano de combate. Veja a regra 510, “Etapa de\n"
+"Dano de Combate.”"
 
 msgid "Assist"
-msgstr ""
+msgstr "Assistência (Assist)"
 
 msgid "A keyword ability that lets another player help you pay for a spell. See rule 702.131, “Assist.”"
-msgstr ""
+msgstr "Uma palavra-chave de habilidade que permite que outro jogador ajude a pagar por uma mágica. Veja a regra\n"
+"702.131, “Assistência (Asssist).”"
 
 msgid "At End of Turn (Obsolete)"
-msgstr ""
+msgstr "No Final do Turno (Obsoleto)"
 
 msgid "A trigger condition printed on abilities that triggered at the beginning of the end step (which is not the last thing to happen in the turn). Cards that were printed with that text have received errata in the Oracle card reference to say “at the beginning of the end step” or “at the beginning of the next end step.” See rule 513, “End Step.”"
-msgstr ""
+msgstr "Uma condição de desencadeamento impressa em habilidades que são desencadeadas no início da etapa final (que não é a última coisa que acontece no turno). Os cards que foram impressos com esse texto, receberam errata na referência de cards Oracle para dizerem “no início da etapa final” ou “no início da próxima etapa final”. Veja a regra 513, “Etapa Final.”"
 
 msgid "Attach"
-msgstr ""
+msgstr "Anexar (Attach)"
 
 msgid "To move an Aura, Equipment, or Fortification onto another object or player. See rule 701.3, “Attach.”"
-msgstr ""
+msgstr "Mover uma Aura, Equipamento ou Fortificação para outro objeto. Veja a regra 701.3, “Anexar.”"
 
 msgid "Attack"
 msgstr ""
@@ -8969,10 +8973,10 @@ msgid "To send a creature into combat offensively. A creature can attack a playe
 msgstr ""
 
 msgid "Attack Alone"
-msgstr ""
+msgstr "Atacar Sozinha"
 
 msgid "A creature “attacks alone” if it’s the only creature declared as an attacker during the declare attackers step. A creature “is attacking alone” if it’s attacking but no other creatures are. See rule 506.5."
-msgstr ""
+msgstr "Uma criatura “ataca sozinha” se é a única criatura declarada como atacante durante a etapa de declaração de atacantes. Uma criatura “está atacando sozinha” se ela estiver atacando, mas nenhuma outra estiver. Veja a regra 506.5."
 
 msgid "Attack Left Option"
 msgstr ""
@@ -12158,28 +12162,28 @@ msgid "2. A card type seen only on nontraditional Magic cards in the Vanguard ca
 msgstr ""
 
 msgid "Vanishing"
-msgstr ""
+msgstr "Desaparecer (Vanishing)"
 
 msgid "A keyword ability that limits how long a permanent remains on the battlefield. See rule 702.62, “Vanishing.”"
-msgstr ""
+msgstr "Uma palavra-chave de habilidade que limita o tempo em que uma permanente permanece no campo de batalha. Veja a regra 702.62, “Desaparecer.”"
 
 msgid "Variant"
-msgstr ""
+msgstr "Variante"
 
 msgid "An additional set of rules that determines the style of a multiplayer game. See rule 800.2."
-msgstr ""
+msgstr "Um conjunto adicional de regras que determina o estilo de um jogo multijogador. Veja a regra 800.2."
 
 msgid "Vehicle"
-msgstr ""
+msgstr "Veículo"
 
 msgid "An artifact subtype. Vehicles can become artifact creatures. See rule 301, “Artifacts,” and rule 702.121, “Crew.”"
-msgstr ""
+msgstr "Um subtipo de artefato. Veículos podem se tornar criaturas artefato. Veja a regra 301, “Artefatos,” e a regra 702.121, “Tripular.”"
 
 msgid "Vigilance"
-msgstr ""
+msgstr "Vigilância"
 
 msgid "A keyword ability that lets a creature attack without tapping. See rule 702.20, “Vigilance.”"
-msgstr ""
+msgstr "Uma palavra-chave de habilidade que permite a uma criatura atacar sem virar. Veja a regra 702.20, “Vigilância.”"
 
 msgid "Vote"
 msgstr ""
@@ -12200,13 +12204,14 @@ msgid "There are several ways to win the game. See rule 104, “Ending the Game,
 msgstr ""
 
 msgid "Wither"
-msgstr ""
+msgstr "Murchar (Wither)"
 
 msgid "A keyword ability that affects how an object deals damage to a creature. See rule 702.79, “Wither.”"
-msgstr ""
+msgstr "Uma palavra-chave de habilidade que afeta como um objeto causa dano a uma criatura. Veja a regra 702.79,\n"
+"“Murchar.”"
 
 msgid "Wizardcycling"
-msgstr ""
+msgstr "Reciclar Mago (Wizardcycling)"
 
 msgid "World"
 msgstr "Mundo"
