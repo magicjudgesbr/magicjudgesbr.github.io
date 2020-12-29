@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2020-12-29 14:48\n"
+"PO-Revision-Date: 2020-12-29 15:55\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -214,7 +214,7 @@ msgid "406. Exile"
 msgstr "406. Exílio"
 
 msgid "407. Ante"
-msgstr "407. Ante"
+msgstr "407. Aposta"
 
 msgid "408. Command"
 msgstr "408. Comando"
@@ -8851,55 +8851,56 @@ msgid "A keyword ability than can have a creature enter the battlefield with +1/
 msgstr "Uma palavra-chave de habilidade que pode fazer com que a uma criatura entre no campo de batalha com marcadores +1/+1 sobre ela. Veja a regra 702.37, “Amplificar.”"
 
 msgid "Anchor Word"
-msgstr ""
+msgstr "Palavra Âncora"
 
 msgid "A word that precedes one of two abilities a permanent may enter the battlefield with. See rule 614.12b."
-msgstr ""
+msgstr "Uma palavra que precede uma de duas habilidades que uma permanente pode entrar no campo de batalha com. Veja a regra 614.12b."
 
 msgid "Annihilator"
-msgstr ""
+msgstr "Aniquilador"
 
 msgid "A keyword ability that can make a creature particularly brutal when it attacks. See rule 702.85, “Annihilator.”"
-msgstr ""
+msgstr "Uma palavra-chave de habilidade que pode fazer com que uma criatura seja particularmente brutal ao atacar. Veja a regra 702.85, “Aniquilador.”"
 
 msgid "Ante"
-msgstr ""
+msgstr "Aposta"
 
 msgid "1. A zone used only when playing “for keeps.”"
-msgstr ""
+msgstr "1. Uma zona utilizada somente quando jogar “apostando.”"
 
 msgid "2. To put a card into the ante zone."
-msgstr ""
+msgstr "2. Colocar um card na zona de aposta."
 
 msgid "See rule 407, “Ante.”"
-msgstr ""
+msgstr "Veja a regra 407, “Aposta.”"
 
 msgid "Any Target"
-msgstr ""
+msgstr "Qualquer Alvo"
 
 msgid "A spell or ability may require “any target.” “Any target” is the same as “target creature, player, or planeswalker.” See rule 115.4."
-msgstr ""
+msgstr "Uma mágica ou habilidade pode requerir “qualquer alvo”. “Qualquer alvo” é o mesmo que \"criatura, jogador ou\n"
+"planeswalker alvo.\" Veja a regra 115.4."
 
 msgid "APNAP Order"
-msgstr ""
+msgstr "Ordem APNAP"
 
 msgid "See Active Player, Nonactive Player Order."
-msgstr ""
+msgstr "Veja Ordem Jogador-Ativo/Não-Ativo."
 
 msgid "Archenemy"
-msgstr ""
+msgstr "Archenemy"
 
 msgid "1. A casual variant in which a team of players faces off against a single opponent strengthened with powerful scheme cards. See rule 904, “Archenemy.”"
-msgstr ""
+msgstr "1. Uma variante casual em que uma equipe de jogadores enfrenta um único oponente fortalecido com poderosos cards de esquema. Veja a regra 904, “Archenemy.”"
 
 msgid "2. A player in an Archenemy game who is playing with a scheme deck."
-msgstr ""
+msgstr "2. O jogador em um jogo de Archenemy que está jogando com um deck de esquemas."
 
 msgid "Artifact"
-msgstr ""
+msgstr "Artefato"
 
 msgid "A card type. An artifact is a permanent. See rule 301, “Artifacts.”"
-msgstr ""
+msgstr "Um tipo de card. Um artefato é uma permanente. Veja a regra 301, “Artefatos.”"
 
 msgid "Artifact Creature"
 msgstr ""
