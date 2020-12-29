@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2020-12-29 09:39\n"
+"PO-Revision-Date: 2020-12-29 11:41\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -610,7 +610,7 @@ msgid "103.3e In an Archenemy game, the archenemy’s starting life total is 40.
 msgstr "103.3e Num jogo de Archenemy, o total inicial de pontos do vida do arqui-inimigo é 40."
 
 msgid "103.4. Each player draws a number of cards equal to their starting hand size, which is normally seven. (Some effects can modify a player’s starting hand size.) A player who is dissatisfied with their initial hand may take a mulligan. First, the starting player declares whether they will take a mulligan. Then each other player in turn order does the same. Once each player has made a declaration, all players who decided to take mulligans do so at the same time. To take a mulligan, a player shuffles the cards in their hand back into their library, draws a new hand of cards equal to their starting hand size, then puts a number of those cards equal to the number of times that player has taken a mulligan on the bottom of their library in any order. Once a player chooses not to take a mulligan, the remaining cards become that player’s opening hand, and that player may not take any further mulligans. This process is then repeated until no player takes a mulligan. A player can take mulligans until their opening hand would be zero cards, after which they may not take further mulligans."
-msgstr ""
+msgstr "103.4. Cada jogador compra um número de cards igual ao seu tamanho máximo de mão inicial, que normalmente é sete (alguns efeitos podem modificar o tamanho da mão inicial de um jogador). Um jogador insatisfeito com sua mão inicial pode fazer um mulligan. Primeiro o jogador inicial declara se ele fará um mulligan. Em seguida, cada outro jogador na ordem de turno faz o mesmo. Uma vez que todos os jogadores tenham feito uma declaração, todos os jogadores que decidiram fazer mulligans, fazem-no ao mesmo tempo. Para fazer um mulligan, o jogador embaralha sua mão de volta em seu grimório, compra uma nova mão com a mesma quantidade de cards da mão inicial, então coloca uma quantidade desses cards igual ao número de vezes que o jogador fez mulligan no fundo do grimório em qualquer ordem. Assim que o jogador decidir não fazer um mulligan, os cards em sua mão se tornam sua mão inicial, e aquele jogador não pode fazer outros mulligans. Esse processo é repetido até que nenhum jogador faça um mulligan. Um jogador pode fazer mulligans até que sua mão inicial tenha zero cards, depois disso, eles não podem fazer mais mulligans."
 
 msgid "103.4a In a Vanguard game, each player’s starting hand size is seven plus or minus the hand modifier of their vanguard card."
 msgstr "103.4a Num jogo de Vanguard, o tamanho da mão inicial de cada jogador é sete, sendo isso diminuído ou aumentado em conformidade com o modificador de mão de seu card vanguard."
