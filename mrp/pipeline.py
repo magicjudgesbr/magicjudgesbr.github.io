@@ -301,7 +301,15 @@ class BuildPipeline(object):
 
                 with open(output_file, "w") as out:
                     if page_data["template"] == "glossary":
-                        out.write(template.render(page=page_data, **self.config, glossary=self.cr["glossary"]))
+                        translated_glossary = []
+                        for entry in self.cr["glossary"]:
+                            term = translations.gettext(entry["term"])
+                            desc = map(translations.gettext, entry["desc"])
+                            translated_glossary.append({
+                                "term": term,
+                                "desc": desc
+                            })
+                        out.write(template.render(page=page_data, **self.config, glossary=translated_glossary))
                     elif "subgroup" in page_data:
                         items = self.cr["rules"][page_data["group"]]["items"]
                         subgroup = page_data["subgroup"]
