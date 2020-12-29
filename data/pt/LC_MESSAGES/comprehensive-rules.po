@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2020-12-29 13:52\n"
+"PO-Revision-Date: 2020-12-29 14:48\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -8839,16 +8839,16 @@ msgid "A cost a spell may have that its controller can pay rather than paying it
 msgstr "Um custo que uma mágica pode ter e o seu controlador pode pagar ao invés de pagar seu custo de mana. Veja a regra 118, “Custos,” e a regra 601, “Conjurando Mágicas.”"
 
 msgid "Amass"
-msgstr ""
+msgstr "Arregimentar (Amass)"
 
 msgid "A keyword action than gives you a Zombie Army creature token or grows an Army you already have. See rule 701.44, “Amass.”"
-msgstr ""
+msgstr "Uma palavra-chave de habilidade que lhe dá um token de Exército Zumbi ou marcadores +1/+1 em uma criatura do tipo Exército que você já tenha. Veja a regra 701.44, \"Arregimentar.\""
 
 msgid "Amplify"
-msgstr ""
+msgstr "Amplificar (Amplify)"
 
 msgid "A keyword ability than can have a creature enter the battlefield with +1/+1 counters on it. See rule 702.37, “Amplify.”"
-msgstr ""
+msgstr "Uma palavra-chave de habilidade que pode fazer com que a uma criatura entre no campo de batalha com marcadores +1/+1 sobre ela. Veja a regra 702.37, “Amplificar.”"
 
 msgid "Anchor Word"
 msgstr ""
