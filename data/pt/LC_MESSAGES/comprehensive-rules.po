@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2020-12-29 12:44\n"
+"PO-Revision-Date: 2020-12-29 13:52\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -8814,10 +8814,11 @@ msgstr "Uma palavra-chave de habilidade que que faz com que o jogador defensor p
 "702.129, “Aflingir.”"
 
 msgid "Afterlife"
-msgstr ""
+msgstr "Pós-vida (Afterlife)"
 
 msgid "A keyword ability that leaves behind Spirit creature tokens when certain creatures die. See rule 702.134, “Afterlife.”"
-msgstr ""
+msgstr "Uma palavra-chave de habilidade que deixa pra trás fichas de criatura do tipo Espírito quando certas criaturas\n"
+"morrem. Veja a regra 702.134, “Pós-vida.”"
 
 msgid "Aftermath"
 msgstr ""
@@ -8826,16 +8827,16 @@ msgid "A keyword ability that lets a player cast one half of a split card only f
 msgstr ""
 
 msgid "Alternating Teams Variant"
-msgstr ""
+msgstr "Variante Equipes Intercaladas"
 
 msgid "A multiplayer variant played among two or more teams of equal size. See rule 811, “Alternating Teams Variant.”"
-msgstr ""
+msgstr "Uma variante multijogador jogada entre duas ou mais equipes de igual tamanho. Veja a regra 811, “Variante Equipes Intercaladas.”"
 
 msgid "Alternative Cost"
-msgstr ""
+msgstr "Custo Alternativo"
 
 msgid "A cost a spell may have that its controller can pay rather than paying its mana cost. See rule 118, “Costs,” and rule 601, “Casting Spells.”"
-msgstr ""
+msgstr "Um custo que uma mágica pode ter e o seu controlador pode pagar ao invés de pagar seu custo de mana. Veja a regra 118, “Custos,” e a regra 601, “Conjurando Mágicas.”"
 
 msgid "Amass"
 msgstr ""
