@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2020-12-28 19:37\n"
+"PO-Revision-Date: 2020-12-29 09:39\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -613,7 +613,7 @@ msgid "103.4. Each player draws a number of cards equal to their starting hand s
 msgstr ""
 
 msgid "103.4a In a Vanguard game, each player’s starting hand size is seven plus or minus the hand modifier of their vanguard card."
-msgstr ""
+msgstr "103.4a Num jogo de Vanguard, o tamanho da mão inicial de cada jogador é sete, sendo isso diminuído ou aumentado em conformidade com o modificador de mão de seu card vanguard."
 
 msgid "103.4b If an effect allows a player to perform an action “any time [that player] could mulligan,” the player may perform that action at a time they would declare whether they will take a mulligan. This need not be in the first round of mulligans. Other players may have already made their mulligan declarations by the time the player has the option to perform this action. If the player performs the action, they then declare whether they will take a mulligan."
 msgstr ""
