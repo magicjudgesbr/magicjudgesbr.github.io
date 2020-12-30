@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2020-12-30 17:26\n"
+"PO-Revision-Date: 2020-12-30 18:28\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -9071,19 +9071,19 @@ msgid "See Typecycling."
 msgstr "Veja Reciclar Tipo."
 
 msgid "Basic Land Type"
-msgstr ""
+msgstr "Tipo de Terreno Básico"
 
 msgid "There are five “basic land types”: Plains, Island, Swamp, Mountain, and Forest. Each one has a mana ability associated with it. See rule 305, “Lands.”"
-msgstr ""
+msgstr "Existem cinco “tipos de terreno básico”: Planície, Ilha, Pântano, Montanha, e Floresta. Cada um tem uma habilidade de mana associado a ele. Veja a regra 305, “Terrenos.”"
 
 msgid "Battle Cry"
-msgstr ""
+msgstr "Grito de Guerra (Battle Cry)"
 
 msgid "A keyword ability that makes other attacking creatures better in combat. See rule 702.90, “Battle Cry.”"
-msgstr ""
+msgstr "Uma palavra-chave de habilidade que faz as outras criaturas atacantes serem melhores no combate. Veja a regra 702.90, \"Grito de Guerra.\""
 
 msgid "Battlefield"
-msgstr ""
+msgstr "Campo de Batalha"
 
 msgid "A zone. The battlefield is the zone in which permanents exist. It used to be known as the “in-play” zone. See rule 403, “Battlefield.”"
 msgstr ""
@@ -9107,70 +9107,74 @@ msgid "Part of the turn. This phase is the first phase of the turn. See rule 501
 msgstr ""
 
 msgid "Bestow"
-msgstr ""
+msgstr "Agraciar (Bestow)"
 
 msgid "A keyword ability that lets a creature card be cast as an Aura. See rule 702.102, “Bestow.”"
-msgstr ""
+msgstr "Uma palavra-chave de habilidade que permite que um card de criatura seja conjurado como uma Aura. Veja a regra\n"
+"702.102, “Agraciar.”"
 
 msgid "Block"
-msgstr ""
+msgstr "Bloquear"
 
 msgid "To send a creature into combat defensively. A creature can block an attacking creature. See rule 509, “Declare Blockers Step.”"
-msgstr ""
+msgstr "Enviar uma criatura em combate defensivamente. Uma criatura pode bloquear uma criatura atacante. Veja a regra\n"
+"509, “Etapa de Declaração de Bloqueadores.”"
 
 msgid "Block Alone"
-msgstr ""
+msgstr "Bloquear Sozinha"
 
 msgid "A creature “blocks alone” if it’s the only creature declared as a blocker during the declare blockers step. A creature “is blocking alone” if it’s blocking but no other creatures are. See rule 506.5."
-msgstr ""
+msgstr "Uma criatura “bloqueia sozinha” se é a única criatura declarada como bloqueadora durante a etapa de declaração de bloqueadores. Uma criatura “está bloqueia sozinha” se ela estiver bloqueando, mas nenhuma outra estiver. Veja a regra 506.5."
 
 msgid "Blocked Creature"
-msgstr ""
+msgstr "Criatura Bloqueada"
 
 msgid "An attacking creature that another creature blocks or that an effect causes to become blocked. It remains a blocked creature until it’s removed from combat, an effect says that it becomes unblocked, or the combat phase ends, whichever comes first. See rule 509, “Declare Blockers Step.”"
-msgstr ""
+msgstr "Uma criatura atacante que outra criatura bloqueou ou que efeito fez tornar-se bloqueada. Ela permanece uma criatura bloqueada até que seja removida do combate, um efeito diga que ela fica não bloqueada ou termine a fase de combate, o que ocorrer primeiro. Veja a regra 509, “Etapa de Declaração de Bloqueadores.”"
 
 msgid "Blocking Creature"
-msgstr ""
+msgstr "Criatura Bloqueadora"
 
 msgid "A creature that has either been declared as part of a legal block during the combat phase (once all costs to block, if any, have been paid), or a creature that has been put onto the battlefield blocking. It remains a blocking creature until it’s removed from combat or the combat phase ends, whichever comes first. See rule 509, “Declare Blockers Step.”"
-msgstr ""
+msgstr "Uma criatura que foi declarada como parte de um bloqueio válido durante a fase de combate (uma vez que todos os custos para o bloqueio, se for o caso, tenham sido pagos), ou uma criatura que foi colocada no campo de batalha bloqueando. Ela permanece sendo uma criatura bloqueadora até que seja removida do combate ou a fase de combate termine, o que ocorrer primeiro. Veja a regra 509, “Etapa de Declaração de Bloqueadores.”"
 
 msgid "Bloodthirst"
-msgstr ""
+msgstr "Sede de Sangue"
 
 msgid "A keyword ability that can have a creature enter the battlefield with +1/+1 counters on it. See rule 702.53, “Bloodthirst.”"
-msgstr ""
+msgstr "Uma palavra-chave de habilidade que pode fazer com que uma criatura entre no campo de batalha com marcadores +1/+1 sobre ela. Veja a regra 702.53, “Sede de Sangue.”"
 
 msgid "Bolster"
-msgstr ""
+msgstr "Revigorar (Bolster)"
 
 msgid "A keyword action that puts +1/+1 counters on the weakest creature a player controls. See rule 701.33, “Bolster.”"
-msgstr ""
+msgstr "Uma palavra-chave de ação que coloca marcadores +1/+1 na criatura mais fraca que um jogador controla. Veja a\n"
+"regra 701.33, “Revigorar.”"
 
 msgid "Booster Pack"
-msgstr ""
+msgstr "Booster"
 
 msgid "A group of unopened Magic cards from a particular expansion. Booster packs are used in Limited formats. See rule 100.2b."
-msgstr ""
+msgstr "Um grupo de cards de Magic não abertos de uma expansão em particular. Boosters são utilizados em formatos\n"
+"Limitados. Veja a regra 100.2b."
 
 msgid "Brawl"
-msgstr ""
+msgstr "Brawl"
 
 msgid "An option for the Commander casual variant. See rule 903.12, “Brawl Option.”"
-msgstr ""
+msgstr "Uma opção de variante casual de Commander. Veja a regra 903.12, “Opção de Brawl.”"
 
 msgid "Bury (Obsolete)"
-msgstr ""
+msgstr "Enterrar (Bury [Obsoleto]) "
 
 msgid "A term that meant “put [a permanent] into its owner’s graveyard.” In general, cards that were printed with the term “bury” have received errata in the Oracle card reference to read, “Destroy [a permanent]. It can’t be regenerated,” or “Sacrifice [a permanent].”"
-msgstr ""
+msgstr "Um termo que significava “coloque [a permanente] no cemitério de seu dono”. Em geral, os cards que foram impressos com o termo “enterrar” receberam errata na referência de cards Oracle para “Destrua [a permanente]. Ela não pode ser regenerada” ou “Sacrifique [a permanente].”"
 
 msgid "Bushido"
-msgstr ""
+msgstr "Bushido"
 
 msgid "A keyword ability that can make a creature better in combat. See rule 702.44, “Bushido.”"
-msgstr ""
+msgstr "Uma palavra-chave de habilidade que pode tornar uma criatura melhor em combate. Veja a regra 702.44, “Bushido.”"
 
 msgid "Buyback"
 msgstr ""
