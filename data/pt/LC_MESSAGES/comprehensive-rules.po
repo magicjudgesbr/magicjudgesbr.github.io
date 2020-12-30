@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2020-12-30 18:28\n"
+"PO-Revision-Date: 2020-12-30 19:24\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -9086,25 +9086,25 @@ msgid "Battlefield"
 msgstr "Campo de Batalha"
 
 msgid "A zone. The battlefield is the zone in which permanents exist. It used to be known as the “in-play” zone. See rule 403, “Battlefield.”"
-msgstr ""
+msgstr "Uma zona. O campo de batalha é a zona na qual as permanentes existem. Ela já foi conhecida como zona \"em-jogo\". Veja a regra 403, “Campo de batalha.”"
 
 msgid "Becomes"
-msgstr ""
+msgstr "Tornar-se"
 
 msgid "A word used in some trigger events to indicate a change in status or characteristics. See rule 603.2e."
-msgstr ""
+msgstr "Uma palavra usada em alguns eventos desencadeadores para indicar uma mudança de status ou características. Veja a regra 603.2e."
 
 msgid "Beginning of Combat Step"
-msgstr ""
+msgstr "Etapa de Início de Combate"
 
 msgid "Part of the turn. This step is the first step of the combat phase. See rule 507, “Beginning of Combat Step.”"
-msgstr ""
+msgstr "Parte do turno. Esta etapa é a primeira etapa da fase de combate. Veja a regra 507, “Etapa de Início de Combate.”"
 
 msgid "Beginning Phase"
-msgstr ""
+msgstr "Fase Inicial"
 
 msgid "Part of the turn. This phase is the first phase of the turn. See rule 501, “Beginning Phase.”"
-msgstr ""
+msgstr "Parte do turno. Esta fase é a primeira fase do primeiro turno. Veja a regra 501, “Fase Inicial.”"
 
 msgid "Bestow"
 msgstr "Agraciar (Bestow)"
@@ -9198,154 +9198,162 @@ msgid "Card Type"
 msgstr ""
 
 msgid "A characteristic. Except for abilities on the stack, each object has a card type, even if that object isn’t a card. Each card type has its own rules. See rule 205, “Type Line,” and section 3, “Card Types.”"
-msgstr ""
+msgstr "Uma característica. Com exceção de habilidades na pilha, cada objeto tem um tipo de card, mesmo que o card não seja um objeto. Cada tipo de card tem suas próprias regras. Veja a regra 205, “Linha de Tipo,” e a seção 3, “Tipos de\n"
+"Card.”"
 
 msgid "Cascade"
-msgstr ""
+msgstr "Cascata (Cascade)"
 
 msgid "A keyword ability that may let a player cast a random extra spell for no cost. See rule 702.84, “Cascade.”"
-msgstr ""
+msgstr "Uma palavra-chave de habilidade que pode permitir a um jogador conjurar uma mágica aleatória extra, sem nenhum\n"
+"custo. Veja a regra 702.84, “Cascata.”"
 
 msgid "Cast"
-msgstr ""
+msgstr "Conjurar"
 
 msgid "To take a card from where it is (usually the hand), put it on the stack, and pay its costs, so that it will eventually resolve and have its effect. See rule 601, “Casting Spells.”"
-msgstr ""
+msgstr "Pegar um card da zona em que ele se encontra (geralmente a mão), colocá-la na pilha e pagar os seus custos, de modo que ela resolverá e terá o seu efeito. Veja a regra 601, “Conjurando Mágicas.”"
 
 msgid "Caster (Obsolete)"
-msgstr ""
+msgstr "Conjurador (Obsoleto)"
 
 msgid "An obsolete term that referred to the player who cast a spell. In general, cards that were printed with the term “caster” have received errata in the Oracle card reference to say “controller.”"
-msgstr ""
+msgstr "Um termo obsoleto que fazia referência a quem conjurava uma mágica. Em geral, os cards que foram impressos com o termo “conjurador” receberam errata na referência de cards Oracle para dizerem “controlador”."
 
 msgid "Casting Cost (Obsolete)"
-msgstr ""
+msgstr "Custo de Execução (Obsoleto)"
 
 msgid "An obsolete term for mana cost. Cards printed with this text have received errata in the Oracle card reference."
-msgstr ""
+msgstr "Um termo obsoleto para custo de mana. Os cards impressos com este texto receberam errata na referência de cards Oracle."
 
 msgid "Champion, Championed"
-msgstr ""
+msgstr "Acudir, Acudida (Champion, Championed)"
 
 msgid "“Champion” is a keyword ability that lets one creature temporarily replace another. A permanent is “championed” by another permanent if the latter exiles the former as the direct result of a champion ability. See rule 702.71, “Champion.”"
-msgstr ""
+msgstr "“Acudir” é uma palavra-chave de habilidade que permite que uma criatura substitua temporariamente outra. Uma\n"
+"permanente é “acudida” por outra permanente, se esta último exilar a primeira, como resultado direto de uma habilidade de acudir. Consulte a regra 702.71, “Acudir.”"
 
 msgid "Change a Target"
-msgstr ""
+msgstr "Mudar um Alvo"
 
 msgid "To choose a new, legal target for a spell or ability. See rule 115.7."
-msgstr ""
+msgstr "Escolher um novo alvo válido para uma mágica ou habilidade. Veja a regra 115.7."
 
 msgid "Changeling"
-msgstr ""
+msgstr "Morfolóide (Changeling)"
 
 msgid "A characteristic-defining ability that grants the object it’s on every creature type. See rule 702.72, “Changeling.”"
-msgstr ""
+msgstr "Uma habilidade definidora de característica que confere ao objeto em que está todos os tipos de criatura. Veja a\n"
+"regra 702.72, “Morfolóide”."
 
 msgid "Chaos Ability"
-msgstr ""
+msgstr "Habilidade do Caos"
 
 msgid "An ability of a plane card that triggers “Whenever you roll {CHAOS}” on the planar die in the Planechase casual variant. See rule 309.7."
-msgstr ""
+msgstr "Uma habilidade de um card de plano que desencadeia “Sempre que você rolar {CHAOS}” no dado planar na variante\n"
+"casual Planechase. Veja a regra 309.7."
 
 msgid "Chaos Symbol"
-msgstr ""
+msgstr "Símbolo do Caos"
 
 msgid "The chaos symbol {CHAOS} appears on the planar die and in some triggered abilities of plane cards in the Planechase casual variant. See rule 107.12."
-msgstr ""
+msgstr "O símbolo do caos {CHAOS} aparece no dado planar e em algumas habilidades desencadeadas de cards de plano na variante casual Planechase. Veja a regra 107.12."
 
 msgid "Characteristics"
-msgstr ""
+msgstr "Características"
 
 msgid "Information that defines an object. See rule 109.3."
-msgstr ""
+msgstr "Informações que definem um objeto. Veja a regra 109.3."
 
 msgid "Characteristic-Defining Ability"
-msgstr ""
+msgstr "Habilidade Definidora de Característica"
 
 msgid "A kind of static ability that conveys information about an object’s characteristics that would normally be found elsewhere on that object (such as in its mana cost, type line, or power/toughness box). See rule 604.3."
-msgstr ""
+msgstr "Uma espécie de habilidade estática que transmite informações sobre as características de um objeto que normalmente seriam encontradas em outra parte naquele objeto (como em seu custo de mana, linha de tipo ou caixa de poder/resistência). Veja a regra 604.3."
 
 msgid "Cipher"
-msgstr ""
+msgstr "Cifrar (Cipher)"
 
 msgid "A keyword ability that allows you to encode a card on a creature and cast that card whenever that creature deals combat damage to a player. See rule 702.98, “Cipher.”"
-msgstr ""
+msgstr "Uma palavra-chave de habilidade que pode permitir a um jogador cifrar um card em uma criatura e jogar tal card toda vez que essa criatura causar dano de combate a um jogador. Veja a regra 702. 98, “Cifrar.”"
 
 msgid "City’s Blessing"
-msgstr ""
+msgstr "Benção da Cidade"
 
 msgid "A designation a player can have. The ascend keyword causes a player to get this designation once they control ten permanents. See rule 702.130, “Ascend.”"
-msgstr ""
+msgstr "Uma designação que um jogador pode obter. A palavra chave ascender faz com que o jogador receba essa designação quando controla dez permanentes. Veja a regra 702.130, “Ascender.”"
 
 msgid "Clash"
-msgstr ""
+msgstr "Confronto"
 
 msgid "To have a mini-contest involving the top cards of players’ libraries. See rule 701.23, “Clash.”"
-msgstr ""
+msgstr "Uma pequena competição envolvendo o card do topo do grimório dos jogadores. Veja a regra 701.23, “Confrontar.”"
 
 msgid "Cleanup Step"
-msgstr ""
+msgstr "Etapa de Limpeza"
 
 msgid "Part of the turn. This step is the second and final step of the ending phase. See rule 514, “Cleanup Step.”"
-msgstr ""
+msgstr "Parte do turno. É a segunda e última etapa da fase final. Veja a regra 514, “Etapa de Limpeza.”"
 
 msgid "Collector Number"
-msgstr ""
+msgstr "Número na Coleção"
 
 msgid "A number printed on most cards that has no effect on game play. See rule 212, “Information Below the Text Box.”"
-msgstr ""
+msgstr "Um número impresso na maioria dos cards que não tem nenhum efeito no jogo. Veja a regra 212, “Informações\n"
+"Abaixo da Caixa de Texto.”"
 
 msgid "Color"
-msgstr ""
+msgstr "Cor"
 
 msgid "1. A characteristic of an object. See rule 105, “Colors,” and rule 202, “Mana Cost and Color.”"
-msgstr ""
+msgstr "1. Uma característica de um objeto. Veja a regra 105, “Cores,” e a regra 202, “Custo de Mana e Cor.”"
 
 msgid "2. An attribute mana may have. See rule 106, “Mana.”"
-msgstr ""
+msgstr "2. Um atributo que o mana pode ter. Veja a regra 106, “Mana.”"
 
 msgid "Colorless"
-msgstr ""
+msgstr "Incolor"
 
 msgid "1. An object with no color is colorless. Colorless is not a color. See rule 105, “Colors,” and rule 202, “Mana Cost and Color.”"
-msgstr ""
+msgstr "1. Um objeto sem nenhuma cor é incolor. Incolor não é uma cor. Veja a regra 105, “Cores,” e a regra 202, “Custo de\n"
+"Mana e Cor.”"
 
 msgid "2. A type of mana. See rule 106, “Mana,” and rule 107.4c."
-msgstr ""
+msgstr "2. Um tipo de mana. Veja a regra 106, “Mana,” e a regra 107.4c."
 
 msgid "Color Identity"
-msgstr ""
+msgstr "Identidade de Cor"
 
 msgid "A set of colors that determines what cards may be included in a deck for the Commander casual variant. See rule 903.4."
-msgstr ""
+msgstr "Um conjunto de cores que determinam quais cards podem ser inclusos num deck da variante casual Commander.\n"
+"Veja a regra 903.4."
 
 msgid "Color Indicator"
-msgstr ""
+msgstr "Indicador de Cor"
 
 msgid "A characteristic of an object. See rule 105, “Colors,” and rule 204, “Color Indicator.”"
-msgstr ""
+msgstr "Uma característica de um objeto. Veja a regra 105, “Cores,” e a regra 204, “Indicador de Cor.”"
 
 msgid "Combat Damage"
-msgstr ""
+msgstr "Dano de Combate"
 
 msgid "Damage dealt during the combat damage step by attacking creatures and blocking creatures as a consequence of combat. See rule 510, “Combat Damage Step.”"
-msgstr ""
+msgstr "O dano causado durante a etapa de dano de combate por criaturas atacantes e bloqueadoras como uma consequência do combate. Veja a regra 510, “Etapa de Dano de Combate.”"
 
 msgid "Combat Damage Step"
-msgstr ""
+msgstr "Etapa de Dano de Combate"
 
 msgid "Part of the turn. This step is the fourth step of the combat phase. See rule 510, “Combat Damage Step.”"
-msgstr ""
+msgstr "Parte do turno. Esta é a quarta etapa da fase de combate. Veja a regra 510, “Etapa de Dano de Combate.”"
 
 msgid "Combat Phase"
-msgstr ""
+msgstr "Fase de Combate"
 
 msgid "Part of the turn. This phase is the third phase of the turn. See rule 506, “Combat Phase.”"
-msgstr ""
+msgstr "Parte do turno. Esta é a terceira fase do turno. Veja a regra 506, “Fase de Combate.”"
 
 msgid "Command"
-msgstr ""
+msgstr "Comando"
 
 msgid "A zone for certain specialized objects that have an overarching effect on the game, yet are not permanents and cannot be destroyed. See rule 408, “Command.”"
 msgstr ""
@@ -9498,25 +9506,26 @@ msgid "Creature"
 msgstr ""
 
 msgid "A card type. A creature is a permanent. See rule 302, “Creatures.”"
-msgstr ""
+msgstr "Um tipo de card. Uma criatura é uma permanente. Veja a regra 302, “Criaturas.”"
 
 msgid "Creature Type"
-msgstr ""
+msgstr "Tipo de Criatura"
 
 msgid "A subtype that’s correlated to the creature card type and the tribal card type. See rule 302, “Creatures,” and rule 308, “Tribals.” See rule 205.3m for the list of creature types."
-msgstr ""
+msgstr "Um subtipo que está correlacionado com os tipos de card criatura e tribal. Veja a regra 302, “Criaturas,” e a regra\n"
+"308, “Tribais.” Veja a regra 205.3m para a lista de tipos de criatura."
 
 msgid "Crew"
-msgstr ""
+msgstr "Tripular (Crew)"
 
 msgid "A keyword ability that lets you tap creatures to turn a Vehicle into an artifact creature. See rule 301, “Artifacts,” and rule 702.121, “Crew.”"
-msgstr ""
+msgstr "Uma habilidade de palavra-chave que permite a você virar criaturas para transformar um Veículo em uma criatura de artefato. Veja a regra 301, \"Artefatos,\" e a regra 702.121, \"Tripular.\""
 
 msgid "Cumulative Upkeep"
-msgstr ""
+msgstr "Manutenção Cumulativa"
 
 msgid "A keyword ability that imposes an increasing cost to keep a permanent on the battlefield. See rule 702.23, “Cumulative Upkeep.”"
-msgstr ""
+msgstr "Uma palavra-chave de habilidade que impõe um custo crescente para manter uma permanente no campo de batalha. Veja a regra 702.23, “Manutenção cumulativa.”"
 
 msgid "Cycling"
 msgstr "Reciclar"
@@ -9525,13 +9534,13 @@ msgid "A keyword ability that lets a card be discarded and replaced with a new c
 msgstr "Uma palavra-chave de habilidade que permite que um card seja descartado e substituído por um novo card. Veja a regra 702.28, “Reciclar.”"
 
 msgid "Damage"
-msgstr ""
+msgstr "Dano"
 
 msgid "Objects can deal “damage” to creatures, planeswalkers, and players. This is generally detrimental to the object or player that receives that damage. See rule 120, “Damage.”"
-msgstr ""
+msgstr "Os objetos podem causar “dano” as criaturas, planeswalkers e aos jogadores. Isso geralmente é prejudicial para o objeto ou jogador que recebe esse dano. Veja a regra 120, “Dano.”"
 
 msgid "Damage Assignment Order"
-msgstr ""
+msgstr "Ordem de Atribuição de Dano"
 
 msgid "The order, announced during the declare blockers step, that an attacking creature will assign its combat damage among the multiple creatures blocking it, or that a blocking creature will assign its combat damage among the multiple creatures it’s blocking. See rules 509.2 and 509.3."
 msgstr ""
