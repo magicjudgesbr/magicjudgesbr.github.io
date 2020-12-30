@@ -17,7 +17,7 @@
         </dt>
         <dd>
             {%- for text in desc %}
-                {{ text | ref_rules }}
+                {{ text | ref_rules | mtg_symbols }}
             {%- endfor %}
         </dd>
     {%-endfor %}

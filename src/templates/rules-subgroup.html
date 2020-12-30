@@ -15,16 +15,16 @@
                 </svg>
             </a>
             {% set text = rule["rule"] + " " + rule["text"] %}
-            {{ gettext(text) | ref_rules | glossary }}
+            {{ gettext(text) | ref_rules | glossary | mtg_symbols }}
         </{{ tag }}>
         {%-for note in notes %}
             <blockquote>
-            {{ gettext(note) }}
+            {{ gettext(note) | mtg_symbols }}
             </blockquote>
         {%-endfor %}
         {%-for example in examples %}
             <blockquote>
-            {{ gettext(example) }}
+            {{ gettext(example) | mtg_symbols }}
             </blockquote>
         {%-endfor %}
     {%-endfor %}
