@@ -1,11 +1,15 @@
 site:
+  title: "Magic Judges BR"
+  search_enabled: True
   search:
+    button: True
 
   pages:
     index:
       title: "Magic Judges BR"
       nav_name: "Home"
       url: "/"
+      nav_exclude: True
     cr:
       title: "Regras Abrangentes"
       url: "/regras/cr/"

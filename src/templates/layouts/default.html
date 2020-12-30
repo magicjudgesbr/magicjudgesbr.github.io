@@ -91,7 +91,7 @@
             <div class="search">
                 <div class="search-input-wrap">
                     <input type="text" id="search-input" class="search-input" tabindex="0"
-                           placeholder="Search {{ site.title }}" aria-label="Search {{ site.title }}"
+                           placeholder="Pesquisar..." aria-label="Pesquisar..."
                            autocomplete="off">
                     <label for="search-input" class="search-label">
                         <svg viewBox="0 0 24 24" class="search-icon">
@@ -102,6 +102,13 @@
                 <div id="search-results" class="search-results"></div>
             </div>
         {% endif %}
+        <div class="symbol-switch">
+            Mostrar símbolos
+            <label class="switch">
+                <input type="checkbox" checked onchange="jtd.updateSymbols(event)">
+                <span class="slider round"></span>
+            </label>
+        </div>
         {% include "partials/header_custom.html" ignore missing %}
         {% if site.aux_links %}
             <nav aria-label="Auxiliary" class="aux-nav">
@@ -124,16 +131,19 @@
     <div id="main-content-wrap" class="main-content-wrap">
         {% if page.url != "/" %}
             {% if page.parent %}
-                {%- for node in pages_list -%}
-                    {%- if node.parent == nil -%}
+                {%- set level_urls = [] -%}
+                {%- for node_id in site.pages -%}
+                    {%- set node = site.pages[node_id] %}
+                    {%- if not node.parent -%}
                         {%- if page.parent == node.title or page.grand_parent == node.title -%}
-                            {%- set first_level_url = node.url -%}
+                            {%- do level_urls.append(node.url) %}
                         {%- endif -%}
                         {%- if node.has_children -%}
-                            {%- set children_list = pages_list | selectattr("parent", node.title) -%}
-                            {%- for child in children_list -%}
+                            {%- set children_list = node.children -%}
+                            {%- for child_id in children_list -%}
+                                {%- set child = site.pages[child_id] %}
                                 {%- if page.url == child.url or page.parent == child.title -%}
-                                    {%- set second_level_url = child.url -%}
+                                    {%- do level_urls.append(child.url) %}
                                 {%- endif -%}
                             {%- endfor -%}
                         {%- endif -%}
@@ -143,11 +153,11 @@
                     <ol class="breadcrumb-nav-list">
                         {% if page.grand_parent %}
                             <li class="breadcrumb-nav-list-item"><a
-                                    href="{{ first_level_url }}">{{ page.grand_parent }}</a></li>
-                            <li class="breadcrumb-nav-list-item"><a href="{{ second_level_url }}">{{ page.parent }}</a>
+                                    href="{{ level_urls[0] }}">{{ page.grand_parent }}</a></li>
+                            <li class="breadcrumb-nav-list-item"><a href="{{ level_urls[1] }}">{{ page.parent }}</a>
                             </li>
                         {% else %}
-                            <li class="breadcrumb-nav-list-item"><a href="{{ first_level_url }}">{{ page.parent }}</a>
+                            <li class="breadcrumb-nav-list-item"><a href="{{ level_urls[0] }}">{{ page.parent }}</a>
                             </li>
                         {% endif %}
                         <li class="breadcrumb-nav-list-item"><span>{{ page.title }}</span></li>
@@ -155,7 +165,7 @@
                 </nav>
             {% endif %}
         {% endif %}
-        <div id="main-content" class="main-content" role="main">
+        <div id="main-content" class="main-content {{ page.content_class }}" role="main">
             {% if site.heading_anchors %}
                 {% include "partials/vendor/anchor_headings.html" %}
                 {#html=content beforeHeading="true" anchorBody="<svg viewBox=\"0 0 16 16\" aria-hidden=\"true\"><use xlink:href=\"#svg-link\"></use></svg>" anchorClass="anchor-heading" anchorAttrs="aria-labelledby=\"%html_id%\""#}
@@ -164,12 +174,13 @@
                 {% endblock %}
             {% endif %}
 
-            {% if page.has_children == true and page.has_toc != false %}
+            {% if page.has_children and not page.has_toc %}
                 <hr>
-                <h2 class="text-delta">Table of contents</h2>
+                <h2 class="text-delta">Índice</h2>
                 <ul>
-                    {%- set children_list = pages_list | selectattr("parent", page.title) | selectattr("grand_parent", page.parent) -%}
-                    {% for child in children_list %}
+                    {%- set children_list = page.children -%}
+                    {% for child_id in children_list %}
+                        {%- set child = site.pages[child_id] %}
                         <li>
                             <a href="{{ child.url }}">{{ child.title }}</a>{% if child.summary %} -
                             {{ child.summary }}{% endif %}
@@ -180,7 +191,6 @@
 
             {%- include "partials/footer_custom.html" ignore missing -%}
             {% if footer_custom != "" or site.last_edit_timestamp or site.gh_edit_link %}
-                <hr>
                 <footer>
                     {% if site.back_to_top %}
                         <p><a href="#top" id="back-to-top">{{ site.back_to_top_text }}</a></p>
@@ -204,6 +214,7 @@
                   site.gh_edit_view_mode %}
                                 <p class="text-small text-grey-dk-000 mb-0">
                                     <a href="{{ site.gh_edit_repository }}/{{ site.gh_edit_view_mode }}/
+
                                             {{ site.gh_edit_branch }}{% if site.gh_edit_source %}/{{ site.gh_edit_source }}{% endif %}/{{ page.path }}"
                                        id="edit-this-page">{{ site.gh_edit_link_text }}</a>
                                 </p>
@@ -216,7 +227,7 @@
         </div>
     </div>
 
-    {% if site.search_enabled != false %}
+    {% if site.search_enabled %}
         {% if site.search.button %}
             <a href="#" id="search-button" class="search-button">
                 <svg viewBox="0 0 24 24" class="icon">

@@ -6,4 +6,11 @@
     {%- for intro in cr.intro -%}
         <p>{{ gettext(intro) }}</p>
     {%- endfor %}
+    <footer>
+        <h3>Créditos</h3>
+        {%- for credit in cr.credits -%}
+            <p>{{ gettext(credit) }}</p>
+        {%- endfor %}
+        <em>{{ gettext(cr.footnote) }}</em>
+    </footer>
 {% endblock %}
