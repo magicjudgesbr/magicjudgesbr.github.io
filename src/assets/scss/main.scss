@@ -9,13 +9,57 @@ $color-scheme: "light";
   h3 {
     font-weight: inherit;
   }
+
   h4 {
     text-transform: inherit;
     margin-left: $sp-4;
     letter-spacing: inherit;
     @include fs-4
   }
+
   blockquote {
     font-style: italic;
+  }
+}
+
+.symbol-switch {
+  box-sizing: border-box;
+  display: inline-flex;
+  align-items: center;
+  margin: 1rem;
+
+  .switch {
+    margin-left: .5rem;
+    @include fs-2;
+  }
+
+  @include mq(xs) {
+    padding-bottom: 1em;
+    @include fs-4;
+  }
+
+  @include mq(md) {
+    padding-bottom: inherit;
+    @include fs-2;
+  }
+}
+
+.symbol {
+  img {
+    vertical-align: middle;
+    height: 1.3rem;
+  }
+
+  span {
+    display: none;
+  }
+
+  &.text {
+    img {
+      display: none;
+    }
+    span {
+      display: inherit;
+    }
   }
 }

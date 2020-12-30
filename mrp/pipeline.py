@@ -16,6 +16,7 @@ from mrp.structurer import RulesStructurer
 def slug_filter(txt, **kwargs):
     return slugify(txt, **kwargs)
 
+
 def copy_tree(src, dst, ignore=None):
     if not os.path.exists(src):
         return
@@ -23,7 +24,12 @@ def copy_tree(src, dst, ignore=None):
         item_src = os.path.join(src, item)
         item_dst = os.path.join(dst, item)
         if os.path.isdir(item_src):
-            shutil.copytree(item_src, item_dst, ignore=shutil.ignore_patterns(*ignore), dirs_exist_ok=True)
+            shutil.copytree(
+                item_src,
+                item_dst,
+                ignore=shutil.ignore_patterns(*ignore) if ignore is not None else ignore,
+                dirs_exist_ok=True
+            )
         else:
             shutil.copy2(item_src, item_dst)
 
@@ -56,17 +62,19 @@ translations = gettext.translation(
 template_env.install_gettext_translations(translations)
 
 
-
 class TemplateFilters(object):
     allowed_terms = []
     rule_pattern = re.compile(r'((\d{3}(\.\d+\w?)?)(, [“"][\w,.\s]+[”"])?)')
     rule_section_pattern = re.compile(r'((\d), [“"][\s\w.,]+[”"])')
+    symbols_pattern = re.compile(r'\{([^{}]+)\}')
 
-    def __init__(self, cr):
+    def __init__(self, cr, symbols):
         self.terms = []
         for entry in cr["glossary"]:
             if entry["term"].lower() in self.allowed_terms:
                 self.terms.append(translations.gettext(entry["term"]).lower())
+
+        self.symbols = symbols
 
     def ref_rules(self, value):
         id, text = value.split(" ", maxsplit=1)
@@ -83,9 +91,24 @@ class TemplateFilters(object):
 
         return value
 
+    def mtg_symbols(self, value):
+        matches = self.symbols_pattern.finditer(value)
+
+        for match in reversed([m for m in matches]):
+            symbol = match.group(1).replace("/", "")
+            if symbol in self.symbols:
+                value = self._wrap_symbol(value, match, symbol)
+            else:
+                print(symbol, value)
+        return value
+
     def _wrap_term(self, value, match, term):
         term = slug_filter(term)
         return f"{value[:match.start()]}<span class='tooltip term-{term}'>{value[match.start():match.end()]}</span>{value[match.end():]}"
+
+    def _wrap_symbol(self, value, match, symbol):
+        text_symbol = value[match.start():match.end()]
+        return f"{value[:match.start()]}<span class='symbol'><img title={text_symbol} src='/symbols/{symbol}.png' alt='{text_symbol}'/><span>{text_symbol}</span></span>{value[match.end():]}"
 
     def _wrap_rule_link(self, value, match, link):
         try:
@@ -146,6 +169,7 @@ class BuildPipeline(object):
     scripts = ["main.js"]
     config = None
     cr = {}
+    symbols = set()
 
     def start(self):
         # first build
@@ -164,11 +188,13 @@ class BuildPipeline(object):
             self.config = yaml.load(file, Loader=yaml.FullLoader)
 
         self.logger.info("building...")
+        self._load_symbols()
         self._parse_rules_structure()
 
-        filters = TemplateFilters(self.cr)
+        filters = TemplateFilters(self.cr, self.symbols)
         template_env.filters["ref_rules"] = filters.ref_rules
         template_env.filters["glossary"] = filters.glossary
+        template_env.filters["mtg_symbols"] = filters.mtg_symbols
         template_env.filters["slug"] = slug_filter
 
         self._copy_assets()
@@ -372,3 +398,8 @@ class BuildPipeline(object):
 
         with open(output_file, "w") as out:
             out.write(template.render(glossary=self.cr["glossary"], **self.config))
+
+    def _load_symbols(self):
+        self.symbols = set()
+        for file in os.listdir(os.path.join(self.src_dir, "static/symbols")):
+            self.symbols.add(os.path.splitext(file)[0])

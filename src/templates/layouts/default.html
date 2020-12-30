@@ -102,6 +102,13 @@
                 <div id="search-results" class="search-results"></div>
             </div>
         {% endif %}
+        <div class="symbol-switch">
+            Mostrar símbolos
+            <label class="switch">
+                <input type="checkbox" checked onchange="jtd.updateSymbols(event)">
+                <span class="slider round"></span>
+            </label>
+        </div>
         {% include "partials/header_custom.html" ignore missing %}
         {% if site.aux_links %}
             <nav aria-label="Auxiliary" class="aux-nav">
@@ -145,7 +152,8 @@
                 <nav aria-label="Breadcrumb" class="breadcrumb-nav">
                     <ol class="breadcrumb-nav-list">
                         {% if page.grand_parent %}
-                            <li class="breadcrumb-nav-list-item"><a href="{{ level_urls[0] }}">{{ page.grand_parent }}</a></li>
+                            <li class="breadcrumb-nav-list-item"><a
+                                    href="{{ level_urls[0] }}">{{ page.grand_parent }}</a></li>
                             <li class="breadcrumb-nav-list-item"><a href="{{ level_urls[1] }}">{{ page.parent }}</a>
                             </li>
                         {% else %}
@@ -206,6 +214,7 @@
                   site.gh_edit_view_mode %}
                                 <p class="text-small text-grey-dk-000 mb-0">
                                     <a href="{{ site.gh_edit_repository }}/{{ site.gh_edit_view_mode }}/
+
                                             {{ site.gh_edit_branch }}{% if site.gh_edit_source %}/{{ site.gh_edit_source }}{% endif %}/{{ page.path }}"
                                        id="edit-this-page">{{ site.gh_edit_link_text }}</a>
                                 </p>
