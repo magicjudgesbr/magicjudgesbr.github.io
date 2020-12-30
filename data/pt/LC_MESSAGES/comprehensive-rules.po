@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2020-12-30 19:24\n"
+"PO-Revision-Date: 2020-12-30 20:22\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -9543,25 +9543,26 @@ msgid "Damage Assignment Order"
 msgstr "Ordem de Atribuição de Dano"
 
 msgid "The order, announced during the declare blockers step, that an attacking creature will assign its combat damage among the multiple creatures blocking it, or that a blocking creature will assign its combat damage among the multiple creatures it’s blocking. See rules 509.2 and 509.3."
-msgstr ""
+msgstr "A ordem anunciada durante a etapa de declaração de bloqueadores, que uma criatura atacante atribuirá seu dano de combate entre as múltiplas criaturas que estão bloqueando ela, ou que uma criatura bloqueadora atribuirá seu dano de combate entre as múltiplas criaturas que ela bloqueia. Veja as regras 509.2 e 509.3."
 
 msgid "Dash"
-msgstr ""
+msgstr "Investida (Dash)"
 
 msgid "A keyword ability that allows creatures to be especially aggressive. See rule 702.108, “Dash.”"
-msgstr ""
+msgstr "Uma palavra-chave de habilidade que permite que criaturas sejam especialmente agressivas. Veja a regra 702.108,\n"
+"“Investida.”"
 
 msgid "Deal"
-msgstr ""
+msgstr "Causar"
 
 msgid "See Damage."
-msgstr ""
+msgstr "Veja Dano."
 
 msgid "Deathtouch"
-msgstr ""
+msgstr "Toque Mortífero"
 
 msgid "A keyword ability that causes damage dealt by an object to be especially effective. See rule 702.2, “Deathtouch.”"
-msgstr ""
+msgstr "Uma palavra-chave de habilidade que faz com que o dano causado por um objeto seja especialmente eficaz. Veja a regra 702.2, “Toque Mortífero.”"
 
 msgid "Deck"
 msgstr "Deck"
@@ -9570,58 +9571,60 @@ msgid "The collection of cards a player starts the game with; it becomes that pl
 msgstr "O conjunto de cards com as quais um jogador começa o jogo; torna-se o grimório desse jogador. Veja a regra 100, \"Geral\", e a regra 103, \"Iniciando o Jogo.\""
 
 msgid "Declare Attackers"
-msgstr ""
+msgstr "Declarar Atacantes"
 
 msgid "To choose a set of creatures that will attack, declare whether each creature is attacking the defending player or a planeswalker that player controls, and pay any costs required to allow those creatures to attack. See rule 508.1."
-msgstr ""
+msgstr "Escolher um conjunto de criaturas que atacarão, declarar se cada criatura está atacando o jogador defensor ou um\n"
+"planeswalker que aquele jogador controla e pagar todos os custos necessários para permitir que essas criaturas ataquem. Veja a regra 508.1."
 
 msgid "Declare Attackers Step"
-msgstr ""
+msgstr "Etapa de Declaração de Atacantes"
 
 msgid "Part of the turn. This step is the second step of the combat phase. See rule 508, “Declare Attackers Step.”"
-msgstr ""
+msgstr "Parte do turno. Esta é a segunda etapa da fase de combate. Veja a regra 508, “Etapa de Declaração de Atacantes.”"
 
 msgid "Declare Blockers"
-msgstr ""
+msgstr "Declarar Bloqueadores"
 
 msgid "To choose a set of creatures that will block, declare which attacking creature each creature is blocking, and pay any costs required to allow those creatures to block. See rule 509.1."
-msgstr ""
+msgstr "Escolher um conjunto de criaturas que bloqueará, declarar qual criatura atacante cada criatura que está bloqueando e pagar todos os custos necessários para permitir que essas criaturas bloqueiem. Veja a regra 509.1."
 
 msgid "Declare Blockers Step"
-msgstr ""
+msgstr "Etapa de Declaração de Bloqueadores"
 
 msgid "Part of the turn. This step is the third step of the combat phase. See rule 509, “Declare Blockers Step.”"
-msgstr ""
+msgstr "Parte do turno. Esta é a terceira etapa da fase de combate. Veja a regra 509, “Etapa de Declaração de Bloqueadores.”"
 
 msgid "Defender"
-msgstr ""
+msgstr "Defensor (Defender)"
 
 msgid "A keyword ability that prohibits a creature from attacking. See rule 702.3, “Defender.”"
-msgstr ""
+msgstr "Uma palavra-chave de habilidade que proíbe uma criatura de atacar. Consulte a regra 702.3, “Defensor”."
 
 msgid "Defending Player"
-msgstr ""
+msgstr "Jogador Defensor"
 
 msgid "The player who can be attacked, and whose planeswalkers can be attacked, during the combat phase. See rule 506.2. In certain multiplayer games, there may be more than one defending player; see rule 802, “Attack Multiple Players Option,” and rule 805.10."
-msgstr ""
+msgstr "O jogador que pode ser atacado e cujos planeswalkers podem ser atacados durante a fase de combate. Veja a regra 506.2. Em certos jogos multijogador, pode haver mais de um jogador defensor; veja a regra 802, “Opção de Atacar Múltiplos Jogadores,” e a regra de 805.10."
 
 msgid "Defending Team"
-msgstr ""
+msgstr "Equipe Defensora"
 
 msgid "The team who can be attacked, and whose planeswalkers can be attacked, during the combat phase of a multiplayer game using the shared team turns option. See rule 805, “Shared Team Turns Option.”"
-msgstr ""
+msgstr "Uma equipe que pode ser atacada, e cujos planeswalkers podem ser atacados, durante a fase de combate num jogo multijogadores usando a opção de turnos compartilhados pela equipe. Veja a regra 805, “Opção de Turnos\n"
+"Compartilhados pela Equipe.”"
 
 msgid "Delayed Triggered Ability"
-msgstr ""
+msgstr "Habilidade Desencadeada Postergada"
 
 msgid "An ability created by effects generated when some spells or abilities resolve, or when some replacement effects are applied, that does something later on rather than at that time. See rule 603.7."
-msgstr ""
+msgstr "Uma habilidade criada por efeitos gerados quando algumas mágicas ou habilidades resolvem e fazem algo um pouco mais tarde que no momento da resolução. Veja a regra 603.7."
 
 msgid "Delve"
-msgstr ""
+msgstr "Esquadrinhar (Delve)"
 
 msgid "A keyword ability that lets you exile cards from your graveyard rather than pay generic mana to cast a spell. See rule 702.65, “Delve.”"
-msgstr ""
+msgstr "Uma palavra-chave de habilidade que permite que se exile cards ao invés de pagar mana genérico para conjurar uma mágica. Veja a regra 702.65, “Esquadrinhar.”"
 
 msgid "Dependency"
 msgstr ""
