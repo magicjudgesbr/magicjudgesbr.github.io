@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2020-12-30 11:06\n"
+"PO-Revision-Date: 2020-12-30 12:08\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -5488,25 +5488,38 @@ msgid "702.27c Multiple instances of shadow on the same creature are redundant."
 msgstr ""
 
 msgid "702.28. Cycling"
-msgstr ""
+msgstr "702.28. Reciclar"
 
 msgid "702.28a Cycling is an activated ability that functions only while the card with cycling is in a player’s hand. “Cycling [cost]” means “[Cost], Discard this card: Draw a card.”"
-msgstr ""
+msgstr "702.28a Reciclar é uma habilidade ativada que funciona somente enquanto o card com reciclar está na mão de\n"
+"um jogador. “Reciclar [custo]” significa “[Custo], descarte este card: Compre um card”."
 
 msgid "702.28b Although the cycling ability can be activated only if the card is in a player’s hand, it continues to exist while the object is on the battlefield and in all other zones. Therefore objects with cycling will be affected by effects that depend on objects having one or more activated abilities."
-msgstr ""
+msgstr "702.28b Embora a habilidade de reciclar possa ser ativada apenas se o card estiver na mão de um jogador, ela\n"
+"continua a existir enquanto o objeto está no campo de batalha e em todas outras zonas. Portanto, objetos com\n"
+"reciclar são afetados pelos efeitos que dependem de objetos possuírem uma ou mais habilidades ativadas."
 
 msgid "702.28c Some cards with cycling have abilities that trigger when they’re cycled. “When you cycle [this card]” means “When you discard [this card] to pay an activation cost of a cycling ability.” These abilities trigger from whatever zone the card winds up in after it’s cycled."
-msgstr ""
+msgstr "702.28c Alguns cards com reciclar têm habilidades que são desencadeadas quando eles são reciclados. “Quando\n"
+"você reciclar [este card]” significa “Quando você descartar [este card] para pagar um custo de reciclar”. Estas habilidades desencadeiam a partir de qualquer zona na qual o card foi após ser reciclado."
 
 msgid "702.28d Some cards have abilities that trigger whenever a player “cycles or discards” a card. These abilities trigger only once when a card is cycled."
-msgstr ""
+msgstr "702.28d Alguns cards possuem habilidade que desencadeiam sempre que um jogador “recila ou descarta” um\n"
+"card. Essas habilidades desencadeiam apenas uma vez quando um card é reciclado."
 
 msgid "702.28e Typecycling is a variant of the cycling ability. “[Type]cycling [cost]” means “[Cost], Discard this card: Search your library for a [type] card, reveal it, and put it into your hand. Then shuffle your library.” This type is usually a subtype (as in “mountaincycling”) but can be any card type, subtype, supertype, or combination thereof (as in “basic landcycling”)."
-msgstr ""
+msgstr "702.28e Reciclar-tipo é uma variante da habilidade de reciclar. “Reciclar [tipo] – [custo]” significa “[Custo],\n"
+"descarte este card: Procure em seu grimório por um card [tipo], revele-o e coloque-o em sua mão. Depois embaralhe seu grimório”. Este tipo é geralmente um subtipo (como em “Reciclar Montanha”), mas pode ser\n"
+"qualquer tipo, subtipo ou supertipo de card, ou uma combinação (como em “Reciclar Terreno Básico”)."
 
 msgid "702.28f Typecycling abilities are cycling abilities, and typecycling costs are cycling costs. Any cards that trigger when a player cycles a card will trigger when a card is discarded to pay an activation cost of a typecycling ability. Any effect that stops players from cycling cards will stop players from activating cards’ typecycling abilities. Any effect that increases or reduces a cycling cost will increase or reduce a typecycling cost. Any effect that looks for a card with cycling will find a card with typecycling."
-msgstr ""
+msgstr "702.28f Habilidades de reciclar-tipo são habilidades de reciclar, assim como custo de reciclar-tipo são custos de\n"
+"reciclar. Qualquer card cuja habilidade é desencadeadas quando um jogador reciclar um card é desencadeada\n"
+"quando um card é descartado para pagar um custo de ativação de uma habilidade reciclar-tipo. Qualquer\n"
+"efeito que impede os jogadores de reciclar cards impedirá os jogadores de ativar as habilidades ativadas de\n"
+"reciclar-tipos destes cards. Qualquer efeito que aumente ou diminua um custo de reciclar aumentará ou\n"
+"diminuirá um custo de reciclar-tipo. Qualquer efeito que procurar por um card com reciclar encontrará um\n"
+"card com reciclar-tipo."
 
 msgid "702.29. Echo"
 msgstr ""
@@ -9002,58 +9015,60 @@ msgid "A creature that has either been declared as part of a legal attack during
 msgstr "Uma criatura que foi declarada como parte de um ataque válido durante a fase de combate (uma vez que todos os custos para o ataque, se for o caso, tenham sido pagos), ou uma criatura que foi colocada no campo de batalha atacando. Ela permanece sendo uma criatura atacante até que seja removida do combate ou a fase de combate termine, o que ocorrer primeiro. Veja a regra 508, “Etapa de Declaração de Atacantes.”"
 
 msgid "Attacking Team"
-msgstr ""
+msgstr "Equipe Atacante"
 
 msgid "The team who can attack during the combat phase of a multiplayer game using the shared team turns option. See rule 805, “Shared Team Turns Option.”"
-msgstr ""
+msgstr "Uma equipe que pode atacar durante a fase de combate num jogo de multijogadores usando a opção de turnos\n"
+"compartilhados pela equipe. Veja a regra 805, “Opção de Turnos Compartilhados pela Equipe.”"
 
 msgid "Attacks and Isn’t Blocked"
-msgstr ""
+msgstr "Ataca e Não é Bloqueado"
 
 msgid "An ability that triggers when a creature “attacks and isn’t blocked” triggers when the creature becomes an unblocked attacking creature. See rule 509.1h."
-msgstr ""
+msgstr "Uma habilidade que desencadeia quando uma criatura “ataca e não é bloqueada” desencadeia quando a criatura torna-se uma criatura atacante não bloqueada. Veja a regra 509.1h."
 
 msgid "Aura"
-msgstr ""
+msgstr "Aura"
 
 msgid "An enchantment subtype. Aura spells target objects or players, and Aura permanents are attached to objects or players. See rule 303, “Enchantments,” and rule 702.5, “Enchant.”"
-msgstr ""
+msgstr "Um subtipo de encantamento. Mágicas de Aura têm como alvo objetos ou jogadores, permanentes de Aura são anexados aos objetos ou jogadores. Veja a regra 303, “Encantamentos,” e a regra 702.5, “Encantar.”"
 
 msgid "Aura Swap"
-msgstr ""
+msgstr "Troca de Aura"
 
 msgid "A keyword ability that lets you exchange an Aura on the battlefield with one in your hand. See rule 702.64, “Aura Swap.”"
-msgstr ""
+msgstr "Uma palavra-chave de habilidade que permite a você permutar uma Aura no campo de batalha com uma da sua mão. Veja a regra 702.64, “Troca de Aura.”"
 
 msgid "Awaken"
-msgstr ""
+msgstr "Despertar (Awaken)"
 
 msgid "A keyword ability that lets you turn a land you control into a creature. See rule 702.112, “Awaken.”"
-msgstr ""
+msgstr "Uma palavra-chave de habilidade que permite que você transforme um terreno que você controla em uma criatura. Veja a regra 702.112, “Despertar.”"
 
 msgid "Banding, “Bands with Other”"
-msgstr ""
+msgstr "Formar Bando, “Bando com outros”"
 
 msgid "Banding is a keyword ability that modifies the rules for declaring attackers and assigning combat damage. “Bands with other” is a specialized version of the ability. See rule 702.21, “Banding.”"
-msgstr ""
+msgstr "Formar Bando é uma palavra-chave de habilidade que modifica as regras para a declaração de atacantes e atribuição do dano de combate. “Bando com outros” é uma versão especializada da habilidade. Veja a regra 702.21, “Formar Bando.”"
 
 msgid "Base Power, Base Toughness"
-msgstr ""
+msgstr "Poder Base, Resistência Base"
 
 msgid "Effects that change the base power and/or base toughness of a creature set one or both of those values to a specific number. See rule 613, “Interaction of Continuous Effects.”"
-msgstr ""
+msgstr "Efeitos que mudam o poder base e/ou resistência base de uma criatura definem um ou ambos os valores para um\n"
+"número específico. Veja a regra 613, “Interação de Efeitos Contínuos.”"
 
 msgid "Basic"
-msgstr ""
+msgstr "Básico"
 
 msgid "A supertype that’s normally relevant on lands. Any land with this supertype is a basic land. See rule 205.4, “Supertypes.”"
-msgstr ""
+msgstr "Um supertipo que normalmente é pertinente aos terrenos. Qualquer terreno com este supertipo é um terreno básico. Veja a regra 205.4, “Supertipos.”"
 
 msgid "Basic Landcycling"
-msgstr ""
+msgstr "Reciclar Terreno Básico"
 
 msgid "See Typecycling."
-msgstr ""
+msgstr "Veja Reciclar Tipo."
 
 msgid "Basic Land Type"
 msgstr ""
@@ -9500,10 +9515,10 @@ msgid "A keyword ability that imposes an increasing cost to keep a permanent on 
 msgstr ""
 
 msgid "Cycling"
-msgstr ""
+msgstr "Reciclar"
 
 msgid "A keyword ability that lets a card be discarded and replaced with a new card. See rule 702.28, “Cycling.”"
-msgstr ""
+msgstr "Uma palavra-chave de habilidade que permite que um card seja descartado e substituído por um novo card. Veja a regra 702.28, “Reciclar.”"
 
 msgid "Damage"
 msgstr ""
@@ -10097,7 +10112,7 @@ msgid "One of the five basic land types. Any land with this subtype has the abil
 msgstr ""
 
 msgid "Forestcycling"
-msgstr ""
+msgstr "Reciclar Floresta"
 
 msgid "Forestwalk"
 msgstr ""
@@ -10400,7 +10415,7 @@ msgid "One of the five basic land types. Any land with this subtype has the abil
 msgstr ""
 
 msgid "Islandcycling"
-msgstr ""
+msgstr "Reciclar Ilha"
 
 msgid "Islandhome (Obsolete)"
 msgstr ""
@@ -10820,7 +10835,7 @@ msgid "One of the five basic land types. Any land with this subtype has the abil
 msgstr ""
 
 msgid "Mountaincycling"
-msgstr ""
+msgstr "Reciclar Montanha"
 
 msgid "Mountainwalk"
 msgstr ""
@@ -11102,7 +11117,7 @@ msgid "One of the five basic land types. Any land with this subtype has the abil
 msgstr ""
 
 msgid "Plainscycling"
-msgstr ""
+msgstr "Reciclar Planície"
 
 msgid "Plainswalk"
 msgstr ""
@@ -11561,7 +11576,7 @@ msgid "A keyword ability that restricts how a creature may be blocked. See rule 
 msgstr ""
 
 msgid "Slivercycling"
-msgstr ""
+msgstr "Reciclar Fractius"
 
 msgid "Snow"
 msgstr ""
@@ -11816,7 +11831,7 @@ msgid "One of the five basic land types. Any land with this subtype has the abil
 msgstr ""
 
 msgid "Swampcycling"
-msgstr ""
+msgstr "Reciclar Pântano"
 
 msgid "Swampwalk"
 msgstr ""
@@ -12059,10 +12074,10 @@ msgid "An effect that changes an object’s card type, subtype, and/or supertype
 msgstr ""
 
 msgid "Typecycling"
-msgstr ""
+msgstr "Reciclar Tipo"
 
 msgid "A variant of the cycling ability. See rule 702.28, “Cycling.”"
-msgstr ""
+msgstr "Uma variante da habilidade de reciclar. Veja a regra 702.28, “Reciclar.”"
 
 msgid "Unattach"
 msgstr ""
