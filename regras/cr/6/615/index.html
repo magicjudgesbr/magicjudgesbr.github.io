@@ -411,6 +411,13 @@
                 <div id="search-results" class="search-results"></div>
             </div>
         
+        <div class="symbol-switch">
+            Mostrar símbolos
+            <label class="switch">
+                <input type="checkbox" checked onchange="jtd.updateSymbols(event)">
+                <span class="slider round"></span>
+            </label>
+        </div>
         
         
     </div>
@@ -419,7 +426,8 @@
             <nav aria-label="Breadcrumb" class="breadcrumb-nav">
                     <ol class="breadcrumb-nav-list">
                         
-                            <li class="breadcrumb-nav-list-item"><a href="/regras/cr/">Regras Abrangentes</a></li>
+                            <li class="breadcrumb-nav-list-item"><a
+                                    href="/regras/cr/">Regras Abrangentes</a></li>
                             <li class="breadcrumb-nav-list-item"><a href="/regras/cr/6/">6. Mágicas, Habilidades, e Efeitos</a>
                             </li>
                         
@@ -548,7 +556,7 @@
             615.11. Some prevention effects prevent the next N damage that would be dealt to each of a number of untargeted creatures. Such an effect creates a prevention shield for each applicable creature when the spell or ability that generates that effect resolves.
         </h3>
             <blockquote>
-            Example: Wojek Apothecary has an ability that says “{T}: Prevent the next 1 damage that would be dealt to target creature and each other creature that shares a color with it this turn.” When the ability resolves, it gives the target creature and each other creature on the battlefield that shares a color with it at that time a shield preventing the next 1 damage that would be dealt to it. Changing creatures’ colors after the ability resolves doesn’t add or remove shields, and creatures that enter the battlefield later in the turn don’t get the shield.
+            Example: Wojek Apothecary has an ability that says “<span class='symbol'><img title={T} src='/symbols/T.png' alt='{T}'/><span>{T}</span></span>: Prevent the next 1 damage that would be dealt to target creature and each other creature that shares a color with it this turn.” When the ability resolves, it gives the target creature and each other creature on the battlefield that shares a color with it at that time a shield preventing the next 1 damage that would be dealt to it. Changing creatures’ colors after the ability resolves doesn’t add or remove shields, and creatures that enter the battlefield later in the turn don’t get the shield.
             </blockquote>
         <h3 id="12">
             <a href="#12" class="anchor-heading" aria-labelledby="12">

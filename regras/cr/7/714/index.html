@@ -411,6 +411,13 @@
                 <div id="search-results" class="search-results"></div>
             </div>
         
+        <div class="symbol-switch">
+            Mostrar símbolos
+            <label class="switch">
+                <input type="checkbox" checked onchange="jtd.updateSymbols(event)">
+                <span class="slider round"></span>
+            </label>
+        </div>
         
         
     </div>
@@ -419,7 +426,8 @@
             <nav aria-label="Breadcrumb" class="breadcrumb-nav">
                     <ol class="breadcrumb-nav-list">
                         
-                            <li class="breadcrumb-nav-list-item"><a href="/regras/cr/">Regras Abrangentes</a></li>
+                            <li class="breadcrumb-nav-list-item"><a
+                                    href="/regras/cr/">Regras Abrangentes</a></li>
                             <li class="breadcrumb-nav-list-item"><a href="/regras/cr/7/">7. Regras Adicionais</a>
                             </li>
                         
@@ -458,7 +466,7 @@
                 </svg>
             </a>
             
-            714.2a A chapter symbol includes a Roman numeral, indicated here as “{rN}.” The numeral I represents 1, II represents 2, III represents 3, and so on.
+            714.2a A chapter symbol includes a Roman numeral, indicated here as “<span class='symbol'><img title={rN} src='/symbols/rN.png' alt='{rN}'/><span>{rN}</span></span>.” The numeral I represents 1, II represents 2, III represents 3, and so on.
         </h4>
         <h4 id="2b">
             <a href="#2b" class="anchor-heading" aria-labelledby="2b">
@@ -467,7 +475,7 @@
                 </svg>
             </a>
             
-            714.2b “{rN}—[Effect]” means “When one or more lore counters are put onto this Saga, if the number of lore counters on it was less than N and became at least N, [effect].”
+            714.2b “<span class='symbol'><img title={rN} src='/symbols/rN.png' alt='{rN}'/><span>{rN}</span></span>—[Effect]” means “When one or more lore counters are put onto this Saga, if the number of lore counters on it was less than N and became at least N, [effect].”
         </h4>
         <h4 id="2c">
             <a href="#2c" class="anchor-heading" aria-labelledby="2c">
@@ -476,7 +484,7 @@
                 </svg>
             </a>
             
-            714.2c “{rN1}, {rN2}—[Effect]” means the same as “{rN1}—[Effect]” and “{rN2}—[Effect].”
+            714.2c “<span class='symbol'><img title={rN1} src='/symbols/rN1.png' alt='{rN1}'/><span>{rN1}</span></span>, <span class='symbol'><img title={rN2} src='/symbols/rN2.png' alt='{rN2}'/><span>{rN2}</span></span>—[Effect]” means the same as “<span class='symbol'><img title={rN1} src='/symbols/rN1.png' alt='{rN1}'/><span>{rN1}</span></span>—[Effect]” and “<span class='symbol'><img title={rN2} src='/symbols/rN2.png' alt='{rN2}'/><span>{rN2}</span></span>—[Effect].”
         </h4>
         <h4 id="2d">
             <a href="#2d" class="anchor-heading" aria-labelledby="2d">

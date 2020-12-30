@@ -411,6 +411,13 @@
                 <div id="search-results" class="search-results"></div>
             </div>
         
+        <div class="symbol-switch">
+            Mostrar símbolos
+            <label class="switch">
+                <input type="checkbox" checked onchange="jtd.updateSymbols(event)">
+                <span class="slider round"></span>
+            </label>
+        </div>
         
         
     </div>
@@ -419,7 +426,8 @@
             <nav aria-label="Breadcrumb" class="breadcrumb-nav">
                     <ol class="breadcrumb-nav-list">
                         
-                            <li class="breadcrumb-nav-list-item"><a href="/regras/cr/">Regras Abrangentes</a></li>
+                            <li class="breadcrumb-nav-list-item"><a
+                                    href="/regras/cr/">Regras Abrangentes</a></li>
                             <li class="breadcrumb-nav-list-item"><a href="/regras/cr/9/">9. Variantes Casuais</a>
                             </li>
                         
@@ -467,7 +475,7 @@
                 </svg>
             </a>
             
-            901.3a A planar die is a six-sided die. One face has the Planeswalker symbol {PW}. One face has the chaos symbol {CHAOS}. The other faces are blank.
+            901.3a A planar die is a six-sided die. One face has the Planeswalker symbol <span class='symbol'><img title={PW} src='/symbols/PW.png' alt='{PW}'/><span>{PW}</span></span>. One face has the chaos symbol <span class='symbol'><img title={CHAOS} src='/symbols/CHAOS.png' alt='{CHAOS}'/><span>{CHAOS}</span></span>. The other faces are blank.
         </h4>
         <h3 id="4">
             <a href="#4" class="anchor-heading" aria-labelledby="4">
@@ -521,7 +529,7 @@
                 </svg>
             </a>
             
-            901.8. Planechase games have an inherent triggered ability known as the “planeswalking ability.” The full text of this ability is “Whenever you roll {PW}, planeswalk.” (See rule <a href='/regras/cr/7/701/#24'>701.24, “Planeswalk.”</a>) This ability has no source and is controlled by the player whose planar die roll caused it to trigger. This is an exception to rule <a href='/regras/cr/1/113/#8'>113.8</a>.
+            901.8. Planechase games have an inherent triggered ability known as the “planeswalking ability.” The full text of this ability is “Whenever you roll <span class='symbol'><img title={PW} src='/symbols/PW.png' alt='{PW}'/><span>{PW}</span></span>, planeswalk.” (See rule <a href='/regras/cr/7/701/#24'>701.24, “Planeswalk.”</a>) This ability has no source and is controlled by the player whose planar die roll caused it to trigger. This is an exception to rule <a href='/regras/cr/1/113/#8'>113.8</a>.
         </h3>
         <h3 id="9">
             <a href="#9" class="anchor-heading" aria-labelledby="9">
@@ -548,7 +556,7 @@
                 </svg>
             </a>
             
-            901.9b If the die roll is the chaos symbol {CHAOS}, any ability of a face-up plane that starts “When you roll {CHAOS}” triggers and is put on the stack. The active player gets priority.
+            901.9b If the die roll is the chaos symbol <span class='symbol'><img title={CHAOS} src='/symbols/CHAOS.png' alt='{CHAOS}'/><span>{CHAOS}</span></span>, any ability of a face-up plane that starts “When you roll <span class='symbol'><img title={CHAOS} src='/symbols/CHAOS.png' alt='{CHAOS}'/><span>{CHAOS}</span></span>” triggers and is put on the stack. The active player gets priority.
         </h4>
         <h4 id="9c">
             <a href="#9c" class="anchor-heading" aria-labelledby="9c">
@@ -557,7 +565,7 @@
                 </svg>
             </a>
             
-            901.9c If the die roll is the Planeswalker symbol {PW}, the “planeswalking ability” triggers and is put on the stack. The active player gets priority. (See rule <a href='/regras/cr/9/901/#8'>901.8</a>.)
+            901.9c If the die roll is the Planeswalker symbol <span class='symbol'><img title={PW} src='/symbols/PW.png' alt='{PW}'/><span>{PW}</span></span>, the “planeswalking ability” triggers and is put on the stack. The active player gets priority. (See rule <a href='/regras/cr/9/901/#8'>901.8</a>.)
         </h4>
         <h3 id="10">
             <a href="#10" class="anchor-heading" aria-labelledby="10">

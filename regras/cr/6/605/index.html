@@ -411,6 +411,13 @@
                 <div id="search-results" class="search-results"></div>
             </div>
         
+        <div class="symbol-switch">
+            Mostrar símbolos
+            <label class="switch">
+                <input type="checkbox" checked onchange="jtd.updateSymbols(event)">
+                <span class="slider round"></span>
+            </label>
+        </div>
         
         
     </div>
@@ -419,7 +426,8 @@
             <nav aria-label="Breadcrumb" class="breadcrumb-nav">
                     <ol class="breadcrumb-nav-list">
                         
-                            <li class="breadcrumb-nav-list-item"><a href="/regras/cr/">Regras Abrangentes</a></li>
+                            <li class="breadcrumb-nav-list-item"><a
+                                    href="/regras/cr/">Regras Abrangentes</a></li>
                             <li class="breadcrumb-nav-list-item"><a href="/regras/cr/6/">6. Mágicas, Habilidades, e Efeitos</a>
                             </li>
                         
@@ -470,7 +478,7 @@
             605.2. A mana ability remains a mana ability even if the game state doesn’t allow it to produce mana.
         </h3>
             <blockquote>
-            Example: A permanent has an ability that reads “{T}: Add {G} for each creature you control.” The ability is still a mana ability even if you control no creatures or if the permanent is already tapped.
+            Example: A permanent has an ability that reads “<span class='symbol'><img title={T} src='/symbols/T.png' alt='{T}'/><span>{T}</span></span>: Add <span class='symbol'><img title={G} src='/symbols/G.png' alt='{G}'/><span>{G}</span></span> for each creature you control.” The ability is still a mana ability even if you control no creatures or if the permanent is already tapped.
             </blockquote>
         <h3 id="3">
             <a href="#3" class="anchor-heading" aria-labelledby="3">

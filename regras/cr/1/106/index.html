@@ -411,6 +411,13 @@
                 <div id="search-results" class="search-results"></div>
             </div>
         
+        <div class="symbol-switch">
+            Mostrar símbolos
+            <label class="switch">
+                <input type="checkbox" checked onchange="jtd.updateSymbols(event)">
+                <span class="slider round"></span>
+            </label>
+        </div>
         
         
     </div>
@@ -419,7 +426,8 @@
             <nav aria-label="Breadcrumb" class="breadcrumb-nav">
                     <ol class="breadcrumb-nav-list">
                         
-                            <li class="breadcrumb-nav-list-item"><a href="/regras/cr/">Regras Abrangentes</a></li>
+                            <li class="breadcrumb-nav-list-item"><a
+                                    href="/regras/cr/">Regras Abrangentes</a></li>
                             <li class="breadcrumb-nav-list-item"><a href="/regras/cr/1/">1. Conceitos do Jogo</a>
                             </li>
                         
@@ -515,7 +523,7 @@
             106.5. If an ability would produce one or more mana of an undefined type, it produces no mana instead.
         </h3>
             <blockquote>
-            Example: Meteor Crater has the ability “{T}: Choose a color of a permanent you control. Add one mana of that color.” If you control no colored permanents, activating Meteor Crater’s mana ability produces no mana.
+            Example: Meteor Crater has the ability “<span class='symbol'><img title={T} src='/symbols/T.png' alt='{T}'/><span>{T}</span></span>: Choose a color of a permanent you control. Add one mana of that color.” If you control no colored permanents, activating Meteor Crater’s mana ability produces no mana.
             </blockquote>
         <h3 id="6">
             <a href="#6" class="anchor-heading" aria-labelledby="6">
@@ -527,7 +535,7 @@
             106.6. Some spells or abilities that produce mana restrict how that mana can be spent, have an additional effect that affects the spell or ability that mana is spent on, or create a delayed triggered ability (see rule <a href='/regras/cr/6/603/#7a'>603.7a</a>) that triggers when that mana is spent. This doesn’t affect the mana’s type.
         </h3>
             <blockquote>
-            Example: A player’s mana pool contains {R}{G} which can be spent only to cast creature spells. That player activates Doubling Cube’s ability, which reads “{3}, {T}: Double the amount of each type of unspent mana you have.” The player’s mana pool now has {R}{R}{G}{G} in it, {R}{G} of which can be spent on anything.
+            Example: A player’s mana pool contains <span class='symbol'><img title={R} src='/symbols/R.png' alt='{R}'/><span>{R}</span></span><span class='symbol'><img title={G} src='/symbols/G.png' alt='{G}'/><span>{G}</span></span> which can be spent only to cast creature spells. That player activates Doubling Cube’s ability, which reads “<span class='symbol'><img title={3} src='/symbols/3.png' alt='{3}'/><span>{3}</span></span>, <span class='symbol'><img title={T} src='/symbols/T.png' alt='{T}'/><span>{T}</span></span>: Double the amount of each type of unspent mana you have.” The player’s mana pool now has <span class='symbol'><img title={R} src='/symbols/R.png' alt='{R}'/><span>{R}</span></span><span class='symbol'><img title={R} src='/symbols/R.png' alt='{R}'/><span>{R}</span></span><span class='symbol'><img title={G} src='/symbols/G.png' alt='{G}'/><span>{G}</span></span><span class='symbol'><img title={G} src='/symbols/G.png' alt='{G}'/><span>{G}</span></span> in it, <span class='symbol'><img title={R} src='/symbols/R.png' alt='{R}'/><span>{R}</span></span><span class='symbol'><img title={G} src='/symbols/G.png' alt='{G}'/><span>{G}</span></span> of which can be spent on anything.
             </blockquote>
         <h4 id="6a">
             <a href="#6a" class="anchor-heading" aria-labelledby="6a">
@@ -548,7 +556,7 @@
             106.7. Some abilities produce mana based on the type of mana another permanent or permanents “could produce.” The type of mana a permanent could produce at any time includes any type of mana that an ability of that permanent would produce if the ability were to resolve at that time, taking into account any applicable replacement effects in any possible order. Ignore whether any costs of the ability could or could not be paid. If that permanent wouldn’t produce any mana under these conditions, or no type of mana can be defined this way, there’s no type of mana it could produce.
         </h3>
             <blockquote>
-            Example: Exotic Orchard has the ability “{T}: Add one mana of any color that a land an opponent controls could produce.” If your opponent controls no lands, activating Exotic Orchard’s mana ability will produce no mana. The same is true if you and your opponent each control no lands other than Exotic Orchards. However, if you control a Forest and an Exotic Orchard, and your opponent controls an Exotic Orchard, then each Exotic Orchard could produce {G}.
+            Example: Exotic Orchard has the ability “<span class='symbol'><img title={T} src='/symbols/T.png' alt='{T}'/><span>{T}</span></span>: Add one mana of any color that a land an opponent controls could produce.” If your opponent controls no lands, activating Exotic Orchard’s mana ability will produce no mana. The same is true if you and your opponent each control no lands other than Exotic Orchards. However, if you control a Forest and an Exotic Orchard, and your opponent controls an Exotic Orchard, then each Exotic Orchard could produce <span class='symbol'><img title={G} src='/symbols/G.png' alt='{G}'/><span>{G}</span></span>.
             </blockquote>
         <h3 id="8">
             <a href="#8" class="anchor-heading" aria-labelledby="8">
@@ -593,7 +601,7 @@
                 </svg>
             </a>
             
-            106.12. To “tap [a permanent] for mana” is to activate a mana ability of that permanent that includes the {T} symbol in its activation cost. See rule <a href='/regras/cr/6/605'>605, “Mana Abilities.”</a>
+            106.12. To “tap [a permanent] for mana” is to activate a mana ability of that permanent that includes the <span class='symbol'><img title={T} src='/symbols/T.png' alt='{T}'/><span>{T}</span></span> symbol in its activation cost. See rule <a href='/regras/cr/6/605'>605, “Mana Abilities.”</a>
         </h3>
         <h4 id="12a">
             <a href="#12a" class="anchor-heading" aria-labelledby="12a">

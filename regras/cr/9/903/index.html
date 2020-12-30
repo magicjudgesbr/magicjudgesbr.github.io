@@ -411,6 +411,13 @@
                 <div id="search-results" class="search-results"></div>
             </div>
         
+        <div class="symbol-switch">
+            Mostrar símbolos
+            <label class="switch">
+                <input type="checkbox" checked onchange="jtd.updateSymbols(event)">
+                <span class="slider round"></span>
+            </label>
+        </div>
         
         
     </div>
@@ -419,7 +426,8 @@
             <nav aria-label="Breadcrumb" class="breadcrumb-nav">
                     <ol class="breadcrumb-nav-list">
                         
-                            <li class="breadcrumb-nav-list-item"><a href="/regras/cr/">Regras Abrangentes</a></li>
+                            <li class="breadcrumb-nav-list-item"><a
+                                    href="/regras/cr/">Regras Abrangentes</a></li>
                             <li class="breadcrumb-nav-list-item"><a href="/regras/cr/9/">9. Variantes Casuais</a>
                             </li>
                         
@@ -509,7 +517,7 @@
             903.4. The Commander variant uses color identity to determine what cards can be in a deck with a certain commander. The color identity of a card is the color or colors of any mana symbols in that card’s mana cost or rules text, plus any colors defined by its characteristic-defining abilities (see rule <a href='/regras/cr/6/604/#3'>604.3</a>) or color indicator (see rule <a href='/regras/cr/2/204'>204</a>).
         </h3>
             <blockquote>
-            Example: Bosh, Iron Golem is a legendary artifact creature with mana cost {8} and the ability “{3}{R}, Sacrifice an artifact: Bosh, Iron Golem deals damage equal to the sacrificed artifact’s converted mana cost to any target.” Bosh’s color identity is red.
+            Example: Bosh, Iron Golem is a legendary artifact creature with mana cost <span class='symbol'><img title={8} src='/symbols/8.png' alt='{8}'/><span>{8}</span></span> and the ability “<span class='symbol'><img title={3} src='/symbols/3.png' alt='{3}'/><span>{3}</span></span><span class='symbol'><img title={R} src='/symbols/R.png' alt='{R}'/><span>{R}</span></span>, Sacrifice an artifact: Bosh, Iron Golem deals damage equal to the sacrificed artifact’s converted mana cost to any target.” Bosh’s color identity is red.
             </blockquote>
         <h4 id="4a">
             <a href="#4a" class="anchor-heading" aria-labelledby="4a">
@@ -548,7 +556,7 @@
             903.4d The back face of a double-faced card (see rule <a href='/regras/cr/7/711'>711</a>) is included when determining a card’s color identity. This is an exception to rule <a href='/regras/cr/7/711/#4a'>711.4a</a>.
         </h4>
             <blockquote>
-            Example: Civilized Scholar is the front face of a double-faced card with mana cost {2}{U}. Homicidal Brute is the back face of that double-faced card and has a red color indicator. The card’s color identity is blue and red.
+            Example: Civilized Scholar is the front face of a double-faced card with mana cost <span class='symbol'><img title={2} src='/symbols/2.png' alt='{2}'/><span>{2}</span></span><span class='symbol'><img title={U} src='/symbols/U.png' alt='{U}'/><span>{U}</span></span>. Homicidal Brute is the back face of that double-faced card and has a red color indicator. The card’s color identity is blue and red.
             </blockquote>
         <h4 id="4e">
             <a href="#4e" class="anchor-heading" aria-labelledby="4e">
@@ -596,7 +604,7 @@
             903.5c A card can be included in a Commander deck only if every color in its color identity is also found in the color identity of the deck’s commander.
         </h4>
             <blockquote>
-            Example: Wort, the Raidmother is a legendary creature with mana cost {4}{R/G}{R/G}. Wort’s color identity is red and green. Each card in a Wort Commander deck must be only red, only green, both red and green, or have no color. Each mana symbol in the mana cost or rules text of a card in this deck must be only red, only green, both red and green, or have no color.
+            Example: Wort, the Raidmother is a legendary creature with mana cost <span class='symbol'><img title={4} src='/symbols/4.png' alt='{4}'/><span>{4}</span></span><span class='symbol'><img title={R/G} src='/symbols/RG.png' alt='{R/G}'/><span>{R/G}</span></span><span class='symbol'><img title={R/G} src='/symbols/RG.png' alt='{R/G}'/><span>{R/G}</span></span>. Wort’s color identity is red and green. Each card in a Wort Commander deck must be only red, only green, both red and green, or have no color. Each mana symbol in the mana cost or rules text of a card in this deck must be only red, only green, both red and green, or have no color.
             </blockquote>
         <h4 id="5d">
             <a href="#5d" class="anchor-heading" aria-labelledby="5d">
@@ -635,7 +643,7 @@
                 </svg>
             </a>
             
-            903.8. A player may cast a commander they own from the command zone. A commander cast from the command zone costs an additional {2} for each previous time the player casting it has cast it from the command zone that game. This additional cost is informally known as the “commander tax.”
+            903.8. A player may cast a commander they own from the command zone. A commander cast from the command zone costs an additional <span class='symbol'><img title={2} src='/symbols/2.png' alt='{2}'/><span>{2}</span></span> for each previous time the player casting it has cast it from the command zone that game. This additional cost is informally known as the “commander tax.”
         </h3>
         <h3 id="9">
             <a href="#9" class="anchor-heading" aria-labelledby="9">

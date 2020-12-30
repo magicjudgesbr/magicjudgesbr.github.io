@@ -411,6 +411,13 @@
                 <div id="search-results" class="search-results"></div>
             </div>
         
+        <div class="symbol-switch">
+            Mostrar símbolos
+            <label class="switch">
+                <input type="checkbox" checked onchange="jtd.updateSymbols(event)">
+                <span class="slider round"></span>
+            </label>
+        </div>
         
         
     </div>
@@ -419,7 +426,8 @@
             <nav aria-label="Breadcrumb" class="breadcrumb-nav">
                     <ol class="breadcrumb-nav-list">
                         
-                            <li class="breadcrumb-nav-list-item"><a href="/regras/cr/">Regras Abrangentes</a></li>
+                            <li class="breadcrumb-nav-list-item"><a
+                                    href="/regras/cr/">Regras Abrangentes</a></li>
                             <li class="breadcrumb-nav-list-item"><a href="/regras/cr/1/">1. Conceitos do Jogo</a>
                             </li>
                         
@@ -488,7 +496,7 @@
             118.3c Activating mana abilities is not mandatory, even if paying a cost is.
         </h4>
             <blockquote>
-            Example: A player controls Lodestone Golem, which says “Nonartifact spells cost {1} more to cast.” Another player removes the last time counter from a suspended sorcery card. That player must cast that spell if able, but doing so costs {1}. The player is forced to pay that cost if enough mana is in their mana pool, but the player isn’t forced to activate a mana ability to produce that mana. If they don’t, the card simply remains exiled.
+            Example: A player controls Lodestone Golem, which says “Nonartifact spells cost <span class='symbol'><img title={1} src='/symbols/1.png' alt='{1}'/><span>{1}</span></span> more to cast.” Another player removes the last time counter from a suspended sorcery card. That player must cast that spell if able, but doing so costs <span class='symbol'><img title={1} src='/symbols/1.png' alt='{1}'/><span>{1}</span></span>. The player is forced to pay that cost if enough mana is in their mana pool, but the player isn’t forced to activate a mana ability to produce that mana. If they don’t, the card simply remains exiled.
             </blockquote>
         <h3 id="4">
             <a href="#4" class="anchor-heading" aria-labelledby="4">
@@ -497,7 +505,7 @@
                 </svg>
             </a>
             
-            118.4. Some costs include an {X} or an X. See rule <a href='/regras/cr/1/107/#3'>107.3</a>.
+            118.4. Some costs include an <span class='symbol'><img title={X} src='/symbols/X.png' alt='{X}'/><span>{X}</span></span> or an X. See rule <a href='/regras/cr/1/107/#3'>107.3</a>.
         </h3>
         <h3 id="5">
             <a href="#5" class="anchor-heading" aria-labelledby="5">
@@ -506,7 +514,7 @@
                 </svg>
             </a>
             
-            118.5. Some costs are represented by {0}, or are reduced to {0}. The action necessary for a player to pay such a cost is the player’s acknowledgment that they are paying it. Even though such a cost requires no resources, it’s not automatically paid.
+            118.5. Some costs are represented by <span class='symbol'><img title={0} src='/symbols/0.png' alt='{0}'/><span>{0}</span></span>, or are reduced to <span class='symbol'><img title={0} src='/symbols/0.png' alt='{0}'/><span>{0}</span></span>. The action necessary for a player to pay such a cost is the player’s acknowledgment that they are paying it. Even though such a cost requires no resources, it’s not automatically paid.
         </h3>
         <h4 id="5a">
             <a href="#5a" class="anchor-heading" aria-labelledby="5a">
@@ -515,7 +523,7 @@
                 </svg>
             </a>
             
-            118.5a A spell whose mana cost is {0} must still be cast the same way as one with a cost greater than zero; it won’t cast itself automatically. The same is true for an activated ability whose cost is {0}.
+            118.5a A spell whose mana cost is <span class='symbol'><img title={0} src='/symbols/0.png' alt='{0}'/><span>{0}</span></span> must still be cast the same way as one with a cost greater than zero; it won’t cast itself automatically. The same is true for an activated ability whose cost is <span class='symbol'><img title={0} src='/symbols/0.png' alt='{0}'/><span>{0}</span></span>.
         </h4>
         <h3 id="6">
             <a href="#6" class="anchor-heading" aria-labelledby="6">
@@ -542,7 +550,7 @@
                 </svg>
             </a>
             
-            118.7. What a player actually needs to do to pay a cost may be changed or reduced by effects. If the mana component of a cost is reduced to nothing by cost reduction effects, it’s considered to be {0}. Paying a cost changed or reduced by an effect counts as paying the original cost.
+            118.7. What a player actually needs to do to pay a cost may be changed or reduced by effects. If the mana component of a cost is reduced to nothing by cost reduction effects, it’s considered to be <span class='symbol'><img title={0} src='/symbols/0.png' alt='{0}'/><span>{0}</span></span>. Paying a cost changed or reduced by an effect counts as paying the original cost.
         </h3>
         <h4 id="7a">
             <a href="#7a" class="anchor-heading" aria-labelledby="7a">

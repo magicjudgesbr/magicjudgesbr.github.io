@@ -411,6 +411,13 @@
                 <div id="search-results" class="search-results"></div>
             </div>
         
+        <div class="symbol-switch">
+            Mostrar símbolos
+            <label class="switch">
+                <input type="checkbox" checked onchange="jtd.updateSymbols(event)">
+                <span class="slider round"></span>
+            </label>
+        </div>
         
         
     </div>
@@ -419,7 +426,8 @@
             <nav aria-label="Breadcrumb" class="breadcrumb-nav">
                     <ol class="breadcrumb-nav-list">
                         
-                            <li class="breadcrumb-nav-list-item"><a href="/regras/cr/">Regras Abrangentes</a></li>
+                            <li class="breadcrumb-nav-list-item"><a
+                                    href="/regras/cr/">Regras Abrangentes</a></li>
                             <li class="breadcrumb-nav-list-item"><a href="/regras/cr/6/">6. Mágicas, Habilidades, e Efeitos</a>
                             </li>
                         
@@ -614,7 +622,7 @@
             607.4. An ability may be part of more than one pair of linked abilities.
         </h3>
             <blockquote>
-            Example: Paradise Plume has the following three abilities: “As Paradise Plume enters the battlefield, choose a color,” “Whenever a player casts a spell of the chosen color, you may gain 1 life,” and “{T}: Add one mana of the chosen color.” The first and second abilities are linked. The first and third abilities are linked.
+            Example: Paradise Plume has the following three abilities: “As Paradise Plume enters the battlefield, choose a color,” “Whenever a player casts a spell of the chosen color, you may gain 1 life,” and “<span class='symbol'><img title={T} src='/symbols/T.png' alt='{T}'/><span>{T}</span></span>: Add one mana of the chosen color.” The first and second abilities are linked. The first and third abilities are linked.
             </blockquote>
         <h3 id="5">
             <a href="#5" class="anchor-heading" aria-labelledby="5">
@@ -626,7 +634,7 @@
             607.5. If an object acquires a pair of linked abilities as part of the same effect, the abilities will be similarly linked to one another on that object even though they weren’t printed on that object. They can’t be linked to any other ability, regardless of what other abilities the object may currently have or may have had in the past.
         </h3>
             <blockquote>
-            Example: Arc-Slogger has the ability “{R}, Exile the top ten cards of your library: Arc-Slogger deals 2 damage to any target.” Sisters of Stone Death has the ability “{B}{G}: Exile target creature blocking or blocked by Sisters of Stone Death” and the ability “{2}{B}: Put a creature card exiled with Sisters of Stone Death onto the battlefield under your control.” Quicksilver Elemental has the ability “{U}: Quicksilver Elemental gains all activated abilities of target creature until end of turn.” If a player has Quicksilver Elemental gain Arc-Slogger’s ability, activates it, then has Quicksilver Elemental gain Sisters of Stone Death’s abilities, activates the exile ability, and then activates the return-to-the-battlefield ability, only the creature card Quicksilver Elemental exiled with Sisters of Stone Death’s ability can be returned to the battlefield. Creature cards Quicksilver Elemental exiled with Arc-Slogger’s ability can’t be returned.
+            Example: Arc-Slogger has the ability “<span class='symbol'><img title={R} src='/symbols/R.png' alt='{R}'/><span>{R}</span></span>, Exile the top ten cards of your library: Arc-Slogger deals 2 damage to any target.” Sisters of Stone Death has the ability “<span class='symbol'><img title={B} src='/symbols/B.png' alt='{B}'/><span>{B}</span></span><span class='symbol'><img title={G} src='/symbols/G.png' alt='{G}'/><span>{G}</span></span>: Exile target creature blocking or blocked by Sisters of Stone Death” and the ability “<span class='symbol'><img title={2} src='/symbols/2.png' alt='{2}'/><span>{2}</span></span><span class='symbol'><img title={B} src='/symbols/B.png' alt='{B}'/><span>{B}</span></span>: Put a creature card exiled with Sisters of Stone Death onto the battlefield under your control.” Quicksilver Elemental has the ability “<span class='symbol'><img title={U} src='/symbols/U.png' alt='{U}'/><span>{U}</span></span>: Quicksilver Elemental gains all activated abilities of target creature until end of turn.” If a player has Quicksilver Elemental gain Arc-Slogger’s ability, activates it, then has Quicksilver Elemental gain Sisters of Stone Death’s abilities, activates the exile ability, and then activates the return-to-the-battlefield ability, only the creature card Quicksilver Elemental exiled with Sisters of Stone Death’s ability can be returned to the battlefield. Creature cards Quicksilver Elemental exiled with Arc-Slogger’s ability can’t be returned.
             </blockquote>
         <h4 id="5a">
             <a href="#5a" class="anchor-heading" aria-labelledby="5a">
@@ -641,7 +649,7 @@
             Example: Voice of All enters the battlefield and Unstable Shapeshifter copies it. Voice of All reads, in part, “As Voice of All enters the battlefield, choose a color.” and “Voice of All has protection from the chosen color.” Unstable Shapeshifter never had a chance for a color to be chosen for it, because it didn’t enter the battlefield as Voice of All so it doesn’t gain a protection ability.
             </blockquote>
             <blockquote>
-            Example: A Vesuvan Doppelganger enters the battlefield as a copy of Voice of All, and the Doppelganger’s controller chooses blue. Later, the Doppelganger copies Quirion Elves, which has the ability, “{T}: Add one mana of the chosen color.” Even though a color was chosen for the Doppelganger, it wasn’t chosen for the ability linked to the mana ability copied from the Elves. If that mana ability of the Doppelganger is activated, it will not produce mana.
+            Example: A Vesuvan Doppelganger enters the battlefield as a copy of Voice of All, and the Doppelganger’s controller chooses blue. Later, the Doppelganger copies Quirion Elves, which has the ability, “<span class='symbol'><img title={T} src='/symbols/T.png' alt='{T}'/><span>{T}</span></span>: Add one mana of the chosen color.” Even though a color was chosen for the Doppelganger, it wasn’t chosen for the ability linked to the mana ability copied from the Elves. If that mana ability of the Doppelganger is activated, it will not produce mana.
             </blockquote>
 
             

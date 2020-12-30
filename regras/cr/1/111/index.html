@@ -411,6 +411,13 @@
                 <div id="search-results" class="search-results"></div>
             </div>
         
+        <div class="symbol-switch">
+            Mostrar símbolos
+            <label class="switch">
+                <input type="checkbox" checked onchange="jtd.updateSymbols(event)">
+                <span class="slider round"></span>
+            </label>
+        </div>
         
         
     </div>
@@ -419,7 +426,8 @@
             <nav aria-label="Breadcrumb" class="breadcrumb-nav">
                     <ol class="breadcrumb-nav-list">
                         
-                            <li class="breadcrumb-nav-list-item"><a href="/regras/cr/">Regras Abrangentes</a></li>
+                            <li class="breadcrumb-nav-list-item"><a
+                                    href="/regras/cr/">Regras Abrangentes</a></li>
                             <li class="breadcrumb-nav-list-item"><a href="/regras/cr/1/">1. Conceitos do Jogo</a>
                             </li>
                         
@@ -461,7 +469,7 @@
             111.3. The spell or ability that creates a token may define the values of any number of characteristics for the token. This becomes the token’s “text.” The characteristic values defined this way are functionally equivalent to the characteristic values that are printed on a card; for example, they define the token’s copiable values. A token doesn’t have any characteristics not defined by the spell or ability that created it.
         </h3>
             <blockquote>
-            Example: Jade Mage has the ability “{2}{G}: Create a 1/1 green Saproling creature token.” The resulting token has no mana cost, supertypes, rules text, or abilities.
+            Example: Jade Mage has the ability “<span class='symbol'><img title={2} src='/symbols/2.png' alt='{2}'/><span>{2}</span></span><span class='symbol'><img title={G} src='/symbols/G.png' alt='{G}'/><span>{G}</span></span>: Create a 1/1 green Saproling creature token.” The resulting token has no mana cost, supertypes, rules text, or abilities.
             </blockquote>
         <h3 id="4">
             <a href="#4" class="anchor-heading" aria-labelledby="4">
@@ -533,7 +541,7 @@
                 </svg>
             </a>
             
-            111.10a A Treasure token is a colorless Treasure artifact token with “{T}, Sacrifice this artifact: Add one mana of any color.”
+            111.10a A Treasure token is a colorless Treasure artifact token with “<span class='symbol'><img title={T} src='/symbols/T.png' alt='{T}'/><span>{T}</span></span>, Sacrifice this artifact: Add one mana of any color.”
         </h4>
         <h4 id="10b">
             <a href="#10b" class="anchor-heading" aria-labelledby="10b">
@@ -542,7 +550,7 @@
                 </svg>
             </a>
             
-            111.10b A Food token is a colorless Food artifact token with “{2}, {T}, Sacrifice this artifact: You gain 3 life.”
+            111.10b A Food token is a colorless Food artifact token with “<span class='symbol'><img title={2} src='/symbols/2.png' alt='{2}'/><span>{2}</span></span>, <span class='symbol'><img title={T} src='/symbols/T.png' alt='{T}'/><span>{T}</span></span>, Sacrifice this artifact: You gain 3 life.”
         </h4>
         <h4 id="10c">
             <a href="#10c" class="anchor-heading" aria-labelledby="10c">

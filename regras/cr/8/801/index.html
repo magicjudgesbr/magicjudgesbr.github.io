@@ -411,6 +411,13 @@
                 <div id="search-results" class="search-results"></div>
             </div>
         
+        <div class="symbol-switch">
+            Mostrar símbolos
+            <label class="switch">
+                <input type="checkbox" checked onchange="jtd.updateSymbols(event)">
+                <span class="slider round"></span>
+            </label>
+        </div>
         
         
     </div>
@@ -419,7 +426,8 @@
             <nav aria-label="Breadcrumb" class="breadcrumb-nav">
                     <ol class="breadcrumb-nav-list">
                         
-                            <li class="breadcrumb-nav-list-item"><a href="/regras/cr/">Regras Abrangentes</a></li>
+                            <li class="breadcrumb-nav-list-item"><a
+                                    href="/regras/cr/">Regras Abrangentes</a></li>
                             <li class="breadcrumb-nav-list-item"><a href="/regras/cr/8/">8. Regras Multijogador</a>
                             </li>
                         
@@ -533,7 +541,7 @@
             801.5a If a player is asked to choose an object or player, they must choose one within their range of influence.
         </h4>
             <blockquote>
-            Example: In a game with a range of influence of 1, Alex is seated to the left of Rob. Alex activates the ability of Cuombajj Witches, which reads, “{T}: Cuombajj Witches deals 1 damage to any target and 1 damage to any target of an opponent’s choice,” targeting Rob and choosing Rob as the opponent who picks the other target. Rob must choose a target that’s in both his range of influence and in the range of influence of the controller of Cuombajj Witches. He must therefore choose himself, Alex, or a creature controlled by either himself or Alex.
+            Example: In a game with a range of influence of 1, Alex is seated to the left of Rob. Alex activates the ability of Cuombajj Witches, which reads, “<span class='symbol'><img title={T} src='/symbols/T.png' alt='{T}'/><span>{T}</span></span>: Cuombajj Witches deals 1 damage to any target and 1 damage to any target of an opponent’s choice,” targeting Rob and choosing Rob as the opponent who picks the other target. Rob must choose a target that’s in both his range of influence and in the range of influence of the controller of Cuombajj Witches. He must therefore choose himself, Alex, or a creature controlled by either himself or Alex.
             </blockquote>
         <h4 id="5b">
             <a href="#5b" class="anchor-heading" aria-labelledby="5b">

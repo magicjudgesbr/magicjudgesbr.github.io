@@ -411,6 +411,13 @@
                 <div id="search-results" class="search-results"></div>
             </div>
         
+        <div class="symbol-switch">
+            Mostrar símbolos
+            <label class="switch">
+                <input type="checkbox" checked onchange="jtd.updateSymbols(event)">
+                <span class="slider round"></span>
+            </label>
+        </div>
         
         
     </div>
@@ -419,7 +426,8 @@
             <nav aria-label="Breadcrumb" class="breadcrumb-nav">
                     <ol class="breadcrumb-nav-list">
                         
-                            <li class="breadcrumb-nav-list-item"><a href="/regras/cr/">Regras Abrangentes</a></li>
+                            <li class="breadcrumb-nav-list-item"><a
+                                    href="/regras/cr/">Regras Abrangentes</a></li>
                             <li class="breadcrumb-nav-list-item"><a href="/regras/cr/1/">1. Conceitos do Jogo</a>
                             </li>
                         
@@ -464,10 +472,10 @@
             Example: If a 3/4 creature gets -5/-0, it’s a -2/4 creature. It doesn’t assign damage in combat. Its total power and toughness is 2. Giving it +3/+0 would raise its power to 1.
             </blockquote>
             <blockquote>
-            Example: Viridian Joiner is a 1/2 creature with the ability “{T}: Add an amount of {G} equal to Viridian Joiner’s power.” An effect gives it -2/-0, then its ability is activated. The ability adds no mana to your mana pool.
+            Example: Viridian Joiner is a 1/2 creature with the ability “<span class='symbol'><img title={T} src='/symbols/T.png' alt='{T}'/><span>{T}</span></span>: Add an amount of <span class='symbol'><img title={G} src='/symbols/G.png' alt='{G}'/><span>{G}</span></span> equal to Viridian Joiner’s power.” An effect gives it -2/-0, then its ability is activated. The ability adds no mana to your mana pool.
             </blockquote>
             <blockquote>
-            Example: Chameleon Colossus is a 4/4 creature with the ability “{2}{G}{G}: Chameleon Colossus gets +X/+X until end of turn, where X is its power.” An effect gives it -6/-0, then its ability is activated. It remains a -2/4 creature. It doesn’t become -4/2.
+            Example: Chameleon Colossus is a 4/4 creature with the ability “<span class='symbol'><img title={2} src='/symbols/2.png' alt='{2}'/><span>{2}</span></span><span class='symbol'><img title={G} src='/symbols/G.png' alt='{G}'/><span>{G}</span></span><span class='symbol'><img title={G} src='/symbols/G.png' alt='{G}'/><span>{G}</span></span>: Chameleon Colossus gets +X/+X until end of turn, where X is its power.” An effect gives it -6/-0, then its ability is activated. It remains a -2/4 creature. It doesn’t become -4/2.
             </blockquote>
         <h4 id="1c">
             <a href="#1c" class="anchor-heading" aria-labelledby="1c">
@@ -503,7 +511,7 @@
                 </svg>
             </a>
             
-            107.3a If a spell or activated ability has a mana cost, alternative cost, additional cost, and/or activation cost with an {X}, [-X], or X in it, and the value of X isn’t defined by the text of that spell or ability, the controller of that spell or ability chooses and announces the value of X as part of casting the spell or activating the ability. (See rule <a href='/regras/cr/6/601'>601, “Casting Spells.”</a>) While a spell is on the stack, any X in its mana cost or in any alternative cost or additional cost it has equals the announced value. While an activated ability is on the stack, any X in its activation cost equals the announced value.
+            107.3a If a spell or activated ability has a mana cost, alternative cost, additional cost, and/or activation cost with an <span class='symbol'><img title={X} src='/symbols/X.png' alt='{X}'/><span>{X}</span></span>, [-X], or X in it, and the value of X isn’t defined by the text of that spell or ability, the controller of that spell or ability chooses and announces the value of X as part of casting the spell or activating the ability. (See rule <a href='/regras/cr/6/601'>601, “Casting Spells.”</a>) While a spell is on the stack, any X in its mana cost or in any alternative cost or additional cost it has equals the announced value. While an activated ability is on the stack, any X in its activation cost equals the announced value.
         </h4>
         <h4 id="3b">
             <a href="#3b" class="anchor-heading" aria-labelledby="3b">
@@ -512,7 +520,7 @@
                 </svg>
             </a>
             
-            107.3b If a player is casting a spell that has an {X} in its mana cost, the value of X isn’t defined by the text of that spell, and an effect lets that player cast that spell while paying neither its mana cost nor an alternative cost that includes X, then the only legal choice for X is 0. This doesn’t apply to effects that only reduce a cost, even if they reduce it to zero. See rule <a href='/regras/cr/6/601'>601, “Casting Spells.”</a>
+            107.3b If a player is casting a spell that has an <span class='symbol'><img title={X} src='/symbols/X.png' alt='{X}'/><span>{X}</span></span> in its mana cost, the value of X isn’t defined by the text of that spell, and an effect lets that player cast that spell while paying neither its mana cost nor an alternative cost that includes X, then the only legal choice for X is 0. This doesn’t apply to effects that only reduce a cost, even if they reduce it to zero. See rule <a href='/regras/cr/6/601'>601, “Casting Spells.”</a>
         </h4>
         <h4 id="3c">
             <a href="#3c" class="anchor-heading" aria-labelledby="3c">
@@ -521,7 +529,7 @@
                 </svg>
             </a>
             
-            107.3c If a spell or activated ability has an {X}, [-X], or X in its cost and/or its text, and the value of X is defined by the text of that spell or ability, then that’s the value of X while that spell or ability is on the stack. The controller of that spell or ability doesn’t get to choose the value. Note that the value of X may change while that spell or ability is on the stack.
+            107.3c If a spell or activated ability has an <span class='symbol'><img title={X} src='/symbols/X.png' alt='{X}'/><span>{X}</span></span>, [-X], or X in its cost and/or its text, and the value of X is defined by the text of that spell or ability, then that’s the value of X while that spell or ability is on the stack. The controller of that spell or ability doesn’t get to choose the value. Note that the value of X may change while that spell or ability is on the stack.
         </h4>
         <h4 id="3d">
             <a href="#3d" class="anchor-heading" aria-labelledby="3d">
@@ -530,7 +538,7 @@
                 </svg>
             </a>
             
-            107.3d If a cost associated with a special action, such as a suspend cost or a morph cost, has an {X} or an X in it, the value of X is chosen by the player taking the special action immediately before they pay that cost.
+            107.3d If a cost associated with a special action, such as a suspend cost or a morph cost, has an <span class='symbol'><img title={X} src='/symbols/X.png' alt='{X}'/><span>{X}</span></span> or an X in it, the value of X is chosen by the player taking the special action immediately before they pay that cost.
         </h4>
         <h4 id="3e">
             <a href="#3e" class="anchor-heading" aria-labelledby="3e">
@@ -539,7 +547,7 @@
                 </svg>
             </a>
             
-            107.3e If a spell or ability refers to the {X} or X in the mana cost, alternative cost, additional cost, or activation cost of another object, any X in that spell or ability’s text uses the value of X chosen or defined for the other object.
+            107.3e If a spell or ability refers to the <span class='symbol'><img title={X} src='/symbols/X.png' alt='{X}'/><span>{X}</span></span> or X in the mana cost, alternative cost, additional cost, or activation cost of another object, any X in that spell or ability’s text uses the value of X chosen or defined for the other object.
         </h4>
         <h4 id="3f">
             <a href="#3f" class="anchor-heading" aria-labelledby="3f">
@@ -557,7 +565,7 @@
                 </svg>
             </a>
             
-            107.3g If a card in any zone other than the stack has an {X} in its mana cost, the value of {X} is treated as 0, even if the value of X is defined somewhere within its text.
+            107.3g If a card in any zone other than the stack has an <span class='symbol'><img title={X} src='/symbols/X.png' alt='{X}'/><span>{X}</span></span> in its mana cost, the value of <span class='symbol'><img title={X} src='/symbols/X.png' alt='{X}'/><span>{X}</span></span> is treated as 0, even if the value of X is defined somewhere within its text.
         </h4>
         <h4 id="3h">
             <a href="#3h" class="anchor-heading" aria-labelledby="3h">
@@ -566,7 +574,7 @@
                 </svg>
             </a>
             
-            107.3h If an effect instructs a player to pay an object’s mana cost that includes {X}, the value of X is treated as 0 unless the object is a spell on the stack. In that case, the value of X is the value chosen or determined for it as the spell was cast.
+            107.3h If an effect instructs a player to pay an object’s mana cost that includes <span class='symbol'><img title={X} src='/symbols/X.png' alt='{X}'/><span>{X}</span></span>, the value of X is treated as 0 unless the object is a spell on the stack. In that case, the value of X is the value chosen or determined for it as the spell was cast.
         </h4>
         <h4 id="3i">
             <a href="#3i" class="anchor-heading" aria-labelledby="3i">
@@ -593,7 +601,7 @@
                 </svg>
             </a>
             
-            107.3k If an object’s activated ability has an {X}, [-X], or X in its activation cost, the value of X for that ability is independent of any other values of X chosen for that object or for other instances of abilities of that object. This is an exception to rule <a href='/regras/cr/1/107/#3i'>107.3i</a>.
+            107.3k If an object’s activated ability has an <span class='symbol'><img title={X} src='/symbols/X.png' alt='{X}'/><span>{X}</span></span>, [-X], or X in its activation cost, the value of X for that ability is independent of any other values of X chosen for that object or for other instances of abilities of that object. This is an exception to rule <a href='/regras/cr/1/107/#3i'>107.3i</a>.
         </h4>
         <h4 id="3m">
             <a href="#3m" class="anchor-heading" aria-labelledby="3m">
@@ -620,7 +628,7 @@
                 </svg>
             </a>
             
-            107.4. The mana symbols are {W}, {U}, {B}, {R}, {G}, and {C}; the numerical symbols {0}, {1}, {2}, {3}, {4}, and so on; the variable symbol {X}; the hybrid symbols {W/U}, {W/B}, {U/B}, {U/R}, {B/R}, {B/G}, {R/G}, {R/W}, {G/W}, and {G/U}; the monocolored hybrid symbols {2/W}, {2/U}, {2/B}, {2/R}, and {2/G}; the Phyrexian mana symbols {W/P}, {U/P}, {B/P}, {R/P}, and {G/P}; and the snow symbol {S}.
+            107.4. The mana symbols are <span class='symbol'><img title={W} src='/symbols/W.png' alt='{W}'/><span>{W}</span></span>, <span class='symbol'><img title={U} src='/symbols/U.png' alt='{U}'/><span>{U}</span></span>, <span class='symbol'><img title={B} src='/symbols/B.png' alt='{B}'/><span>{B}</span></span>, <span class='symbol'><img title={R} src='/symbols/R.png' alt='{R}'/><span>{R}</span></span>, <span class='symbol'><img title={G} src='/symbols/G.png' alt='{G}'/><span>{G}</span></span>, and <span class='symbol'><img title={C} src='/symbols/C.png' alt='{C}'/><span>{C}</span></span>; the numerical symbols <span class='symbol'><img title={0} src='/symbols/0.png' alt='{0}'/><span>{0}</span></span>, <span class='symbol'><img title={1} src='/symbols/1.png' alt='{1}'/><span>{1}</span></span>, <span class='symbol'><img title={2} src='/symbols/2.png' alt='{2}'/><span>{2}</span></span>, <span class='symbol'><img title={3} src='/symbols/3.png' alt='{3}'/><span>{3}</span></span>, <span class='symbol'><img title={4} src='/symbols/4.png' alt='{4}'/><span>{4}</span></span>, and so on; the variable symbol <span class='symbol'><img title={X} src='/symbols/X.png' alt='{X}'/><span>{X}</span></span>; the hybrid symbols <span class='symbol'><img title={W/U} src='/symbols/WU.png' alt='{W/U}'/><span>{W/U}</span></span>, <span class='symbol'><img title={W/B} src='/symbols/WB.png' alt='{W/B}'/><span>{W/B}</span></span>, <span class='symbol'><img title={U/B} src='/symbols/UB.png' alt='{U/B}'/><span>{U/B}</span></span>, <span class='symbol'><img title={U/R} src='/symbols/UR.png' alt='{U/R}'/><span>{U/R}</span></span>, <span class='symbol'><img title={B/R} src='/symbols/BR.png' alt='{B/R}'/><span>{B/R}</span></span>, <span class='symbol'><img title={B/G} src='/symbols/BG.png' alt='{B/G}'/><span>{B/G}</span></span>, <span class='symbol'><img title={R/G} src='/symbols/RG.png' alt='{R/G}'/><span>{R/G}</span></span>, <span class='symbol'><img title={R/W} src='/symbols/RW.png' alt='{R/W}'/><span>{R/W}</span></span>, <span class='symbol'><img title={G/W} src='/symbols/GW.png' alt='{G/W}'/><span>{G/W}</span></span>, and <span class='symbol'><img title={G/U} src='/symbols/GU.png' alt='{G/U}'/><span>{G/U}</span></span>; the monocolored hybrid symbols <span class='symbol'><img title={2/W} src='/symbols/2W.png' alt='{2/W}'/><span>{2/W}</span></span>, <span class='symbol'><img title={2/U} src='/symbols/2U.png' alt='{2/U}'/><span>{2/U}</span></span>, <span class='symbol'><img title={2/B} src='/symbols/2B.png' alt='{2/B}'/><span>{2/B}</span></span>, <span class='symbol'><img title={2/R} src='/symbols/2R.png' alt='{2/R}'/><span>{2/R}</span></span>, and <span class='symbol'><img title={2/G} src='/symbols/2G.png' alt='{2/G}'/><span>{2/G}</span></span>; the Phyrexian mana symbols <span class='symbol'><img title={W/P} src='/symbols/WP.png' alt='{W/P}'/><span>{W/P}</span></span>, <span class='symbol'><img title={U/P} src='/symbols/UP.png' alt='{U/P}'/><span>{U/P}</span></span>, <span class='symbol'><img title={B/P} src='/symbols/BP.png' alt='{B/P}'/><span>{B/P}</span></span>, <span class='symbol'><img title={R/P} src='/symbols/RP.png' alt='{R/P}'/><span>{R/P}</span></span>, and <span class='symbol'><img title={G/P} src='/symbols/GP.png' alt='{G/P}'/><span>{G/P}</span></span>; and the snow symbol <span class='symbol'><img title={S} src='/symbols/S.png' alt='{S}'/><span>{S}</span></span>.
         </h3>
         <h4 id="4a">
             <a href="#4a" class="anchor-heading" aria-labelledby="4a">
@@ -629,7 +637,7 @@
                 </svg>
             </a>
             
-            107.4a There are five primary colored mana symbols: {W} is white, {U} blue, {B} black, {R} red, and {G} green. These symbols are used to represent colored mana, and also to represent colored mana in costs. Colored mana in costs can be paid only with the appropriate color of mana. See rule <a href='/regras/cr/2/202'>202, “Mana Cost and Color.”</a>
+            107.4a There are five primary colored mana symbols: <span class='symbol'><img title={W} src='/symbols/W.png' alt='{W}'/><span>{W}</span></span> is white, <span class='symbol'><img title={U} src='/symbols/U.png' alt='{U}'/><span>{U}</span></span> blue, <span class='symbol'><img title={B} src='/symbols/B.png' alt='{B}'/><span>{B}</span></span> black, <span class='symbol'><img title={R} src='/symbols/R.png' alt='{R}'/><span>{R}</span></span> red, and <span class='symbol'><img title={G} src='/symbols/G.png' alt='{G}'/><span>{G}</span></span> green. These symbols are used to represent colored mana, and also to represent colored mana in costs. Colored mana in costs can be paid only with the appropriate color of mana. See rule <a href='/regras/cr/2/202'>202, “Mana Cost and Color.”</a>
         </h4>
         <h4 id="4b">
             <a href="#4b" class="anchor-heading" aria-labelledby="4b">
@@ -638,7 +646,7 @@
                 </svg>
             </a>
             
-            107.4b Numerical symbols (such as {1}) and variable symbols (such as {X}) represent generic mana in costs. Generic mana in costs can be paid with any type of mana. For more information about {X}, see rule <a href='/regras/cr/1/107/#3'>107.3</a>.
+            107.4b Numerical symbols (such as <span class='symbol'><img title={1} src='/symbols/1.png' alt='{1}'/><span>{1}</span></span>) and variable symbols (such as <span class='symbol'><img title={X} src='/symbols/X.png' alt='{X}'/><span>{X}</span></span>) represent generic mana in costs. Generic mana in costs can be paid with any type of mana. For more information about <span class='symbol'><img title={X} src='/symbols/X.png' alt='{X}'/><span>{X}</span></span>, see rule <a href='/regras/cr/1/107/#3'>107.3</a>.
         </h4>
         <h4 id="4c">
             <a href="#4c" class="anchor-heading" aria-labelledby="4c">
@@ -647,7 +655,7 @@
                 </svg>
             </a>
             
-            107.4c The colorless mana symbol {C} is used to represent one colorless mana, and also to represent a cost that can be paid only with one colorless mana.
+            107.4c The colorless mana symbol <span class='symbol'><img title={C} src='/symbols/C.png' alt='{C}'/><span>{C}</span></span> is used to represent one colorless mana, and also to represent a cost that can be paid only with one colorless mana.
         </h4>
         <h4 id="4d">
             <a href="#4d" class="anchor-heading" aria-labelledby="4d">
@@ -656,7 +664,7 @@
                 </svg>
             </a>
             
-            107.4d The symbol {0} represents zero mana and is used as a placeholder for a cost that can be paid with no resources. (See rule <a href='/regras/cr/1/118/#5'>118.5</a>.)
+            107.4d The symbol <span class='symbol'><img title={0} src='/symbols/0.png' alt='{0}'/><span>{0}</span></span> represents zero mana and is used as a placeholder for a cost that can be paid with no resources. (See rule <a href='/regras/cr/1/118/#5'>118.5</a>.)
         </h4>
         <h4 id="4e">
             <a href="#4e" class="anchor-heading" aria-labelledby="4e">
@@ -665,10 +673,10 @@
                 </svg>
             </a>
             
-            107.4e Hybrid mana symbols are also colored mana symbols. Each one represents a cost that can be paid in one of two ways, as represented by the two halves of the symbol. A hybrid symbol such as {W/U} can be paid with either white or blue mana, and a monocolored hybrid symbol such as {2/B} can be paid with either one black mana or two mana of any type. A hybrid mana symbol is all of its component colors.
+            107.4e Hybrid mana symbols are also colored mana symbols. Each one represents a cost that can be paid in one of two ways, as represented by the two halves of the symbol. A hybrid symbol such as <span class='symbol'><img title={W/U} src='/symbols/WU.png' alt='{W/U}'/><span>{W/U}</span></span> can be paid with either white or blue mana, and a monocolored hybrid symbol such as <span class='symbol'><img title={2/B} src='/symbols/2B.png' alt='{2/B}'/><span>{2/B}</span></span> can be paid with either one black mana or two mana of any type. A hybrid mana symbol is all of its component colors.
         </h4>
             <blockquote>
-            Example: {G/W}{G/W} can be paid by spending {G}{G}, {G}{W}, or {W}{W}.
+            Example: <span class='symbol'><img title={G/W} src='/symbols/GW.png' alt='{G/W}'/><span>{G/W}</span></span><span class='symbol'><img title={G/W} src='/symbols/GW.png' alt='{G/W}'/><span>{G/W}</span></span> can be paid by spending <span class='symbol'><img title={G} src='/symbols/G.png' alt='{G}'/><span>{G}</span></span><span class='symbol'><img title={G} src='/symbols/G.png' alt='{G}'/><span>{G}</span></span>, <span class='symbol'><img title={G} src='/symbols/G.png' alt='{G}'/><span>{G}</span></span><span class='symbol'><img title={W} src='/symbols/W.png' alt='{W}'/><span>{W}</span></span>, or <span class='symbol'><img title={W} src='/symbols/W.png' alt='{W}'/><span>{W}</span></span><span class='symbol'><img title={W} src='/symbols/W.png' alt='{W}'/><span>{W}</span></span>.
             </blockquote>
         <h4 id="4f">
             <a href="#4f" class="anchor-heading" aria-labelledby="4f">
@@ -677,10 +685,10 @@
                 </svg>
             </a>
             
-            107.4f Phyrexian mana symbols are colored mana symbols: {W/P} is white, {U/P} is blue, {B/P} is black, {R/P} is red, and {G/P} is green. A Phyrexian mana symbol represents a cost that can be paid either with one mana of its color or by paying 2 life.
+            107.4f Phyrexian mana symbols are colored mana symbols: <span class='symbol'><img title={W/P} src='/symbols/WP.png' alt='{W/P}'/><span>{W/P}</span></span> is white, <span class='symbol'><img title={U/P} src='/symbols/UP.png' alt='{U/P}'/><span>{U/P}</span></span> is blue, <span class='symbol'><img title={B/P} src='/symbols/BP.png' alt='{B/P}'/><span>{B/P}</span></span> is black, <span class='symbol'><img title={R/P} src='/symbols/RP.png' alt='{R/P}'/><span>{R/P}</span></span> is red, and <span class='symbol'><img title={G/P} src='/symbols/GP.png' alt='{G/P}'/><span>{G/P}</span></span> is green. A Phyrexian mana symbol represents a cost that can be paid either with one mana of its color or by paying 2 life.
         </h4>
             <blockquote>
-            Example: {W/P}{W/P} can be paid by spending {W}{W}, by spending {W} and paying 2 life, or by paying 4 life.
+            Example: <span class='symbol'><img title={W/P} src='/symbols/WP.png' alt='{W/P}'/><span>{W/P}</span></span><span class='symbol'><img title={W/P} src='/symbols/WP.png' alt='{W/P}'/><span>{W/P}</span></span> can be paid by spending <span class='symbol'><img title={W} src='/symbols/W.png' alt='{W}'/><span>{W}</span></span><span class='symbol'><img title={W} src='/symbols/W.png' alt='{W}'/><span>{W}</span></span>, by spending <span class='symbol'><img title={W} src='/symbols/W.png' alt='{W}'/><span>{W}</span></span> and paying 2 life, or by paying 4 life.
             </blockquote>
         <h4 id="4g">
             <a href="#4g" class="anchor-heading" aria-labelledby="4g">
@@ -689,7 +697,7 @@
                 </svg>
             </a>
             
-            107.4g In rules text, the Phyrexian symbol {P} with no colored background means any of the five Phyrexian mana symbols.
+            107.4g In rules text, the Phyrexian symbol <span class='symbol'><img title={P} src='/symbols/P.png' alt='{P}'/><span>{P}</span></span> with no colored background means any of the five Phyrexian mana symbols.
         </h4>
         <h4 id="4h">
             <a href="#4h" class="anchor-heading" aria-labelledby="4h">
@@ -698,7 +706,7 @@
                 </svg>
             </a>
             
-            107.4h The snow mana symbol {S} represents one mana in a cost. This mana can be paid with one mana of any type produced by a snow permanent (see rule <a href='/regras/cr/2/205/#4g'>205.4g</a>). Effects that reduce the amount of generic mana you pay don’t affect {S} costs. Snow is neither a color nor a type of mana.
+            107.4h The snow mana symbol <span class='symbol'><img title={S} src='/symbols/S.png' alt='{S}'/><span>{S}</span></span> represents one mana in a cost. This mana can be paid with one mana of any type produced by a snow permanent (see rule <a href='/regras/cr/2/205/#4g'>205.4g</a>). Effects that reduce the amount of generic mana you pay don’t affect <span class='symbol'><img title={S} src='/symbols/S.png' alt='{S}'/><span>{S}</span></span> costs. Snow is neither a color nor a type of mana.
         </h4>
         <h3 id="5">
             <a href="#5" class="anchor-heading" aria-labelledby="5">
@@ -707,7 +715,7 @@
                 </svg>
             </a>
             
-            107.5. The tap symbol is {T}. The tap symbol in an activation cost means “Tap this permanent.” A permanent that’s already tapped can’t be tapped again to pay the cost. A creature’s activated ability with the tap symbol in its activation cost can’t be activated unless the creature has been under its controller’s control continuously since their most recent turn began. See rule <a href='/regras/cr/3/302/#6'>302.6</a>.
+            107.5. The tap symbol is <span class='symbol'><img title={T} src='/symbols/T.png' alt='{T}'/><span>{T}</span></span>. The tap symbol in an activation cost means “Tap this permanent.” A permanent that’s already tapped can’t be tapped again to pay the cost. A creature’s activated ability with the tap symbol in its activation cost can’t be activated unless the creature has been under its controller’s control continuously since their most recent turn began. See rule <a href='/regras/cr/3/302/#6'>302.6</a>.
         </h3>
         <h3 id="6">
             <a href="#6" class="anchor-heading" aria-labelledby="6">
@@ -716,7 +724,7 @@
                 </svg>
             </a>
             
-            107.6. The untap symbol is {Q}. The untap symbol in an activation cost means “Untap this permanent.” A permanent that’s already untapped can’t be untapped again to pay the cost. A creature’s activated ability with the untap symbol in its activation cost can’t be activated unless the creature has been under its controller’s control continuously since their most recent turn began. See rule <a href='/regras/cr/3/302/#6'>302.6</a>.
+            107.6. The untap symbol is <span class='symbol'><img title={Q} src='/symbols/Q.png' alt='{Q}'/><span>{Q}</span></span>. The untap symbol in an activation cost means “Untap this permanent.” A permanent that’s already untapped can’t be untapped again to pay the cost. A creature’s activated ability with the untap symbol in its activation cost can’t be activated unless the creature has been under its controller’s control continuously since their most recent turn began. See rule <a href='/regras/cr/3/302/#6'>302.6</a>.
         </h3>
         <h3 id="7">
             <a href="#7" class="anchor-heading" aria-labelledby="7">
@@ -779,7 +787,7 @@
                 </svg>
             </a>
             
-            107.11. The Planeswalker symbol is {PW}. It appears on one face of the planar die used in the Planechase casual variant. See rule <a href='/regras/cr/9/901'>901, “Planechase.”</a>
+            107.11. The Planeswalker symbol is <span class='symbol'><img title={PW} src='/symbols/PW.png' alt='{PW}'/><span>{PW}</span></span>. It appears on one face of the planar die used in the Planechase casual variant. See rule <a href='/regras/cr/9/901'>901, “Planechase.”</a>
         </h3>
         <h3 id="12">
             <a href="#12" class="anchor-heading" aria-labelledby="12">
@@ -788,7 +796,7 @@
                 </svg>
             </a>
             
-            107.12. The chaos symbol is {CHAOS}. It appears on one face of the planar die used in the Planechase casual variant, as well as in abilities that refer to the results of rolling the planar die. See rule <a href='/regras/cr/9/901'>901, “Planechase.”</a>
+            107.12. The chaos symbol is <span class='symbol'><img title={CHAOS} src='/symbols/CHAOS.png' alt='{CHAOS}'/><span>{CHAOS}</span></span>. It appears on one face of the planar die used in the Planechase casual variant, as well as in abilities that refer to the results of rolling the planar die. See rule <a href='/regras/cr/9/901'>901, “Planechase.”</a>
         </h3>
         <h3 id="13">
             <a href="#13" class="anchor-heading" aria-labelledby="13">
@@ -806,7 +814,7 @@
                 </svg>
             </a>
             
-            107.14. The energy symbol is {E}. It represents one energy counter. To pay {E}, a player removes one energy counter from themselves.
+            107.14. The energy symbol is <span class='symbol'><img title={E} src='/symbols/E.png' alt='{E}'/><span>{E}</span></span>. It represents one energy counter. To pay <span class='symbol'><img title={E} src='/symbols/E.png' alt='{E}'/><span>{E}</span></span>, a player removes one energy counter from themselves.
         </h3>
         <h3 id="15">
             <a href="#15" class="anchor-heading" aria-labelledby="15">
@@ -824,7 +832,7 @@
                 </svg>
             </a>
             
-            107.15a “{rN}—[Effect]” means “When one or more lore counters are put onto this Saga, if the number of lore counters on it was less than N and became at least N, [effect].”
+            107.15a “<span class='symbol'><img title={rN} src='/symbols/rN.png' alt='{rN}'/><span>{rN}</span></span>—[Effect]” means “When one or more lore counters are put onto this Saga, if the number of lore counters on it was less than N and became at least N, [effect].”
         </h4>
         <h4 id="15b">
             <a href="#15b" class="anchor-heading" aria-labelledby="15b">
@@ -833,7 +841,7 @@
                 </svg>
             </a>
             
-            107.15b “{rN1}, {rN2}—[Effect]” is the same as “{rN1}—[Effect]” and “{rN2}—[Effect].”
+            107.15b “<span class='symbol'><img title={rN1} src='/symbols/rN1.png' alt='{rN1}'/><span>{rN1}</span></span>, <span class='symbol'><img title={rN2} src='/symbols/rN2.png' alt='{rN2}'/><span>{rN2}</span></span>—[Effect]” is the same as “<span class='symbol'><img title={rN1} src='/symbols/rN1.png' alt='{rN1}'/><span>{rN1}</span></span>—[Effect]” and “<span class='symbol'><img title={rN2} src='/symbols/rN2.png' alt='{rN2}'/><span>{rN2}</span></span>—[Effect].”
         </h4>
 
             

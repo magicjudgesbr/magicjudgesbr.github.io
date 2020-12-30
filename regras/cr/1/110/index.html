@@ -411,6 +411,13 @@
                 <div id="search-results" class="search-results"></div>
             </div>
         
+        <div class="symbol-switch">
+            Mostrar símbolos
+            <label class="switch">
+                <input type="checkbox" checked onchange="jtd.updateSymbols(event)">
+                <span class="slider round"></span>
+            </label>
+        </div>
         
         
     </div>
@@ -419,7 +426,8 @@
             <nav aria-label="Breadcrumb" class="breadcrumb-nav">
                     <ol class="breadcrumb-nav-list">
                         
-                            <li class="breadcrumb-nav-list-item"><a href="/regras/cr/">Regras Abrangentes</a></li>
+                            <li class="breadcrumb-nav-list-item"><a
+                                    href="/regras/cr/">Regras Abrangentes</a></li>
                             <li class="breadcrumb-nav-list-item"><a href="/regras/cr/1/">1. Conceitos do Jogo</a>
                             </li>
                         
@@ -551,7 +559,7 @@
             110.5c A permanent retains its status until a spell, ability, or turn-based action changes it, even if that status is not relevant to it.
         </h4>
             <blockquote>
-            Example: Dimir Doppelganger says “{1}{U}{B}: Exile target creature card from a graveyard. Dimir Doppelganger becomes a copy of that card and gains this ability.” It becomes a copy of Jushi Apprentice, a flip card. Through use of Jushi Apprentice’s ability, this creature flips, making it a copy of Tomoya the Revealer with the Dimir Doppelganger ability. If this permanent then becomes a copy of Runeclaw Bear, it will retain its flipped status even though that has no relevance to Runeclaw Bear. If its copy ability is activated again, this time targeting a Nezumi Shortfang card (another flip card), this permanent’s flipped status means it will have the characteristics of Stabwhisker the Odious (the flipped version of Nezumi Shortfang) with the Dimir Doppelganger ability.
+            Example: Dimir Doppelganger says “<span class='symbol'><img title={1} src='/symbols/1.png' alt='{1}'/><span>{1}</span></span><span class='symbol'><img title={U} src='/symbols/U.png' alt='{U}'/><span>{U}</span></span><span class='symbol'><img title={B} src='/symbols/B.png' alt='{B}'/><span>{B}</span></span>: Exile target creature card from a graveyard. Dimir Doppelganger becomes a copy of that card and gains this ability.” It becomes a copy of Jushi Apprentice, a flip card. Through use of Jushi Apprentice’s ability, this creature flips, making it a copy of Tomoya the Revealer with the Dimir Doppelganger ability. If this permanent then becomes a copy of Runeclaw Bear, it will retain its flipped status even though that has no relevance to Runeclaw Bear. If its copy ability is activated again, this time targeting a Nezumi Shortfang card (another flip card), this permanent’s flipped status means it will have the characteristics of Stabwhisker the Odious (the flipped version of Nezumi Shortfang) with the Dimir Doppelganger ability.
             </blockquote>
         <h4 id="5d">
             <a href="#5d" class="anchor-heading" aria-labelledby="5d">

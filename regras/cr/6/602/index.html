@@ -411,6 +411,13 @@
                 <div id="search-results" class="search-results"></div>
             </div>
         
+        <div class="symbol-switch">
+            Mostrar símbolos
+            <label class="switch">
+                <input type="checkbox" checked onchange="jtd.updateSymbols(event)">
+                <span class="slider round"></span>
+            </label>
+        </div>
         
         
     </div>
@@ -419,7 +426,8 @@
             <nav aria-label="Breadcrumb" class="breadcrumb-nav">
                     <ol class="breadcrumb-nav-list">
                         
-                            <li class="breadcrumb-nav-list-item"><a href="/regras/cr/">Regras Abrangentes</a></li>
+                            <li class="breadcrumb-nav-list-item"><a
+                                    href="/regras/cr/">Regras Abrangentes</a></li>
                             <li class="breadcrumb-nav-list-item"><a href="/regras/cr/6/">6. Mágicas, Habilidades, e Efeitos</a>
                             </li>
                         
@@ -452,7 +460,7 @@
             602.1a The activation cost is everything before the colon (:). An ability’s activation cost must be paid by the player who is activating it.
         </h4>
             <blockquote>
-            Example: The activation cost of an ability that reads “{2}, {T}: You gain 1 life” is two mana of any type plus tapping the permanent that has the ability.
+            Example: The activation cost of an ability that reads “<span class='symbol'><img title={2} src='/symbols/2.png' alt='{2}'/><span>{2}</span></span>, <span class='symbol'><img title={T} src='/symbols/T.png' alt='{T}'/><span>{T}</span></span>: You gain 1 life” is two mana of any type plus tapping the permanent that has the ability.
             </blockquote>
         <h4 id="1b">
             <a href="#1b" class="anchor-heading" aria-labelledby="1b">
@@ -560,7 +568,7 @@
                 </svg>
             </a>
             
-            602.5a A creature’s activated ability with the tap symbol ({T}) or the untap symbol ({Q}) in its activation cost can’t be activated unless the creature has been under its controller’s control since the start of their most recent turn. Ignore this rule for creatures with haste (see rule <a href='/regras/cr/7/702/#10'>702.10</a>).
+            602.5a A creature’s activated ability with the tap symbol (<span class='symbol'><img title={T} src='/symbols/T.png' alt='{T}'/><span>{T}</span></span>) or the untap symbol (<span class='symbol'><img title={Q} src='/symbols/Q.png' alt='{Q}'/><span>{Q}</span></span>) in its activation cost can’t be activated unless the creature has been under its controller’s control since the start of their most recent turn. Ignore this rule for creatures with haste (see rule <a href='/regras/cr/7/702/#10'>702.10</a>).
         </h4>
         <h4 id="5b">
             <a href="#5b" class="anchor-heading" aria-labelledby="5b">

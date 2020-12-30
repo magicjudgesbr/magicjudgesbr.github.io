@@ -411,6 +411,13 @@
                 <div id="search-results" class="search-results"></div>
             </div>
         
+        <div class="symbol-switch">
+            Mostrar símbolos
+            <label class="switch">
+                <input type="checkbox" checked onchange="jtd.updateSymbols(event)">
+                <span class="slider round"></span>
+            </label>
+        </div>
         
         
     </div>
@@ -419,7 +426,8 @@
             <nav aria-label="Breadcrumb" class="breadcrumb-nav">
                     <ol class="breadcrumb-nav-list">
                         
-                            <li class="breadcrumb-nav-list-item"><a href="/regras/cr/">Regras Abrangentes</a></li>
+                            <li class="breadcrumb-nav-list-item"><a
+                                    href="/regras/cr/">Regras Abrangentes</a></li>
                             <li class="breadcrumb-nav-list-item"><a href="/regras/cr/2/">2. Partes de um Card</a>
                             </li>
                         
@@ -575,13 +583,13 @@
             201.4b If an ability of an object refers to that object by name, and an object with a different name gains that ability, each instance of the first name in the gained ability that refers to the first object by name should be treated as the second name.
         </h4>
             <blockquote>
-            Example: Quicksilver Elemental says, in part, “{U}: Quicksilver Elemental gains all activated abilities of target creature until end of turn.” If it gains an ability that says “{G}: Regenerate Cudgel Troll,” activating that ability will regenerate Quicksilver Elemental, not the Cudgel Troll it gained the ability from.
+            Example: Quicksilver Elemental says, in part, “<span class='symbol'><img title={U} src='/symbols/U.png' alt='{U}'/><span>{U}</span></span>: Quicksilver Elemental gains all activated abilities of target creature until end of turn.” If it gains an ability that says “<span class='symbol'><img title={G} src='/symbols/G.png' alt='{G}'/><span>{G}</span></span>: Regenerate Cudgel Troll,” activating that ability will regenerate Quicksilver Elemental, not the Cudgel Troll it gained the ability from.
             </blockquote>
             <blockquote>
             Example: Glacial Ray is an instant with splice onto Arcane that says “Glacial Ray deals 2 damage to any target.” If it’s spliced onto a Kodama’s Reach, that Kodama’s Reach deals 2 damage to the target.
             </blockquote>
             <blockquote>
-            Example: Dimir Doppelganger says “{1}{U}{B}: Exile target creature card from a graveyard. Dimir Doppelganger becomes a copy of that card and gains this ability.” Dimir Doppelganger’s ability is activated targeting a Runeclaw Bear card. The Doppelganger becomes a copy of Runeclaw Bear and gains an ability that should be treated as saying “{1}{U}{B}: Exile target creature card from a graveyard. Runeclaw Bear becomes a copy of that card and gains this ability.”
+            Example: Dimir Doppelganger says “<span class='symbol'><img title={1} src='/symbols/1.png' alt='{1}'/><span>{1}</span></span><span class='symbol'><img title={U} src='/symbols/U.png' alt='{U}'/><span>{U}</span></span><span class='symbol'><img title={B} src='/symbols/B.png' alt='{B}'/><span>{B}</span></span>: Exile target creature card from a graveyard. Dimir Doppelganger becomes a copy of that card and gains this ability.” Dimir Doppelganger’s ability is activated targeting a Runeclaw Bear card. The Doppelganger becomes a copy of Runeclaw Bear and gains an ability that should be treated as saying “<span class='symbol'><img title={1} src='/symbols/1.png' alt='{1}'/><span>{1}</span></span><span class='symbol'><img title={U} src='/symbols/U.png' alt='{U}'/><span>{U}</span></span><span class='symbol'><img title={B} src='/symbols/B.png' alt='{B}'/><span>{B}</span></span>: Exile target creature card from a graveyard. Runeclaw Bear becomes a copy of that card and gains this ability.”
             </blockquote>
         <h4 id="4c">
             <a href="#4c" class="anchor-heading" aria-labelledby="4c">

@@ -411,6 +411,13 @@
                 <div id="search-results" class="search-results"></div>
             </div>
         
+        <div class="symbol-switch">
+            Mostrar símbolos
+            <label class="switch">
+                <input type="checkbox" checked onchange="jtd.updateSymbols(event)">
+                <span class="slider round"></span>
+            </label>
+        </div>
         
         
     </div>
@@ -419,7 +426,8 @@
             <nav aria-label="Breadcrumb" class="breadcrumb-nav">
                     <ol class="breadcrumb-nav-list">
                         
-                            <li class="breadcrumb-nav-list-item"><a href="/regras/cr/">Regras Abrangentes</a></li>
+                            <li class="breadcrumb-nav-list-item"><a
+                                    href="/regras/cr/">Regras Abrangentes</a></li>
                             <li class="breadcrumb-nav-list-item"><a href="/regras/cr/7/">7. Regras Adicionais</a>
                             </li>
                         
@@ -515,10 +523,10 @@
             708.4b The mana cost of a split card is the combined mana costs of its two halves. A split card’s colors and converted mana cost are determined from its combined mana cost. An effect that refers specifically to the symbols in a split card’s mana cost sees the separate symbols rather than the whole mana cost.
         </h4>
             <blockquote>
-            Example: Assault//Battery’s mana cost is {3}{R}{G}. It’s a red and green card with a converted mana cost of 5. If you cast Assault, the resulting spell is a red spell with a converted mana cost of 1.
+            Example: Assault//Battery’s mana cost is <span class='symbol'><img title={3} src='/symbols/3.png' alt='{3}'/><span>{3}</span></span><span class='symbol'><img title={R} src='/symbols/R.png' alt='{R}'/><span>{R}</span></span><span class='symbol'><img title={G} src='/symbols/G.png' alt='{G}'/><span>{G}</span></span>. It’s a red and green card with a converted mana cost of 5. If you cast Assault, the resulting spell is a red spell with a converted mana cost of 1.
             </blockquote>
             <blockquote>
-            Example: Fire//Ice’s mana cost is {2}{U}{R}. It has the same mana cost as Steam Augury, but an effect such as that of Jegantha, the Wellspring sees that it contains the mana symbol {1} twice.
+            Example: Fire//Ice’s mana cost is <span class='symbol'><img title={2} src='/symbols/2.png' alt='{2}'/><span>{2}</span></span><span class='symbol'><img title={U} src='/symbols/U.png' alt='{U}'/><span>{U}</span></span><span class='symbol'><img title={R} src='/symbols/R.png' alt='{R}'/><span>{R}</span></span>. It has the same mana cost as Steam Augury, but an effect such as that of Jegantha, the Wellspring sees that it contains the mana symbol <span class='symbol'><img title={1} src='/symbols/1.png' alt='{1}'/><span>{1}</span></span> twice.
             </blockquote>
         <h4 id="4c">
             <a href="#4c" class="anchor-heading" aria-labelledby="4c">

@@ -411,6 +411,13 @@
                 <div id="search-results" class="search-results"></div>
             </div>
         
+        <div class="symbol-switch">
+            Mostrar símbolos
+            <label class="switch">
+                <input type="checkbox" checked onchange="jtd.updateSymbols(event)">
+                <span class="slider round"></span>
+            </label>
+        </div>
         
         
     </div>
@@ -419,7 +426,8 @@
             <nav aria-label="Breadcrumb" class="breadcrumb-nav">
                     <ol class="breadcrumb-nav-list">
                         
-                            <li class="breadcrumb-nav-list-item"><a href="/regras/cr/">Regras Abrangentes</a></li>
+                            <li class="breadcrumb-nav-list-item"><a
+                                    href="/regras/cr/">Regras Abrangentes</a></li>
                             <li class="breadcrumb-nav-list-item"><a href="/regras/cr/3/">3. Tipos de Card</a>
                             </li>
                         
@@ -494,7 +502,7 @@
                 </svg>
             </a>
             
-            309.7. Each plane card has a triggered ability that triggers “Whenever you roll {CHAOS}.” These are called “chaos abilities.” Each one is indicated by a {CHAOS} to its left, though the symbol itself has no special rules meaning.
+            309.7. Each plane card has a triggered ability that triggers “Whenever you roll <span class='symbol'><img title={CHAOS} src='/symbols/CHAOS.png' alt='{CHAOS}'/><span>{CHAOS}</span></span>.” These are called “chaos abilities.” Each one is indicated by a <span class='symbol'><img title={CHAOS} src='/symbols/CHAOS.png' alt='{CHAOS}'/><span>{CHAOS}</span></span> to its left, though the symbol itself has no special rules meaning.
         </h3>
 
             

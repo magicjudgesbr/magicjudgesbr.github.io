@@ -411,6 +411,13 @@
                 <div id="search-results" class="search-results"></div>
             </div>
         
+        <div class="symbol-switch">
+            Mostrar símbolos
+            <label class="switch">
+                <input type="checkbox" checked onchange="jtd.updateSymbols(event)">
+                <span class="slider round"></span>
+            </label>
+        </div>
         
         
     </div>
@@ -419,7 +426,8 @@
             <nav aria-label="Breadcrumb" class="breadcrumb-nav">
                     <ol class="breadcrumb-nav-list">
                         
-                            <li class="breadcrumb-nav-list-item"><a href="/regras/cr/">Regras Abrangentes</a></li>
+                            <li class="breadcrumb-nav-list-item"><a
+                                    href="/regras/cr/">Regras Abrangentes</a></li>
                             <li class="breadcrumb-nav-list-item"><a href="/regras/cr/2/">2. Partes de um Card</a>
                             </li>
                         
@@ -476,10 +484,10 @@
                 </svg>
             </a>
             
-            202.2a The five colors are white, blue, black, red, and green. The white mana symbol is represented by {W}, blue by {U}, black by {B}, red by {R}, and green by {G}.
+            202.2a The five colors are white, blue, black, red, and green. The white mana symbol is represented by <span class='symbol'><img title={W} src='/symbols/W.png' alt='{W}'/><span>{W}</span></span>, blue by <span class='symbol'><img title={U} src='/symbols/U.png' alt='{U}'/><span>{U}</span></span>, black by <span class='symbol'><img title={B} src='/symbols/B.png' alt='{B}'/><span>{B}</span></span>, red by <span class='symbol'><img title={R} src='/symbols/R.png' alt='{R}'/><span>{R}</span></span>, and green by <span class='symbol'><img title={G} src='/symbols/G.png' alt='{G}'/><span>{G}</span></span>.
         </h4>
             <blockquote>
-            Example: An object with a mana cost of {2}{W} is white, an object with a mana cost of {2} is colorless, and one with a mana cost of {2}{W}{B} is both white and black.
+            Example: An object with a mana cost of <span class='symbol'><img title={2} src='/symbols/2.png' alt='{2}'/><span>{2}</span></span><span class='symbol'><img title={W} src='/symbols/W.png' alt='{W}'/><span>{W}</span></span> is white, an object with a mana cost of <span class='symbol'><img title={2} src='/symbols/2.png' alt='{2}'/><span>{2}</span></span> is colorless, and one with a mana cost of <span class='symbol'><img title={2} src='/symbols/2.png' alt='{2}'/><span>{2}</span></span><span class='symbol'><img title={W} src='/symbols/W.png' alt='{W}'/><span>{W}</span></span><span class='symbol'><img title={B} src='/symbols/B.png' alt='{B}'/><span>{B}</span></span> is both white and black.
             </blockquote>
         <h4 id="2b">
             <a href="#2b" class="anchor-heading" aria-labelledby="2b">
@@ -536,7 +544,7 @@
             202.3. The converted mana cost of an object is a number equal to the total amount of mana in its mana cost, regardless of color.
         </h3>
             <blockquote>
-            Example: A mana cost of {3}{U}{U} translates to a converted mana cost of 5.
+            Example: A mana cost of <span class='symbol'><img title={3} src='/symbols/3.png' alt='{3}'/><span>{3}</span></span><span class='symbol'><img title={U} src='/symbols/U.png' alt='{U}'/><span>{U}</span></span><span class='symbol'><img title={U} src='/symbols/U.png' alt='{U}'/><span>{U}</span></span> translates to a converted mana cost of 5.
             </blockquote>
         <h4 id="3a">
             <a href="#3a" class="anchor-heading" aria-labelledby="3a">
@@ -557,13 +565,13 @@
             202.3b The converted mana cost of a transforming double-faced permanent’s back face is calculated as though it had the mana cost of its front face. If a permanent is a copy of the back face of a transforming double-faced card (even if the card representing that copy is itself a double-faced card), the converted mana cost of that permanent is 0.
         </h4>
             <blockquote>
-            Example: Huntmaster of the Fells is a transforming double-faced card with mana cost {2}{R}{G}. Its converted mana cost is 4. After it transforms to its other face (Ravager of the Fells), its converted mana cost remains 4.
+            Example: Huntmaster of the Fells is a transforming double-faced card with mana cost <span class='symbol'><img title={2} src='/symbols/2.png' alt='{2}'/><span>{2}</span></span><span class='symbol'><img title={R} src='/symbols/R.png' alt='{R}'/><span>{R}</span></span><span class='symbol'><img title={G} src='/symbols/G.png' alt='{G}'/><span>{G}</span></span>. Its converted mana cost is 4. After it transforms to its other face (Ravager of the Fells), its converted mana cost remains 4.
             </blockquote>
             <blockquote>
             Example: A Clone enters the battlefield as a copy of Ravager of the Fells. Its converted mana cost is 0.
             </blockquote>
             <blockquote>
-            Example: Insectile Aberration is the back face of a transforming double-faced card whose front face has mana cost {U}. It becomes a copy of Ravager of the Fells. Its converted mana cost becomes 0.
+            Example: Insectile Aberration is the back face of a transforming double-faced card whose front face has mana cost <span class='symbol'><img title={U} src='/symbols/U.png' alt='{U}'/><span>{U}</span></span>. It becomes a copy of Ravager of the Fells. Its converted mana cost becomes 0.
             </blockquote>
         <h4 id="3c">
             <a href="#3c" class="anchor-heading" aria-labelledby="3c">
@@ -590,7 +598,7 @@
                 </svg>
             </a>
             
-            202.3e When calculating the converted mana cost of an object with an {X} in its mana cost, X is treated as 0 while the object is not on the stack, and X is treated as the number chosen for it while the object is on the stack.
+            202.3e When calculating the converted mana cost of an object with an <span class='symbol'><img title={X} src='/symbols/X.png' alt='{X}'/><span>{X}</span></span> in its mana cost, X is treated as 0 while the object is not on the stack, and X is treated as the number chosen for it while the object is on the stack.
         </h4>
         <h4 id="3f">
             <a href="#3f" class="anchor-heading" aria-labelledby="3f">
@@ -602,10 +610,10 @@
             202.3f When calculating the converted mana cost of an object with a hybrid mana symbol in its mana cost, use the largest component of each hybrid symbol.
         </h4>
             <blockquote>
-            Example: The converted mana cost of a card with mana cost {1}{W/U}{W/U} is 3.
+            Example: The converted mana cost of a card with mana cost <span class='symbol'><img title={1} src='/symbols/1.png' alt='{1}'/><span>{1}</span></span><span class='symbol'><img title={W/U} src='/symbols/WU.png' alt='{W/U}'/><span>{W/U}</span></span><span class='symbol'><img title={W/U} src='/symbols/WU.png' alt='{W/U}'/><span>{W/U}</span></span> is 3.
             </blockquote>
             <blockquote>
-            Example: The converted mana cost of a card with mana cost {2/B}{2/B}{2/B} is 6.
+            Example: The converted mana cost of a card with mana cost <span class='symbol'><img title={2/B} src='/symbols/2B.png' alt='{2/B}'/><span>{2/B}</span></span><span class='symbol'><img title={2/B} src='/symbols/2B.png' alt='{2/B}'/><span>{2/B}</span></span><span class='symbol'><img title={2/B} src='/symbols/2B.png' alt='{2/B}'/><span>{2/B}</span></span> is 6.
             </blockquote>
         <h4 id="3g">
             <a href="#3g" class="anchor-heading" aria-labelledby="3g">
@@ -617,7 +625,7 @@
             202.3g Each Phyrexian mana symbol in a card’s mana cost contributes 1 to its converted mana cost.
         </h4>
             <blockquote>
-            Example: The converted mana cost of a card with mana cost {1}{W/P}{W/P} is 3.
+            Example: The converted mana cost of a card with mana cost <span class='symbol'><img title={1} src='/symbols/1.png' alt='{1}'/><span>{1}</span></span><span class='symbol'><img title={W/P} src='/symbols/WP.png' alt='{W/P}'/><span>{W/P}</span></span><span class='symbol'><img title={W/P} src='/symbols/WP.png' alt='{W/P}'/><span>{W/P}</span></span> is 3.
             </blockquote>
         <h3 id="4">
             <a href="#4" class="anchor-heading" aria-labelledby="4">

@@ -411,6 +411,13 @@
                 <div id="search-results" class="search-results"></div>
             </div>
         
+        <div class="symbol-switch">
+            Mostrar símbolos
+            <label class="switch">
+                <input type="checkbox" checked onchange="jtd.updateSymbols(event)">
+                <span class="slider round"></span>
+            </label>
+        </div>
         
         
     </div>
@@ -419,7 +426,8 @@
             <nav aria-label="Breadcrumb" class="breadcrumb-nav">
                     <ol class="breadcrumb-nav-list">
                         
-                            <li class="breadcrumb-nav-list-item"><a href="/regras/cr/">Regras Abrangentes</a></li>
+                            <li class="breadcrumb-nav-list-item"><a
+                                    href="/regras/cr/">Regras Abrangentes</a></li>
                             <li class="breadcrumb-nav-list-item"><a href="/regras/cr/7/">7. Regras Adicionais</a>
                             </li>
                         
@@ -1823,7 +1831,7 @@
                 </svg>
             </a>
             
-            701.36a “Investigate” means “Create a colorless Clue artifact token with ‘{2}, Sacrifice this artifact: Draw a card.’”
+            701.36a “Investigate” means “Create a colorless Clue artifact token with ‘<span class='symbol'><img title={2} src='/symbols/2.png' alt='{2}'/><span>{2}</span></span>, Sacrifice this artifact: Draw a card.’”
         </h4>
         <h3 id="37">
             <a href="#37" class="anchor-heading" aria-labelledby="37">

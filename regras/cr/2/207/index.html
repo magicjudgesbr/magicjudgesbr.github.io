@@ -411,6 +411,13 @@
                 <div id="search-results" class="search-results"></div>
             </div>
         
+        <div class="symbol-switch">
+            Mostrar símbolos
+            <label class="switch">
+                <input type="checkbox" checked onchange="jtd.updateSymbols(event)">
+                <span class="slider round"></span>
+            </label>
+        </div>
         
         
     </div>
@@ -419,7 +426,8 @@
             <nav aria-label="Breadcrumb" class="breadcrumb-nav">
                     <ol class="breadcrumb-nav-list">
                         
-                            <li class="breadcrumb-nav-list-item"><a href="/regras/cr/">Regras Abrangentes</a></li>
+                            <li class="breadcrumb-nav-list-item"><a
+                                    href="/regras/cr/">Regras Abrangentes</a></li>
                             <li class="breadcrumb-nav-list-item"><a href="/regras/cr/2/">2. Partes de um Card</a>
                             </li>
                         
@@ -494,7 +502,7 @@
                 </svg>
             </a>
             
-            207.4. The chaos symbol {CHAOS} appears in the text box of each plane card to the left of a triggered ability that triggers whenever {CHAOS} is rolled on the planar die. The symbol itself has no special rules meaning.
+            207.4. The chaos symbol <span class='symbol'><img title={CHAOS} src='/symbols/CHAOS.png' alt='{CHAOS}'/><span>{CHAOS}</span></span> appears in the text box of each plane card to the left of a triggered ability that triggers whenever <span class='symbol'><img title={CHAOS} src='/symbols/CHAOS.png' alt='{CHAOS}'/><span>{CHAOS}</span></span> is rolled on the planar die. The symbol itself has no special rules meaning.
         </h3>
 
             

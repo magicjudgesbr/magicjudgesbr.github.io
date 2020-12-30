@@ -411,6 +411,13 @@
                 <div id="search-results" class="search-results"></div>
             </div>
         
+        <div class="symbol-switch">
+            Mostrar símbolos
+            <label class="switch">
+                <input type="checkbox" checked onchange="jtd.updateSymbols(event)">
+                <span class="slider round"></span>
+            </label>
+        </div>
         
         
     </div>
@@ -419,7 +426,8 @@
             <nav aria-label="Breadcrumb" class="breadcrumb-nav">
                     <ol class="breadcrumb-nav-list">
                         
-                            <li class="breadcrumb-nav-list-item"><a href="/regras/cr/">Regras Abrangentes</a></li>
+                            <li class="breadcrumb-nav-list-item"><a
+                                    href="/regras/cr/">Regras Abrangentes</a></li>
                             <li class="breadcrumb-nav-list-item"><a href="/regras/cr/7/">7. Regras Adicionais</a>
                             </li>
                         
@@ -464,10 +472,10 @@
             702.1b An effect that grants an object a keyword ability may define a variable in that ability based on characteristics of that object or other information about the game state. For these abilities, the value of that variable is constantly reevaluated.
         </h4>
             <blockquote>
-            Example: Volcano Hellion has the ability “Volcano Hellion has echo {X}, where X is your life total.” If your life total is 10 when Volcano Hellion’s echo ability triggers but 5 when it resolves, the echo cost to pay is {5}.
+            Example: Volcano Hellion has the ability “Volcano Hellion has echo <span class='symbol'><img title={X} src='/symbols/X.png' alt='{X}'/><span>{X}</span></span>, where X is your life total.” If your life total is 10 when Volcano Hellion’s echo ability triggers but 5 when it resolves, the echo cost to pay is <span class='symbol'><img title={5} src='/symbols/5.png' alt='{5}'/><span>{5}</span></span>.
             </blockquote>
             <blockquote>
-            Example: Fire//Ice is a split card whose halves have the mana costs {1}{R} and {1}{U}. Past in Flames reads “Each instant and sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost.” Fire//Ice has “Flashback {2}{U}{R}” while it is in your graveyard, but if you choose to cast Fire, the resulting spell has “Flashback {1}{R}.”
+            Example: Fire//Ice is a split card whose halves have the mana costs <span class='symbol'><img title={1} src='/symbols/1.png' alt='{1}'/><span>{1}</span></span><span class='symbol'><img title={R} src='/symbols/R.png' alt='{R}'/><span>{R}</span></span> and <span class='symbol'><img title={1} src='/symbols/1.png' alt='{1}'/><span>{1}</span></span><span class='symbol'><img title={U} src='/symbols/U.png' alt='{U}'/><span>{U}</span></span>. Past in Flames reads “Each instant and sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost.” Fire//Ice has “Flashback <span class='symbol'><img title={2} src='/symbols/2.png' alt='{2}'/><span>{2}</span></span><span class='symbol'><img title={U} src='/symbols/U.png' alt='{U}'/><span>{U}</span></span><span class='symbol'><img title={R} src='/symbols/R.png' alt='{R}'/><span>{R}</span></span>” while it is in your graveyard, but if you choose to cast Fire, the resulting spell has “Flashback <span class='symbol'><img title={1} src='/symbols/1.png' alt='{1}'/><span>{1}</span></span><span class='symbol'><img title={R} src='/symbols/R.png' alt='{R}'/><span>{R}</span></span>.”
             </blockquote>
         <h4 id="1c">
             <a href="#1c" class="anchor-heading" aria-labelledby="1c">
@@ -1631,7 +1639,7 @@
             702.23a Cumulative upkeep is a triggered ability that imposes an increasing cost on a permanent. “Cumulative upkeep [cost]” means “At the beginning of your upkeep, if this permanent is on the battlefield, put an age counter on this permanent. Then you may pay [cost] for each age counter on it. If you don’t, sacrifice it.” If [cost] has choices associated with it, each choice is made separately for each age counter, then either the entire set of costs is paid, or none of them is paid. Partial payments aren’t allowed.
         </h4>
             <blockquote>
-            Example: A creature has “Cumulative upkeep {W} or {U}” and two age counters on it. When its ability next triggers and resolves, the creature’s controller puts an age counter on it and then may pay {W}{W}{W}, {W}{W}{U}, {W}{U}{U}, or {U}{U}{U} to keep the creature on the battlefield.
+            Example: A creature has “Cumulative upkeep <span class='symbol'><img title={W} src='/symbols/W.png' alt='{W}'/><span>{W}</span></span> or <span class='symbol'><img title={U} src='/symbols/U.png' alt='{U}'/><span>{U}</span></span>” and two age counters on it. When its ability next triggers and resolves, the creature’s controller puts an age counter on it and then may pay <span class='symbol'><img title={W} src='/symbols/W.png' alt='{W}'/><span>{W}</span></span><span class='symbol'><img title={W} src='/symbols/W.png' alt='{W}'/><span>{W}</span></span><span class='symbol'><img title={W} src='/symbols/W.png' alt='{W}'/><span>{W}</span></span>, <span class='symbol'><img title={W} src='/symbols/W.png' alt='{W}'/><span>{W}</span></span><span class='symbol'><img title={W} src='/symbols/W.png' alt='{W}'/><span>{W}</span></span><span class='symbol'><img title={U} src='/symbols/U.png' alt='{U}'/><span>{U}</span></span>, <span class='symbol'><img title={W} src='/symbols/W.png' alt='{W}'/><span>{W}</span></span><span class='symbol'><img title={U} src='/symbols/U.png' alt='{U}'/><span>{U}</span></span><span class='symbol'><img title={U} src='/symbols/U.png' alt='{U}'/><span>{U}</span></span>, or <span class='symbol'><img title={U} src='/symbols/U.png' alt='{U}'/><span>{U}</span></span><span class='symbol'><img title={U} src='/symbols/U.png' alt='{U}'/><span>{U}</span></span><span class='symbol'><img title={U} src='/symbols/U.png' alt='{U}'/><span>{U}</span></span> to keep the creature on the battlefield.
             </blockquote>
             <blockquote>
             Example: A creature has “Cumulative upkeep—Sacrifice a creature” and one age counter on it. When its ability next triggers and resolves, its controller can’t choose the same creature to sacrifice twice. Either two different creatures must be sacrificed, or the creature with cumulative upkeep must be sacrificed.
@@ -2205,7 +2213,7 @@ card com reciclar-tipo.
                 </svg>
             </a>
             
-            702.36a Morph is a static ability that functions in any zone from which you could play the card it’s on, and the morph effect works any time the card is face down. “Morph [cost]” means “You may cast this card as a 2/2 face-down creature with no text, no name, no subtypes, and no mana cost by paying {3} rather than paying its mana cost.” (See rule <a href='/regras/cr/7/707'>707</a>, “Face-Down Spells and Permanents.”)
+            702.36a Morph is a static ability that functions in any zone from which you could play the card it’s on, and the morph effect works any time the card is face down. “Morph [cost]” means “You may cast this card as a 2/2 face-down creature with no text, no name, no subtypes, and no mana cost by paying <span class='symbol'><img title={3} src='/symbols/3.png' alt='{3}'/><span>{3}</span></span> rather than paying its mana cost.” (See rule <a href='/regras/cr/7/707'>707</a>, “Face-Down Spells and Permanents.”)
         </h4>
         <h4 id="36b">
             <a href="#36b" class="anchor-heading" aria-labelledby="36b">
@@ -2214,7 +2222,7 @@ card com reciclar-tipo.
                 </svg>
             </a>
             
-            702.36b Megamorph is a variant of the morph ability. “Megamorph [cost]” means “You may cast this card as a 2/2 face-down creature with no text, no name, no subtypes, and no mana cost by paying {3} rather than paying its mana cost” and “As this permanent is turned face up, put a +1/+1 counter on it if its megamorph cost was paid to turn it face up.” A megamorph cost is a morph cost.
+            702.36b Megamorph is a variant of the morph ability. “Megamorph [cost]” means “You may cast this card as a 2/2 face-down creature with no text, no name, no subtypes, and no mana cost by paying <span class='symbol'><img title={3} src='/symbols/3.png' alt='{3}'/><span>{3}</span></span> rather than paying its mana cost” and “As this permanent is turned face up, put a +1/+1 counter on it if its megamorph cost was paid to turn it face up.” A megamorph cost is a morph cost.
         </h4>
         <h4 id="36c">
             <a href="#36c" class="anchor-heading" aria-labelledby="36c">
@@ -2223,7 +2231,7 @@ card com reciclar-tipo.
                 </svg>
             </a>
             
-            702.36c To cast a card using its morph ability, turn it face down. It becomes a 2/2 face-down creature card with no text, no name, no subtypes, and no mana cost. Any effects or prohibitions that would apply to casting a card with these characteristics (and not the face-up card’s characteristics) are applied to casting this card. These values are the copiable values of that object’s characteristics. (See rule <a href='/regras/cr/6/613'>613, “Interaction of Continuous Effects,”</a> and rule <a href='/regras/cr/7/706'>706, “Copying Objects.”</a>) Put it onto the stack (as a face-down spell with the same characteristics), and pay {3} rather than pay its mana cost. This follows the rules for paying alternative costs. You can use a morph ability to cast a card from any zone from which you could normally play it. When the spell resolves, it enters the battlefield with the same characteristics the spell had. The morph effect applies to the face-down object wherever it is, and it ends when the permanent is turned face up.
+            702.36c To cast a card using its morph ability, turn it face down. It becomes a 2/2 face-down creature card with no text, no name, no subtypes, and no mana cost. Any effects or prohibitions that would apply to casting a card with these characteristics (and not the face-up card’s characteristics) are applied to casting this card. These values are the copiable values of that object’s characteristics. (See rule <a href='/regras/cr/6/613'>613, “Interaction of Continuous Effects,”</a> and rule <a href='/regras/cr/7/706'>706, “Copying Objects.”</a>) Put it onto the stack (as a face-down spell with the same characteristics), and pay <span class='symbol'><img title={3} src='/symbols/3.png' alt='{3}'/><span>{3}</span></span> rather than pay its mana cost. This follows the rules for paying alternative costs. You can use a morph ability to cast a card from any zone from which you could normally play it. When the spell resolves, it enters the battlefield with the same characteristics the spell had. The morph effect applies to the face-down object wherever it is, and it ends when the permanent is turned face up.
         </h4>
         <h4 id="36d">
             <a href="#36d" class="anchor-heading" aria-labelledby="36d">
@@ -2358,7 +2366,7 @@ card com reciclar-tipo.
                 </svg>
             </a>
             
-            702.40a Affinity is a static ability that functions while the spell with affinity is on the stack. “Affinity for [text]” means “This spell costs you {1} less to cast for each [text] you control.”
+            702.40a Affinity is a static ability that functions while the spell with affinity is on the stack. “Affinity for [text]” means “This spell costs you <span class='symbol'><img title={1} src='/symbols/1.png' alt='{1}'/><span>{1}</span></span> less to cast for each [text] you control.”
         </h4>
         <h4 id="40b">
             <a href="#40b" class="anchor-heading" aria-labelledby="40b">
@@ -2721,7 +2729,7 @@ card com reciclar-tipo.
             702.50b The convoke ability isn’t an additional or alternative cost and applies only after the total cost of the spell with convoke is determined.
         </h4>
             <blockquote>
-            Example: Heartless Summoning says, in part, “Creature spells you cast cost {2} less to cast.” You control Heartless Summoning and cast Siege Wurm, a spell with convoke that costs {5}{G}{G}. The total cost to cast Siege Wurm is {3}{G}{G}. After activating mana abilities, you pay that total cost. You may tap up to two green creatures and up to three other creatures to pay that cost, and the remainder is paid with mana.
+            Example: Heartless Summoning says, in part, “Creature spells you cast cost <span class='symbol'><img title={2} src='/symbols/2.png' alt='{2}'/><span>{2}</span></span> less to cast.” You control Heartless Summoning and cast Siege Wurm, a spell with convoke that costs <span class='symbol'><img title={5} src='/symbols/5.png' alt='{5}'/><span>{5}</span></span><span class='symbol'><img title={G} src='/symbols/G.png' alt='{G}'/><span>{G}</span></span><span class='symbol'><img title={G} src='/symbols/G.png' alt='{G}'/><span>{G}</span></span>. The total cost to cast Siege Wurm is <span class='symbol'><img title={3} src='/symbols/3.png' alt='{3}'/><span>{3}</span></span><span class='symbol'><img title={G} src='/symbols/G.png' alt='{G}'/><span>{G}</span></span><span class='symbol'><img title={G} src='/symbols/G.png' alt='{G}'/><span>{G}</span></span>. After activating mana abilities, you pay that total cost. You may tap up to two green creatures and up to three other creatures to pay that cost, and the remainder is paid with mana.
             </blockquote>
         <h4 id="50c">
             <a href="#50c" class="anchor-heading" aria-labelledby="50c">
@@ -4185,7 +4193,7 @@ card com reciclar-tipo.
                 </svg>
             </a>
             
-            702.100a Extort is a triggered ability. “Extort” means “Whenever you cast a spell, you may pay {W/B}. If you do, each opponent loses 1 life and you gain life equal to the total life lost this way.”
+            702.100a Extort is a triggered ability. “Extort” means “Whenever you cast a spell, you may pay <span class='symbol'><img title={W/B} src='/symbols/WB.png' alt='{W/B}'/><span>{W/B}</span></span>. If you do, each opponent loses 1 life and you gain life equal to the total life lost this way.”
         </h4>
         <h4 id="100b">
             <a href="#100b" class="anchor-heading" aria-labelledby="100b">
@@ -4443,7 +4451,7 @@ card com reciclar-tipo.
                 </svg>
             </a>
             
-            702.106a Outlast is an activated ability. “Outlast [cost]” means “[Cost], {T}: Put a +1/+1 counter on this creature. Activate this ability only any time you could cast a sorcery.”
+            702.106a Outlast is an activated ability. “Outlast [cost]” means “[Cost], <span class='symbol'><img title={T} src='/symbols/T.png' alt='{T}'/><span>{T}</span></span>: Put a +1/+1 counter on this creature. Activate this ability only any time you could cast a sorcery.”
         </h4>
         <h3 id="107">
             <a href="#107" class="anchor-heading" aria-labelledby="107">
@@ -4956,7 +4964,7 @@ card com reciclar-tipo.
                 </svg>
             </a>
             
-            702.124a Undaunted is a static ability that functions while the spell with undaunted is on the stack. Undaunted means “This spell costs {1} less to cast for each opponent you have.”
+            702.124a Undaunted is a static ability that functions while the spell with undaunted is on the stack. Undaunted means “This spell costs <span class='symbol'><img title={1} src='/symbols/1.png' alt='{1}'/><span>{1}</span></span> less to cast for each opponent you have.”
         </h4>
         <h4 id="124b">
             <a href="#124b" class="anchor-heading" aria-labelledby="124b">
@@ -5334,7 +5342,7 @@ card com reciclar-tipo.
                 </svg>
             </a>
             
-            702.138a Companion is a keyword ability that functions outside the game. It’s written as “Companion—[Condition].” Before the game begins, you may reveal one card you own from outside the game with a companion ability whose condition is fulfilled by your starting deck. (See rule <a href='/regras/cr/1/103/#2b'>103.2b</a>.) Once during the game, any time you have priority and the stack is empty, but only during a main phase of your turn, you may pay {3} and put that card into your hand. This is a special action that doesn’t use the stack (see rule <a href='/regras/cr/1/116/#2g'>116.2g</a>). This is a change from previous rules.
+            702.138a Companion is a keyword ability that functions outside the game. It’s written as “Companion—[Condition].” Before the game begins, you may reveal one card you own from outside the game with a companion ability whose condition is fulfilled by your starting deck. (See rule <a href='/regras/cr/1/103/#2b'>103.2b</a>.) Once during the game, any time you have priority and the stack is empty, but only during a main phase of your turn, you may pay <span class='symbol'><img title={3} src='/symbols/3.png' alt='{3}'/><span>{3}</span></span> and put that card into your hand. This is a special action that doesn’t use the stack (see rule <a href='/regras/cr/1/116/#2g'>116.2g</a>). This is a change from previous rules.
         </h4>
         <h4 id="138b">
             <a href="#138b" class="anchor-heading" aria-labelledby="138b">

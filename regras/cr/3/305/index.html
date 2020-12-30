@@ -411,6 +411,13 @@
                 <div id="search-results" class="search-results"></div>
             </div>
         
+        <div class="symbol-switch">
+            Mostrar símbolos
+            <label class="switch">
+                <input type="checkbox" checked onchange="jtd.updateSymbols(event)">
+                <span class="slider round"></span>
+            </label>
+        </div>
         
         
     </div>
@@ -419,7 +426,8 @@
             <nav aria-label="Breadcrumb" class="breadcrumb-nav">
                     <ol class="breadcrumb-nav-list">
                         
-                            <li class="breadcrumb-nav-list-item"><a href="/regras/cr/">Regras Abrangentes</a></li>
+                            <li class="breadcrumb-nav-list-item"><a
+                                    href="/regras/cr/">Regras Abrangentes</a></li>
                             <li class="breadcrumb-nav-list-item"><a href="/regras/cr/3/">3. Tipos de Card</a>
                             </li>
                         
@@ -506,7 +514,7 @@
                 </svg>
             </a>
             
-            305.6. The basic land types are Plains, Island, Swamp, Mountain, and Forest. If an object uses the words “basic land type,” it’s referring to one of these subtypes. An object with the land card type and a basic land type has the intrinsic ability “{T}: Add [mana symbol],” even if the text box doesn’t actually contain that text or the object has no text box. For Plains, [mana symbol] is {W}; for Islands, {U}; for Swamps, {B}; for Mountains, {R}; and for Forests, {G}. See rule <a href='/regras/cr/1/107/#4a'>107.4a</a>. See also rule <a href='/regras/cr/6/605'>605, “Mana Abilities.”</a>
+            305.6. The basic land types are Plains, Island, Swamp, Mountain, and Forest. If an object uses the words “basic land type,” it’s referring to one of these subtypes. An object with the land card type and a basic land type has the intrinsic ability “<span class='symbol'><img title={T} src='/symbols/T.png' alt='{T}'/><span>{T}</span></span>: Add [mana symbol],” even if the text box doesn’t actually contain that text or the object has no text box. For Plains, [mana symbol] is <span class='symbol'><img title={W} src='/symbols/W.png' alt='{W}'/><span>{W}</span></span>; for Islands, <span class='symbol'><img title={U} src='/symbols/U.png' alt='{U}'/><span>{U}</span></span>; for Swamps, <span class='symbol'><img title={B} src='/symbols/B.png' alt='{B}'/><span>{B}</span></span>; for Mountains, <span class='symbol'><img title={R} src='/symbols/R.png' alt='{R}'/><span>{R}</span></span>; and for Forests, <span class='symbol'><img title={G} src='/symbols/G.png' alt='{G}'/><span>{G}</span></span>. See rule <a href='/regras/cr/1/107/#4a'>107.4a</a>. See also rule <a href='/regras/cr/6/605'>605, “Mana Abilities.”</a>
         </h3>
         <h3 id="7">
             <a href="#7" class="anchor-heading" aria-labelledby="7">

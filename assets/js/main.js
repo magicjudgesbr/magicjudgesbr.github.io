@@ -452,6 +452,16 @@
         cssFile.setAttribute('href', 'assets/css/main-' + theme + '.css');
     }
 
+    jtd.updateSymbols = function (event) {
+        document.querySelectorAll('.symbol').forEach((e) => {
+            if (event.target.checked) {
+                e.classList.remove('text');
+            } else {
+                e.classList.add('text');
+            }
+        })
+    }
+
     // Document ready
 
     jtd.onReady(function () {
