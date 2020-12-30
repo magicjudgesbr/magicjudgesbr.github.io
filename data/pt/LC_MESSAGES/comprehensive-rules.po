@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2020-12-29 20:18\n"
+"PO-Revision-Date: 2020-12-30 11:06\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -247,7 +247,7 @@ msgid "507. Beginning of Combat Step"
 msgstr "507. Etapa de Início de Combate"
 
 msgid "508. Declare Attackers Step"
-msgstr "502. Etapa de Declaração de Atacantes"
+msgstr "508. Etapa de Declaração de Atacantes"
 
 msgid "509. Declare Blockers Step"
 msgstr "509. Etapa de Declaração de Bloqueadores"
@@ -406,7 +406,7 @@ msgid "801. Limited Range of Influence Option"
 msgstr "801. Opção de Alcance de Influência Limitado"
 
 msgid "802. Attack Multiple Players Option"
-msgstr "802. Opção de Atacar Vários Jogadores"
+msgstr "802. Opção de Atacar Múltiplos Jogadores"
 
 msgid "803. Attack Left and Attack Right Options"
 msgstr "803. Opções de Ataque à Esquerda e Ataque à Direita"
@@ -8967,10 +8967,10 @@ msgid "To move an Aura, Equipment, or Fortification onto another object or playe
 msgstr "Mover uma Aura, Equipamento ou Fortificação para outro objeto. Veja a regra 701.3, “Anexar.”"
 
 msgid "Attack"
-msgstr ""
+msgstr "Ataque"
 
 msgid "To send a creature into combat offensively. A creature can attack a player or a planeswalker. See rule 508, “Declare Attackers Step.”"
-msgstr ""
+msgstr "Enviar uma criatura em combate ofensivamente. Uma criatura pode atacar um jogador ou um planeswalker. Veja a regra 508, “Etapa de Declaração de Atacantes.”"
 
 msgid "Attack Alone"
 msgstr "Atacar Sozinha"
@@ -8979,25 +8979,27 @@ msgid "A creature “attacks alone” if it’s the only creature declared as an
 msgstr "Uma criatura “ataca sozinha” se é a única criatura declarada como atacante durante a etapa de declaração de atacantes. Uma criatura “está atacando sozinha” se ela estiver atacando, mas nenhuma outra estiver. Veja a regra 506.5."
 
 msgid "Attack Left Option"
-msgstr ""
+msgstr "Opção de Ataque à Esquerda"
 
 msgid "An option that may be used in certain multiplayer variants. See rule 803, “Attack Left and Attack Right Options.”"
-msgstr ""
+msgstr "Uma opção que pode ser usada em certas variantes multijogador. Veja a regra 803, “Opção de Ataque à Esquerda e\n"
+"ataque à Direita.”"
 
 msgid "Attack Multiple Players Option"
-msgstr ""
+msgstr "Opção de Atacar Múltiplos Jogadores"
 
 msgid "An option that may be used in certain multiplayer variants. See rule 802, “Attack Multiple Players Option.”"
-msgstr ""
+msgstr "Uma opção que pode ser usada em certas variantes multijogador. Veja a regra 802, “Opção de Atacar Múltiplos\n"
+"Jogadores.”"
 
 msgid "Attack Right Option"
-msgstr ""
+msgstr "Opção de Ataque à Direita"
 
 msgid "Attacking Creature"
-msgstr ""
+msgstr "Criatura Atacante"
 
 msgid "A creature that has either been declared as part of a legal attack during the combat phase (once all costs to attack, if any, have been paid), or a creature that has been put onto the battlefield attacking. It remains an attacking creature until it’s removed from combat or the combat phase ends, whichever comes first. See rule 508, “Declare Attackers Step.”"
-msgstr ""
+msgstr "Uma criatura que foi declarada como parte de um ataque válido durante a fase de combate (uma vez que todos os custos para o ataque, se for o caso, tenham sido pagos), ou uma criatura que foi colocada no campo de batalha atacando. Ela permanece sendo uma criatura atacante até que seja removida do combate ou a fase de combate termine, o que ocorrer primeiro. Veja a regra 508, “Etapa de Declaração de Atacantes.”"
 
 msgid "Attacking Team"
 msgstr ""
