@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2020-12-30 20:22\n"
+"PO-Revision-Date: 2021-01-05 11:39\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -9356,16 +9356,16 @@ msgid "Command"
 msgstr "Comando"
 
 msgid "A zone for certain specialized objects that have an overarching effect on the game, yet are not permanents and cannot be destroyed. See rule 408, “Command.”"
-msgstr ""
+msgstr "Uma zona para objetos específicos que tem um efeitos geral sobre o jogo, mesmo assim não são permanentes e não podem ser destruídos. Consulte a regra 408, “Comando.”"
 
 msgid "Commander"
-msgstr ""
+msgstr "Commander"
 
 msgid "1. A casual variant in which each deck is led by a legendary creature. See rule 903, “Commander.”"
-msgstr ""
+msgstr "1. Uma variante casual em que cada deck é liderado por uma criatura lendária. Veja a regra 903, “Commander.”"
 
 msgid "2. A designation given to one legendary creature card in each player’s deck in the Commander casual variant."
-msgstr ""
+msgstr "2. Uma designação dada a uma criatura lendária no deck de cada jogador na variante casual Commander."
 
 msgid "Commander Draft"
 msgstr ""
