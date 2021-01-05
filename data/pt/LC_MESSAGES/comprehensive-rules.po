@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2021-01-05 11:39\n"
+"PO-Revision-Date: 2021-01-05 12:40\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -9368,142 +9368,145 @@ msgid "2. A designation given to one legendary creature card in each player’s 
 msgstr "2. Uma designação dada a uma criatura lendária no deck de cada jogador na variante casual Commander."
 
 msgid "Commander Draft"
-msgstr ""
+msgstr "Draft de Commander"
 
 msgid "A casual variant in which players participate in a booster draft and then play multiplayer games. See rule 903.13, “Commander Draft.”"
-msgstr ""
+msgstr "Uma variante casual onde os joadores participam de um draft de boosters e então jogam partidas multijogador. Veja a regra 903.13, “Draft de Commander.”"
 
 msgid "Commander Ninjutsu"
-msgstr ""
+msgstr "Ninjutsu de Comandante"
 
 msgid "A variant of the ninjutsu ability. See rule 702.48, “Ninjutsu.”"
-msgstr ""
+msgstr "Uma variante da habilidade Ninjutsu. Veja a regra 702.48, “Ninjutsu.”"
 
 msgid "Commander Tax"
-msgstr ""
+msgstr "Taxa do Comandante"
 
 msgid "Informal term for the additional cost to cast a commander based on the number of times a player has cast it previously this game. See rule 903.8."
-msgstr ""
+msgstr "Termo informal para o custo adicional para conjurar um comandante baseado no número de vezes que um jogador já o conjurou anteriormente no jogo. Veja a regra 903.8."
 
 msgid "Companion"
-msgstr ""
+msgstr "Companheiro"
 
 msgid "A keyword ability that allows a player to choose one creature card from outside the game as a companion if the restriction of that card’s companion ability is met. Once a player has chosen a companion, that player may pay {3} to put it into their hand once during the game. See rule 702.138, “Companion.”"
-msgstr ""
+msgstr "Uma habilidade de palavra-chave que permite ao jogador escolher uma carta de criatura de fora do jogo como um companheiro se a restrição da habilidade de companheiro dessa carta for atendida. Uma vez que um jogador tenha escolhido um companheiro, ele pode pagar {3} para colocá-lo na mão uma vez durante o jogo. Veja a regra 702.138, \"Companheiro.\""
 
 msgid "Concede"
-msgstr ""
+msgstr "Conceder"
 
 msgid "To quit the game. Conceding a game immediately causes that player to leave that game and lose that game. See rule 104, “Ending the Game.”"
-msgstr ""
+msgstr "Sair do jogo. Conceder um jogo imediatamente faz com que o jogador deixe o jogo e perca aquele jogo. Veja a regra 104, “Finalizando o Jogo.”"
 
 msgid "Conspiracy"
-msgstr ""
+msgstr "Conspiracy"
 
 msgid "A card type used in Limited formats such as Conspiracy Draft. A conspiracy card is not a permanent. See rule 313, “Conspiracies.”"
-msgstr ""
+msgstr "Um tipo de card usado em formatos Limitados como Draft de Conspiracy. Um card de conspiracy não é uma\n"
+"permanente. Veja a regra 313, “Conspirações.”"
 
 msgid "Conspiracy Draft"
-msgstr ""
+msgstr "Draft de Conspiracy"
 
 msgid "A casual variant in which players participate in a booster draft and then play multiplayer games. See rule 905, “Conspiracy Draft.”"
-msgstr ""
+msgstr "Uma variante casual onde os joadores participam de um draft de boosters e então jogam partidas multijogador. Veja a regra 905, “Draft de Conspiracy.”"
 
 msgid "Conspire"
-msgstr ""
+msgstr "Conspirar"
 
 msgid "A keyword ability that creates a copy of a spell. See rule 702.77, “Conspire.”"
-msgstr ""
+msgstr "Uma palavra-chave de habilidade que cria uma cópia de uma mágica. Veja a regra 702.77, “Conspirar.”"
 
 msgid "Constructed"
-msgstr ""
+msgstr "Construído"
 
 msgid "A way of playing in which each player creates their own deck ahead of time. See rule 100.2a."
-msgstr ""
+msgstr "Uma forma de jogo em que cada jogador previamente cria seu próprio deck. Veja a regra 100.2a."
 
 msgid "Continuous Effect"
-msgstr ""
+msgstr "Efeito Contínuo"
 
 msgid "An effect that modifies characteristics of objects, modifies control of objects, or affects players or the rules of the game, for a fixed or indefinite period. See rule 611, “Continuous Effects.”"
-msgstr ""
+msgstr "Um efeito que modifica as características de objetos, modifica o controle de objetos, afeta os jogadores ou as regras do jogo, por um período determinado ou indeterminado. Veja a regra 611, “Efeitos Contínuos.”"
 
 msgid "Continuous Artifact (Obsolete)"
-msgstr ""
+msgstr "Continuous Artifact (Obsoleto)"
 
 msgid "An obsolete term that appeared on the type line of artifacts without activated abilities. Cards printed with this text have received errata in the Oracle card reference to simply say “Artifact.”"
-msgstr ""
+msgstr "Um termo obsoleto que apareceu na linha de tipo de artefatos sem habilidades ativadas. Cards impressos com este texto receberam errata na referência de cards Oracle para simplesmente dizer “Artefato.”"
 
 msgid "Control, Controller"
-msgstr ""
+msgstr "Controle, Controlador"
 
 msgid "“Control” is the system that determines who gets to use an object in the game. An object’s “controller” is the player who currently controls it. See rule 108.4."
-msgstr ""
+msgstr "“Controle” é o sistema que determina quem pode usar um objeto no jogo. O “controlador” de um objeto é o jogador que atualmente controla ele. Veja a regra 108.4."
 
 msgid "Control Another Player"
-msgstr ""
+msgstr "Controlar Outro Jogador"
 
 msgid "To make all choices and decisions that player is allowed to make, or is told to make, by rules or by any objects. See rule 716, “Controlling Another Player.”"
-msgstr ""
+msgstr "Fazer todas as escolhas e tomar todas as decisões que um jogador deve fazer, ou é pedido que faça, por regras ou por quaisquer objetos. Veja a regra 716, “Controlando Outro Jogador.”"
 
 msgid "Converted Mana Cost"
-msgstr ""
+msgstr "Custo de Mana Convertido"
 
 msgid "The total amount of mana in a mana cost, regardless of color. See rule 202.3."
-msgstr ""
+msgstr "A quantidade total de mana em um custo de mana, independentemente da cor. Veja a regra 202.3."
 
 msgid "Convoke"
-msgstr ""
+msgstr "Convocar (Convoke)"
 
 msgid "A keyword ability that lets you tap creatures rather than pay mana to cast a spell. See rule 702.50, “Convoke.”"
-msgstr ""
+msgstr "Uma palavra-chave de habilidade que permite virar uma criatura em vez de pagar mana para conjurar uma mágica.\n"
+"Veja a regra 702.50, “Convocar.”"
 
 msgid "Copiable Values"
-msgstr ""
+msgstr "Valores Copiáveis"
 
 msgid "Values of an object’s characteristics that are checked by copy effects. See rules 613.2, 706.2, and 706.3."
-msgstr ""
+msgstr "Valores das características de um objeto que são conferidos por efeitos de copiar. Veja as regras 613.2, 706.2, e 706.3."
 
 msgid "Copy"
-msgstr ""
+msgstr "Copiar"
 
 msgid "1. To create a new object whose copiable values have been set to those of another object."
-msgstr ""
+msgstr "1. Criar um novo objeto cujos valores copiáveis foram definidos como os mesmos de outro objeto."
 
 msgid "2. An object whose copiable values have been set to those of another object."
-msgstr ""
+msgstr "2. Um objeto cujos valores copiáveis foram definidos como os mesmos de outro objeto."
 
 msgid "See rule 706, “Copying Objects.”"
-msgstr ""
+msgstr "Veja a regra 706, “Copiando objetos.”"
 
 msgid "Cost"
-msgstr ""
+msgstr "Custo"
 
 msgid "An action or payment necessary to take another action or to stop another action from taking place. See rule 118, “Costs.”"
-msgstr ""
+msgstr "Uma ação ou pagamento necessário para fazer outra ação ou parar outra ação em curso. Veja a regra 118, “Custos.”"
 
 msgid "Counter"
-msgstr ""
+msgstr "Anular"
 
 msgid "1. To cancel a spell or ability so it doesn’t resolve and none of its effects occur. See rule 701.5, “Counter.”"
-msgstr ""
+msgstr "Cancelar uma mágica ou habilidade de forma que ela não resolva e que nenhum de seus efeitos ocorra. Veja a regra 701.5, “Anular.”"
 
 msgid "2. A marker placed on an object or player that modifies its characteristics or interacts with a rule or ability. See rule 122, “Counters.”"
 msgstr ""
 
 msgid "Counts As (Obsolete)"
-msgstr ""
+msgstr "Conta Como (Obsoleto)"
 
 msgid "Some older cards were printed with text stating that the card “counts as” something. Cards printed with this text have received errata in the Oracle card reference to state that the card actually is that thing."
-msgstr ""
+msgstr "Alguns cards antigos foram impressos com um texto informando que o card “conta como” alguma coisa. Os cards\n"
+"impressos com este texto receberam errata na referência de cards Oracle para afirmar que o card é realmente essa coisa."
 
 msgid "Create"
-msgstr ""
+msgstr "Criar"
 
 msgid "To create a token is to put a token onto the battlefield. See rule 701.6, “Create.”"
-msgstr ""
+msgstr "Criar uma ficha é colocar uma ficha no campo de batalha. Veja a regra 701.6, “Criar.”"
 
 msgid "Creature"
-msgstr ""
+msgstr "Criatura"
 
 msgid "A card type. A creature is a permanent. See rule 302, “Creatures.”"
 msgstr "Um tipo de card. Uma criatura é uma permanente. Veja a regra 302, “Criaturas.”"
@@ -9627,28 +9630,29 @@ msgid "A keyword ability that lets you exile cards from your graveyard rather th
 msgstr "Uma palavra-chave de habilidade que permite que se exile cards ao invés de pagar mana genérico para conjurar uma mágica. Veja a regra 702.65, “Esquadrinhar.”"
 
 msgid "Dependency"
-msgstr ""
+msgstr "Dependência"
 
 msgid "A system that may be used to determine in which order continuous effects in the same layer or sublayer are applied. See rule 613.8. See also Timestamp Order."
-msgstr ""
+msgstr "Um sistema que pode ser usado para determinar em que ordem os efeitos contínuos na mesma camada ou sub-camada são aplicados. Veja a regra 613.8. Veja também a Ordem de Timestamp."
 
 msgid "Deploy Creatures Option"
-msgstr ""
+msgstr "Opção de Realocação de Criaturas"
 
 msgid "An option that may be used in certain multiplayer variants to pass control of creatures between teammates. See rule 804, “Deploy Creatures Option.”"
-msgstr ""
+msgstr "Uma opção que pode ser usada em certas variantes multijogador para passar o controle das criaturas entre companheiros de equipe. Veja a regra 804, “Opção de Realocação de Criaturas.”"
 
 msgid "Destroy"
-msgstr ""
+msgstr "Destruir"
 
 msgid "To move a permanent from the battlefield to its owner’s graveyard. See rule 701.7, “Destroy.”"
-msgstr ""
+msgstr "Mover uma permanente do campo de batalha para o cemitério de seu dono. Veja a regra 701.7, “Destruir.”"
 
 msgid "Detain"
-msgstr ""
+msgstr "Deter (Detain)"
 
 msgid "A keyword action that temporarily stops a permanent from attacking, blocking, or having its activated abilities activated. See rule 701.29, “Detain.”"
-msgstr ""
+msgstr "Uma palavra-chave de habilidade que temporariamente impede uma permanente de atacar, bloquear ou ter suas\n"
+"habilidades ativadas. Veja a regra 701.29, “Deter.”"
 
 msgid "Dethrone"
 msgstr ""
@@ -9798,25 +9802,27 @@ msgid "Enchant"
 msgstr ""
 
 msgid "A keyword ability that defines what an Aura spell can target and what an Aura permanent can be attached to. See rule 303, “Enchantments,” and rule 702.5, “Enchant.”"
-msgstr ""
+msgstr "Uma palavra-chave de habilidade que define o que uma mágica de Aura pode ter como alvo e no que uma permanente Aura pode ser anexada. Veja a regra 303, “Encantamentos,” e a regra 702.5, “Encantar.”"
 
 msgid "Enchantment"
-msgstr ""
+msgstr "Encantamento"
 
 msgid "A card type. An enchantment is a permanent. See rule 303, “Enchantments.” See also Aura."
-msgstr ""
+msgstr "Um tipo de card. Um encantamento é uma permanente. Veja a regra 303, “Encantamentos.” Veja também Aura."
 
 msgid "Enchantment Type"
-msgstr ""
+msgstr "Tipo de Encantamento"
 
 msgid "A subtype that’s correlated to the enchantment card type. See rule 303, “Enchantments.” See rule 205.3h for the list of enchantment types."
-msgstr ""
+msgstr "Um subtipo que correlacionado com o tipo de card encantamento. Veja a regra 303, “Encantamentos.” Veja a regra\n"
+"205.3h para a lista de tipos de encantamento."
 
 msgid "Encoded"
-msgstr ""
+msgstr "Cifrado"
 
 msgid "A term that describes the relationship between a permanent and a card exiled by a cipher ability. See rule 702.98, “Cipher.”"
-msgstr ""
+msgstr "Um termo que descreve a relação entre uma permanente e o card exilado por uma habilidade de Cifrar. Veja a regra\n"
+"702.98, “Cifrar”."
 
 msgid "Encore"
 msgstr ""
