@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2021-01-05 12:40\n"
+"PO-Revision-Date: 2021-01-05 19:53\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -9655,106 +9655,109 @@ msgstr "Uma palavra-chave de habilidade que temporariamente impede uma permanent
 "habilidades ativadas. Veja a regra 701.29, “Deter.”"
 
 msgid "Dethrone"
-msgstr ""
+msgstr "Dethrone"
 
 msgid "A keyword ability that puts a +1/+1 counter on a creature when it attacks the player with the most life. See rule 702.104, “Dethrone.”"
-msgstr ""
+msgstr "Uma palavra-chave de habilidade que coloca um marcador +1/+1 em uma criatura quando ela ataca o jogador com mais vida. Veja a regra 702.104, “Dethrone”."
 
 msgid "Devoid"
-msgstr ""
+msgstr "Desprovido (Devoid)"
 
 msgid "A characteristic-defining ability that makes an object colorless. See rule 702.113, “Devoid.”"
-msgstr ""
+msgstr "Uma habilidade definidora de característica que deixa um objeto incolor. Veja a regra 702.113, “Desprovido”."
 
 msgid "Devotion"
-msgstr ""
+msgstr "Devoção (Devotion)"
 
 msgid "A numerical value a player has, equal to the number of mana symbols of a certain color among the mana costs of permanents that player controls. See rule 700.5."
-msgstr ""
+msgstr "Um valor numérico que o jogador tem, igual ao número de símbolos de mana de uma certa cor entre os custos de mana das permanentes que aquele jogador controla. Veja a regra 700.5."
 
 msgid "Devour"
-msgstr ""
+msgstr "Devorar (Devour)"
 
 msgid "A keyword ability that can have a creature enter the battlefield with +1/+1 counters on it. See rule 702.81, “Devour.”"
-msgstr ""
+msgstr "Uma palavra-chave de habilidade que pode fazer com que uma criatura entre no campo de batalha com marcadores +1/+1 sobre ela. Veja a regra 702.81, “Devorar”."
 
 msgid "Dies"
-msgstr ""
+msgstr "Morrer"
 
 msgid "A creature or planeswalker “dies” if it is put into a graveyard from the battlefield. See rule 700.4."
-msgstr ""
+msgstr "Uma criatura ou planeswalker “morre” se ela é colocada no cemitério vinda do campo de batalha. Veja a regra 700.4."
 
 msgid "Discard"
-msgstr ""
+msgstr "Descartar"
 
 msgid "To move a card from its owner’s hand to that player’s graveyard. See rule 701.8, “Discard.”"
-msgstr ""
+msgstr "Mover um card da mão de seu dono para o cemitério daquele jogador. Veja a regra 701.8, “Descartar”."
 
 msgid "Double Agenda"
-msgstr ""
+msgstr "Double Agenda"
 
 msgid "A variant of the hidden agenda ability. See rule 702.105, “Hidden Agenda.”"
-msgstr ""
+msgstr "Uma variante da habilidade hidden agenda. Veja a regra 702.105, “Hidden Agenda”."
 
 msgid "Double Strike"
-msgstr ""
+msgstr "Golpe Duplo (Double Strike)"
 
 msgid "A keyword ability that lets a creature deal its combat damage twice. See rule 702.4, “Double Strike.”"
-msgstr ""
+msgstr "Uma palavra-chave de habilidade que permite a uma grande criatura causar dano de combate duas vezes. Veja a regra 702.4, “Golpe Duplo”."
 
 msgid "Double-Faced Cards"
-msgstr ""
+msgstr "Card Dupla Face"
 
 msgid "Cards with two faces, one on each side of the card, and no Magic card back. See rule 711, “Double-Faced Cards.”"
-msgstr ""
+msgstr "Cards com duas faces, uma de cada lado do card, e sem o fundo tradicional dos cards de Magic. Veja a regra 711,\n"
+"“Cards com Dupla Face”."
 
 msgid "Draft"
-msgstr ""
+msgstr "Draft"
 
 msgid "1. A Limited format in which players choose cards one at a time from booster packs, then construct a deck solely from the chosen cards and basic land cards."
-msgstr ""
+msgstr "1. Um formato Limitado onde jogadores escolhem cards um de cada vez de boosters, então constroem um deck somente com os cards escolhidos mais cards de terrenos básicos."
 
 msgid "2. To choose a card during a draft and put it into your card pool."
-msgstr ""
+msgstr "2. Escolher um card durante um draft e colocá-lo em sua card pool."
 
 msgid "Draft Round"
-msgstr ""
+msgstr "Rodada de Draft"
 
 msgid "Part of a draft in which each player opens an unopened booster pack and the cards in those booster packs are drafted. See rules 905.1a and 905.1b."
-msgstr ""
+msgstr "Parte de um draft on os jogadores abrem boosters não abertos e os cards naquele booster serão selecioandos no draft. Veja as regras 905.1a e 905.1b."
 
 msgid "Draw"
-msgstr ""
+msgstr "Comprar"
 
 msgid "1. To put the top card of a player’s library into their hand as a turn-based action or as the result of an effect that uses the word “draw.” See rule 121, “Drawing a Card.”"
-msgstr ""
+msgstr "Colocar o card do topo do grimório do jogador em sua mão como uma ação baseada-no-turno ou como resultado de um efeito que usa a palavra “comprar”. Veja a regra 121, “Comprando um Card”."
 
 msgid "2. The result of a game in which neither player wins or loses. See rule 104.4."
 msgstr ""
 
 msgid "Draw Step"
-msgstr ""
+msgstr "Etapa de Compra"
 
 msgid "Part of the turn. This step is the third and final step of the beginning phase. See rule 504, “Draw Step.”"
-msgstr ""
+msgstr "Parte do turno. Esta é a terceira e última etapa da fase inicial. Veja a regra 504, “Etapa de Compra”."
 
 msgid "Dredge"
-msgstr ""
+msgstr "Escavação (Dredge)"
 
 msgid "A keyword ability that lets a player return a card from their graveyard to their hand. See rule 702.51, “Dredge.”"
-msgstr ""
+msgstr "Uma palavra-chave de habilidade que permite a um jogador devolver um card de seu cemitério para sua mão. Veja\n"
+"a regra 702.51, “Escavação”."
 
 msgid "During (Obsolete)"
-msgstr ""
+msgstr "Durante (Obsoleto)"
 
 msgid "Some older cards used the phrase “during [phase], [action].” These abilities were called “phase abilities.” In general, cards that were printed with phase abilities have received errata in the Oracle card reference so they have abilities that trigger at the beginning of a step or phase. “During” still appears in current card text, but only in its normal English sense and not as game terminology."
-msgstr ""
+msgstr "Alguns cards antigos usavam a frase “durante [a fase], [ação]”. Estas habilidades eram chamadas de “habilidades de fase”. Em geral, os cards que foram impressos com habilidades de fase receberam errata na referência de cards Oracle para que eles tenham habilidades que desencadeiam no início de uma etapa ou fase. “Durante” ainda aparece no texto de cards atuais, mas apenas no seu sentido normal em Português e não como terminologia do jogo."
 
 msgid "Echo"
-msgstr ""
+msgstr "Eco (Echo)"
 
 msgid "A keyword ability that imposes a cost to keep a permanent on the battlefield. See rule 702.29, “Echo.”"
-msgstr ""
+msgstr "Uma palavra-chave de habilidade que impõe um custo para manter uma permanente no campo de batalha. Veja a\n"
+"regra 702.29, “Eco”."
 
 msgid "EDH (Obsolete)"
 msgstr ""
