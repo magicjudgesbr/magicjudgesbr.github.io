@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2021-01-06 11:07\n"
+"PO-Revision-Date: 2021-01-06 12:09\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -9775,13 +9775,14 @@ msgid "Embalm"
 msgstr "Embalsamar (Embalm)"
 
 msgid "A keyword ability that lets a player exile a creature card from their graveyard to create a mummified token version of that card. See rule 702.127, “Embalm.”"
-msgstr ""
+msgstr "Uma palavra-chave de habilidade que permite ao jogador exilar um card de criatura de seu cemitério para criar uma\n"
+"versão token mumificada daquele card. Veja a regra 702.127, “Embalsamar”."
 
 msgid "Emblem"
-msgstr ""
+msgstr "Emblema"
 
 msgid "An emblem is a marker used to represent an object that has one or more abilities, but no other characteristics. See rule 114, “Emblems.”"
-msgstr ""
+msgstr "Um emblema é um marcador usado para representar um objeto que possui uma ou mais habilidades e não possui outras características. Veja a regra 114, “Emblemas”."
 
 msgid "Emerge"
 msgstr ""
