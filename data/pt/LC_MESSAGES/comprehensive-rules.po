@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2021-01-06 12:09\n"
+"PO-Revision-Date: 2021-01-06 15:00\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -9785,25 +9785,25 @@ msgid "An emblem is a marker used to represent an object that has one or more ab
 msgstr "Um emblema é um marcador usado para representar um objeto que possui uma ou mais habilidades e não possui outras características. Veja a regra 114, “Emblemas”."
 
 msgid "Emerge"
-msgstr ""
+msgstr "Emergir (Emerge)"
 
 msgid "A keyword ability that lets a player cast a spell for less by sacrificing a creature. See rule 702.118, “Emerge.”"
-msgstr ""
+msgstr "Uma palavra-chave de habilidade que permite ao jogador conjurar uma mágica por um custo menor ao sacrificar uma criatura. Veja a regra 702.118, “Emergir”."
 
 msgid "Emperor"
-msgstr ""
+msgstr "Imperador"
 
 msgid "The middle player on each team in an Emperor game. See rule 809, “Emperor Variant.”"
-msgstr ""
+msgstr "O jogador do meio de cada equipe num jogo de Imperador. Veja a regra 809, “Variante Imperador”."
 
 msgid "Emperor Variant"
-msgstr ""
+msgstr "Variante Imperador"
 
 msgid "A multiplayer variant played among three-player teams. See rule 809, “Emperor Variant.”"
-msgstr ""
+msgstr "Uma variante multijogador jogada entre equipes de três jogadores. Veja a regra 809, “Variante Imperador”."
 
 msgid "Enchant"
-msgstr ""
+msgstr "Encantar"
 
 msgid "A keyword ability that defines what an Aura spell can target and what an Aura permanent can be attached to. See rule 303, “Enchantments,” and rule 702.5, “Enchant.”"
 msgstr "Uma palavra-chave de habilidade que define o que uma mágica de Aura pode ter como alvo e no que uma permanente Aura pode ser anexada. Veja a regra 303, “Encantamentos,” e a regra 702.5, “Encantar.”"
@@ -9829,37 +9829,37 @@ msgstr "Um termo que descreve a relação entre uma permanente e o card exilado 
 "702.98, “Cifrar”."
 
 msgid "Encore"
-msgstr ""
+msgstr "Bis (Encore)"
 
 msgid "A keyword ability that lets a player exile a creature card from their graveyard to, for each opponent, create a token that’s a copy of that card to attack that opponent."
-msgstr ""
+msgstr "Uma palavra-chave de habilidade que permite o jogador exilar um card de criatura do seu cemitério para, pra cada oponente, criar um token que é uma cópia daquele card para atacar o oponente."
 
 msgid "Encounter"
-msgstr ""
+msgstr "Defrontar (Encounter)"
 
 msgid "To move a phenomenon card off the top of a planar deck and turn it face up. See rule 310, “Phenomena.”"
-msgstr ""
+msgstr "Mover um card de fenômeno do deck planar e virar sua face para cima. Veja a regra 310, “Fenômenos”."
 
 msgid "End of Combat Step"
-msgstr ""
+msgstr "Etapa de Final de Combate"
 
 msgid "Part of the turn. This step is the fifth and final step of the combat phase. See rule 511, “End of Combat Step.”"
-msgstr ""
+msgstr "Parte do turno. Esta é a quinta e última etapa da fase de combate. Veja a regra 511, “Etapa de Final de Combate”."
 
 msgid "End Step"
-msgstr ""
+msgstr "Etapa Final"
 
 msgid "Part of the turn. This step is the first step of the ending phase. See rule 513, “End Step.”"
-msgstr ""
+msgstr "Parte do turno. Esta é a primeira etapa da fase final. Veja a regra 513, “Etapa Final”."
 
 msgid "End the Combat Phase"
-msgstr ""
+msgstr "Terminar a Fase de Combate"
 
 msgid "To “end the combat phase” as the result of an effect is to perform an expedited process that skips everything else that would happen that phase. See rule 717, “Ending Turns and Phases.”"
-msgstr ""
+msgstr "Para “terminar a fase de comate\" como resultado de um efeito é necessário realizar um processo acelerado que pula tudo que aconteceria naquela fase. Veja a regra 717, “Finalizando Turnos e Fases”."
 
 msgid "End the Turn"
-msgstr ""
+msgstr "Terminar o Turno"
 
 msgid "To “end the turn” as the result of an effect is to perform an expedited process that skips nearly everything else that would happen that turn. See rule 717, “Ending Turns and Phases.”"
 msgstr ""
