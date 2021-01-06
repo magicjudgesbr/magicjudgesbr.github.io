@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2021-01-05 19:53\n"
+"PO-Revision-Date: 2021-01-06 11:07\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -9760,19 +9760,19 @@ msgstr "Uma palavra-chave de habilidade que impõe um custo para manter uma perm
 "regra 702.29, “Eco”."
 
 msgid "EDH (Obsolete)"
-msgstr ""
+msgstr "EDH (Obsoleto)"
 
 msgid "An older name for the Commander casual variant. See rule 903, “Commander.”"
-msgstr ""
+msgstr "O antigo nome da variante casual Commander. Veja a regra 903, “Commander”."
 
 msgid "Effect"
-msgstr ""
+msgstr "Efeito"
 
 msgid "Something that happens in the game as a result of a spell or ability. See rule 609, “Effects.”"
-msgstr ""
+msgstr "Algo que acontece no jogo, como resultado de uma mágica ou habilidade. Veja a regra 609, “Efeitos”."
 
 msgid "Embalm"
-msgstr ""
+msgstr "Embalsamar (Embalm)"
 
 msgid "A keyword ability that lets a player exile a creature card from their graveyard to create a mummified token version of that card. See rule 702.127, “Embalm.”"
 msgstr ""
