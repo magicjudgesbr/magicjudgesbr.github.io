@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2021-01-06 15:00\n"
+"PO-Revision-Date: 2021-01-07 23:46\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -67,7 +67,7 @@ msgid "110. Permanents"
 msgstr "110. Permanentes"
 
 msgid "111. Tokens"
-msgstr "111. Tokens"
+msgstr "111. Fichas"
 
 msgid "112. Spells"
 msgstr "112. Mágicas"
@@ -469,10 +469,10 @@ msgid "100.1a A two-player game is a game that begins with only two players."
 msgstr "100.1a Um jogo de dois jogadores é um jogo que começa com apenas dois jogadores."
 
 msgid "100.1b A multiplayer game is a game that begins with more than two players. See section 8, “Multiplayer Rules.”"
-msgstr "100.1b Um jogo multijogador é um jogo que começa com mais de dois jogadores. Veja a seção 8, \"Regras Multijogador.\""
+msgstr "100.1b Um jogo multijogador é um jogo que começa com mais de dois jogadores. Veja a seção 8, \"Regras Multijogador\"."
 
 msgid "100.2. To play, each player needs their own deck of traditional Magic cards, small items to represent any tokens and counters, and some way to clearly track life totals."
-msgstr "100.2. Para jogar, cada jogador precisa de seu próprio deck de cards de Magic tradicionais, pequenos itens para representar quaisquer tokens e contadores, e alguma forma de rastrear claramente os totais da vida."
+msgstr "100.2. Para jogar, cada jogador precisa de seu próprio deck de cards de Magic tradicionais, pequenos itens para representar quaisquer fichas e contadores, e alguma forma de rastrear claramente os totais da vida."
 
 msgid "100.2a In constructed play (a way of playing in which each player creates their own deck ahead of time), each deck has a minimum deck size of 60 cards. A constructed deck may contain any number of basic land cards and no more than four of any card with a particular English name other than basic land cards."
 msgstr "100.2a No formato construído (uma forma de jogo em que cada jogador previamente cria seu próprio deck), cada deck deve conter no mínimo 60 cards. Um deck construído pode conter qualquer número de cards de terreno básico e não mais que quatro de qualquer card que tenha o mesmo nome em Inglês que não sejam cards de terreno básico."
@@ -484,7 +484,7 @@ msgid "100.2c Commander decks are subject to additional deckbuilding restriction
 msgstr "100.2c Decks de Commander estão sujeitos a restrições e requisitos adicionais de construção de deck. Veja a regra 903, \"Commander\", para mais detalhes."
 
 msgid "100.3. Some casual variants require additional items, such as specially designated cards, nontraditional Magic cards, and dice. See section 9, “Casual Variants.”"
-msgstr "100.3. Algumas variantes casuais exigem itens adicionais, como cards especialmente designados, cards de Magic não tradicionais e dados. Veja a seção 9, \"Variantes casuais.\""
+msgstr "100.3. Algumas variantes casuais exigem itens adicionais, como cards especialmente designados, cards de Magic não tradicionais e dados. Veja a seção 9, \"Variantes casuais\"."
 
 msgid "100.4. Each player may also have a sideboard, which is a group of additional cards the player may use to modify their deck between games of a match."
 msgstr "100.4. Cada jogador pode também ter uma reserva, que é um grupo de cards adicionais que o jogador pode usar para modificar seu deck entre jogos de uma partida."
@@ -562,7 +562,7 @@ msgid "102.3. In a multiplayer game between teams, a player’s teammates are th
 msgstr "102.3. Num jogo multijogador entre equipes, os companheiros de equipe de um jogador são os outros jogadores de sua equipe e os oponentes do jogador são todos os jogadores que não estiverem na sua equipe."
 
 msgid "102.4. A spell or ability may use the term “your team” as shorthand for “you and/or your teammates.” In a game that isn’t a multiplayer game between teams, “your team” means the same thing as “you.”"
-msgstr "102.4 Uma mágica ou habilidade pode usar o termo \"sua equipe\" como uma forma abreviada de \"você e/ou seus parceiros de equipe\". Em um jogo que não é um jogo multijogador entre equipes, \"sua equipe\" significa a mesma coisa que \"você.\""
+msgstr "102.4 Uma mágica ou habilidade pode usar o termo \"sua equipe\" como uma forma abreviada de \"você e/ou seus parceiros de equipe\". Em um jogo que não é um jogo multijogador entre equipes, \"sua equipe\" significa a mesma coisa que \"você\"."
 
 msgid "103.1. At the start of a game, the players determine which one of them will choose who takes the first turn. In the first game of a match (including a single-game match), the players may use any mutually agreeable method (flipping a coin, rolling dice, etc.) to do so. In a match of several games, the loser of the previous game chooses who takes the first turn. If the previous game was a draw, the player who made the choice in that game makes the choice in this game. The player chosen to take the first turn is the starting player. The game’s default turn order begins with the starting player and proceeds clockwise."
 msgstr "103.1. No início de um jogo, os jogadores determinam qual deles vai escolher quem joga o primeiro turno. No primeiro jogo de uma partida (incluindo partidas de um jogo), os jogadores podem usar qualquer método mutuamente aceitável (jogar uma moeda, dados, etc.) para fazer isso. Em uma partida de vários jogos, o perdedor do jogo anterior escolhe quem joga o primeiro turno. Se o resultado do jogo anterior foi empate, o jogador que escolheu naquele jogo fará a escolha neste jogo. O jogador escolhido para jogar o primeiro turno é o jogador inicial. A ordem padrão de turnos começa com o jogador inicial e segue no sentido horário."
@@ -8798,7 +8798,7 @@ msgid "Adapt"
 msgstr "Adaptar (Adapt)"
 
 msgid "A keyword action that puts +1/+1 counters on a creature that doesn’t have any yet. See rule 701.43, “Adapt.”"
-msgstr "Uma palavra chave de ação que coloca marcadores +1/+1 em criaturas que não possuem nenhum marcador ainda.\n"
+msgstr "Uma palavra-chave de ação que coloca marcadores +1/+1 em criaturas que não possuem nenhum marcador ainda.\n"
 "Veja a regra 701.43, “Adaptar.”"
 
 msgid "Additional Cost"
@@ -8811,7 +8811,7 @@ msgid "Adventurer Card"
 msgstr "Card Aventura"
 
 msgid "Cards with a two-part card frame (one part of which is inset on the left) on a single card. See rule 715, “Adventurer Cards.”"
-msgstr "Cards com duas partes (uma parte do qual está à esquerda) em um único card. Veja a regra 715, \"Cards de Aventura.\""
+msgstr "Cards com duas partes (uma parte do qual está à esquerda) em um único card. Veja a regra 715, \"Cards de Aventura\"."
 
 msgid "Affinity"
 msgstr "Afinidade (Affinity)"
@@ -8855,7 +8855,7 @@ msgid "Amass"
 msgstr "Arregimentar (Amass)"
 
 msgid "A keyword action than gives you a Zombie Army creature token or grows an Army you already have. See rule 701.44, “Amass.”"
-msgstr "Uma palavra-chave de habilidade que lhe dá um token de Exército Zumbi ou marcadores +1/+1 em uma criatura do tipo Exército que você já tenha. Veja a regra 701.44, \"Arregimentar.\""
+msgstr "Uma palavra-chave de habilidade que lhe dá uma ficha de Exército Zumbi ou marcadores +1/+1 em uma criatura do tipo Exército que você já tenha. Veja a regra 701.44, \"Arregimentar\"."
 
 msgid "Amplify"
 msgstr "Amplificar (Amplify)"
@@ -8892,7 +8892,7 @@ msgstr "Qualquer Alvo"
 
 msgid "A spell or ability may require “any target.” “Any target” is the same as “target creature, player, or planeswalker.” See rule 115.4."
 msgstr "Uma mágica ou habilidade pode requerir “qualquer alvo”. “Qualquer alvo” é o mesmo que \"criatura, jogador ou\n"
-"planeswalker alvo.\" Veja a regra 115.4."
+"planeswalker alvo\". Veja a regra 115.4."
 
 msgid "APNAP Order"
 msgstr "Ordem APNAP"
@@ -8919,7 +8919,7 @@ msgid "Artifact Creature"
 msgstr "Criatura Artefato"
 
 msgid "A combination of artifact and creature that’s subject to the rules for both. See rule 301, “Artifacts,” and rule 302, “Creatures.”"
-msgstr "Uma combinação de criatura e artefato que está sujeita as regras para ambos. Veja a regra 301, “Artefatos,” e a regra 302, \"Criaturas.\""
+msgstr "Uma combinação de criatura e artefato que está sujeita as regras para ambos. Veja a regra 301, “Artefatos”, e a regra 302, \"Criaturas\"."
 
 msgid "Artifact Land"
 msgstr "Terreno Artefato"
@@ -8944,7 +8944,7 @@ msgid "Ascend"
 msgstr "Ascender (Ascend)"
 
 msgid "A keyword causing a player to get the designation of the city’s blessing once they control ten permanents. See rule 702.130, “Ascend.”"
-msgstr "Uma palavra chave que faz com que um jogador receba a benção da Cidade uma vez que controle dez ou mais\n"
+msgstr "Uma palavra-chave que faz com que um jogador receba a benção da Cidade uma vez que controle dez ou mais\n"
 "permanentes. Veja a regra 702.130, “Ascender.”"
 
 msgid "Assemble"
@@ -9080,7 +9080,7 @@ msgid "Battle Cry"
 msgstr "Grito de Guerra (Battle Cry)"
 
 msgid "A keyword ability that makes other attacking creatures better in combat. See rule 702.90, “Battle Cry.”"
-msgstr "Uma palavra-chave de habilidade que faz as outras criaturas atacantes serem melhores no combate. Veja a regra 702.90, \"Grito de Guerra.\""
+msgstr "Uma palavra-chave de habilidade que faz as outras criaturas atacantes serem melhores no combate. Veja a regra 702.90, \"Grito de Guerra\"."
 
 msgid "Battlefield"
 msgstr "Campo de Batalha"
@@ -9281,7 +9281,7 @@ msgid "City’s Blessing"
 msgstr "Benção da Cidade"
 
 msgid "A designation a player can have. The ascend keyword causes a player to get this designation once they control ten permanents. See rule 702.130, “Ascend.”"
-msgstr "Uma designação que um jogador pode obter. A palavra chave ascender faz com que o jogador receba essa designação quando controla dez permanentes. Veja a regra 702.130, “Ascender.”"
+msgstr "Uma designação que um jogador pode obter. A palavra-chave ascender faz com que o jogador receba essa designação quando controla dez permanentes. Veja a regra 702.130, “Ascender.”"
 
 msgid "Clash"
 msgstr "Confronto"
@@ -9389,7 +9389,7 @@ msgid "Companion"
 msgstr "Companheiro"
 
 msgid "A keyword ability that allows a player to choose one creature card from outside the game as a companion if the restriction of that card’s companion ability is met. Once a player has chosen a companion, that player may pay {3} to put it into their hand once during the game. See rule 702.138, “Companion.”"
-msgstr "Uma habilidade de palavra-chave que permite ao jogador escolher uma carta de criatura de fora do jogo como um companheiro se a restrição da habilidade de companheiro dessa carta for atendida. Uma vez que um jogador tenha escolhido um companheiro, ele pode pagar {3} para colocá-lo na mão uma vez durante o jogo. Veja a regra 702.138, \"Companheiro.\""
+msgstr "Uma habilidade de palavra-chave que permite ao jogador escolher uma carta de criatura de fora do jogo como um companheiro se a restrição da habilidade de companheiro dessa carta for atendida. Uma vez que um jogador tenha escolhido um companheiro, ele pode pagar {3} para colocá-lo na mão uma vez durante o jogo. Veja a regra 702.138, \"Companheiro\"."
 
 msgid "Concede"
 msgstr "Conceder"
@@ -9522,7 +9522,7 @@ msgid "Crew"
 msgstr "Tripular (Crew)"
 
 msgid "A keyword ability that lets you tap creatures to turn a Vehicle into an artifact creature. See rule 301, “Artifacts,” and rule 702.121, “Crew.”"
-msgstr "Uma habilidade de palavra-chave que permite a você virar criaturas para transformar um Veículo em uma criatura de artefato. Veja a regra 301, \"Artefatos,\" e a regra 702.121, \"Tripular.\""
+msgstr "Uma habilidade de palavra-chave que permite a você virar criaturas para transformar um Veículo em uma criatura de artefato. Veja a regra 301, \"Artefatos\", e a regra 702.121, \"Tripular\"."
 
 msgid "Cumulative Upkeep"
 msgstr "Manutenção Cumulativa"
@@ -9571,7 +9571,7 @@ msgid "Deck"
 msgstr "Deck"
 
 msgid "The collection of cards a player starts the game with; it becomes that player’s library. See rule 100, “General,” and rule 103, “Starting the Game.”"
-msgstr "O conjunto de cards com as quais um jogador começa o jogo; torna-se o grimório desse jogador. Veja a regra 100, \"Geral\", e a regra 103, \"Iniciando o Jogo.\""
+msgstr "O conjunto de cards com as quais um jogador começa o jogo; torna-se o grimório desse jogador. Veja a regra 100, \"Geral\", e a regra 103, \"Iniciando o Jogo\"."
 
 msgid "Declare Attackers"
 msgstr "Declarar Atacantes"
@@ -9776,7 +9776,7 @@ msgstr "Embalsamar (Embalm)"
 
 msgid "A keyword ability that lets a player exile a creature card from their graveyard to create a mummified token version of that card. See rule 702.127, “Embalm.”"
 msgstr "Uma palavra-chave de habilidade que permite ao jogador exilar um card de criatura de seu cemitério para criar uma\n"
-"versão token mumificada daquele card. Veja a regra 702.127, “Embalsamar”."
+"versão ficha mumificada daquele card. Veja a regra 702.127, “Embalsamar”."
 
 msgid "Emblem"
 msgstr "Emblema"
@@ -9832,7 +9832,7 @@ msgid "Encore"
 msgstr "Bis (Encore)"
 
 msgid "A keyword ability that lets a player exile a creature card from their graveyard to, for each opponent, create a token that’s a copy of that card to attack that opponent."
-msgstr "Uma palavra-chave de habilidade que permite o jogador exilar um card de criatura do seu cemitério para, pra cada oponente, criar um token que é uma cópia daquele card para atacar o oponente."
+msgstr "Uma palavra-chave de habilidade que permite o jogador exilar um card de criatura do seu cemitério para, pra cada oponente, criar uma ficha que é uma cópia daquele card para atacar o oponente."
 
 msgid "Encounter"
 msgstr "Defrontar (Encounter)"
@@ -9862,55 +9862,59 @@ msgid "End the Turn"
 msgstr "Terminar o Turno"
 
 msgid "To “end the turn” as the result of an effect is to perform an expedited process that skips nearly everything else that would happen that turn. See rule 717, “Ending Turns and Phases.”"
-msgstr ""
+msgstr "“Terminar o turno” como resultado de um efeito, é realizar um processo acelerado que ignora quase todo o resto que aconteceria naquele turno. Veja a regra 717, “Finalizando Turnos e Fases.”"
 
 msgid "Ending Phase"
-msgstr ""
+msgstr "Fase Final"
 
 msgid "Part of the turn. This phase is the fifth and final phase of the turn. See rule 512, “Ending Phase.”"
-msgstr ""
+msgstr "Parte do turno. Esta é a quinta fase e última fase do turno. Veja a regra 512, “Fase Final”."
 
 msgid "Energy Symbol"
-msgstr ""
+msgstr "Símbolo de Energia"
 
 msgid "The energy symbol {E} represents one energy counter. To pay {E}, a player removes one energy counter from themselves."
-msgstr ""
+msgstr "O símbolo de energia {E} representa um marcador de energia. Para pagar {E}, um jogador remove um marcador de\n"
+"energia dele."
 
 msgid "Enters the Battlefield"
-msgstr ""
+msgstr "Entrar no Campo de Batalha"
 
 msgid "A nontoken permanent “enters the battlefield” when it’s moved onto the battlefield from another zone. A token “enters the battlefield” when it’s created. See rules 403.3, 603.6a, 603.6d, and 614.12."
-msgstr ""
+msgstr "Uma permanente que não seja uma ficha “entra no campo de batalha” quando é movida para o campo de batalha vindo de outra zona. Uma ficha “entra no campo de batalha” quando é criada. Veja as regras 403.3, 603.6a, 603.6d e\n"
+"614.12."
 
 msgid "Entwine"
-msgstr ""
+msgstr "Entrelaçar (Entwine)"
 
 msgid "A keyword ability that lets a player choose all modes for a spell rather than just the number specified. See rule 702.41, “Entwine.”"
-msgstr ""
+msgstr "Uma palavra-chave de habilidade que permite a um jogador escolher todos os modos de uma mágica ao invés de apenas um. Veja a regra 702.41, “Entrelaçar”."
 
 msgid "Epic"
-msgstr ""
+msgstr "Épica (Epic)"
 
 msgid "A keyword ability that lets a player copy a spell at the beginning of each of their upkeeps at the expense of casting any other spells for the rest of the game. See rule 702.49, “Epic.”"
-msgstr ""
+msgstr "Uma palavra-chave de habilidade que permite que um jogador copie uma mágica, no início de cada uma das suas\n"
+"manutenções em detrimento de qualquer conjuração de outras mágicas pelo resto do jogo. Veja a regra 702.49,\n"
+"“Épica”."
 
 msgid "Equip"
-msgstr ""
+msgstr "Equipar"
 
 msgid "A keyword ability that lets a player attach an Equipment to a creature they control. See rule 301, “Artifacts,” and rule 702.6, “Equip.”"
-msgstr ""
+msgstr "Uma palavra-chave de habilidade que permite que um jogador anexe um Equipamento a uma criatura que ele controla. Veja a regra 301, “Artefatos”, e a regra 702.6, “Equipar”."
 
 msgid "Equipment"
-msgstr ""
+msgstr "Equipamento"
 
 msgid "An artifact subtype. Equipment can be attached to creatures. See rule 301, “Artifacts,” and rule 702.6, “Equip.”"
-msgstr ""
+msgstr "Um subtipo de artefato. Um equipamento pode ser anexado a uma criatura. Veja a regra 301, “Artefatos”, e a regra 702.6, “Equipar”."
 
 msgid "Escalate"
-msgstr ""
+msgstr "Escalar (Escalate)"
 
 msgid "A keyword ability on some modal spells that adds a cost for choosing additional modes. See rule 702.119, “Escalate.”"
-msgstr ""
+msgstr "Uma palavra chave de habilidade de algumas mágicas modais que adicionam custos por escolher modos adicionais. Veja a regra 702.119, “Escalar”."
 
 msgid "Escape"
 msgstr ""
@@ -9919,40 +9923,41 @@ msgid "A keyword ability that lets a player cast a card from their graveyard. Se
 msgstr ""
 
 msgid "Eternalize"
-msgstr ""
+msgstr "Eternizar (Eternalize)"
 
 msgid "A keyword ability that lets a player exile a creature card from their graveyard to create an eternalized token version of that card. See rule 702.128, “Eternalize.”"
-msgstr ""
+msgstr "Uma palavra-chave de habilidade que permite ao jogador exilar um card de criatura de seu cemitério para criar uma ficha eternizada daquele card. Veja a regra 702.128, “Eternizar”."
 
 msgid "Evasion Ability"
-msgstr ""
+msgstr "Habilidade de Evasão"
 
 msgid "An ability that restricts what creatures can block an attacking creature. See rules 509.1b–c."
-msgstr ""
+msgstr "Uma habilidade que restringe quais criaturas podem bloquear uma criatura atacante. Veja as regras 509.1b–c."
 
 msgid "Event"
-msgstr ""
+msgstr "Evento"
 
 msgid "Anything that happens in a game. See rule 700.1."
-msgstr ""
+msgstr "Qualquer coisa que acontece em um jogo. Veja a regra 700.1."
 
 msgid "Evoke"
-msgstr ""
+msgstr "Evocar (Evoke)"
 
 msgid "A keyword ability that causes a permanent to be sacrificed when it enters the battlefield. See rule 702.73, “Evoke.”"
-msgstr ""
+msgstr "Uma palavra-chave de habilidade que faz com que uma permanente seja sacrificada quando entra no campo de batalha. Veja a regra 702.73, “Evocar”."
 
 msgid "Evolve"
-msgstr ""
+msgstr "Evoluir (Evolve)"
 
 msgid "A keyword ability that lets you put a +1/+1 counter on a creature when a larger creature enters the battlefield under your control. See rule 702.99, “Evolve.”"
-msgstr ""
+msgstr "Uma palavra-chave de habilidade que o permite colocar um marcador de +1/+1 em uma criatura quando uma criatura maior entra no campo de batalha sob seu controle. Veja a regra 702.99, “Evoluir”."
 
 msgid "Exalted"
-msgstr ""
+msgstr "Exaltado (Exalted)"
 
 msgid "A keyword ability that can make a creature better in combat. See rule 702.82, “Exalted.”"
-msgstr ""
+msgstr "Uma palavra-chave de habilidade que pode tornar uma criatura melhor em combate. Veja a regra 702.82,\n"
+"“Exaltado”."
 
 msgid "Exchange"
 msgstr ""
@@ -11929,7 +11934,7 @@ msgid "A system used to determine in which order continuous effects in the same 
 msgstr ""
 
 msgid "Token"
-msgstr "Token"
+msgstr "Ficha"
 
 msgid "A marker used to represent any permanent that isn’t represented by a card. See rule 111, “Tokens.”"
 msgstr ""
@@ -12091,7 +12096,7 @@ msgid "Type Line"
 msgstr "Linha de Tipo"
 
 msgid "Part of a card. The type line is printed directly below the illustration and contains the card’s card type(s), subtype(s), and/or supertype(s). See rule 205, “Type Line.”"
-msgstr "Parte de um card. A linha de tipo é impressa diretamente abaixo da ilustração e contém o(s) tipo(s) do card, subtipo(s) e/ou supertipo(s). Ver regra 205, \"Linha de Tipo.\""
+msgstr "Parte de um card. A linha de tipo é impressa diretamente abaixo da ilustração e contém o(s) tipo(s) do card, subtipo(s) e/ou supertipo(s). Veja a regra 205, \"Linha de Tipo\"."
 
 msgid "Type-Changing Effect"
 msgstr ""
@@ -12290,7 +12295,7 @@ msgid "Zone"
 msgstr "Zona"
 
 msgid "A place where objects can be during a game. See section 4, “Zones.”"
-msgstr "Um lugar onde objetos podem estar durante um jogo. Veja a seção 4, \"Zonas.\""
+msgstr "Um lugar onde objetos podem estar durante um jogo. Veja a seção 4, \"Zonas\"."
 
 msgid "Zone-Change Triggers"
 msgstr "Desencadeamento de Mudança de Zona"
