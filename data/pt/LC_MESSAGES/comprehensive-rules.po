@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2021-01-07 23:46\n"
+"PO-Revision-Date: 2021-01-08 14:24\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -9960,13 +9960,13 @@ msgstr "Uma palavra-chave de habilidade que pode tornar uma criatura melhor em c
 "“Exaltado”."
 
 msgid "Exchange"
-msgstr ""
+msgstr "Permutar"
 
 msgid "To swap two things, such as objects, sets of objects, or life totals. See rule 701.10, “Exchange.”"
-msgstr ""
+msgstr "Trocar duas coisas, como objetos, conjuntos de objetos ou totais de vida. Veja a regra 701.10, “Permuta”."
 
 msgid "Exert"
-msgstr ""
+msgstr "Exaurir (Exert)"
 
 msgid "A keyword action that stops a permanent from untapping during the next untap step of the player who exerted it. See rule 701.39, “Exert.”"
 msgstr ""
