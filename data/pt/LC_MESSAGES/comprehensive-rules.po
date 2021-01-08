@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2021-01-08 14:24\n"
+"PO-Revision-Date: 2021-01-08 15:32\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -9195,7 +9195,7 @@ msgid "In a Limited format, the cards a player may use, in addition to basic lan
 msgstr ""
 
 msgid "Card Type"
-msgstr ""
+msgstr "Tipo de Card"
 
 msgid "A characteristic. Except for abilities on the stack, each object has a card type, even if that object isn’t a card. Each card type has its own rules. See rule 205, “Type Line,” and section 3, “Card Types.”"
 msgstr "Uma característica. Com exceção de habilidades na pilha, cada objeto tem um tipo de card, mesmo que o card não seja um objeto. Cada tipo de card tem suas próprias regras. Veja a regra 205, “Linha de Tipo,” e a seção 3, “Tipos de\n"
@@ -9490,7 +9490,7 @@ msgid "1. To cancel a spell or ability so it doesn’t resolve and none of its e
 msgstr "Cancelar uma mágica ou habilidade de forma que ela não resolva e que nenhum de seus efeitos ocorra. Veja a regra 701.5, “Anular.”"
 
 msgid "2. A marker placed on an object or player that modifies its characteristics or interacts with a rule or ability. See rule 122, “Counters.”"
-msgstr ""
+msgstr "Um indicador colocado sobre um objeto ou jogador, que modifica suas características ou interage com uma regra ou habilidade. Veja a regra 121, “Marcadores”."
 
 msgid "Counts As (Obsolete)"
 msgstr "Conta Como (Obsoleto)"
@@ -9731,7 +9731,7 @@ msgid "1. To put the top card of a player’s library into their hand as a turn-
 msgstr "Colocar o card do topo do grimório do jogador em sua mão como uma ação baseada-no-turno ou como resultado de um efeito que usa a palavra “comprar”. Veja a regra 121, “Comprando um Card”."
 
 msgid "2. The result of a game in which neither player wins or loses. See rule 104.4."
-msgstr ""
+msgstr "O resultado de um jogo em que nenhum jogador vence ou perde. Veja a regra 104.4."
 
 msgid "Draw Step"
 msgstr "Etapa de Compra"
@@ -9969,7 +9969,7 @@ msgid "Exert"
 msgstr "Exaurir (Exert)"
 
 msgid "A keyword action that stops a permanent from untapping during the next untap step of the player who exerted it. See rule 701.39, “Exert.”"
-msgstr ""
+msgstr "Uma palavra-chave de ação que faz com que uma permanente não seja desvirada durante a próxima etapa de desvirar do jogador que a exauriu. Veja a regra 701.39, “Exaurir”."
 
 msgid "Excess Damage"
 msgstr ""
@@ -9978,52 +9978,54 @@ msgid "Some spells that result in damage being dealt to a creature state that ex
 msgstr ""
 
 msgid "Exile"
-msgstr ""
+msgstr "Exílio"
 
 msgid "1. A zone. Exile is essentially a holding area for cards. It used to be known as the “removed-from-the-game” zone."
-msgstr ""
+msgstr "Uma zona. Exílio é essencialmente uma área de espera para os cards. Já foi conhecida como zona “removidos do jogo”."
 
 msgid "2. To put an object into the exile zone from whatever zone it’s currently in. An “exiled” card is one that’s been put into the exile zone."
-msgstr ""
+msgstr "Colocar um objeto na zona de exílio a partir de qualquer zona em que o objeto esteja atualmente. Um card “exilado” é um card que foi colocado na zona de exílio."
 
 msgid "See rule 406, “Exile.”"
-msgstr ""
+msgstr "Veja a regra 406, “Exílio”."
 
 msgid "Expansion Symbol"
-msgstr ""
+msgstr "Símbolo da Expansão"
 
 msgid "A card’s expansion symbol is a small icon normally printed below the right edge of the illustration that has no effect on game play. See rule 206, “Expansion Symbol.”"
-msgstr ""
+msgstr "Um símbolo da expansão de um card é um pequeno ícone normalmente impresso abaixo da borda direita da ilustração que não tem efeito no jogo. Veja a regra 206, “Símbolo da Expansão”."
 
 msgid "Exploit"
-msgstr ""
+msgstr "Aproveitar (Exploit)"
 
 msgid "A keyword ability that lets you sacrifice a creature for a benefit. See rule 702.109, “Exploit.”"
-msgstr ""
+msgstr "Uma palavra-chave de habilidade que permite que você sacrifique uma criatura para um benefício. Veja a regra 702.109, “Aproveitar”."
 
 msgid "Explore"
-msgstr ""
+msgstr "Explorar"
 
 msgid "A keyword action that causes a player to reveal the top card of their library and then to take different actions depending on whether a land card is revealed this way. See rule 701.40, “Explore.”"
-msgstr ""
+msgstr "Uma palavra-chave de habilidade que faz com que um jogador revele o card do topo de seu grimório e que\n"
+"faça uma ação diferente dependendo se um terreno foi revelado desta maneira. Veja a regra 701.40, “Explorar”."
 
 msgid "Extort"
-msgstr ""
+msgstr "Extorquir"
 
 msgid "A keyword ability that lets you gain life and have opponents lose life whenever you cast a spell. See rule 702.100, “Extort.”"
-msgstr ""
+msgstr "Uma palavra-chave de habilidade que o permite ganhar vida e fazer oponentes perderem vida toda vez que você conjura uma mágica. Veja a regra 702.100, “Extorquir”."
 
 msgid "Extra Turn"
-msgstr ""
+msgstr "Turno Extra"
 
 msgid "A turn created by an effect of a spell or ability. See rule 500.7. For rules about extra turns in a multiplayer game using the shared team turns option, see 805.8. For rules about extra turns in a Grand Melee game, see rule 807.4."
-msgstr ""
+msgstr "Um turno criado por um efeito de uma mágica ou habilidade. Veja a regra 500.7. Para regras sobre turnos extras em\n"
+"um jogo que usa a opção de turnos compartilhados pela equipe, veja a regra 805.8. Para regras sobre turnos extras em um jogo de Refrega Grandiosa, veja a regra 807.4."
 
 msgid "Fabricate"
-msgstr ""
+msgstr "Fabricar (Frabricate)"
 
 msgid "A keyword ability that lets you choose whether to create Servo tokens or put +1/+1 counters on a creature. See rule 702.122, “Fabricate.”"
-msgstr ""
+msgstr "Uma palavra-chave de habilidade que permite que você escolha entre criar uma ficha de Servus ou colocar um marcador +1/+1 em uma criatura. Consulte a regra 702.122, “Fabricar”."
 
 msgid "Face Down"
 msgstr ""
