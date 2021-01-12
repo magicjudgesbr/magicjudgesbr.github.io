@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2021-01-08 15:32\n"
+"PO-Revision-Date: 2021-01-12 15:35\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -10028,37 +10028,38 @@ msgid "A keyword ability that lets you choose whether to create Servo tokens or 
 msgstr "Uma palavra-chave de habilidade que permite que você escolha entre criar uma ficha de Servus ou colocar um marcador +1/+1 em uma criatura. Consulte a regra 702.122, “Fabricar”."
 
 msgid "Face Down"
-msgstr ""
+msgstr "Face Voltada para Baixo"
 
 msgid "1. A card is “face down” if it’s physically positioned so the card back is showing. Cards in some zones are normally kept face down. See section 4, “Zones.”"
-msgstr ""
+msgstr "1. Um card está com “a face voltada para baixo” se fisicamente estiver posicionado de modo que o verso do card esteja a mostra. Cards em algumas zonas normalmente são mantidas com a face voltada para baixo. Veja a seção 4, “Zonas”."
 
 msgid "2. A status a permanent may have. See rule 110.5 and rule 702.36, “Morph.”"
-msgstr ""
+msgstr "2. Um status que uma permanente pode ter. Veja a regra 110.5 e a regra 702.36, “Metamorfose”."
 
 msgid "3. Face-down spells have additional rules. See rule 707, “Face-Down Spells and Permanents,” and rule 702.36, “Morph.”"
-msgstr ""
+msgstr "3. Mágicas com a face voltada para baixo têm regras adicionais. Veja a regra 707, “Mágicas e Permanentes com a\n"
+"Face Voltada para Baixo” e a regra 702.36, “Metamorfose”."
 
 msgid "Face Up"
-msgstr ""
+msgstr "Face Voltada para Cima"
 
 msgid "1. A card is “face up” if it’s physically positioned so the card front is showing. Cards in some zones are normally kept face up. See section 4, “Zones.”"
-msgstr ""
+msgstr "1. Um card está com “a face voltada para cima” se fisicamente estiver posicionado de modo que a face do card esteja a mostra. Cards em algumas zonas normalmente são mantidas com a face voltada para cima. Veja a seção 4, “Zonas”."
 
 msgid "2. A default status a permanent may have. See rule 110.5 and rule 702.36, “Morph.”"
-msgstr ""
+msgstr "2. Um status padrão que uma permanente pode ter. Veja a regra 110.5 e a regra 702.36, “Metamorfose”."
 
 msgid "Fading"
-msgstr ""
+msgstr "Sumir (Fading)"
 
 msgid "A keyword ability that limits how long a permanent remains on the battlefield. See rule 702.31, “Fading.”"
-msgstr ""
+msgstr "Uma palavra-chave de habilidade que limita o tempo que uma permanente permanece no campo de batalha. Veja a regra 702.31, “Sumir”."
 
 msgid "Fateseal"
-msgstr ""
+msgstr "Predestinar (Fateseal)"
 
 msgid "To manipulate some of the cards on top of an opponent’s library. See rule 701.22, “Fateseal.”"
-msgstr ""
+msgstr "Manipular alguns dos cards do topo do grimório de um oponente. Veja a regra 701.22, “Predestinar”."
 
 msgid "Fear"
 msgstr ""
