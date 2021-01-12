@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2021-01-12 15:35\n"
+"PO-Revision-Date: 2021-01-12 16:55\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -10062,34 +10062,36 @@ msgid "To manipulate some of the cards on top of an opponent’s library. See ru
 msgstr "Manipular alguns dos cards do topo do grimório de um oponente. Veja a regra 701.22, “Predestinar”."
 
 msgid "Fear"
-msgstr ""
+msgstr "Amedrontar (Fear)"
 
 msgid "A keyword ability that restricts how a creature may be blocked. See rule 702.35, “Fear.”"
-msgstr ""
+msgstr "Uma palavra-chave de habilidade que limita como uma criatura pode ser bloqueada. Veja a regra 702.35, “Amedrontar”."
 
 msgid "Fight"
-msgstr ""
+msgstr "Lutar (Fight)"
 
 msgid "When two creatures fight, each deals damage equal to its power to the other. See rule 701.12, “Fight.”"
-msgstr ""
+msgstr "Quando duas criaturas lutam, cada uma delas causa dano igual ao seu poder à outra criatura. Veja a regra 701.12,\n"
+"“Lutar”."
 
 msgid "First Strike"
-msgstr ""
+msgstr "Iniciativa (First Strike)"
 
 msgid "A keyword ability that lets a creature deal its combat damage before other creatures. See rule 702.7, “First Strike.”"
-msgstr ""
+msgstr "Uma palavra-chave de habilidade que permite a uma criatura causar seu dano de combate antes que as outras criaturas. Veja a regra 702.7, “Iniciativa”."
 
 msgid "Flanking"
-msgstr ""
+msgstr "Flanquear (Flanking)"
 
 msgid "A keyword ability that can make a creature better in combat. See rule 702.24, “Flanking.”"
-msgstr ""
+msgstr "Uma palavra-chave de habilidade que pode tornar uma criatura melhor em combate. Veja a regra 702.24, “Flanquear”."
 
 msgid "Flash"
-msgstr ""
+msgstr "Lampejo (Flash)"
 
 msgid "A keyword ability that lets a player play a card any time they could cast an instant. See rule 702.8, “Flash.”"
-msgstr ""
+msgstr "Uma palavra-chave de habilidade que permite a um jogador jogar um card a qualquer momento em que ele pudesse\n"
+"conjurar uma mágica instantânea. Veja a regra 702.8, “Lampejo”."
 
 msgid "Flashback"
 msgstr ""
