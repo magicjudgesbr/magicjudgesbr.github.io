@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2021-01-12 16:55\n"
+"PO-Revision-Date: 2021-01-14 14:44\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -10094,10 +10094,11 @@ msgstr "Uma palavra-chave de habilidade que permite a um jogador jogar um card a
 "conjurar uma mágica instantânea. Veja a regra 702.8, “Lampejo”."
 
 msgid "Flashback"
-msgstr ""
+msgstr "Recapitular (Flashback)"
 
 msgid "A keyword ability that lets a player cast a card from their graveyard. See rule 702.33, “Flashback.”"
-msgstr ""
+msgstr "Uma palavra-chave de habilidade que permite a um jogador conjurar um card de seu cemitério. Veja a regra 702.33,\n"
+"“Recapitular”."
 
 msgid "Flavor Text"
 msgstr ""
