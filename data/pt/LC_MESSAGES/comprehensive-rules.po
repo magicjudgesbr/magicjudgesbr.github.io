@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2021-01-14 15:41\n"
+"PO-Revision-Date: 2021-01-14 23:56\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -10140,10 +10140,10 @@ msgid "A Food token is a colorless artifact token with “{2}, {T}, Sacrifice th
 msgstr ""
 
 msgid "Forecast"
-msgstr ""
+msgstr "Prever"
 
 msgid "A keyword ability that allows an activated ability to be activated from a player’s hand. See rule 702.56, “Forecast.”"
-msgstr ""
+msgstr "Uma palavra-chave de habilidade que permite uma habilidade ativada ser ativado da mão de um jogador. Veja a regra 702.56, “Prever”."
 
 msgid "Forest"
 msgstr "Floresta"
@@ -10180,10 +10180,11 @@ msgid "A keyword ability that can make a creature better in combat. See rule 702
 msgstr "Uma palavra-chave de habilidade que pode tornar uma criatura melhor em combate. Veja a regra 702.67, “Frenesi”."
 
 msgid "Free-for-All"
-msgstr ""
+msgstr "Competição Livre"
 
 msgid "A multiplayer variant in which a group of players compete as individuals against each other. See rule 806, “Free-for-All Variant.”"
-msgstr ""
+msgstr "Uma variante multijogador em que um grupo de jogadores jogam individualmente uns contra os outros. Veja a\n"
+"regra 806, “Variante Competição Livre”."
 
 msgid "Full Party"
 msgstr ""
@@ -10192,118 +10193,124 @@ msgid "A player has a full party if the number of creatures in their party is fo
 msgstr ""
 
 msgid "Fuse"
-msgstr ""
+msgstr "Fundir"
 
 msgid "A keyword ability that allows a player to cast both halves of a split card. See rule 702.101, “Fuse.”"
-msgstr ""
+msgstr "Uma palavra-chave de habilidade que permite ao jogador conjurar ambas as metades de um card duplo. Veja a regra 702.101, “Fundir”."
 
 msgid "Fused Split Spell"
-msgstr ""
+msgstr "Mágica Dupla Fundida"
 
 msgid "A split card on the stack that has been cast using the fuse ability or a copy of such a card. See rule 702.101, “Fuse.”"
-msgstr ""
+msgstr "Um card duplo na pilha que foi conjurado usando a habilidade de fundir ou uma cópia de tal card. Veja a regra\n"
+"702.101, “Fundir”."
 
 msgid "General"
 msgstr "Geral"
 
 msgid "Any player in the Emperor multiplayer variant who isn’t an emperor. See rule 809, “Emperor Variant.”"
-msgstr ""
+msgstr "Qualquer jogador na variante multijogador Imperador que não é um imperador. Veja a regra 809, “Variante\n"
+"Imperador”."
 
 msgid "Generic Mana"
-msgstr ""
+msgstr "Mana Genérico"
 
 msgid "Mana in a cost represented by numerical symbols (such as {1}) or variable symbols (such as {X}) that can be paid with mana of any type. See rule 107.4."
-msgstr ""
+msgstr "Mana em um custo representado por símbolos de mana numéricos (como {1}) ou símbolos variáveis (como\n"
+"{X}) que podem ser pagos com mana de qualquer tipo. Veja a regra 107.4."
 
 msgid "Global Enchantment (Obsolete)"
-msgstr ""
+msgstr "Encantamento Global (Obsoleto)"
 
 msgid "An obsolete term for a non-Aura enchantment. Cards printed with this text have received errata in the Oracle card reference."
-msgstr ""
+msgstr "Um termo obsoleto para um encantamento que não seja uma Aura. Cards impressos com este texto receberam errata na referência de cards Oracle."
 
 msgid "Goad"
-msgstr ""
+msgstr "Incitar"
 
 msgid "A keyword action that forces a creature to attack and to attack another player if able. See rule 701.38, “Goad.”"
-msgstr ""
+msgstr "Uma palavra-chave de habilidade que força uma criatura a atacar e se possível atacar outro jogar. Veja a regra\n"
+"701.38, “Incitar”."
 
 msgid "Graft"
-msgstr ""
+msgstr "Enxerto"
 
 msgid "A keyword ability that has a permanent enter the battlefield with +1/+1 counters on it and can move those counters to other creatures. See rule 702.57, “Graft.”"
-msgstr ""
+msgstr "Uma palavra-chave de habilidade que faz com que uma permanente entre no campo de batalha com marcadores +1/+1 sobre ela e pode mover esses marcadores para outras criaturas. Veja a regra 702.57, “Enxerto”."
 
 msgid "Grand Melee"
-msgstr ""
+msgstr "Refrega Grandiosa"
 
 msgid "A multiplayer variant in which a large group of players (usually ten or more) compete as individuals against each other. See rule 807, “Grand Melee Variant.”"
-msgstr ""
+msgstr "Uma variante multijogador em que um grande grupo de jogadores (em geral, dez ou mais) jogam individualmente uns contra os outros. Veja a regra 807, “Variante Refrega Grandiosa”."
 
 msgid "Gravestorm"
-msgstr ""
+msgstr "Rajada Tumular"
 
 msgid "A keyword ability that creates copies of a spell. See rule 702.68, “Gravestorm.”"
-msgstr ""
+msgstr "Uma palavra-chave de habilidade que cria cópias de uma mágica. Veja a regra 702.68, “Rajada Tumular”."
 
 msgid "Graveyard"
-msgstr ""
+msgstr "Cemitério"
 
 msgid "1. A zone. A player’s graveyard is their discard pile."
-msgstr ""
+msgstr "1. Uma zona. O cemitério de um jogador é a sua pilha de descarte."
 
 msgid "2. All the cards in a player’s graveyard."
-msgstr ""
+msgstr "2. Todos os cards no cemitério de um jogador."
 
 msgid "See rule 404, “Graveyard.”"
-msgstr ""
+msgstr "Veja a regra 404, “Cemitério”."
 
 msgid "Hand"
-msgstr ""
+msgstr "Mão"
 
 msgid "1. A zone. A player’s hand is where that player holds cards they have drawn but not played yet."
-msgstr ""
+msgstr "1. Uma zona. A mão de um jogador é onde o jogador mantém os cards que comprou, mas ainda não jogou."
 
 msgid "2. All the cards in a player’s hand."
-msgstr ""
+msgstr "2. Todos os cards na mão de um jogador."
 
 msgid "See rule 402, “Hand.”"
-msgstr ""
+msgstr "Veja a regra 402, “Mão”."
 
 msgid "Hand Modifier"
-msgstr ""
+msgstr "Modificador de Mão"
 
 msgid "A characteristic that only vanguards have. See rule 210, “Hand Modifier.”"
-msgstr ""
+msgstr "Uma característica pertinente aos cards vanguard. Veja a regra 210, “Modificador de Mão”."
 
 msgid "Haste"
-msgstr ""
+msgstr "Ímpeto"
 
 msgid "A keyword ability that lets a creature ignore the “summoning sickness” rule. See rule 702.10, “Haste,” and rule 302.6."
-msgstr ""
+msgstr "Uma palavra-chave de habilidade que permite a uma criatura ignorar a regra do “enjoo de invocação”. Veja a regra\n"
+"702.10, “Ímpeto”, e a regra 302.6."
 
 msgid "Haunt"
-msgstr ""
+msgstr "Assombrar"
 
 msgid "A keyword ability that exiles cards. A card exiled this way “haunts” a creature targeted by the haunt ability. See rule 702.54, “Haunt.”"
-msgstr ""
+msgstr "Uma palavra-chave de habilidade que exila cards. Um card exilado dessa maneira “assombra” a criatura escolhida como alvo da habilidade assombrar. Veja a regra 702.54, “Assombrar”."
 
 msgid "Hexproof"
-msgstr ""
+msgstr "Resistência à magia"
 
 msgid "A keyword ability that precludes a permanent or player from being targeted by an opponent. See rule 702.11, “Hexproof.”"
-msgstr ""
+msgstr "Uma palavra-chave de habilidade que impede que uma permanente ou jogador seja um alvo de um oponente. Veja a regra 702.11, \"Resistência à magia\"."
 
 msgid "Hidden Agenda"
-msgstr ""
+msgstr "Hidden Agenda"
 
 msgid "A keyword ability that allows a conspiracy card to be put into the command zone face down. See rule 702.105, “Hidden Agenda.”"
-msgstr ""
+msgstr "Uma palavra-chave de habilidade que permite um card de conspiracy ser colocado na zona de commando com a face voltada para baixo. Veja a regra 702.105, “Hidden Agenda”."
 
 msgid "Hidden Zone"
-msgstr ""
+msgstr "Zona não revelada"
 
 msgid "A zone in which not all players can be expected to see the cards’ faces. See rule 400.2. See also Public Zone."
-msgstr ""
+msgstr "Uma zona em que nem todos os jogadores podem ver as faces dos cards. Veja a regra 400.2. Veja também Zona\n"
+"Pública."
 
 msgid "Hideaway"
 msgstr ""
