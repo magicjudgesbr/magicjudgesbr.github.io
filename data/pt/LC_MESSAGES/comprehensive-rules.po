@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2021-01-14 14:44\n"
+"PO-Revision-Date: 2021-01-14 15:41\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -8795,7 +8795,7 @@ msgid "The team whose turn it is in a game using the shared team turns option. S
 msgstr "A equipe cujo turno está sendo jogado num jogo que usa a opção de turnos compartilhados pela equipe. Consulte a regra 805.4a."
 
 msgid "Adapt"
-msgstr "Adaptar (Adapt)"
+msgstr "Adaptar"
 
 msgid "A keyword action that puts +1/+1 counters on a creature that doesn’t have any yet. See rule 701.43, “Adapt.”"
 msgstr "Uma palavra-chave de ação que coloca marcadores +1/+1 em criaturas que não possuem nenhum marcador ainda.\n"
@@ -8814,27 +8814,27 @@ msgid "Cards with a two-part card frame (one part of which is inset on the left)
 msgstr "Cards com duas partes (uma parte do qual está à esquerda) em um único card. Veja a regra 715, \"Cards de Aventura\"."
 
 msgid "Affinity"
-msgstr "Afinidade (Affinity)"
+msgstr "Afinidade"
 
 msgid "A keyword ability that reduces how much mana you need to spend to cast a spell. See rule 702.40, “Affinity.”"
 msgstr "Uma palavra-chave de habilidade que reduz a quantidade de mana que você precisa gastar para conjurar uma mágica. Veja a regra 702.40, “Afinidade.”"
 
 msgid "Afflict"
-msgstr "Afligir (Afflict)"
+msgstr "Afligir"
 
 msgid "A keyword ability that makes the defending player lose life for blocking. See rule 702.129, “Afflict.”"
 msgstr "Uma palavra-chave de habilidade que que faz com que o jogador defensor perca pontos de vida. Veja a regra\n"
 "702.129, “Aflingir.”"
 
 msgid "Afterlife"
-msgstr "Pós-vida (Afterlife)"
+msgstr "Pós-vida"
 
 msgid "A keyword ability that leaves behind Spirit creature tokens when certain creatures die. See rule 702.134, “Afterlife.”"
 msgstr "Uma palavra-chave de habilidade que deixa pra trás fichas de criatura do tipo Espírito quando certas criaturas\n"
 "morrem. Veja a regra 702.134, “Pós-vida.”"
 
 msgid "Aftermath"
-msgstr "Consequência (Aftermath)"
+msgstr "Consequência"
 
 msgid "A keyword ability that lets a player cast one half of a split card only from their graveyard. See rule 702.126, “Aftermath.”"
 msgstr "Uma palavra-chave de habilidade que permite ao jogador conjurar uma metade de um card duplo apenas apartir de seu cemitério. Veja a regra 702.126, “Consequências.”"
@@ -8852,13 +8852,13 @@ msgid "A cost a spell may have that its controller can pay rather than paying it
 msgstr "Um custo que uma mágica pode ter e o seu controlador pode pagar ao invés de pagar seu custo de mana. Veja a regra 118, “Custos,” e a regra 601, “Conjurando Mágicas.”"
 
 msgid "Amass"
-msgstr "Arregimentar (Amass)"
+msgstr "Arregimentar"
 
 msgid "A keyword action than gives you a Zombie Army creature token or grows an Army you already have. See rule 701.44, “Amass.”"
 msgstr "Uma palavra-chave de habilidade que lhe dá uma ficha de Exército Zumbi ou marcadores +1/+1 em uma criatura do tipo Exército que você já tenha. Veja a regra 701.44, \"Arregimentar\"."
 
 msgid "Amplify"
-msgstr "Amplificar (Amplify)"
+msgstr "Amplificar"
 
 msgid "A keyword ability than can have a creature enter the battlefield with +1/+1 counters on it. See rule 702.37, “Amplify.”"
 msgstr "Uma palavra-chave de habilidade que pode fazer com que a uma criatura entre no campo de batalha com marcadores +1/+1 sobre ela. Veja a regra 702.37, “Amplificar.”"
@@ -8941,7 +8941,7 @@ msgid "Text used to indicate that the game, for some specific purpose, treats a 
 msgstr "Texto usado para indicar que o jogo, para algum propósito específico, trata uma condição como verdadeira, mesmo ela não sendo. Veja a regra 609.4."
 
 msgid "Ascend"
-msgstr "Ascender (Ascend)"
+msgstr "Ascender"
 
 msgid "A keyword causing a player to get the designation of the city’s blessing once they control ten permanents. See rule 702.130, “Ascend.”"
 msgstr "Uma palavra-chave que faz com que um jogador receba a benção da Cidade uma vez que controle dez ou mais\n"
@@ -8961,11 +8961,11 @@ msgstr "Determinar como uma criatura atacante ou bloqueadora causará seu dano d
 "Dano de Combate.”"
 
 msgid "Assist"
-msgstr "Assistência (Assist)"
+msgstr "Assistência"
 
 msgid "A keyword ability that lets another player help you pay for a spell. See rule 702.131, “Assist.”"
 msgstr "Uma palavra-chave de habilidade que permite que outro jogador ajude a pagar por uma mágica. Veja a regra\n"
-"702.131, “Assistência (Asssist).”"
+"702.131, “Assistência”."
 
 msgid "At End of Turn (Obsolete)"
 msgstr "No Final do Turno (Obsoleto)"
@@ -8974,7 +8974,7 @@ msgid "A trigger condition printed on abilities that triggered at the beginning 
 msgstr "Uma condição de desencadeamento impressa em habilidades que são desencadeadas no início da etapa final (que não é a última coisa que acontece no turno). Os cards que foram impressos com esse texto, receberam errata na referência de cards Oracle para dizerem “no início da etapa final” ou “no início da próxima etapa final”. Veja a regra 513, “Etapa Final.”"
 
 msgid "Attach"
-msgstr "Anexar (Attach)"
+msgstr "Anexar"
 
 msgid "To move an Aura, Equipment, or Fortification onto another object or player. See rule 701.3, “Attach.”"
 msgstr "Mover uma Aura, Equipamento ou Fortificação para outro objeto. Veja a regra 701.3, “Anexar.”"
@@ -9040,7 +9040,7 @@ msgid "A keyword ability that lets you exchange an Aura on the battlefield with 
 msgstr "Uma palavra-chave de habilidade que permite a você permutar uma Aura no campo de batalha com uma da sua mão. Veja a regra 702.64, “Troca de Aura.”"
 
 msgid "Awaken"
-msgstr "Despertar (Awaken)"
+msgstr "Despertar"
 
 msgid "A keyword ability that lets you turn a land you control into a creature. See rule 702.112, “Awaken.”"
 msgstr "Uma palavra-chave de habilidade que permite que você transforme um terreno que você controla em uma criatura. Veja a regra 702.112, “Despertar.”"
@@ -9077,7 +9077,7 @@ msgid "There are five “basic land types”: Plains, Island, Swamp, Mountain, a
 msgstr "Existem cinco “tipos de terreno básico”: Planície, Ilha, Pântano, Montanha, e Floresta. Cada um tem uma habilidade de mana associado a ele. Veja a regra 305, “Terrenos.”"
 
 msgid "Battle Cry"
-msgstr "Grito de Guerra (Battle Cry)"
+msgstr "Grito de Guerra"
 
 msgid "A keyword ability that makes other attacking creatures better in combat. See rule 702.90, “Battle Cry.”"
 msgstr "Uma palavra-chave de habilidade que faz as outras criaturas atacantes serem melhores no combate. Veja a regra 702.90, \"Grito de Guerra\"."
@@ -9107,7 +9107,7 @@ msgid "Part of the turn. This phase is the first phase of the turn. See rule 501
 msgstr "Parte do turno. Esta fase é a primeira fase do primeiro turno. Veja a regra 501, “Fase Inicial.”"
 
 msgid "Bestow"
-msgstr "Agraciar (Bestow)"
+msgstr "Agraciar"
 
 msgid "A keyword ability that lets a creature card be cast as an Aura. See rule 702.102, “Bestow.”"
 msgstr "Uma palavra-chave de habilidade que permite que um card de criatura seja conjurado como uma Aura. Veja a regra\n"
@@ -9145,7 +9145,7 @@ msgid "A keyword ability that can have a creature enter the battlefield with +1/
 msgstr "Uma palavra-chave de habilidade que pode fazer com que uma criatura entre no campo de batalha com marcadores +1/+1 sobre ela. Veja a regra 702.53, “Sede de Sangue.”"
 
 msgid "Bolster"
-msgstr "Revigorar (Bolster)"
+msgstr "Revigorar"
 
 msgid "A keyword action that puts +1/+1 counters on the weakest creature a player controls. See rule 701.33, “Bolster.”"
 msgstr "Uma palavra-chave de ação que coloca marcadores +1/+1 na criatura mais fraca que um jogador controla. Veja a\n"
@@ -9202,7 +9202,7 @@ msgstr "Uma característica. Com exceção de habilidades na pilha, cada objeto 
 "Card.”"
 
 msgid "Cascade"
-msgstr "Cascata (Cascade)"
+msgstr "Cascata"
 
 msgid "A keyword ability that may let a player cast a random extra spell for no cost. See rule 702.84, “Cascade.”"
 msgstr "Uma palavra-chave de habilidade que pode permitir a um jogador conjurar uma mágica aleatória extra, sem nenhum\n"
@@ -9227,7 +9227,7 @@ msgid "An obsolete term for mana cost. Cards printed with this text have receive
 msgstr "Um termo obsoleto para custo de mana. Os cards impressos com este texto receberam errata na referência de cards Oracle."
 
 msgid "Champion, Championed"
-msgstr "Acudir, Acudida (Champion, Championed)"
+msgstr "Acudir, Acudida"
 
 msgid "“Champion” is a keyword ability that lets one creature temporarily replace another. A permanent is “championed” by another permanent if the latter exiles the former as the direct result of a champion ability. See rule 702.71, “Champion.”"
 msgstr "“Acudir” é uma palavra-chave de habilidade que permite que uma criatura substitua temporariamente outra. Uma\n"
@@ -9240,7 +9240,7 @@ msgid "To choose a new, legal target for a spell or ability. See rule 115.7."
 msgstr "Escolher um novo alvo válido para uma mágica ou habilidade. Veja a regra 115.7."
 
 msgid "Changeling"
-msgstr "Morfolóide (Changeling)"
+msgstr "Morfolóide"
 
 msgid "A characteristic-defining ability that grants the object it’s on every creature type. See rule 702.72, “Changeling.”"
 msgstr "Uma habilidade definidora de característica que confere ao objeto em que está todos os tipos de criatura. Veja a\n"
@@ -9272,7 +9272,7 @@ msgid "A kind of static ability that conveys information about an object’s cha
 msgstr "Uma espécie de habilidade estática que transmite informações sobre as características de um objeto que normalmente seriam encontradas em outra parte naquele objeto (como em seu custo de mana, linha de tipo ou caixa de poder/resistência). Veja a regra 604.3."
 
 msgid "Cipher"
-msgstr "Cifrar (Cipher)"
+msgstr "Cifrar"
 
 msgid "A keyword ability that allows you to encode a card on a creature and cast that card whenever that creature deals combat damage to a player. See rule 702.98, “Cipher.”"
 msgstr "Uma palavra-chave de habilidade que pode permitir a um jogador cifrar um card em uma criatura e jogar tal card toda vez que essa criatura causar dano de combate a um jogador. Veja a regra 702. 98, “Cifrar.”"
@@ -9453,7 +9453,7 @@ msgid "The total amount of mana in a mana cost, regardless of color. See rule 20
 msgstr "A quantidade total de mana em um custo de mana, independentemente da cor. Veja a regra 202.3."
 
 msgid "Convoke"
-msgstr "Convocar (Convoke)"
+msgstr "Convocar"
 
 msgid "A keyword ability that lets you tap creatures rather than pay mana to cast a spell. See rule 702.50, “Convoke.”"
 msgstr "Uma palavra-chave de habilidade que permite virar uma criatura em vez de pagar mana para conjurar uma mágica.\n"
@@ -9519,7 +9519,7 @@ msgstr "Um subtipo que está correlacionado com os tipos de card criatura e trib
 "308, “Tribais.” Veja a regra 205.3m para a lista de tipos de criatura."
 
 msgid "Crew"
-msgstr "Tripular (Crew)"
+msgstr "Tripular"
 
 msgid "A keyword ability that lets you tap creatures to turn a Vehicle into an artifact creature. See rule 301, “Artifacts,” and rule 702.121, “Crew.”"
 msgstr "Uma habilidade de palavra-chave que permite a você virar criaturas para transformar um Veículo em uma criatura de artefato. Veja a regra 301, \"Artefatos\", e a regra 702.121, \"Tripular\"."
@@ -9549,7 +9549,7 @@ msgid "The order, announced during the declare blockers step, that an attacking 
 msgstr "A ordem anunciada durante a etapa de declaração de bloqueadores, que uma criatura atacante atribuirá seu dano de combate entre as múltiplas criaturas que estão bloqueando ela, ou que uma criatura bloqueadora atribuirá seu dano de combate entre as múltiplas criaturas que ela bloqueia. Veja as regras 509.2 e 509.3."
 
 msgid "Dash"
-msgstr "Investida (Dash)"
+msgstr "Investida"
 
 msgid "A keyword ability that allows creatures to be especially aggressive. See rule 702.108, “Dash.”"
 msgstr "Uma palavra-chave de habilidade que permite que criaturas sejam especialmente agressivas. Veja a regra 702.108,\n"
@@ -9599,7 +9599,7 @@ msgid "Part of the turn. This step is the third step of the combat phase. See ru
 msgstr "Parte do turno. Esta é a terceira etapa da fase de combate. Veja a regra 509, “Etapa de Declaração de Bloqueadores.”"
 
 msgid "Defender"
-msgstr "Defensor (Defender)"
+msgstr "Defensor"
 
 msgid "A keyword ability that prohibits a creature from attacking. See rule 702.3, “Defender.”"
 msgstr "Uma palavra-chave de habilidade que proíbe uma criatura de atacar. Consulte a regra 702.3, “Defensor”."
@@ -9624,7 +9624,7 @@ msgid "An ability created by effects generated when some spells or abilities res
 msgstr "Uma habilidade criada por efeitos gerados quando algumas mágicas ou habilidades resolvem e fazem algo um pouco mais tarde que no momento da resolução. Veja a regra 603.7."
 
 msgid "Delve"
-msgstr "Esquadrinhar (Delve)"
+msgstr "Esquadrinhar"
 
 msgid "A keyword ability that lets you exile cards from your graveyard rather than pay generic mana to cast a spell. See rule 702.65, “Delve.”"
 msgstr "Uma palavra-chave de habilidade que permite que se exile cards ao invés de pagar mana genérico para conjurar uma mágica. Veja a regra 702.65, “Esquadrinhar.”"
@@ -9648,7 +9648,7 @@ msgid "To move a permanent from the battlefield to its owner’s graveyard. See 
 msgstr "Mover uma permanente do campo de batalha para o cemitério de seu dono. Veja a regra 701.7, “Destruir.”"
 
 msgid "Detain"
-msgstr "Deter (Detain)"
+msgstr "Deter"
 
 msgid "A keyword action that temporarily stops a permanent from attacking, blocking, or having its activated abilities activated. See rule 701.29, “Detain.”"
 msgstr "Uma palavra-chave de habilidade que temporariamente impede uma permanente de atacar, bloquear ou ter suas\n"
@@ -9661,19 +9661,19 @@ msgid "A keyword ability that puts a +1/+1 counter on a creature when it attacks
 msgstr "Uma palavra-chave de habilidade que coloca um marcador +1/+1 em uma criatura quando ela ataca o jogador com mais vida. Veja a regra 702.104, “Dethrone”."
 
 msgid "Devoid"
-msgstr "Desprovido (Devoid)"
+msgstr "Desprovido"
 
 msgid "A characteristic-defining ability that makes an object colorless. See rule 702.113, “Devoid.”"
 msgstr "Uma habilidade definidora de característica que deixa um objeto incolor. Veja a regra 702.113, “Desprovido”."
 
 msgid "Devotion"
-msgstr "Devoção (Devotion)"
+msgstr "Devoção"
 
 msgid "A numerical value a player has, equal to the number of mana symbols of a certain color among the mana costs of permanents that player controls. See rule 700.5."
 msgstr "Um valor numérico que o jogador tem, igual ao número de símbolos de mana de uma certa cor entre os custos de mana das permanentes que aquele jogador controla. Veja a regra 700.5."
 
 msgid "Devour"
-msgstr "Devorar (Devour)"
+msgstr "Devorar"
 
 msgid "A keyword ability that can have a creature enter the battlefield with +1/+1 counters on it. See rule 702.81, “Devour.”"
 msgstr "Uma palavra-chave de habilidade que pode fazer com que uma criatura entre no campo de batalha com marcadores +1/+1 sobre ela. Veja a regra 702.81, “Devorar”."
@@ -9697,7 +9697,7 @@ msgid "A variant of the hidden agenda ability. See rule 702.105, “Hidden Agend
 msgstr "Uma variante da habilidade hidden agenda. Veja a regra 702.105, “Hidden Agenda”."
 
 msgid "Double Strike"
-msgstr "Golpe Duplo (Double Strike)"
+msgstr "Golpe Duplo"
 
 msgid "A keyword ability that lets a creature deal its combat damage twice. See rule 702.4, “Double Strike.”"
 msgstr "Uma palavra-chave de habilidade que permite a uma grande criatura causar dano de combate duas vezes. Veja a regra 702.4, “Golpe Duplo”."
@@ -9740,7 +9740,7 @@ msgid "Part of the turn. This step is the third and final step of the beginning 
 msgstr "Parte do turno. Esta é a terceira e última etapa da fase inicial. Veja a regra 504, “Etapa de Compra”."
 
 msgid "Dredge"
-msgstr "Escavação (Dredge)"
+msgstr "Escavação"
 
 msgid "A keyword ability that lets a player return a card from their graveyard to their hand. See rule 702.51, “Dredge.”"
 msgstr "Uma palavra-chave de habilidade que permite a um jogador devolver um card de seu cemitério para sua mão. Veja\n"
@@ -9753,7 +9753,7 @@ msgid "Some older cards used the phrase “during [phase], [action].” These ab
 msgstr "Alguns cards antigos usavam a frase “durante [a fase], [ação]”. Estas habilidades eram chamadas de “habilidades de fase”. Em geral, os cards que foram impressos com habilidades de fase receberam errata na referência de cards Oracle para que eles tenham habilidades que desencadeiam no início de uma etapa ou fase. “Durante” ainda aparece no texto de cards atuais, mas apenas no seu sentido normal em Português e não como terminologia do jogo."
 
 msgid "Echo"
-msgstr "Eco (Echo)"
+msgstr "Eco"
 
 msgid "A keyword ability that imposes a cost to keep a permanent on the battlefield. See rule 702.29, “Echo.”"
 msgstr "Uma palavra-chave de habilidade que impõe um custo para manter uma permanente no campo de batalha. Veja a\n"
@@ -9772,7 +9772,7 @@ msgid "Something that happens in the game as a result of a spell or ability. See
 msgstr "Algo que acontece no jogo, como resultado de uma mágica ou habilidade. Veja a regra 609, “Efeitos”."
 
 msgid "Embalm"
-msgstr "Embalsamar (Embalm)"
+msgstr "Embalsamar"
 
 msgid "A keyword ability that lets a player exile a creature card from their graveyard to create a mummified token version of that card. See rule 702.127, “Embalm.”"
 msgstr "Uma palavra-chave de habilidade que permite ao jogador exilar um card de criatura de seu cemitério para criar uma\n"
@@ -9785,7 +9785,7 @@ msgid "An emblem is a marker used to represent an object that has one or more ab
 msgstr "Um emblema é um marcador usado para representar um objeto que possui uma ou mais habilidades e não possui outras características. Veja a regra 114, “Emblemas”."
 
 msgid "Emerge"
-msgstr "Emergir (Emerge)"
+msgstr "Emergir"
 
 msgid "A keyword ability that lets a player cast a spell for less by sacrificing a creature. See rule 702.118, “Emerge.”"
 msgstr "Uma palavra-chave de habilidade que permite ao jogador conjurar uma mágica por um custo menor ao sacrificar uma criatura. Veja a regra 702.118, “Emergir”."
@@ -9829,13 +9829,13 @@ msgstr "Um termo que descreve a relação entre uma permanente e o card exilado 
 "702.98, “Cifrar”."
 
 msgid "Encore"
-msgstr "Bis (Encore)"
+msgstr "Bis"
 
 msgid "A keyword ability that lets a player exile a creature card from their graveyard to, for each opponent, create a token that’s a copy of that card to attack that opponent."
 msgstr "Uma palavra-chave de habilidade que permite o jogador exilar um card de criatura do seu cemitério para, pra cada oponente, criar uma ficha que é uma cópia daquele card para atacar o oponente."
 
 msgid "Encounter"
-msgstr "Defrontar (Encounter)"
+msgstr "Defrontar"
 
 msgid "To move a phenomenon card off the top of a planar deck and turn it face up. See rule 310, “Phenomena.”"
 msgstr "Mover um card de fenômeno do deck planar e virar sua face para cima. Veja a regra 310, “Fenômenos”."
@@ -9885,13 +9885,13 @@ msgstr "Uma permanente que não seja uma ficha “entra no campo de batalha” q
 "614.12."
 
 msgid "Entwine"
-msgstr "Entrelaçar (Entwine)"
+msgstr "Entrelaçar"
 
 msgid "A keyword ability that lets a player choose all modes for a spell rather than just the number specified. See rule 702.41, “Entwine.”"
 msgstr "Uma palavra-chave de habilidade que permite a um jogador escolher todos os modos de uma mágica ao invés de apenas um. Veja a regra 702.41, “Entrelaçar”."
 
 msgid "Epic"
-msgstr "Épica (Epic)"
+msgstr "Épica"
 
 msgid "A keyword ability that lets a player copy a spell at the beginning of each of their upkeeps at the expense of casting any other spells for the rest of the game. See rule 702.49, “Epic.”"
 msgstr "Uma palavra-chave de habilidade que permite que um jogador copie uma mágica, no início de cada uma das suas\n"
@@ -9911,7 +9911,7 @@ msgid "An artifact subtype. Equipment can be attached to creatures. See rule 301
 msgstr "Um subtipo de artefato. Um equipamento pode ser anexado a uma criatura. Veja a regra 301, “Artefatos”, e a regra 702.6, “Equipar”."
 
 msgid "Escalate"
-msgstr "Escalar (Escalate)"
+msgstr "Escalar"
 
 msgid "A keyword ability on some modal spells that adds a cost for choosing additional modes. See rule 702.119, “Escalate.”"
 msgstr "Uma palavra chave de habilidade de algumas mágicas modais que adicionam custos por escolher modos adicionais. Veja a regra 702.119, “Escalar”."
@@ -9923,7 +9923,7 @@ msgid "A keyword ability that lets a player cast a card from their graveyard. Se
 msgstr ""
 
 msgid "Eternalize"
-msgstr "Eternizar (Eternalize)"
+msgstr "Eternizar"
 
 msgid "A keyword ability that lets a player exile a creature card from their graveyard to create an eternalized token version of that card. See rule 702.128, “Eternalize.”"
 msgstr "Uma palavra-chave de habilidade que permite ao jogador exilar um card de criatura de seu cemitério para criar uma ficha eternizada daquele card. Veja a regra 702.128, “Eternizar”."
@@ -9941,19 +9941,19 @@ msgid "Anything that happens in a game. See rule 700.1."
 msgstr "Qualquer coisa que acontece em um jogo. Veja a regra 700.1."
 
 msgid "Evoke"
-msgstr "Evocar (Evoke)"
+msgstr "Evocar"
 
 msgid "A keyword ability that causes a permanent to be sacrificed when it enters the battlefield. See rule 702.73, “Evoke.”"
 msgstr "Uma palavra-chave de habilidade que faz com que uma permanente seja sacrificada quando entra no campo de batalha. Veja a regra 702.73, “Evocar”."
 
 msgid "Evolve"
-msgstr "Evoluir (Evolve)"
+msgstr "Evoluir"
 
 msgid "A keyword ability that lets you put a +1/+1 counter on a creature when a larger creature enters the battlefield under your control. See rule 702.99, “Evolve.”"
 msgstr "Uma palavra-chave de habilidade que o permite colocar um marcador de +1/+1 em uma criatura quando uma criatura maior entra no campo de batalha sob seu controle. Veja a regra 702.99, “Evoluir”."
 
 msgid "Exalted"
-msgstr "Exaltado (Exalted)"
+msgstr "Exaltado"
 
 msgid "A keyword ability that can make a creature better in combat. See rule 702.82, “Exalted.”"
 msgstr "Uma palavra-chave de habilidade que pode tornar uma criatura melhor em combate. Veja a regra 702.82,\n"
@@ -9966,7 +9966,7 @@ msgid "To swap two things, such as objects, sets of objects, or life totals. See
 msgstr "Trocar duas coisas, como objetos, conjuntos de objetos ou totais de vida. Veja a regra 701.10, “Permuta”."
 
 msgid "Exert"
-msgstr "Exaurir (Exert)"
+msgstr "Exaurir"
 
 msgid "A keyword action that stops a permanent from untapping during the next untap step of the player who exerted it. See rule 701.39, “Exert.”"
 msgstr "Uma palavra-chave de ação que faz com que uma permanente não seja desvirada durante a próxima etapa de desvirar do jogador que a exauriu. Veja a regra 701.39, “Exaurir”."
@@ -9996,7 +9996,7 @@ msgid "A card’s expansion symbol is a small icon normally printed below the ri
 msgstr "Um símbolo da expansão de um card é um pequeno ícone normalmente impresso abaixo da borda direita da ilustração que não tem efeito no jogo. Veja a regra 206, “Símbolo da Expansão”."
 
 msgid "Exploit"
-msgstr "Aproveitar (Exploit)"
+msgstr "Aproveitar"
 
 msgid "A keyword ability that lets you sacrifice a creature for a benefit. See rule 702.109, “Exploit.”"
 msgstr "Uma palavra-chave de habilidade que permite que você sacrifique uma criatura para um benefício. Veja a regra 702.109, “Aproveitar”."
@@ -10022,7 +10022,7 @@ msgstr "Um turno criado por um efeito de uma mágica ou habilidade. Veja a regra
 "um jogo que usa a opção de turnos compartilhados pela equipe, veja a regra 805.8. Para regras sobre turnos extras em um jogo de Refrega Grandiosa, veja a regra 807.4."
 
 msgid "Fabricate"
-msgstr "Fabricar (Frabricate)"
+msgstr "Fabricar"
 
 msgid "A keyword ability that lets you choose whether to create Servo tokens or put +1/+1 counters on a creature. See rule 702.122, “Fabricate.”"
 msgstr "Uma palavra-chave de habilidade que permite que você escolha entre criar uma ficha de Servus ou colocar um marcador +1/+1 em uma criatura. Consulte a regra 702.122, “Fabricar”."
@@ -10050,61 +10050,62 @@ msgid "2. A default status a permanent may have. See rule 110.5 and rule 702.36,
 msgstr "2. Um status padrão que uma permanente pode ter. Veja a regra 110.5 e a regra 702.36, “Metamorfose”."
 
 msgid "Fading"
-msgstr "Sumir (Fading)"
+msgstr "Sumir"
 
 msgid "A keyword ability that limits how long a permanent remains on the battlefield. See rule 702.31, “Fading.”"
 msgstr "Uma palavra-chave de habilidade que limita o tempo que uma permanente permanece no campo de batalha. Veja a regra 702.31, “Sumir”."
 
 msgid "Fateseal"
-msgstr "Predestinar (Fateseal)"
+msgstr "Predestinar"
 
 msgid "To manipulate some of the cards on top of an opponent’s library. See rule 701.22, “Fateseal.”"
 msgstr "Manipular alguns dos cards do topo do grimório de um oponente. Veja a regra 701.22, “Predestinar”."
 
 msgid "Fear"
-msgstr "Amedrontar (Fear)"
+msgstr "Amedrontar"
 
 msgid "A keyword ability that restricts how a creature may be blocked. See rule 702.35, “Fear.”"
 msgstr "Uma palavra-chave de habilidade que limita como uma criatura pode ser bloqueada. Veja a regra 702.35, “Amedrontar”."
 
 msgid "Fight"
-msgstr "Lutar (Fight)"
+msgstr "Lutar"
 
 msgid "When two creatures fight, each deals damage equal to its power to the other. See rule 701.12, “Fight.”"
 msgstr "Quando duas criaturas lutam, cada uma delas causa dano igual ao seu poder à outra criatura. Veja a regra 701.12,\n"
 "“Lutar”."
 
 msgid "First Strike"
-msgstr "Iniciativa (First Strike)"
+msgstr "Iniciativa"
 
 msgid "A keyword ability that lets a creature deal its combat damage before other creatures. See rule 702.7, “First Strike.”"
 msgstr "Uma palavra-chave de habilidade que permite a uma criatura causar seu dano de combate antes que as outras criaturas. Veja a regra 702.7, “Iniciativa”."
 
 msgid "Flanking"
-msgstr "Flanquear (Flanking)"
+msgstr "Flanquear"
 
 msgid "A keyword ability that can make a creature better in combat. See rule 702.24, “Flanking.”"
 msgstr "Uma palavra-chave de habilidade que pode tornar uma criatura melhor em combate. Veja a regra 702.24, “Flanquear”."
 
 msgid "Flash"
-msgstr "Lampejo (Flash)"
+msgstr "Lampejo"
 
 msgid "A keyword ability that lets a player play a card any time they could cast an instant. See rule 702.8, “Flash.”"
 msgstr "Uma palavra-chave de habilidade que permite a um jogador jogar um card a qualquer momento em que ele pudesse\n"
 "conjurar uma mágica instantânea. Veja a regra 702.8, “Lampejo”."
 
 msgid "Flashback"
-msgstr "Recapitular (Flashback)"
+msgstr "Recapitular"
 
 msgid "A keyword ability that lets a player cast a card from their graveyard. See rule 702.33, “Flashback.”"
 msgstr "Uma palavra-chave de habilidade que permite a um jogador conjurar um card de seu cemitério. Veja a regra 702.33,\n"
 "“Recapitular”."
 
 msgid "Flavor Text"
-msgstr ""
+msgstr "Texto Ilustrativo"
 
 msgid "Text in italics (but not in parentheses) in the text box of a card that has no effect on play. See rule 207.2."
-msgstr ""
+msgstr "Texto em itálico (mas não entre parênteses) na caixa de texto de um card, não tendo nenhum efeito no jogo. Veja\n"
+"a regra 207.2."
 
 msgid "Flip Cards"
 msgstr ""
@@ -10113,22 +10114,24 @@ msgid "Cards with a two-part card frame (one part of which is printed upside dow
 msgstr ""
 
 msgid "Flipped"
-msgstr ""
+msgstr "Girado"
 
 msgid "A status a permanent may have. See rule 110.5 and rule 709, “Flip Cards.” See also Unflipped."
-msgstr ""
+msgstr "Um status que uma permanente pode ter. Veja a regra 110.5 e a regra 709, “Cards Que Giram”. Veja também Não\n"
+"Girado."
 
 msgid "Flipping a Coin"
-msgstr ""
+msgstr "Lançando uma Moeda"
 
 msgid "A method of randomization with two possible outcomes of equal likelihood. See rule 705, “Flipping a Coin.”"
-msgstr ""
+msgstr "Um método de randomização com dois possíveis resultados de igual probabilidade. Veja a regra 705, “Lançando\n"
+"uma Moeda”."
 
 msgid "Flying"
-msgstr ""
+msgstr "Voar"
 
 msgid "A keyword ability that restricts how a creature may be blocked. See rule 702.9, “Flying.”"
-msgstr ""
+msgstr "Uma palavra-chave de habilidade que limita como uma criatura pode ser bloqueada. Veja a regra 702.9, “Voar”."
 
 msgid "Food Token"
 msgstr ""
@@ -10143,37 +10146,38 @@ msgid "A keyword ability that allows an activated ability to be activated from a
 msgstr ""
 
 msgid "Forest"
-msgstr ""
+msgstr "Floresta"
 
 msgid "One of the five basic land types. Any land with this subtype has the ability “{T}: Add {G}.” See rule 305.6."
-msgstr ""
+msgstr "Um dos cinco tipos de terreno básico. Qualquer terreno com este subtipo tem a habilidade “{T}: Adicione {G}”. Veja a regra 305.6."
 
 msgid "Forestcycling"
 msgstr "Reciclar Floresta"
 
 msgid "Forestwalk"
-msgstr ""
+msgstr "Travessia de Floresta"
 
 msgid "See Landwalk."
-msgstr ""
+msgstr "Veja Travessia de terreno."
 
 msgid "Fortification"
-msgstr ""
+msgstr "Fortificação"
 
 msgid "An artifact subtype. Fortifications can be attached to lands. See rule 301, “Artifacts,” and rule 702.66, “Fortify.”"
-msgstr ""
+msgstr "Um subtipo de artefato. Fortificações podem ser anexadas aos terrenos. Veja a regra 301, “Artefatos” e a regra\n"
+"702.66, “Fortificar”."
 
 msgid "Fortify"
-msgstr ""
+msgstr "Fortificar"
 
 msgid "A keyword ability that lets a player attach a Fortification to a land they control. See rule 301, “Artifacts,” and rule 702.66, “Fortify.”"
-msgstr ""
+msgstr "Uma palavra-chave de habilidade que permite a um jogador anexar uma fortificação em um terreno que ele controla. Veja a regra 301, “Artefatos” e a regra 702.66, “Fortificar”."
 
 msgid "Frenzy"
-msgstr ""
+msgstr "Frenesi"
 
 msgid "A keyword ability that can make a creature better in combat. See rule 702.67, “Frenzy.”"
-msgstr ""
+msgstr "Uma palavra-chave de habilidade que pode tornar uma criatura melhor em combate. Veja a regra 702.67, “Frenesi”."
 
 msgid "Free-for-All"
 msgstr ""
@@ -10461,7 +10465,7 @@ msgid "An obsolete keyword ability that meant “This creature can’t attack un
 msgstr ""
 
 msgid "Islandwalk"
-msgstr ""
+msgstr "Travessia de Ilha"
 
 msgid "Jump-Start"
 msgstr ""
@@ -10506,10 +10510,10 @@ msgid "A subtype that’s correlated to the land card type. See rule 305, “Lan
 msgstr ""
 
 msgid "Landwalk"
-msgstr ""
+msgstr "Travessia de terreno"
 
 msgid "A generic term for a group of keyword abilities that restrict whether a creature may be blocked. See rule 702.14, “Landwalk.”"
-msgstr ""
+msgstr "Um termo genérico para um grupo de palavras-chave de habilidade que se restringem quando uma criatura pode ser bloqueada. Veja a regra 702.14, “Travessia de terreno”."
 
 msgid "Last Known Information"
 msgstr ""
@@ -10875,7 +10879,7 @@ msgid "Mountaincycling"
 msgstr "Reciclar Montanha"
 
 msgid "Mountainwalk"
-msgstr ""
+msgstr "Travessia de Montanha"
 
 msgid "Move"
 msgstr ""
@@ -11157,7 +11161,7 @@ msgid "Plainscycling"
 msgstr "Reciclar Planície"
 
 msgid "Plainswalk"
-msgstr ""
+msgstr "Travessia de Planície"
 
 msgid "Planar Deck"
 msgstr ""
@@ -11871,7 +11875,7 @@ msgid "Swampcycling"
 msgstr "Reciclar Pântano"
 
 msgid "Swampwalk"
-msgstr ""
+msgstr "Travessia de Pântano"
 
 msgid "Tap"
 msgstr ""
@@ -12216,7 +12220,7 @@ msgid "2. A card type seen only on nontraditional Magic cards in the Vanguard ca
 msgstr ""
 
 msgid "Vanishing"
-msgstr "Desaparecer (Vanishing)"
+msgstr "Desaparecer"
 
 msgid "A keyword ability that limits how long a permanent remains on the battlefield. See rule 702.62, “Vanishing.”"
 msgstr "Uma palavra-chave de habilidade que limita o tempo em que uma permanente permanece no campo de batalha. Veja a regra 702.62, “Desaparecer.”"
@@ -12258,14 +12262,14 @@ msgid "There are several ways to win the game. See rule 104, “Ending the Game,
 msgstr ""
 
 msgid "Wither"
-msgstr "Murchar (Wither)"
+msgstr "Murchar"
 
 msgid "A keyword ability that affects how an object deals damage to a creature. See rule 702.79, “Wither.”"
 msgstr "Uma palavra-chave de habilidade que afeta como um objeto causa dano a uma criatura. Veja a regra 702.79,\n"
 "“Murchar.”"
 
 msgid "Wizardcycling"
-msgstr "Reciclar Mago (Wizardcycling)"
+msgstr "Reciclar Mago"
 
 msgid "World"
 msgstr "Mundo"
