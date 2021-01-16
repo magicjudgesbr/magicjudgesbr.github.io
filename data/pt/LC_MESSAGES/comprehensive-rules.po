@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2021-01-14 23:56\n"
+"PO-Revision-Date: 2021-01-16 11:39\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -10313,49 +10313,50 @@ msgstr "Uma zona em que nem todos os jogadores podem ver as faces dos cards. Vej
 "Pública."
 
 msgid "Hideaway"
-msgstr ""
+msgstr "Refúgio"
 
 msgid "A keyword ability that lets a player store a secret card. See rule 702.74, “Hideaway.”"
-msgstr ""
+msgstr "Uma palavra-chave de habilidade que permite a um jogador guardar um card secreto. Veja a regra 702.74, “Refúgio”."
 
 msgid "Historic"
-msgstr ""
+msgstr "Histórico"
 
 msgid "An object is historic if it has the legendary supertype, the artifact card type, or the Saga subtype. See rule 700.6."
-msgstr ""
+msgstr "Um objeto é histórico se tiver o supertipo lendário, o tipo de card artefato, ou o subtipo Saga. Veja a regra 700.6."
 
 msgid "Horsemanship"
-msgstr ""
+msgstr "Horsemanship"
 
 msgid "A keyword ability that restricts how a creature may be blocked. See rule 702.30, “Horsemanship.”"
-msgstr ""
+msgstr "Uma palavra-chave de habilidade que limita a como uma criatura pode ser bloqueada. Veja a regra 702.30, “Horsemanship”."
 
 msgid "Hybrid Card"
-msgstr ""
+msgstr "Card Híbrido"
 
 msgid "A card with one or more hybrid mana symbols in its mana cost. See rule 202.2f."
-msgstr ""
+msgstr "Um card com um ou mais símbolos de mana híbrido em seu custo de mana. Veja a regra 202.2f."
 
 msgid "Hybrid Mana Symbols"
-msgstr ""
+msgstr "Símbolos de Mana Híbrido"
 
 msgid "A mana symbol that represents a cost that can be paid in one of two ways. See rule 107.4."
-msgstr ""
+msgstr "Um símbolo de mana que representa um custo que pode ser pago em uma de duas maneiras. Veja a regra 107.4."
 
 msgid "If"
-msgstr ""
+msgstr "Se"
 
 msgid "See Intervening “If” Clause."
-msgstr ""
+msgstr "Veja a Cláusula “If” de Intervenção."
 
 msgid "Illegal Action"
-msgstr ""
+msgstr "Ação Ilegal"
 
 msgid "An action that violates the rules of the game and/or requirements or restrictions created by effects. See rule 723, “Handling Illegal Actions.”"
-msgstr ""
+msgstr "Uma ação que viole as regras do jogo e/ou requisitos ou restrições criadas por efeitos. Veja a regra 723, “Lidando\n"
+"com Ações Ilegais”."
 
 msgid "Illegal Target"
-msgstr ""
+msgstr "Alvo Inválido"
 
 msgid "A target that no longer exists or no longer meets the specifications stated by the spell or ability that’s targeting it. See rule 608.2b."
 msgstr ""
