@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2021-01-16 12:38\n"
+"PO-Revision-Date: 2021-01-17 11:41\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -469,7 +469,7 @@ msgid "100.1a A two-player game is a game that begins with only two players."
 msgstr "100.1a Um jogo de dois jogadores é um jogo que começa com apenas dois jogadores."
 
 msgid "100.1b A multiplayer game is a game that begins with more than two players. See section 8, “Multiplayer Rules.”"
-msgstr "100.1b Um jogo multijogador é um jogo que começa com mais de dois jogadores. Veja a seção 8, \"Regras Multijogador\"."
+msgstr "100.1b Um jogo multijogador é um jogo que começa com mais de dois jogadores. Consulte a seção 8, \"Regras Multijogador\"."
 
 msgid "100.2. To play, each player needs their own deck of traditional Magic cards, small items to represent any tokens and counters, and some way to clearly track life totals."
 msgstr "100.2. Para jogar, cada jogador precisa de seu próprio deck de cards de Magic tradicionais, pequenos itens para representar quaisquer fichas e contadores, e alguma forma de rastrear claramente os totais da vida."
@@ -481,10 +481,10 @@ msgid "100.2b In limited play (a way of playing in which each player gets the sa
 msgstr "100.2b No formato limitado (uma forma de jogo em que cada jogador recebe a mesma quantidade de produtos de Magic lacrados e cria seu próprio deck usando apenas esse produto e cards de terreno básico), cada deck deve conter no mínimo quarenta cards. Um deck limitado pode conter tantas cópias de um card quanto forem inclusas no produto."
 
 msgid "100.2c Commander decks are subject to additional deckbuilding restrictions and requirements. See rule 903, “Commander,” for details."
-msgstr "100.2c Decks de Commander estão sujeitos a restrições e requisitos adicionais de construção de deck. Veja a regra 903, \"Commander\", para mais detalhes."
+msgstr "100.2c Decks de Commander estão sujeitos a restrições e requisitos adicionais de construção de deck. Consulte a regra 903, \"Commander\", para mais detalhes."
 
 msgid "100.3. Some casual variants require additional items, such as specially designated cards, nontraditional Magic cards, and dice. See section 9, “Casual Variants.”"
-msgstr "100.3. Algumas variantes casuais exigem itens adicionais, como cards especialmente designados, cards de Magic não tradicionais e dados. Veja a seção 9, \"Variantes casuais\"."
+msgstr "100.3. Algumas variantes casuais exigem itens adicionais, como cards especialmente designados, cards de Magic não tradicionais e dados. Consulte a seção 9, \"Variantes casuais\"."
 
 msgid "100.4. Each player may also have a sideboard, which is a group of additional cards the player may use to modify their deck between games of a match."
 msgstr "100.4. Cada jogador pode também ter uma reserva, que é um grupo de cards adicionais que o jogador pode usar para modificar seu deck entre jogos de uma partida."
@@ -517,7 +517,7 @@ msgid "100.7. Certain promotional cards and cards in the Unglued, Unhinged, and 
 msgstr "100.7. Certos cards promocionais e cards das edições Unglued, Unhinged, e Unstable são impressos com uma borda prateada. Estes cards são destinados a jogos casuais e podem ter recursos e textos que não são cobertos por essas regras."
 
 msgid "101.1. Whenever a card’s text directly contradicts these rules, the card takes precedence. The card overrides only the rule that applies to that specific situation. The only exception is that a player can concede the game at any time (see rule 104.3a)."
-msgstr "101.1. Sempre que o texto de um card contradiz diretamente essas regras, o card tem precedência. O card sobrescreve apenas a regra que se aplica a essa situação específica. A única exceção é que um jogador pode conceder o jogo a qualquer momento (veja a regra 104.3a)."
+msgstr "101.1. Sempre que o texto de um card contradiz diretamente essas regras, o card tem precedência. O card sobrescreve apenas a regra que se aplica a essa situação específica. A única exceção é que um jogador pode conceder o jogo a qualquer momento (consulte a regra 104.3a)."
 
 msgid "101.2. When a rule or effect allows or directs something to happen, and another effect states that it can’t happen, the “can’t” effect takes precedence."
 msgstr "101.2. Quando uma regra ou efeito permite ou direciona algo para acontecer, e outro efeito afirma que não pode acontecer, o efeito \"não pode\" tem precedência."
@@ -526,7 +526,7 @@ msgid "Example: If one effect reads “You may play an additional land this turn
 msgstr "Exemplo: Se um efeito diz \"Você pode jogar um terreno adicional este turno\" e outro diz \"Você não pode jogar terrenos neste turno\", o efeito que o impede de jogar terrenos vence."
 
 msgid "101.2a Adding abilities to objects and removing abilities from objects don’t fall under this rule. (See rule 113.10.)"
-msgstr "101.2a Adicionar habilidades a objetos e remover habilidades de objetos não se enquadram nesta regra. (Veja a regra 113.10.)"
+msgstr "101.2a Adicionar habilidades a objetos e remover habilidades de objetos não se enquadram nesta regra. (Consulte a regra 113.10.)"
 
 msgid "101.3. Any part of an instruction that’s impossible to perform is ignored. (In many cases the card will specify consequences for this; if it doesn’t, there’s no effect.)"
 msgstr "101.3. Qualquer parte de uma instrução cuja realização seja impossível é ignorada. (Em muitos casos, o card especificará as consequências para isto; se isso não acontecer, não há efeito.)"
@@ -580,16 +580,16 @@ msgid "103.2. After the starting player has been determined, each player shuffle
 msgstr "103.2. Depois que o jogador inicial for determinado, cada jogador embaralha seu deck para que os cards fiquem em uma ordem aleatória. Cada jogador pode então embaralhar ou cortar os decks de seus oponentes. Os decks dos jogadores tornam-se seus grimórios."
 
 msgid "103.2a If a player is using a sideboard (see rule 100.4) or cards being represented by substitute cards (see rule 713), those cards are set aside before shuffling."
-msgstr "103.2a Se um jogador está usando uma reserva (veja a regra 100.4) ou cards sendo representados por cards curinga (veja a regra 713), esses cards são colocados de lado antes de embaralhar."
+msgstr "103.2a Se um jogador está usando uma reserva (consulte a regra 100.4) ou cards sendo representados por cards curinga (consulte a regra 713), esses cards são colocados de lado antes de embaralhar."
 
 msgid "103.2b If a player wishes to reveal a card with a companion ability that they own from outside the game, they may do so after setting aside their sideboard. A player may reveal no more than one card this way, and they may do so only if their deck fulfills the condition of that card’s companion ability. (See rule 702.138, “Companion.”)"
-msgstr "103.2b Se um jogador desejar revelar um card com a habilidade companheiro que ele possui de fora do jogo, eles podem fazer depois de colocar de lado sua reserva. Um jogador não pode revelar mais do que um card desta maneira, e eles só podem fazê-lo se o deck cumprir a condição da habilidade companheiro daquele card. (Veja a regra 702.138, \"Companheiro\")"
+msgstr "103.2b Se um jogador desejar revelar um card com a habilidade companheiro que ele possui de fora do jogo, eles podem fazer depois de colocar de lado sua reserva. Um jogador não pode revelar mais do que um card desta maneira, e eles só podem fazê-lo se o deck cumprir a condição da habilidade companheiro daquele card. (Consulte a regra 702.138, \"Companheiro\")"
 
 msgid "103.2c In a Commander game, each player puts their commander from their deck face up into the command zone after having the opportunity to reveal a card with a companion ability and before shuffling. See rule 903.6."
-msgstr "103.2c Num jogo de Commander, cada jogador coloca o comandante de seu deck na zona de comando com a face voltada para cima depois de ter a oportunidade de revelar uma carta com a habilidade companheiro e antes de embaralhar. Veja a regra 903.6."
+msgstr "103.2c Num jogo de Commander, cada jogador coloca o comandante de seu deck na zona de comando com a face voltada para cima depois de ter a oportunidade de revelar uma carta com a habilidade companheiro e antes de embaralhar. Consulte a regra 903.6."
 
 msgid "103.2d In a Conspiracy Draft game, each player puts any number of conspiracy cards from their sideboard into the command zone before shuffling. See rule 905.4."
-msgstr "103.2d Em um jogo Draft de Conspiracy, cada jogador coloca qualquer número de cards de conspiracy de sua reserva na zona de comando antes de embaralhar. Veja a regra 905.4."
+msgstr "103.2d Em um jogo Draft de Conspiracy, cada jogador coloca qualquer número de cards de conspiracy de sua reserva na zona de comando antes de embaralhar. Consulte a regra 905.4."
 
 msgid "103.3. Each player begins the game with a starting life total of 20. Some variant games have different starting life totals."
 msgstr "103.3. Cada jogador começa o jogo com um total inicial de pontos de vida de 20. Alguns jogos variantes possuem diferentes totais de pontos de vida iniciais."
@@ -8730,7 +8730,7 @@ msgstr "Abandonar"
 
 msgid "To turn a face-up ongoing scheme card face down and put it on the bottom of its owner’s scheme deck. See rule 701.26, “Abandon.”"
 msgstr "Virar a face de um card de esquema contínuo para baixo e colocá-lo no fundo do deck de esquemas de seu dono.\n"
-"Veja a regra 701.26, “Abandonar.”"
+"Consulte a regra 701.26, “Abandonar.”"
 
 msgid "Ability"
 msgstr "Habilidade"
@@ -8742,51 +8742,51 @@ msgid "2. An activated or triggered ability on the stack. This kind of ability i
 msgstr "2. Uma habilidade ativada ou desencadeada na pilha. Este tipo de habilidade é um objeto."
 
 msgid "See rule 113, “Abilities,” and section 6, “Spells, Abilities, and Effects.”"
-msgstr "Veja a regra 113, “Habilidades,” e a seção 6, “Mágicas, Habilidades, e Efeitos.”"
+msgstr "Consulte a regra 113, “Habilidades,” e a seção 6, “Mágicas, Habilidades, e Efeitos.”"
 
 msgid "Ability Word"
 msgstr "Palavra de Habilidade"
 
 msgid "An italicized word with no rules meaning that ties together abilities on different cards that have similar functionality. See rule 207.2c."
-msgstr "Uma palavra em itálico sem significado nas regras que agrupam diferentes cards que têm uma funcionalidade semelhante. Veja a regra 207.2c."
+msgstr "Uma palavra em itálico sem significado nas regras que agrupam diferentes cards que têm uma funcionalidade semelhante. Consulte a regra 207.2c."
 
 msgid "Absorb"
 msgstr "Absorver"
 
 msgid "A keyword ability that prevents damage. See rule 702.63, “Absorb.”"
-msgstr "Uma palavra-chave de habilidade que previne dano. Veja a regra 702.63, “Absorver.”"
+msgstr "Uma palavra-chave de habilidade que previne dano. Consulte a regra 702.63, “Absorver.”"
 
 msgid "Activate"
 msgstr "Ativar"
 
 msgid "To put an activated ability onto the stack and pay its costs, so that it will eventually resolve and have its effect. See rule 602, “Activating Activated Abilities.”"
 msgstr "Colocar uma habilidade ativada na pilha e pagar seus custos, de modo que ele eventualmente resolverá e terá o seu\n"
-"efeito. Veja a regra 602, “Ativando Habilidades Ativadas.”"
+"efeito. Consulte a regra 602, “Ativando Habilidades Ativadas.”"
 
 msgid "Activated Ability"
 msgstr "Habilidade Ativada"
 
 msgid "A kind of ability. Activated abilities are written as “[Cost]: [Effect.] [Activation instructions (if any).]” See rule 113, “Abilities,” and rule 602, “Activating Activated Abilities.”"
-msgstr "Um tipo de habilidade. Habilidades ativadas são escritas da seguinte forma “[Custo]: [Efeito] [Instrução de Ativação (se houver)]”. Veja a regra 113, “Habilidades,” e a regra 602, “Ativando Habilidades Ativadas.”"
+msgstr "Um tipo de habilidade. Habilidades ativadas são escritas da seguinte forma “[Custo]: [Efeito] [Instrução de Ativação (se houver)]”. Consulte a regra 113, “Habilidades,” e a regra 602, “Ativando Habilidades Ativadas.”"
 
 msgid "Activation Cost"
 msgstr "Custo de Ativação"
 
 msgid "Everything that appears before the colon in an activated ability’s text. It must be paid to activate the ability. See rule 118, “Costs,” and rule 602, “Activating Activated Abilities.”"
 msgstr "Tudo o que aparece antes dos dois pontos no texto de uma habilidade ativada. Ele deve ser pago para ativar a\n"
-"habilidade. Veja a regra 118, “Custos,” e a regra 602, “Ativando Habilidades Ativadas.”"
+"habilidade. Consulte a regra 118, “Custos,” e a regra 602, “Ativando Habilidades Ativadas.”"
 
 msgid "Active Player"
 msgstr "Jogador Ativo"
 
 msgid "The player whose turn it is. See rule 102.1."
-msgstr "O jogador cujo turno está sendo jogado. Veja a regra 102.1."
+msgstr "O jogador cujo turno está sendo jogado. Consulte a regra 102.1."
 
 msgid "Active Player, Nonactive Player Order"
 msgstr "Ordem Jogador-Ativo/Não-Ativo"
 
 msgid "A system that determines the order by which players make choices if multiple players are instructed to make choices at the same time. See rule 101.4. This rule is modified for games using the shared team turns option; see rule 805.6."
-msgstr "Um sistema que determina a ordem pela qual os jogadores fazem escolhas se vários jogadores são orientados a fazerem escolhas ao mesmo tempo. Veja a regra 101.4. Esta regra é modificada para jogos que fazem uso da opção de turnos compartilhados pela equipe; veja a regra 805.6."
+msgstr "Um sistema que determina a ordem pela qual os jogadores fazem escolhas se vários jogadores são orientados a fazerem escolhas ao mesmo tempo. Consulte a regra 101.4. Esta regra é modificada para jogos que fazem uso da opção de turnos compartilhados pela equipe; veja a regra 805.6."
 
 msgid "Active Team"
 msgstr "Equipe Ativa"
@@ -8799,31 +8799,31 @@ msgstr "Adaptar"
 
 msgid "A keyword action that puts +1/+1 counters on a creature that doesn’t have any yet. See rule 701.43, “Adapt.”"
 msgstr "Uma palavra-chave de ação que coloca marcadores +1/+1 em criaturas que não possuem nenhum marcador ainda.\n"
-"Veja a regra 701.43, “Adaptar.”"
+"Consulte a regra 701.43, “Adaptar.”"
 
 msgid "Additional Cost"
 msgstr "Custo Adicional"
 
 msgid "A cost a spell may have that its controller may pay (or, in some cases, must pay) in addition to its mana cost to cast that spell. See rule 118, “Costs,” and rule 601, “Casting Spells.”"
-msgstr "Um custo que uma mágica pode ter e que seu controlador pode pagar (ou em alguns casos, deve pagar), além de seu custo de mana para conjurar essa mágica. Veja a regra 118, “Custos,” e a regra 601, “Conjurando Mágicas.”"
+msgstr "Um custo que uma mágica pode ter e que seu controlador pode pagar (ou em alguns casos, deve pagar), além de seu custo de mana para conjurar essa mágica. Consulte a regra 118, “Custos,” e a regra 601, “Conjurando Mágicas.”"
 
 msgid "Adventurer Card"
 msgstr "Card Aventura"
 
 msgid "Cards with a two-part card frame (one part of which is inset on the left) on a single card. See rule 715, “Adventurer Cards.”"
-msgstr "Cards com duas partes (uma parte do qual está à esquerda) em um único card. Veja a regra 715, \"Cards de Aventura\"."
+msgstr "Cards com duas partes (uma parte do qual está à esquerda) em um único card. Consulte a regra 715, \"Cards de Aventura\"."
 
 msgid "Affinity"
 msgstr "Afinidade"
 
 msgid "A keyword ability that reduces how much mana you need to spend to cast a spell. See rule 702.40, “Affinity.”"
-msgstr "Uma palavra-chave de habilidade que reduz a quantidade de mana que você precisa gastar para conjurar uma mágica. Veja a regra 702.40, “Afinidade.”"
+msgstr "Uma palavra-chave de habilidade que reduz a quantidade de mana que você precisa gastar para conjurar uma mágica. Consulte a regra 702.40, “Afinidade.”"
 
 msgid "Afflict"
 msgstr "Afligir"
 
 msgid "A keyword ability that makes the defending player lose life for blocking. See rule 702.129, “Afflict.”"
-msgstr "Uma palavra-chave de habilidade que que faz com que o jogador defensor perca pontos de vida. Veja a regra\n"
+msgstr "Uma palavra-chave de habilidade que que faz com que o jogador defensor perca pontos de vida. Consulte a regra\n"
 "702.129, “Aflingir.”"
 
 msgid "Afterlife"
@@ -8831,49 +8831,49 @@ msgstr "Pós-vida"
 
 msgid "A keyword ability that leaves behind Spirit creature tokens when certain creatures die. See rule 702.134, “Afterlife.”"
 msgstr "Uma palavra-chave de habilidade que deixa pra trás fichas de criatura do tipo Espírito quando certas criaturas\n"
-"morrem. Veja a regra 702.134, “Pós-vida.”"
+"morrem. Consulte a regra 702.134, “Pós-vida.”"
 
 msgid "Aftermath"
 msgstr "Consequência"
 
 msgid "A keyword ability that lets a player cast one half of a split card only from their graveyard. See rule 702.126, “Aftermath.”"
-msgstr "Uma palavra-chave de habilidade que permite ao jogador conjurar uma metade de um card duplo apenas apartir de seu cemitério. Veja a regra 702.126, “Consequências.”"
+msgstr "Uma palavra-chave de habilidade que permite ao jogador conjurar uma metade de um card duplo apenas apartir de seu cemitério. Consulte a regra 702.126, “Consequências.”"
 
 msgid "Alternating Teams Variant"
 msgstr "Variante Equipes Intercaladas"
 
 msgid "A multiplayer variant played among two or more teams of equal size. See rule 811, “Alternating Teams Variant.”"
-msgstr "Uma variante multijogador jogada entre duas ou mais equipes de igual tamanho. Veja a regra 811, “Variante Equipes Intercaladas.”"
+msgstr "Uma variante multijogador jogada entre duas ou mais equipes de igual tamanho. Consulte a regra 811, “Variante Equipes Intercaladas.”"
 
 msgid "Alternative Cost"
 msgstr "Custo Alternativo"
 
 msgid "A cost a spell may have that its controller can pay rather than paying its mana cost. See rule 118, “Costs,” and rule 601, “Casting Spells.”"
-msgstr "Um custo que uma mágica pode ter e o seu controlador pode pagar ao invés de pagar seu custo de mana. Veja a regra 118, “Custos,” e a regra 601, “Conjurando Mágicas.”"
+msgstr "Um custo que uma mágica pode ter e o seu controlador pode pagar ao invés de pagar seu custo de mana. Consulte a regra 118, “Custos,” e a regra 601, “Conjurando Mágicas.”"
 
 msgid "Amass"
 msgstr "Arregimentar"
 
 msgid "A keyword action than gives you a Zombie Army creature token or grows an Army you already have. See rule 701.44, “Amass.”"
-msgstr "Uma palavra-chave de habilidade que lhe dá uma ficha de Exército Zumbi ou marcadores +1/+1 em uma criatura do tipo Exército que você já tenha. Veja a regra 701.44, \"Arregimentar\"."
+msgstr "Uma palavra-chave de habilidade que lhe dá uma ficha de Exército Zumbi ou marcadores +1/+1 em uma criatura do tipo Exército que você já tenha. Consulte a regra 701.44, \"Arregimentar\"."
 
 msgid "Amplify"
 msgstr "Amplificar"
 
 msgid "A keyword ability than can have a creature enter the battlefield with +1/+1 counters on it. See rule 702.37, “Amplify.”"
-msgstr "Uma palavra-chave de habilidade que pode fazer com que a uma criatura entre no campo de batalha com marcadores +1/+1 sobre ela. Veja a regra 702.37, “Amplificar.”"
+msgstr "Uma palavra-chave de habilidade que pode fazer com que a uma criatura entre no campo de batalha com marcadores +1/+1 sobre ela. Consulte a regra 702.37, “Amplificar.”"
 
 msgid "Anchor Word"
 msgstr "Palavra Âncora"
 
 msgid "A word that precedes one of two abilities a permanent may enter the battlefield with. See rule 614.12b."
-msgstr "Uma palavra que precede uma de duas habilidades que uma permanente pode entrar no campo de batalha com. Veja a regra 614.12b."
+msgstr "Uma palavra que precede uma de duas habilidades que uma permanente pode entrar no campo de batalha com. Consulte a regra 614.12b."
 
 msgid "Annihilator"
 msgstr "Aniquilador"
 
 msgid "A keyword ability that can make a creature particularly brutal when it attacks. See rule 702.85, “Annihilator.”"
-msgstr "Uma palavra-chave de habilidade que pode fazer com que uma criatura seja particularmente brutal ao atacar. Veja a regra 702.85, “Aniquilador.”"
+msgstr "Uma palavra-chave de habilidade que pode fazer com que uma criatura seja particularmente brutal ao atacar. Consulte a regra 702.85, “Aniquilador.”"
 
 msgid "Ante"
 msgstr "Aposta"
@@ -8885,26 +8885,26 @@ msgid "2. To put a card into the ante zone."
 msgstr "2. Colocar um card na zona de aposta."
 
 msgid "See rule 407, “Ante.”"
-msgstr "Veja a regra 407, “Aposta.”"
+msgstr "Consulte a regra 407, “Aposta.”"
 
 msgid "Any Target"
 msgstr "Qualquer Alvo"
 
 msgid "A spell or ability may require “any target.” “Any target” is the same as “target creature, player, or planeswalker.” See rule 115.4."
 msgstr "Uma mágica ou habilidade pode requerir “qualquer alvo”. “Qualquer alvo” é o mesmo que \"criatura, jogador ou\n"
-"planeswalker alvo\". Veja a regra 115.4."
+"planeswalker alvo\". Consulte a regra 115.4."
 
 msgid "APNAP Order"
 msgstr "Ordem APNAP"
 
 msgid "See Active Player, Nonactive Player Order."
-msgstr "Veja Ordem Jogador-Ativo/Não-Ativo."
+msgstr "Consulte Ordem Jogador-Ativo/Não-Ativo."
 
 msgid "Archenemy"
 msgstr "Archenemy"
 
 msgid "1. A casual variant in which a team of players faces off against a single opponent strengthened with powerful scheme cards. See rule 904, “Archenemy.”"
-msgstr "1. Uma variante casual em que uma equipe de jogadores enfrenta um único oponente fortalecido com poderosos cards de esquema. Veja a regra 904, “Archenemy.”"
+msgstr "1. Uma variante casual em que uma equipe de jogadores enfrenta um único oponente fortalecido com poderosos cards de esquema. Consulte a regra 904, “Archenemy.”"
 
 msgid "2. A player in an Archenemy game who is playing with a scheme deck."
 msgstr "2. O jogador em um jogo de Archenemy que está jogando com um deck de esquemas."
@@ -8913,39 +8913,39 @@ msgid "Artifact"
 msgstr "Artefato"
 
 msgid "A card type. An artifact is a permanent. See rule 301, “Artifacts.”"
-msgstr "Um tipo de card. Um artefato é uma permanente. Veja a regra 301, “Artefatos.”"
+msgstr "Um tipo de card. Um artefato é uma permanente. Consulte a regra 301, “Artefatos.”"
 
 msgid "Artifact Creature"
 msgstr "Criatura Artefato"
 
 msgid "A combination of artifact and creature that’s subject to the rules for both. See rule 301, “Artifacts,” and rule 302, “Creatures.”"
-msgstr "Uma combinação de criatura e artefato que está sujeita as regras para ambos. Veja a regra 301, “Artefatos”, e a regra 302, \"Criaturas\"."
+msgstr "Uma combinação de criatura e artefato que está sujeita as regras para ambos. Consulte a regra 301, “Artefatos”, e a regra 302, \"Criaturas\"."
 
 msgid "Artifact Land"
 msgstr "Terreno Artefato"
 
 msgid "A combination of artifact and land that’s subject to the rules for both. Artifact lands can only be played as lands, not cast as spells. See rule 301, “Artifacts,” and rule 305, “Lands.”"
-msgstr "Uma combinação de terreno e artefato que está sujeita as regras para ambos. Terrenos artefato só podem ser jogados como terrenos, e não conjurados como mágicas. Veja a regra 301, “Artefatos,” e a regra 305, ”Terrenos.”"
+msgstr "Uma combinação de terreno e artefato que está sujeita as regras para ambos. Terrenos artefato só podem ser jogados como terrenos, e não conjurados como mágicas. Consulte a regra 301, “Artefatos,” e a regra 305, ”Terrenos.”"
 
 msgid "Artifact Type"
 msgstr "Tipo de Artefato"
 
 msgid "A subtype that’s correlated to the artifact card type. See rule 301, “Artifacts.” See rule 205.3g for the list of artifact types."
-msgstr "Um subtipo que está correlacionada com o tipo de card artefato. Veja a regra 301, “Artefatos.” Veja a regra 205.3g\n"
+msgstr "Um subtipo que está correlacionada com o tipo de card artefato. Consulte a regra 301, “Artefatos.” Veja a regra 205.3g\n"
 "para a lista de tipos de artefato."
 
 msgid "As Though"
 msgstr "Como Se"
 
 msgid "Text used to indicate that the game, for some specific purpose, treats a condition as true even though it’s not. See rule 609.4."
-msgstr "Texto usado para indicar que o jogo, para algum propósito específico, trata uma condição como verdadeira, mesmo ela não sendo. Veja a regra 609.4."
+msgstr "Texto usado para indicar que o jogo, para algum propósito específico, trata uma condição como verdadeira, mesmo ela não sendo. Consulte a regra 609.4."
 
 msgid "Ascend"
 msgstr "Ascender"
 
 msgid "A keyword causing a player to get the designation of the city’s blessing once they control ten permanents. See rule 702.130, “Ascend.”"
 msgstr "Uma palavra-chave que faz com que um jogador receba a benção da Cidade uma vez que controle dez ou mais\n"
-"permanentes. Veja a regra 702.130, “Ascender.”"
+"permanentes. Consulte a regra 702.130, “Ascender.”"
 
 msgid "Assemble"
 msgstr ""
@@ -8957,39 +8957,39 @@ msgid "Assign Combat Damage"
 msgstr "Atribuir Dano de Combate"
 
 msgid "To determine how an attacking or blocking creature will deal its combat damage. See rule 510, “Combat Damage Step.”"
-msgstr "Determinar como uma criatura atacante ou bloqueadora causará seu dano de combate. Veja a regra 510, “Etapa de\n"
+msgstr "Determinar como uma criatura atacante ou bloqueadora causará seu dano de combate. Consulte a regra 510, “Etapa de\n"
 "Dano de Combate.”"
 
 msgid "Assist"
 msgstr "Assistência"
 
 msgid "A keyword ability that lets another player help you pay for a spell. See rule 702.131, “Assist.”"
-msgstr "Uma palavra-chave de habilidade que permite que outro jogador ajude a pagar por uma mágica. Veja a regra\n"
+msgstr "Uma palavra-chave de habilidade que permite que outro jogador ajude a pagar por uma mágica. Consulte a regra\n"
 "702.131, “Assistência”."
 
 msgid "At End of Turn (Obsolete)"
 msgstr "No Final do Turno (Obsoleto)"
 
 msgid "A trigger condition printed on abilities that triggered at the beginning of the end step (which is not the last thing to happen in the turn). Cards that were printed with that text have received errata in the Oracle card reference to say “at the beginning of the end step” or “at the beginning of the next end step.” See rule 513, “End Step.”"
-msgstr "Uma condição de desencadeamento impressa em habilidades que são desencadeadas no início da etapa final (que não é a última coisa que acontece no turno). Os cards que foram impressos com esse texto, receberam errata na referência de cards Oracle para dizerem “no início da etapa final” ou “no início da próxima etapa final”. Veja a regra 513, “Etapa Final.”"
+msgstr "Uma condição de desencadeamento impressa em habilidades que são desencadeadas no início da etapa final (que não é a última coisa que acontece no turno). Os cards que foram impressos com esse texto, receberam errata na referência de cards Oracle para dizerem “no início da etapa final” ou “no início da próxima etapa final”. Consulte a regra 513, “Etapa Final.”"
 
 msgid "Attach"
 msgstr "Anexar"
 
 msgid "To move an Aura, Equipment, or Fortification onto another object or player. See rule 701.3, “Attach.”"
-msgstr "Mover uma Aura, Equipamento ou Fortificação para outro objeto. Veja a regra 701.3, “Anexar.”"
+msgstr "Mover uma Aura, Equipamento ou Fortificação para outro objeto. Consulte a regra 701.3, “Anexar.”"
 
 msgid "Attack"
 msgstr "Ataque"
 
 msgid "To send a creature into combat offensively. A creature can attack a player or a planeswalker. See rule 508, “Declare Attackers Step.”"
-msgstr "Enviar uma criatura em combate ofensivamente. Uma criatura pode atacar um jogador ou um planeswalker. Veja a regra 508, “Etapa de Declaração de Atacantes.”"
+msgstr "Enviar uma criatura em combate ofensivamente. Uma criatura pode atacar um jogador ou um planeswalker. Consulte a regra 508, “Etapa de Declaração de Atacantes.”"
 
 msgid "Attack Alone"
 msgstr "Atacar Sozinha"
 
 msgid "A creature “attacks alone” if it’s the only creature declared as an attacker during the declare attackers step. A creature “is attacking alone” if it’s attacking but no other creatures are. See rule 506.5."
-msgstr "Uma criatura “ataca sozinha” se é a única criatura declarada como atacante durante a etapa de declaração de atacantes. Uma criatura “está atacando sozinha” se ela estiver atacando, mas nenhuma outra estiver. Veja a regra 506.5."
+msgstr "Uma criatura “ataca sozinha” se é a única criatura declarada como atacante durante a etapa de declaração de atacantes. Uma criatura “está atacando sozinha” se ela estiver atacando, mas nenhuma outra estiver. Consulte a regra 506.5."
 
 msgid "Attack Left Option"
 msgstr "Opção de Ataque à Esquerda"
@@ -10108,10 +10108,10 @@ msgstr "Texto em itálico (mas não entre parênteses) na caixa de texto de um c
 "a regra 207.2."
 
 msgid "Flip Cards"
-msgstr ""
+msgstr "Cards que Giram"
 
 msgid "Cards with a two-part card frame (one part of which is printed upside down) on a single card. See rule 709, “Flip Cards.”"
-msgstr ""
+msgstr "Cards divididos em duas partes (uma das partes é impresso de cabeça para baixo) em um único card. Consulte a regra 709, “Cards Que Giram”."
 
 msgid "Flipped"
 msgstr "Girado"
