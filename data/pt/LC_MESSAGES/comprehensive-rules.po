@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2021-01-17 11:41\n"
+"PO-Revision-Date: 2021-01-17 12:45\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -8786,7 +8786,7 @@ msgid "Active Player, Nonactive Player Order"
 msgstr "Ordem Jogador-Ativo/Não-Ativo"
 
 msgid "A system that determines the order by which players make choices if multiple players are instructed to make choices at the same time. See rule 101.4. This rule is modified for games using the shared team turns option; see rule 805.6."
-msgstr "Um sistema que determina a ordem pela qual os jogadores fazem escolhas se vários jogadores são orientados a fazerem escolhas ao mesmo tempo. Consulte a regra 101.4. Esta regra é modificada para jogos que fazem uso da opção de turnos compartilhados pela equipe; veja a regra 805.6."
+msgstr "Um sistema que determina a ordem pela qual os jogadores fazem escolhas se vários jogadores são orientados a fazerem escolhas ao mesmo tempo. Consulte a regra 101.4. Esta regra é modificada para jogos que fazem uso da opção de turnos compartilhados pela equipe; consulte a regra 805.6."
 
 msgid "Active Team"
 msgstr "Equipe Ativa"
@@ -8823,8 +8823,7 @@ msgid "Afflict"
 msgstr "Afligir"
 
 msgid "A keyword ability that makes the defending player lose life for blocking. See rule 702.129, “Afflict.”"
-msgstr "Uma palavra-chave de habilidade que que faz com que o jogador defensor perca pontos de vida. Consulte a regra\n"
-"702.129, “Aflingir.”"
+msgstr "Uma palavra-chave de habilidade que que faz com que o jogador defensor perca pontos de vida. Consulte a regra 702.129, “Aflingir.”"
 
 msgid "Afterlife"
 msgstr "Pós-vida"
@@ -8885,7 +8884,7 @@ msgid "2. To put a card into the ante zone."
 msgstr "2. Colocar um card na zona de aposta."
 
 msgid "See rule 407, “Ante.”"
-msgstr "Consulte a regra 407, “Aposta.”"
+msgstr "Consulte a regra 407, “Aposta”."
 
 msgid "Any Target"
 msgstr "Qualquer Alvo"
@@ -8904,7 +8903,7 @@ msgid "Archenemy"
 msgstr "Archenemy"
 
 msgid "1. A casual variant in which a team of players faces off against a single opponent strengthened with powerful scheme cards. See rule 904, “Archenemy.”"
-msgstr "1. Uma variante casual em que uma equipe de jogadores enfrenta um único oponente fortalecido com poderosos cards de esquema. Consulte a regra 904, “Archenemy.”"
+msgstr "1. Uma variante casual em que uma equipe de jogadores enfrenta um único oponente fortalecido com poderosos cards de esquema. Consulte a regra 904, “Archenemy”."
 
 msgid "2. A player in an Archenemy game who is playing with a scheme deck."
 msgstr "2. O jogador em um jogo de Archenemy que está jogando com um deck de esquemas."
@@ -8913,13 +8912,13 @@ msgid "Artifact"
 msgstr "Artefato"
 
 msgid "A card type. An artifact is a permanent. See rule 301, “Artifacts.”"
-msgstr "Um tipo de card. Um artefato é uma permanente. Consulte a regra 301, “Artefatos.”"
+msgstr "Um tipo de card. Um artefato é uma permanente. Consulte a regra 301, “Artefatos”."
 
 msgid "Artifact Creature"
 msgstr "Criatura Artefato"
 
 msgid "A combination of artifact and creature that’s subject to the rules for both. See rule 301, “Artifacts,” and rule 302, “Creatures.”"
-msgstr "Uma combinação de criatura e artefato que está sujeita as regras para ambos. Consulte a regra 301, “Artefatos”, e a regra 302, \"Criaturas\"."
+msgstr "Uma combinação de artefato e criatura que está sujeita às regras para ambos. Consulte a regra 301, \"Artefatos\", e a regra 302, \"Criaturas\"."
 
 msgid "Artifact Land"
 msgstr "Terreno Artefato"
@@ -8995,14 +8994,14 @@ msgid "Attack Left Option"
 msgstr "Opção de Ataque à Esquerda"
 
 msgid "An option that may be used in certain multiplayer variants. See rule 803, “Attack Left and Attack Right Options.”"
-msgstr "Uma opção que pode ser usada em certas variantes multijogador. Veja a regra 803, “Opção de Ataque à Esquerda e\n"
+msgstr "Uma opção que pode ser usada em certas variantes multijogador. Consulte a regra 803, “Opção de Ataque à Esquerda e\n"
 "ataque à Direita.”"
 
 msgid "Attack Multiple Players Option"
 msgstr "Opção de Atacar Múltiplos Jogadores"
 
 msgid "An option that may be used in certain multiplayer variants. See rule 802, “Attack Multiple Players Option.”"
-msgstr "Uma opção que pode ser usada em certas variantes multijogador. Veja a regra 802, “Opção de Atacar Múltiplos\n"
+msgstr "Uma opção que pode ser usada em certas variantes multijogador. Consulte a regra 802, “Opção de Atacar Múltiplos\n"
 "Jogadores.”"
 
 msgid "Attack Right Option"
@@ -9012,20 +9011,20 @@ msgid "Attacking Creature"
 msgstr "Criatura Atacante"
 
 msgid "A creature that has either been declared as part of a legal attack during the combat phase (once all costs to attack, if any, have been paid), or a creature that has been put onto the battlefield attacking. It remains an attacking creature until it’s removed from combat or the combat phase ends, whichever comes first. See rule 508, “Declare Attackers Step.”"
-msgstr "Uma criatura que foi declarada como parte de um ataque válido durante a fase de combate (uma vez que todos os custos para o ataque, se for o caso, tenham sido pagos), ou uma criatura que foi colocada no campo de batalha atacando. Ela permanece sendo uma criatura atacante até que seja removida do combate ou a fase de combate termine, o que ocorrer primeiro. Veja a regra 508, “Etapa de Declaração de Atacantes.”"
+msgstr "Uma criatura que foi declarada como parte de um ataque válido durante a fase de combate (uma vez que todos os custos para o ataque, se for o caso, tenham sido pagos), ou uma criatura que foi colocada no campo de batalha atacando. Ela permanece sendo uma criatura atacante até que seja removida do combate ou a fase de combate termine, o que ocorrer primeiro. Consulte a regra 508, “Etapa de Declaração de Atacantes.”"
 
 msgid "Attacking Team"
 msgstr "Equipe Atacante"
 
 msgid "The team who can attack during the combat phase of a multiplayer game using the shared team turns option. See rule 805, “Shared Team Turns Option.”"
 msgstr "Uma equipe que pode atacar durante a fase de combate num jogo de multijogadores usando a opção de turnos\n"
-"compartilhados pela equipe. Veja a regra 805, “Opção de Turnos Compartilhados pela Equipe.”"
+"compartilhados pela equipe. Consulte a regra 805, “Opção de Turnos Compartilhados pela Equipe.”"
 
 msgid "Attacks and Isn’t Blocked"
 msgstr "Ataca e Não é Bloqueado"
 
 msgid "An ability that triggers when a creature “attacks and isn’t blocked” triggers when the creature becomes an unblocked attacking creature. See rule 509.1h."
-msgstr "Uma habilidade que desencadeia quando uma criatura “ataca e não é bloqueada” desencadeia quando a criatura torna-se uma criatura atacante não bloqueada. Veja a regra 509.1h."
+msgstr "Uma habilidade que desencadeia quando uma criatura “ataca e não é bloqueada” desencadeia quando a criatura torna-se uma criatura atacante não bloqueada. Consulte a regra 509.1h."
 
 msgid "Aura"
 msgstr "Aura"
@@ -10346,7 +10345,7 @@ msgid "If"
 msgstr "Se"
 
 msgid "See Intervening “If” Clause."
-msgstr "Veja a Cláusula “If” de Intervenção."
+msgstr "Consulte a Cláusula “Se” de Intervenção."
 
 msgid "Illegal Action"
 msgstr "Ação Ilegal"
@@ -10374,124 +10373,131 @@ msgid "Information printed directly below the text box that has no effect on gam
 msgstr "Informação impressa diretamente abaixo da caixa de texto e não tem efeito sobre o jogo. Veja a regra 212, “Informações Abaixo da Caixa de Texto”."
 
 msgid "Imprint"
-msgstr ""
+msgstr "Estampar"
 
 msgid "“Imprint” used to be a keyword ability. It is now an ability word and has no rules meaning. All cards printed with the imprint keyword have received errata in the Oracle card reference."
-msgstr ""
+msgstr "Estampar costumava ser uma palavra-chave de habilidade. Agora é uma palavra de habilidade e não tem nenhum\n"
+"significado nas regras. Todos os cards impressos com a palavra-chave estampar receberam errata na referência de cards Oracle."
 
 msgid "Improvise"
-msgstr ""
+msgstr "Improvisar"
 
 msgid "A keyword ability that lets you tap artifacts rather than pay mana to cast a spell. See rule 702.125, “Improvise.”"
-msgstr ""
+msgstr "Uma palavra-chave de habilidade que permite que você vire artefatos ao invés de pagar o custo de mana de uma\n"
+"mágica. Consulte a regra 702.125, “Improvisar”."
 
 msgid "In Play (Obsolete)"
-msgstr ""
+msgstr "Em Jogo (Obsoleto)"
 
 msgid "An obsolete term for the battlefield. Cards that were printed with text that contain the phrases “in play,” “from play,” “into play,” or the like are referring to the battlefield and have received errata in the Oracle card reference. See Battlefield."
-msgstr ""
+msgstr "Um termo obsoleto para campo de batalha. Cards que foram impressos com texto que contenha as frases “em jogo”, “do jogo” ou variações fazendo referência ao campo de batalha receberam errata na referência de cards Oracle. Veja Campo de Batalha."
 
 msgid "In Response To"
-msgstr ""
+msgstr "Em Resposta A"
 
 msgid "An instant spell that’s been cast, or an activated ability that’s been activated, while another spell or ability is on the stack has been cast or activated “in response to” the earlier spell or ability. See rule 117.7."
-msgstr ""
+msgstr "Um mágica instantânea que foi conjurada, ou uma habilidade ativada que foi ativada, enquanto outra mágica ou\n"
+"habilidade está na pilha, foi conjurada ou ativada “em resposta a” mágica ou habilidade mais antiga. Consulte a regra 117.7."
 
 msgid "Independent"
-msgstr ""
+msgstr "Independente"
 
 msgid "See Dependency."
-msgstr ""
+msgstr "Veja Dependência."
 
 msgid "Indestructible"
-msgstr ""
+msgstr "Indestrutível"
 
 msgid "A keyword ability that precludes a permanent from being destroyed. See rule 702.12."
-msgstr ""
+msgstr "Uma palavra-chave de habilidade que impede uma permanente de ser destruída. Consulte a regra 702.12."
 
 msgid "Infect"
-msgstr ""
+msgstr "Infectar"
 
 msgid "A keyword ability that affects how an object deals damage to creatures and players. See rule 702.89, “Infect.”"
-msgstr ""
+msgstr "Uma palavra-chave de habilidade que afeta como um objeto causa dano à criaturas e jogadores. Consulte a regra\n"
+"702.89, “Infectar”."
 
 msgid "Ingest"
-msgstr ""
+msgstr "Ingerir"
 
 msgid "A keyword ability that can exile the top card of a player’s library. See rule 702.114, “Ingest.”"
-msgstr ""
+msgstr "Uma palavra-chave de habilidade que pode exilar o card do topo do grimório de um jogador. Consulte a regra 702.114, “Ingerir”."
 
 msgid "Instant"
-msgstr ""
+msgstr "Mágica Instantânea"
 
 msgid "A card type. An instant is not a permanent. See rule 304, “Instants.”"
-msgstr ""
+msgstr "Um tipo de card. Uma mágica instantânea não é uma permanente. Consulte a regra 304, “Mágicas Instantâneas”."
 
 msgid "Instead"
-msgstr ""
+msgstr "Em Vez De / Ao Invés De"
 
 msgid "Effects that use the word “instead” are replacement effects. The word “instead” indicates what an event will be replaced with. See rule 614, “Replacement Effects.”"
-msgstr ""
+msgstr "Efeitos que usam as palavras \"em vez de/ao invés de\" são efeitos de substituição. As palavras \"em vez de/ao invés de\" indicam que um evento será substituído. Consulte a regra 614, \"Efeitos de Substituição\"."
 
 msgid "Interrupt (Obsolete)"
-msgstr ""
+msgstr "Mágica de Interrupção (Obsoleto)"
 
 msgid "An obsolete card type. All cards printed with this card type are now instants. All abilities that, as printed, said a player could “play as an interrupt” can now be activated like any other activated abilities (unless they’re mana abilities, in which case they follow those rules instead). All relevant cards have been given errata in the Oracle card reference."
-msgstr ""
+msgstr "Um tipo de card obsoleto. Todos os cards impressos com este tipo de card são agora mágicas instantâneas. Todas as habilidades que foram impressas dizendo que um jogador poderia “jogar como uma mágica de interrupção”, podem agora ser ativadas como qualquer outras habilidade ativada (a menos que sejam habilidades de mana, neste caso elas seguem essas regras). Todos os cards relevantes receberam errata na referência de cards Oracle."
 
 msgid "Intervening “If” Clause"
-msgstr ""
+msgstr "Cláusula “Se” de Intervenção"
 
 msgid "A specially worded condition checked as a triggered ability would trigger and again as it would resolve. See rule 603.4"
-msgstr ""
+msgstr "Uma condição especial verificada quando a habilidade desencadeada desencadearia e novamente, quando ela resolveria. Consulte a regra 603.4."
 
 msgid "Intimidate"
-msgstr ""
+msgstr "Intimidar"
 
 msgid "A keyword ability that restricts how a creature may be blocked. See rule 702.13, “Intimidate.”"
-msgstr ""
+msgstr "Uma palavra-chave de habilidade que limita como uma criatura pode ser bloqueada. Consulte a regra 702.13, “Intimidar”."
 
 msgid "Investigate"
-msgstr ""
+msgstr "Investigar"
 
 msgid "A keyword action that creates a Clue artifact token. See rule 701.36, “Investigate.”"
-msgstr ""
+msgstr "Uma palavra-chave de ação que cria uma ficha de artefato do tipo Pista. Consulte regra 701.36, “Investigar”."
 
 msgid "Island"
-msgstr ""
+msgstr "Ilha"
 
 msgid "One of the five basic land types. Any land with this subtype has the ability “{T}: Add {U}.” See rule 305.6."
-msgstr ""
+msgstr "Um dos cinco tipos de terreno básico. Qualquer terreno com este subtipo tem a habilidade “{T}: Adicione {U}”. Consulte a regra 305.6."
 
 msgid "Islandcycling"
 msgstr "Reciclar Ilha"
 
 msgid "Islandhome (Obsolete)"
-msgstr ""
+msgstr "Dependência de Ilha (Obsoleto)"
 
 msgid "An obsolete keyword ability that meant “This creature can’t attack unless defending player controls an Island” and “When you control no Islands, sacrifice this creature.” Cards printed with this ability have been given errata in the Oracle card reference."
-msgstr ""
+msgstr "Uma palavra-chave de habilidade obsoleta que significava “Esta criatura não pode atacar a menos que o jogador\n"
+"defensor controle uma Ilha” e “Quando você não controlar nenhuma Ilha, sacrifique esta criatura”. Os cards impressos com esta habilidade receberam errata na referência de cards Oracle."
 
 msgid "Islandwalk"
 msgstr "Travessia de Ilha"
 
 msgid "Jump-Start"
-msgstr ""
+msgstr "Recarregar"
 
 msgid "A keyword ability that lets a player cast a card from their graveyard by discarding a card. See rule 702.132, “Jump-Start.”"
-msgstr ""
+msgstr "Uma palavra-chave de habilidade que permite ao jogador conjurar o card do cemitério descartando um card. Consulte a regra 702.132, “Recarregar”."
 
 msgid "Keyword Ability"
-msgstr ""
+msgstr "Palavra-chave de Habilidade"
 
 msgid "A game term, such as “flying” or “haste,” used as shorthand for a longer ability or group of abilities. See rule 702, “Keyword Abilities.”"
-msgstr ""
+msgstr "Um termo do jogo, tal como “voar” ou “ímpeto”, usado como abreviação para uma habilidade longa ou um grupo de\n"
+"habilidades. Consulte a regra 702, “Palavras-chave de Habilidade”."
 
 msgid "Keyword Action"
-msgstr ""
+msgstr "Palavra-chave de Ação"
 
 msgid "A verb, such as “destroy” or “cast,” used as a game term rather than as its normal English meaning. See rule 701, “Keyword Actions.”"
-msgstr ""
+msgstr "Um verbo, como “destruir” ou “conjurar”, usado como um termo do jogo ao invés de seu significado normal em\n"
+"Português. Consulte a regra 701, “Palavras-chave de Ação”."
 
 msgid "Keyword Counter"
 msgstr ""
@@ -10500,22 +10506,22 @@ msgid "A marker placed on an object that modifies its characteristics by grantin
 msgstr ""
 
 msgid "Kicker, Kicked"
-msgstr ""
+msgstr "Reforçar, Reforçado"
 
 msgid "Kicker is a keyword ability that represents an optional additional cost. A spell has been kicked if its controller declared the intention to pay any or all of its kicker costs. See rule 702.32, “Kicker.”"
-msgstr ""
+msgstr "Reforçar é uma palavra-chave de habilidade que representa um custo adicional opcional. Uma mágica é reforçada se seu controlador declarou a intenção de pagar qualquer um ou todos seus custos de reforçar. Consulte a regra 702.32, “Reforçar”."
 
 msgid "Land"
-msgstr ""
+msgstr "Terreno"
 
 msgid "A card type. A land is a permanent. See rule 305, “Lands.”"
-msgstr ""
+msgstr "Um tipo de card. Um terreno é uma permanente. Consulte a regra 305, “Terrenos”."
 
 msgid "Land Type"
-msgstr ""
+msgstr "Tipo de Terreno"
 
 msgid "A subtype that’s correlated to the land card type. See rule 305, “Lands.” See rule 205.3i for the list of land types."
-msgstr ""
+msgstr "Um subtipo que é correlacionado com o tipo de card terreno. Consulte a regra 305, “Terrenos”. Consulte a regra 205.3i para a lista de tipos de terreno."
 
 msgid "Landwalk"
 msgstr "Travessia de terreno"
@@ -10524,43 +10530,43 @@ msgid "A generic term for a group of keyword abilities that restrict whether a c
 msgstr "Um termo genérico para um grupo de palavras-chave de habilidade que se restringem quando uma criatura pode ser bloqueada. Veja a regra 702.14, “Travessia de terreno”."
 
 msgid "Last Known Information"
-msgstr ""
+msgstr "Última Informação Conhecida"
 
 msgid "Information about an object that’s no longer in the zone it’s expected to be in, or information about a player that’s no longer in the game. This information captures that object’s last existence in that zone or that player’s last existence in the game. See rules 113.7a, 608.2b, 608.2h, and 800.4h."
-msgstr ""
+msgstr "Informação sobre um objeto que não está mais na zona em que é esperado que esteja ou informação sobre um jogador que não está mais no jogo. Esta é a última informação sobre a existência do objeto naquela zona ou da última existência de um jogador no jogo. Consulte a regras 113.7a, 608.2b, 608.2h e 800.4h."
 
 msgid "Layer"
-msgstr ""
+msgstr "Camada"
 
 msgid "A system used to determine in which order continuous effects are applied. See rule 613, “Interaction of Continuous Effects.” See also Dependency, Timestamp Order."
-msgstr ""
+msgstr "Um sistema usado para determinar a ordem em que os efeitos contínuos são aplicados. Consulte a regra 613, “Interação de Efeitos Contínuos”. Consulte também Dependência, Ordem de Selo Temporal."
 
 msgid "Leaves the Battlefield"
-msgstr ""
+msgstr "Deixar o Campo de Batalha"
 
 msgid "A permanent “leaves the battlefield” when it’s moved from the battlefield to another zone, or (if it’s phased in) when it leaves the game because its owner leaves the game. See rules 603.6c and 603.10."
-msgstr ""
+msgstr "Uma permanente “deixa o campo de batalha” quando muda do campo de batalha para outra zona, ou quando deixa o jogo porque o seu dono deixou o jogo (se ela estiver em-fase). Consulte as regras 603.6c e 603.10."
 
 msgid "Legal Text"
-msgstr ""
+msgstr "Texto Legal"
 
 msgid "Legend (Obsolete)"
-msgstr ""
+msgstr "Lenda (Obsoleto)"
 
 msgid "An obsolete creature type. Cards printed with this subtype have been given errata in the Oracle card reference so they have the legendary supertype instead. See Legendary."
-msgstr ""
+msgstr "Um tipo de criatura obsoleto. Cards impressos com este subtipo receberam errata na referência de cards Oracle para tenham o supertipo lendário ao invés disso. Consulte Lendário."
 
 msgid "Legendary"
-msgstr ""
+msgstr "Lendário"
 
 msgid "A supertype that’s normally relevant on permanents. See rule 205.4, “Supertypes.” See also Legend Rule."
-msgstr ""
+msgstr "Um supertipo que normalmente é relevante em permanentes. Consulte a regra 205.4, “Supertipos”. Consulte também Regra de Lendas."
 
 msgid "Legend Rule"
-msgstr ""
+msgstr "Regra de Lendas"
 
 msgid "A state-based action that causes a player who controls two or more legendary permanents with the same name to put all but one into their owners’ graveyards. See rule 704.5j."
-msgstr ""
+msgstr "Uma ação baseada no estado que faz com que um jogador que tenha duas ou mais permanentes lendárias com o mesmo nome coloque todas elas no cemitério de seus donos, com exceção de uma delas. Consulte a regra 704.5j."
 
 msgid "Lethal Damage"
 msgstr ""
