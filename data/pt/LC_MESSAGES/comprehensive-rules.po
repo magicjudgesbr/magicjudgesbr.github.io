@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2021-01-17 12:45\n"
+"PO-Revision-Date: 2021-01-18 19:01\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -10569,13 +10569,13 @@ msgid "A state-based action that causes a player who controls two or more legend
 msgstr "Uma ação baseada no estado que faz com que um jogador que tenha duas ou mais permanentes lendárias com o mesmo nome coloque todas elas no cemitério de seus donos, com exceção de uma delas. Consulte a regra 704.5j."
 
 msgid "Lethal Damage"
-msgstr ""
+msgstr "Dano Letal"
 
 msgid "An amount of damage greater than or equal to a creature’s toughness. See rules 120.4a, 120.6, 510.1, and 704.5g."
-msgstr ""
+msgstr "Uma quantidade de dano maior ou igual à resistência de uma criatura. Consulte a regras 120.4a, 120.6, 510.1, e 704.5g."
 
 msgid "Level Symbol"
-msgstr ""
+msgstr "Símbolo de Nível"
 
 msgid "A symbol that represents a keyword ability indicating abilities, power, and toughness a leveler card may have. See rule 107.8 and rule 710, “Leveler Cards.”"
 msgstr ""
