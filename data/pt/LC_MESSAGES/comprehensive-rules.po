@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2021-01-19 12:35\n"
+"PO-Revision-Date: 2021-01-19 13:42\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -10797,10 +10797,10 @@ msgid "An evasion ability that makes creatures unblockable by a single creature.
 msgstr "Uma habilidade de evasão que deixa a criatura imbloqueável por uma única criatura. Consulte a regra 702.110, “Ameaçar”."
 
 msgid "Mentor"
-msgstr ""
+msgstr "Mentor"
 
 msgid "A keyword ability that lets your bigger creatures power up your smaller creatures when they attack together. See rule 702.133, “Mentor.”"
-msgstr ""
+msgstr "Uma palavra-chave de habilidade que permite que você aumente suas criaturas menores quando elas atacam junto. Consulte a regra 702.133, “Mentor”."
 
 msgid "Merged Permanent"
 msgstr ""
@@ -10809,10 +10809,10 @@ msgid "A card or token may merge with a permanent to form a merged permanent. Th
 msgstr ""
 
 msgid "Mill"
-msgstr ""
+msgstr "Triturar"
 
 msgid "To mill a number of cards, a player puts that many cards from the top of their library into their graveyard. See rule 701.13."
-msgstr ""
+msgstr "Para triturar um número de cards, um jogador coloca aquele número de cards do topo do seu grimório em seu cemitério. Consulte a regra 701.13."
 
 msgid "Minimum Deck Size"
 msgstr ""
@@ -10821,16 +10821,16 @@ msgid "If a rule or effect states that a player’s deck must contain at least a
 msgstr ""
 
 msgid "Miracle"
-msgstr ""
+msgstr "Milagre"
 
 msgid "A keyword ability that lets you cast a spell for a reduced cost if it’s the first card you draw in a turn. See rule 702.93, “Miracle.”"
-msgstr ""
+msgstr "Uma palavra-chave de habilidade que permite a você conjurar uma mágica por um custo reduzido se ela for o primeiro card que você compra num turno. Consulte a regra 702.93, “Milagre”."
 
 msgid "Modal, Mode"
-msgstr ""
+msgstr "Modal, Modo"
 
 msgid "A spell or ability is “modal” if it has two or more options in a bulleted list preceded by instructions for a player to choose a number of those options, such as “Choose one —.” See rule 700.2."
-msgstr ""
+msgstr "Uma mágica ou habilidade é ”modal” se tiver duas ou mais opções em uma lista marcada, precedido de instruções para que o jogador escolhe um número dessas opções, tal como “Escolha um ―”. Consulte a regra 700.2."
 
 msgid "Modal Double-Faced Cards"
 msgstr ""
