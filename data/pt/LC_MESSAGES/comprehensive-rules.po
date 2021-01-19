@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2021-01-18 20:02\n"
+"PO-Revision-Date: 2021-01-19 12:35\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -112,7 +112,7 @@ msgid "201. Name"
 msgstr "201. Nome"
 
 msgid "202. Mana Cost and Color"
-msgstr "202. Custo de Mana e Cor"
+msgstr "202. Custo e Cor de Mana"
 
 msgid "203. Illustration"
 msgstr "203. Ilustração"
@@ -9305,7 +9305,7 @@ msgid "Color"
 msgstr "Cor"
 
 msgid "1. A characteristic of an object. See rule 105, “Colors,” and rule 202, “Mana Cost and Color.”"
-msgstr "1. Uma característica de um objeto. Veja a regra 105, “Cores,” e a regra 202, “Custo de Mana e Cor.”"
+msgstr "1. Uma característica de um objeto. Veja a regra 105, “Cores,” e a regra 202, “Custo e Cor de Mana”."
 
 msgid "2. An attribute mana may have. See rule 106, “Mana.”"
 msgstr "2. Um atributo que o mana pode ter. Veja a regra 106, “Mana.”"
@@ -9314,8 +9314,7 @@ msgid "Colorless"
 msgstr "Incolor"
 
 msgid "1. An object with no color is colorless. Colorless is not a color. See rule 105, “Colors,” and rule 202, “Mana Cost and Color.”"
-msgstr "1. Um objeto sem nenhuma cor é incolor. Incolor não é uma cor. Veja a regra 105, “Cores,” e a regra 202, “Custo de\n"
-"Mana e Cor.”"
+msgstr "1. Um objeto sem nenhuma cor é incolor. Incolor não é uma cor. Veja a regra 105, “Cores,” e a regra 202, “Custo e Cor de Mana”."
 
 msgid "2. A type of mana. See rule 106, “Mana,” and rule 107.4c."
 msgstr "2. Um tipo de mana. Veja a regra 106, “Mana,” e a regra 107.4c."
@@ -10694,106 +10693,108 @@ msgid "A keyword ability that lets a player cast a card they discard. See rule 7
 msgstr "Uma palavra-chave de habilidade que permite a um jogador conjurar um card que ele descartou. Consulte a regra 702.34, “Loucura”."
 
 msgid "Main Game"
-msgstr ""
+msgstr "Jogo Principal"
 
 msgid "The game in which a spell (or ability) that created a subgame was cast (or activated). See rule 720, “Subgames.”"
-msgstr ""
+msgstr "O jogo na qual uma mágica (ou habilidade) que criou um subjogo foi conjurada (ou ativada). Consulte a regra 720, \"Subjogos\"."
 
 msgid "Main Phase"
-msgstr ""
+msgstr "Fase Principal"
 
 msgid "Part of the turn. The first, or precombat, main phase is the second phase of the turn. The second, or postcombat, main phase is the fourth phase of the turn. See rule 505, “Main Phase.”"
-msgstr ""
+msgstr "Parte do turno. A primeira fase principal (ou pré-combate), é a segunda fase do turno. A segunda fase principal (ou pós-combate), é a quarta fase do turno. Consulte a regra 505, “Fase Principal”."
 
 msgid "Mana"
-msgstr ""
+msgstr "Mana"
 
 msgid "The primary resource in the game. It is spent to pay costs, usually when casting spells and activating abilities. See rule 106, “Mana,” rule 107.4, and rule 202, “Mana Cost and Color.”"
-msgstr ""
+msgstr "O recurso principal no jogo. Ele é gasto para pagar custos, geralmente quando se conjura mágicas e ativa habilidades. Consulte a regra 106, “Mana”, regra 107.4, e a regra 202, “Custo e Cor de Mana”."
 
 msgid "Mana Ability"
-msgstr ""
+msgstr "Habilidade de Mana"
 
 msgid "An activated or triggered ability that could create mana and doesn’t use the stack. See rule 605, “Mana Abilities.”"
-msgstr ""
+msgstr "Uma habilidade ativada ou desencadeada que poderia criar mana e não usa a pilha. Consulte a regra 605, “Habilidades de Mana”."
 
 msgid "Mana Burn (Obsolete)"
-msgstr ""
+msgstr "Queimadura de Mana (Obsoleto)"
 
 msgid "Older versions of the rules stated that unspent mana caused a player to lose life; this was called “mana burn.” That rule no longer exists."
-msgstr ""
+msgstr "Versões mais antigas das regras previam que qualquer mana não gasto mana causava perda de vida a um jogador, isso era chamado de “queimadura de mana”. Esta regra não existe mais."
 
 msgid "Mana Cost"
-msgstr ""
+msgstr "Custo de Mana"
 
 msgid "A characteristic, and part of a card. A card’s mana cost is indicated by the mana symbols printed in its upper right corner. See rule 107.4 and rule 202, “Mana Cost and Color.”"
-msgstr ""
+msgstr "Uma característica e parte de um card. O custo de mana de um card é indicado pelos símbolos de mana impresso no canto superior direito. Consulte a regra 107.4 e a regra 202, “Custo e Cor de Mana”."
 
 msgid "Mana Pool"
-msgstr ""
+msgstr "Reserva de Mana"
 
 msgid "Where mana created by an effect is temporarily stored. See rule 106.4."
-msgstr ""
+msgstr "Onde o mana criado por um efeito é armazenado temporariamente. Consulte a regra 106.4."
 
 msgid "Mana Source (Obsolete)"
-msgstr ""
+msgstr "Fonte de Mana (Obsoleto)"
 
 msgid "An obsolete card type. All cards printed with this card type are now instants. All abilities that, as printed, said a player could “play as a mana source” are now mana abilities. All relevant cards have been given errata in the Oracle card reference."
-msgstr ""
+msgstr "Um tipo de card obsoleto. Todos os cards impressos com este tipo de card são agora mágicas instantâneas. Todas as habilidades que foram impressas dizendo que um jogador “pode jogar como uma fonte de mana” são agora habilidades de mana. Todos os cards relevantes receberam errata na referência de cards Oracle."
 
 msgid "Mana Symbol"
-msgstr ""
+msgstr "Símbolo de Mana"
 
 msgid "An icon that represents mana or a mana cost. See rule 107.4."
-msgstr ""
+msgstr "Um ícone que representa uma mana ou um custo de mana. Consulte a regra 107.4."
 
 msgid "Manifest"
-msgstr ""
+msgstr "Manifestar"
 
 msgid "A keyword action that puts a card onto the battlefield face down as a 2/2 creature. See rule 701.34, “Manifest,” and rule 707, “Face-Down Spells and Permanents.”"
-msgstr ""
+msgstr "Uma palavra-chave de ação que coloca um card no campo de batalha com a face voltada para baixo como uma criatura 2/2. Consulte a regra 701.34, “Manifestar”, e a regra 707, “Mágicas e Permanentes com a Face Voltada para Baixo”."
 
 msgid "Match"
-msgstr ""
+msgstr "Partida"
 
 msgid "A multiplayer game or a two-player series of games (usually best-two-of-three) played in a tournament. See rule 100.6."
-msgstr ""
+msgstr "Um jogo multijogador ou uma série de jogos com dois jogadores (geralmente melhor de três) jogado em um torneio. Consulte a regra 100.6."
 
 msgid "Maximum Hand Size"
-msgstr ""
+msgstr "Tamanho Máximo da Mão"
 
 msgid "The number of cards in hand a player must discard down to during their cleanup step. See rule 402.2 and 514.1."
-msgstr ""
+msgstr "O número de cartas que um jogador deve descartar durante a etapa de limpeza. Consulte as regras 402.2 e 514.1."
 
 msgid "Megamorph"
-msgstr ""
+msgstr "Megamorfose"
 
 msgid "A variant of the morph ability that puts a +1/+1 counter on the creature as it turns face up. See rule 702.36, “Morph.”"
-msgstr ""
+msgstr "Uma variante da habilidade de metamorfose que coloca um marcador +1/+1 na criatura conforme ela tem sua face\n"
+"voltada para cima. Consulte a regra 702.36, “Metamorfose”."
 
 msgid "Meld"
-msgstr ""
+msgstr "Fusão"
 
 msgid "To turn two members of a meld pair so their back faces are up and combined into one oversized Magic card. See rule 701.37, “Meld.”"
-msgstr ""
+msgstr "Fazer com que duas partes de um par de fusão se unam e virem suas faces para cima e combinados em um card\n"
+"gigante de Magic. Consulte a regra 701.37, “Fusão”."
 
 msgid "Meld Cards"
-msgstr ""
+msgstr "Cards Fusão"
 
 msgid "Cards with a Magic card face on one side and half of an oversized Magic card face on the other. See rule 712, “Meld Cards.”"
-msgstr ""
+msgstr "Cards com a face de um card de Magic de um lado e o outro lado é a metade de um card gigante de Magic. Consulte a regra 712, “Cards Fusão”."
 
 msgid "Melee"
-msgstr ""
+msgstr "Melee"
 
 msgid "A keyword ability that improves an attacking creature based on the number of opponents you attacked. See rule 702.120, “Melee.”"
-msgstr ""
+msgstr "Uma palavra chave de habilidade que melhora uma criatura atacante baseado na quantidade de oponentes atacada. Consulte a regra 702.120, “Melee”."
 
 msgid "Menace"
-msgstr ""
+msgstr "Ameaçar"
 
 msgid "An evasion ability that makes creatures unblockable by a single creature. See rule 702.110, “Menace.”"
-msgstr ""
+msgstr "Uma habilidade de evasão que deixa a criatura imbloqueável por uma única criatura. Consulte a regra 702.110, “Ameaçar”."
 
 msgid "Mentor"
 msgstr ""
