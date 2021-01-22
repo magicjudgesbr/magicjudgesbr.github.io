@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2021-01-19 13:42\n"
+"PO-Revision-Date: 2021-01-22 16:56\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -10839,58 +10839,59 @@ msgid "One of two kinds of double-faced cards. Modal double-faced cards can be p
 msgstr ""
 
 msgid "Modular"
-msgstr ""
+msgstr "Modular"
 
 msgid "A keyword ability that has a permanent enter the battlefield with +1/+1 counters on it and can move those counters to other artifact creatures. See rule 702.42, “Modular.”"
-msgstr ""
+msgstr "Uma palavra-chave de habilidade que faz com que uma permanente entre no campo de batalha com marcadores +1/+1 sobre ela e pode mover esses marcadores para outras criaturas artefato. Consulte a regra 702.42, “Modular”."
 
 msgid "Monarch"
-msgstr ""
+msgstr "Monarca"
 
 msgid "A designation a player can have. Some effects instruct a player to become the monarch. The monarch draws a card at the beginning of their end step. Dealing combat damage to the monarch steals the title from that player. See rule 718, “The Monarch.”"
-msgstr ""
+msgstr "Uma designação que um jogador pode ter. Alguns efeitos instruem um jogador a tornar-se monarca. O monarca compra um card no início da sua etapa final. Causar dano ao monarca faz com que o título seja roubado. Consulte a regra 718, “Monarca”."
 
 msgid "Mono Artifact (Obsolete)"
-msgstr ""
+msgstr "Mono Artifact (Obsoleto)"
 
 msgid "An obsolete term that appeared on the type line of artifacts with activated abilities that caused the artifact to become tapped as a cost. Cards printed with this text have received errata in the Oracle card reference to simply say “Artifact,” and those abilities now include the tap symbol in their costs."
-msgstr ""
+msgstr "Um termo obsoleto que apareceu na linha de tipo de artefatos com habilidades ativadas que faziam com que o artefato fosse virado como um custo. Cards impressos com este texto receberam errata na referência de cards Oracle para simplesmente dizer “Artefato”, e as habilidades agora incluem o símbolo de virar em seus custos."
 
 msgid "Monocolored"
-msgstr ""
+msgstr "Monocolorido"
 
 msgid "An object with exactly one color is monocolored. Colorless objects aren’t monocolored. See rule 105, “Colors,” and rule 202, “Mana Cost and Color.”"
-msgstr ""
+msgstr "Um objeto com exatamente uma cor é monocolorido. Objetos incolores não são monocoloridos. Consulte a regra 105, “Cores” e a regra 202, “Custo e Cor de Mana”."
 
 msgid "Monocolored Hybrid Mana Symbols"
-msgstr ""
+msgstr "Símbolos de Mana Híbridos Monocoloridos"
 
 msgid "See Hybrid Mana Symbols."
-msgstr ""
+msgstr "Consulte Símbolos de Mana Híbridos."
 
 msgid "Monstrosity"
-msgstr ""
+msgstr "Monstruosidade"
 
 msgid "A keyword action that puts +1/+1 counters on a creature and makes it become monstrous. See rule 701.31, “Monstrosity.”"
-msgstr ""
+msgstr "Uma palavra-chave de ação que coloca marcadores +1/+1 em uma criatura e faz com que ela se torne monstruosa. Consulte a regra 701.31, “Monstruosidade”."
 
 msgid "Monstrous"
-msgstr ""
+msgstr "Monstruosa"
 
 msgid "A designation given to a creature whose ability including a monstrosity instruction has resolved. See rule 701.31, “Monstrosity.”"
-msgstr ""
+msgstr "Uma designação dada para uma criatura cuja habilidade inclui uma instrução de monstruosidade. Consulte a regra\n"
+"701.31, “Monstruosidade”."
 
 msgid "Morph"
-msgstr ""
+msgstr "Metamorfose"
 
 msgid "A keyword ability that lets a card be cast face down as a 2/2 creature. See rule 702.36, “Morph,” and rule 707, “Face-Down Spells and Permanents.”"
-msgstr ""
+msgstr "Uma palavra-chave de habilidade que permite que um card seja conjurado com a face voltada para baixo como uma criatura 2/2. Consulte a regra 702.36, “Metamorfose”, e a regra 707, “Mágicas e Permanentes com a Face Voltada para Baixo”."
 
 msgid "Mountain"
-msgstr ""
+msgstr "Montanha"
 
 msgid "One of the five basic land types. Any land with this subtype has the ability “{T}: Add {R}.” See rule 305.6."
-msgstr ""
+msgstr "Um dos cinco tipos de terreno básico. Qualquer terreno com este subtipo tem a habilidade “{T}: Adicione {R}”. Consulte a regra 305.6."
 
 msgid "Mountaincycling"
 msgstr "Reciclar Montanha"
@@ -10899,7 +10900,7 @@ msgid "Mountainwalk"
 msgstr "Travessia de Montanha"
 
 msgid "Move"
-msgstr ""
+msgstr "Mover"
 
 msgid "To remove a counter from one object and put it on a different object. See rule 122.5."
 msgstr ""
