@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2021-01-22 16:56\n"
+"PO-Revision-Date: 2021-01-22 17:52\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -8947,10 +8947,10 @@ msgstr "Uma palavra-chave que faz com que um jogador receba a benção da Cidade
 "permanentes. Consulte a regra 702.130, “Ascender.”"
 
 msgid "Assemble"
-msgstr ""
+msgstr "Montar"
 
 msgid "Assemble is a keyword action in the Unstable set that puts Contraptions onto the battlefield. Cards and mechanics from the Unstable set aren’t included in these rules."
-msgstr ""
+msgstr "Montar é uma palavra-chave de ação na edição Unstable que coloca Aparelhos no campo de batalha. Cards e mecânicas de Unstable não são cobertos nessas regras."
 
 msgid "Assign Combat Damage"
 msgstr "Atribuir Dano de Combate"
@@ -10903,34 +10903,34 @@ msgid "Move"
 msgstr "Mover"
 
 msgid "To remove a counter from one object and put it on a different object. See rule 122.5."
-msgstr ""
+msgstr "Remover um marcador de um objeto e colocá-lo em um objeto diferente. Consulte a regra 122.5."
 
 msgid "Some older cards used “move” with respect to Auras; those cards have received errata in the Oracle card reference and now use the word “attach.”"
-msgstr ""
+msgstr "Alguns cards antigos usavam “mover” em relação às Auras; esses cards receberam errata na referência de cards Oracle e agora usam o termo \"anexar”."
 
 msgid "Mulligan"
-msgstr ""
+msgstr "Mulligan"
 
 msgid "To take a mulligan is to reject a prospective opening hand in favor of a new one. See rule 103.4."
-msgstr ""
+msgstr "Fazer um mulligan é rejeitar uma potencial mão inicial em favor de uma nova. Consulte a regra 103.4."
 
 msgid "Multicolored"
-msgstr ""
+msgstr "Multicolorido"
 
 msgid "An object with two or more colors is multicolored. Multicolored is not a color. See rule 105, “Colors,” and rule 202, “Mana Cost and Color.”"
-msgstr ""
+msgstr "Um objeto com duas ou mais cores é multicolorido. Multicolorido não é uma cor. Consulte a regra 105, “Cores”, e a regra 202, “Custo e Cor de Mana”."
 
 msgid "Multikicker"
-msgstr ""
+msgstr "Multireforçar"
 
 msgid "Multikicker is a variant of the kicker keyword ability. It represents an optional additional cost that may be paid any number of times. See rule 702.32, “Kicker.” See also Kicker."
-msgstr ""
+msgstr "Multireforçar é uma variante da palavra-chave de habilidade reforçar. Ela representa um custo adicional opcional que pode se pagar qualquer número de vezes. Consulte a regra 702.32, “Reforçar”. Consulte também Reforçar."
 
 msgid "Multiplayer Game"
-msgstr ""
+msgstr "Jogo Multijogador"
 
 msgid "A game that begins with more than two players. See section 8, “Multiplayer Rules.”"
-msgstr ""
+msgstr "Um jogo que começa com mais de dois jogadores. Consulte a seção 8, “Regras Multijogador”."
 
 msgid "Mutate"
 msgstr ""
@@ -10951,22 +10951,22 @@ msgid "Myriad is a triggered ability that effectively lets a creature attack in 
 msgstr ""
 
 msgid "Name"
-msgstr ""
+msgstr "Nome"
 
 msgid "A characteristic, and part of a card. A card’s name is printed in its upper left corner. See rule 201, “Name.”"
-msgstr ""
+msgstr "Uma característica, e parte de um card. O nome de um card é impresso no canto superior esquerdo. Consulte a regra 201, “Nome”."
 
 msgid "Ninjutsu"
-msgstr ""
+msgstr "Ninjutsu"
 
 msgid "A keyword ability that lets a creature suddenly enter combat. See rule 702.48, “Ninjutsu.”"
-msgstr ""
+msgstr "Uma palavra-chave de habilidade que permite que uma criatura repentinamente entre em combate. Consulte a regra 702.48, “Ninjutsu”."
 
 msgid "Nonbasic Land"
-msgstr ""
+msgstr "Terreno não-básico"
 
 msgid "Any land that doesn’t have the supertype “basic.” See rule 205.4, “Supertypes.”"
-msgstr ""
+msgstr "Qualquer terreno que não tenha o supertipo “básico”. Consulte a regra 205.4, “Supertipos”."
 
 msgid "Nontraditional Magic Card"
 msgstr ""
