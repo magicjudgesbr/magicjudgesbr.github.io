@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2021-01-22 17:52\n"
+"PO-Revision-Date: 2021-02-02 16:48\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -12169,13 +12169,13 @@ msgid "A keyword ability that can return a creature from the graveyard to the ba
 msgstr ""
 
 msgid "Unearth"
-msgstr ""
+msgstr "Desenterrar"
 
 msgid "A keyword ability that lets a player return a creature card from their graveyard to the battlefield. See rule 702.83, “Unearth.”"
-msgstr ""
+msgstr "Uma palavra-chave de habilidade que permite a um jogador devolver um card de criatura de seu cemitério para o campo de batalha. Consulte a regra 702.83, “Desenterrar”."
 
 msgid "Unflipped"
-msgstr ""
+msgstr "Não girado"
 
 msgid "A default status a permanent may have. See rule 110.5 and rule 709, “Flip Cards.” See also Flipped."
 msgstr ""
