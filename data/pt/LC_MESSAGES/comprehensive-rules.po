@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2021-02-02 16:48\n"
+"PO-Revision-Date: 2021-02-02 17:43\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -12163,10 +12163,10 @@ msgid "A keyword ability that reduces the cost of a spell based on the number of
 msgstr ""
 
 msgid "Undying"
-msgstr ""
+msgstr "Imortal"
 
 msgid "A keyword ability that can return a creature from the graveyard to the battlefield. See rule 702.92, “Undying.”"
-msgstr ""
+msgstr "Uma habilidade de palavra-chave que pode retornar uma criatura do cemitério para o campo de batalha. Consulte a regra 702.92, \"Imortal\"."
 
 msgid "Unearth"
 msgstr "Desenterrar"
@@ -12178,64 +12178,64 @@ msgid "Unflipped"
 msgstr "Não girado"
 
 msgid "A default status a permanent may have. See rule 110.5 and rule 709, “Flip Cards.” See also Flipped."
-msgstr ""
+msgstr "Um status padrão que uma permanente pode ter. Consulte a regra 110.5 e a regra 709, “Cards que Giram”. Consulte também Girado."
 
 msgid "Unleash"
-msgstr ""
+msgstr "Liberar"
 
 msgid "A keyword ability that allows a creature to enter the battlefield with a +1/+1 counter on it and stops it from blocking if it has a +1/+1 counter on it. See rule 702.97, “Unleash.”"
-msgstr ""
+msgstr "Uma palavra-chave de habilidade que permite que uma criatura entre no campo de batalha com um marcador +1/+1 e impede que aquela criatura bloqueie se ela tiver um marcador +1/+1 sobre ela. Consulte a regra 702.97, “Liberar”."
 
 msgid "Unless"
-msgstr ""
+msgstr "A menos que"
 
 msgid "A word used to indicate a certain style of cost. See rule 118.12a."
-msgstr ""
+msgstr "Uma expressão usada para indicar um certo estilo de custo. Consulte a regra 118.12a."
 
 msgid "Untap"
-msgstr ""
+msgstr "Desvirar"
 
 msgid "To rotate a permanent back to the upright position from a sideways position. See rule 701.21, “Tap and Untap.”"
-msgstr ""
+msgstr "Rotacionar uma permanente de volta para a posição vertical de uma posição lateral. Consulte a regra 701.21, “Virar e Desvirar”."
 
 msgid "Untap Step"
-msgstr ""
+msgstr "Etapa de Desvirar"
 
 msgid "Part of the turn. This step is the first step of the beginning phase. See rule 502, “Untap Step.”"
-msgstr ""
+msgstr "Parte do turno. Esta é a primeira etapa da fase inicial. Consulte a regra 502, “Etapa de Desvirar”."
 
 msgid "Untap Symbol"
-msgstr ""
+msgstr "Símbolo de Desvirar"
 
 msgid "The untap symbol {Q} in an activation cost means “Untap this permanent.” See rule 107.6."
-msgstr ""
+msgstr "O símbolo de desvirar {Q} em um custo de ativação significa “Desvire esta permanente”. Consulte a regra 107.6."
 
 msgid "Untapped"
-msgstr ""
+msgstr "Desvirado"
 
 msgid "A default status a permanent may have. See rule 110.5 and rule 701.21, “Tap and Untap.” See also Tapped."
-msgstr ""
+msgstr "Um status padrão que uma permanente pode ter. Consulte a regra 110.5 e a regra 701.21, “Virar e Desvirar”. Consulte também Virado."
 
 msgid "Upkeep Step"
-msgstr ""
+msgstr "Etapa de Manutenção"
 
 msgid "Part of the turn. This step is the second step of the beginning phase. See rule 503, “Upkeep Step.”"
-msgstr ""
+msgstr "Parte do turno. Esta é a segunda etapa da fase inicial. Consulte a regra 503, “Etapa de Manutenção”."
 
 msgid "Vancouver Mulligan"
-msgstr ""
+msgstr "Vancouver Mulligan"
 
 msgid "Informal term for a previous system of taking a mulligan. Using the Vancouver mulligan, a player who took a mulligan shuffled their hand into their library and drew one fewer card. After choosing to not mulligan, a player who took a mulligan looked at the top card of their library and could put it on the bottom of their library. For current mulligan rules, see rule 103.4."
-msgstr ""
+msgstr "Termo informal para um sistema anterior de mulligan. Usando o Vancouver mulligan, um jogador que fez um mulligan embaralhou suas mãos na biblioteca e comprou um card a menos. Após escolher não fazer mulligan, um jogador que fez um mulligan olharia o card do topo do grimório e poderia colocá-la embaixo do grimório. Para as regras atuais de mulligan, consulte a regra 103.4."
 
 msgid "Vanguard"
-msgstr ""
+msgstr "Vanguard"
 
 msgid "1. A casual variant in which each player plays the role of a famous character. See rule 902, “Vanguard.”"
-msgstr ""
+msgstr "1. Uma variante casual em que cada jogador faz o papel de um personagem famoso. Consulte a regra 902, “Vanguard”."
 
 msgid "2. A card type seen only on nontraditional Magic cards in the Vanguard casual variant. A vanguard card is not a permanent. See rule 311, “Vanguards.”"
-msgstr ""
+msgstr "2. Um tipo de card apenas visto em cards não tradicionais de Magic da variante casual Vanguard. Um card de vanguard não é uma permanente. Consulte a regra 311, “Vanguards”."
 
 msgid "Vanishing"
 msgstr "Desaparecer"
@@ -12262,22 +12262,23 @@ msgid "A keyword ability that lets a creature attack without tapping. See rule 7
 msgstr "Uma palavra-chave de habilidade que permite a uma criatura atacar sem virar. Veja a regra 702.20, “Vigilância.”"
 
 msgid "Vote"
-msgstr ""
+msgstr "Vote"
 
 msgid "Some cards instruct players to vote from among given options. See rule 701.32, “Vote.”"
-msgstr ""
+msgstr "Alguns cards instruem jogadores a votar (vote) entre algumas opções. Consulte a regra 701.32, “Vote”."
 
 msgid "Wall"
-msgstr ""
+msgstr "Barreira"
 
 msgid "A creature type with no particular rules meaning. Older cards with the Wall creature type but without defender had an unwritten ability that precluded them from attacking. Those cards have received errata in the Oracle card reference to have defender. Some older cards that referenced the Wall creature type have also received errata. See Defender."
-msgstr ""
+msgstr "Um tipo de criatura sem significado especial nas regras. Cards antigos com o tipo de criatura Barreira mas sem a\n"
+"habilidade defensor tinham uma habilidade não escrita que os impedia de atacar. Esses cards receberam errata na referência de cards Oracle para terem a habilidade defensor. Alguns cards antigos que faziam referência ao tipo de criatura Barreira também receberam errata. Veja Defensor."
 
 msgid "Win the Game"
 msgstr "Ganhar o Jogo"
 
 msgid "There are several ways to win the game. See rule 104, “Ending the Game,” and rules 810.8 (for additional rules for Two-Headed Giant games) and rule 809.5 (for additional rules for Emperor games)."
-msgstr ""
+msgstr "Existem diversas maneiras de vencer o jogo. Consulte a regra 104, “Finalizando o Jogo”, e a regra 810.8 (para regras adicionais para jogos de Gigante de Duas Cabeças) e a regra 809.5 (para regras adicionais para jogos de Imperador)."
 
 msgid "Wither"
 msgstr "Murchar"
