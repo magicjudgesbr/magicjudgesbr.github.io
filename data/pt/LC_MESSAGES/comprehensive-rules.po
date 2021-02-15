@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2021-02-02 17:43\n"
+"PO-Revision-Date: 2021-02-15 12:35\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -9176,10 +9176,10 @@ msgid "A keyword ability that can make a creature better in combat. See rule 702
 msgstr "Uma palavra-chave de habilidade que pode tornar uma criatura melhor em combate. Veja a regra 702.44, “Bushido.”"
 
 msgid "Buyback"
-msgstr ""
+msgstr "Recuperar"
 
 msgid "A keyword ability of instants and sorceries that can let the spell return to its owner’s hand as it resolves. See rule 702.26, “Buyback.”"
-msgstr ""
+msgstr "Uma palavra-chave de habilidade de mágicas instantâneas e feitiços que pode permitir o retorno da mágica para a mão de seu dono conforme ela resolve. Consulte a regra 702.26, “Recuperar”."
 
 msgid "Card"
 msgstr ""
