@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2021-02-15 12:35\n"
+"PO-Revision-Date: 2021-02-15 13:42\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -9182,16 +9182,16 @@ msgid "A keyword ability of instants and sorceries that can let the spell return
 msgstr "Uma palavra-chave de habilidade de mágicas instantâneas e feitiços que pode permitir o retorno da mágica para a mão de seu dono conforme ela resolve. Consulte a regra 702.26, “Recuperar”."
 
 msgid "Card"
-msgstr ""
+msgstr "Card"
 
 msgid "The standard component of the game. Magic cards may be traditional or nontraditional. Tokens aren’t considered cards. In the text of spells or abilities, the term “card” is used only to refer to a card that’s not on the battlefield or on the stack, such as a creature card in a player’s hand. See rule 108, “Cards.”"
-msgstr ""
+msgstr "O componente padrão do jogo. Cards de Magic podem ser tradicionais e não tradicionais. Fichas não são consideradas cards. No texto de mágicas ou habilidades, o termo “card” é usado apenas para referir-se a um card que não está no campo de batalha ou na pilha, como um card de criatura na mão de um jogador. Consulte a regra 108, “Cards”."
 
 msgid "Card Pool"
-msgstr ""
+msgstr "Card Pool"
 
 msgid "In a Limited format, the cards a player may use, in addition to basic land cards, to build their deck."
-msgstr ""
+msgstr "Em um formato Limitado, os cards que um jogador pode usar, em adição de cards de terrenos básicos, para construir seu deck."
 
 msgid "Card Type"
 msgstr "Tipo de Card"
