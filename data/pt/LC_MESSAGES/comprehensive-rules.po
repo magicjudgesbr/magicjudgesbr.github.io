@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2021-10-06 20:08\n"
+"PO-Revision-Date: 2021-10-06 21:06\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -12058,7 +12058,7 @@ msgid "Tribal"
 msgstr ""
 
 msgid "A card type. Whether or not a tribal is a permanent depends on its other card type. See rule 308, “Tribals.”"
-msgstr ""
+msgstr "Um tipo de card. Se um card tribal é ou não uma permanente depende do seu outro tipo de card. Consulte a regra 308, “Tribais”."
 
 msgid "Tribute"
 msgstr "Tributo"
@@ -12098,31 +12098,31 @@ msgid "Game actions that happen automatically when certain steps or phases begin
 msgstr "Ações do jogo que acontecem automaticamente quando começam determinadas etapas ou fases, ou quando termina cada etapa ou fase. Consulte a regra 703, “Ações Baseadas-no-Turno'."
 
 msgid "Turn Markers"
-msgstr ""
+msgstr "Indicadores de Turno"
 
 msgid "Markers used to keep track of which players are taking turns in a Grand Melee game. See rule 807.4."
-msgstr ""
+msgstr "Indicadores utilizados para acompanhar quais jogadores estão jogando um turno num jogo de Refrega Grandiosa."
 
 msgid "Two-Headed Giant Variant"
-msgstr ""
+msgstr "Variante Gigante de Duas Cabeças"
 
 msgid "A multiplayer variant played among two-player teams that each have a shared life total and take a simultaneous turn. See rule 810, “Two-Headed Giant Variant.”"
-msgstr ""
+msgstr "Uma variante multijogador jogada entre duas equipes de dois jogadores que tem um total de pontos de compartilhado e jogam os turnos simultaneamente. Consulte a regra 810, “Variante Gigante de Duas Cabeças”."
 
 msgid "Type"
-msgstr ""
+msgstr "Tipo"
 
 msgid "1. An object’s card type or, more broadly, its card type, subtype, and/or supertype. See rule 205, “Type Line,” and section 3, “Card Types.”"
-msgstr ""
+msgstr "1. O tipo de card de um objeto, ou mais amplamente, seu tipo de card, subtipo e/ou supertipo. Consulte a regra 205, “Linha de Tipo” e a seção 3, “Tipos de Card”."
 
 msgid "2. An attribute mana has. See rule 106, “Mana.”"
-msgstr ""
+msgstr "2. Um atributo de um mana. Consulte a regra 106, “Mana”."
 
 msgid "Type Icon"
-msgstr ""
+msgstr "Ícone de Tipo"
 
 msgid "An icon that appears in the upper left of some Future Sight cards that has no effect on game play. See rule 107.10."
-msgstr ""
+msgstr "Um ícone que aparece no canto superior esquerdo de alguns cards de Visão do Futuro, que não tem nenhum efeito no jogo. Consulte a regra 107.10."
 
 msgid "Type Line"
 msgstr "Linha de Tipo"
@@ -12131,10 +12131,10 @@ msgid "Part of a card. The type line is printed directly below the illustration 
 msgstr "Parte de um card. A linha de tipo é impressa diretamente abaixo da ilustração e contém o(s) tipo(s) do card, subtipo(s) e/ou supertipo(s). Veja a regra 205, \"Linha de Tipo\"."
 
 msgid "Type-Changing Effect"
-msgstr ""
+msgstr "Efeito de Mudança-de-Tipo"
 
 msgid "An effect that changes an object’s card type, subtype, and/or supertype. See rules 205.1a–b, 305.7, and 613.1d."
-msgstr ""
+msgstr "Um efeito que muda o tipo card, subtipo e/ou supertipo de um objeto. Consulte as regras 205.1a-b, 305.7, e 613.1d."
 
 msgid "Typecycling"
 msgstr "Reciclar Tipo"
@@ -12143,22 +12143,22 @@ msgid "A variant of the cycling ability. See rule 702.28, “Cycling.”"
 msgstr "Uma variante da habilidade de reciclar. Veja a regra 702.28, “Reciclar.”"
 
 msgid "Unattach"
-msgstr ""
+msgstr "Soltar"
 
 msgid "To move an Equipment away from the creature it’s attached to so that the Equipment is on the battlefield but is not equipping anything. See rule 701.3d."
-msgstr ""
+msgstr "Mover um equipamento para longe da criatura que ele está equipando de modo que o Equipamento continue no campo de batalha, mas não esteja equipando nada. Consulte a regra 701.3d."
 
 msgid "Unblockable (Obsolete)"
-msgstr ""
+msgstr "Unblockable (Obsoleto)"
 
 msgid "A term that meant “can’t be blocked.” Cards that used this term have received errata in the Oracle card reference."
-msgstr ""
+msgstr "Um termo que significava \"não pode ser bloqueado\". Cards que utilizaram este termo receberam errata na referência do card no Oráculo."
 
 msgid "Unblocked Creature"
-msgstr ""
+msgstr "Criatura Não Bloqueada"
 
 msgid "An attacking creature once no creature has been declared as a blocker for it, unless an effect has caused it to become blocked. It remains an unblocked creature until it’s removed from combat or the combat phase ends, whichever comes first. See rule 509, “Declare Blockers Step.”"
-msgstr ""
+msgstr "Uma criatura atacante que não teve nenhuma criatura designada para bloquear ela, a não ser que algum efeito torná-la bloqueada. Ela continua sendo uma criatura não bloqueada até que seja removida do combate ou a fase de combate termine, o que ocorrer primeiro. Consulte a regra 509, “Etapa de Declaração de Bloqueadores”."
 
 msgid "Undaunted"
 msgstr "Inabalável"
