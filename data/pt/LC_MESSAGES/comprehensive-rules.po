@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2021-02-19 20:02\n"
+"PO-Revision-Date: 2021-10-06 20:08\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -12061,40 +12061,41 @@ msgid "A card type. Whether or not a tribal is a permanent depends on its other 
 msgstr ""
 
 msgid "Tribute"
-msgstr ""
+msgstr "Tributo"
 
 msgid "A keyword ability that allows an opponent to choose between a creature entering the battlefield with +1/+1 counters or an additional ability. See rule 702.103, “Tribute.”"
-msgstr ""
+msgstr "Uma palavra-chave de habilidade que permite a um oponente escolher entre uma criatura entrar no campo de batalha com marcadores +1/+1 ou uma habilidade adicional. Consulte a regra 702.103, “Tributo”."
 
 msgid "Trigger"
-msgstr ""
+msgstr "Desencadear"
 
 msgid "Whenever a game event or game state matches a triggered ability’s trigger event, that ability automatically “triggers.” That means its controller puts it on the stack the next time a player would receive priority. See rule 603, “Handling Triggered Abilities.”"
-msgstr ""
+msgstr "Sempre que um evento do jogo ou um estado do jogo condiz com a condição de desencadeamento de uma habilidade desencadeada, aquela habilidade “desencadeia” automaticamente. Isso significa que o seu controlador a coloca na pilha na próxima vez que um jogador receberia prioridade. Consulte a regra 603, “Lidando com Habilidades Desencadeadas”."
 
 msgid "Trigger Condition"
-msgstr ""
+msgstr "Condição de Desencadeamento"
 
 msgid "The first part of a triggered ability, consisting of “when,” “whenever,” or “at” followed by a trigger event. See rule 603, “Handling Triggered Abilities.”"
-msgstr ""
+msgstr "A primeira parte de uma habilidade desencadeada, consistindo de “quando”, “sempre que” ou “no” seguido de um\n"
+"evento desencadeador. Consulte a regra 603, “Lidando com Habilidades Desencadeadas”."
 
 msgid "Triggered Ability"
-msgstr ""
+msgstr "Habilidade Desencadeada"
 
 msgid "A kind of ability. Triggered abilities begin with the word “when,” “whenever,” or “at.” They’re written as “[Trigger condition], [effect].” See rule 113, “Abilities,” and rule 603, “Handling Triggered Abilities.”"
-msgstr ""
+msgstr "Um tipo de habilidade. Habilidades desencadeadas começam com a palavra “quando”, “sempre que” ou “no”. Elas são escritas como “[Condição de desencadeamento], [efeito]”. Consulte a regra 113, “Habilidades”, e a regra 603, “Lidando com Habilidades Desencadeadas”."
 
 msgid "Trigger Event"
-msgstr ""
+msgstr "Evento Desencadeador"
 
 msgid "The event that a triggered ability looks for. Whenever the trigger event occurs, the triggered ability triggers. See rule 603, “Handling Triggered Abilities.”"
-msgstr ""
+msgstr "O evento aguardado por uma habilidade desencadeada. Toda vez que acontece o evento desencadeador, a habilidade desencadeada desencadeia. Consulte a regra 603, “Lidando com Habilidades Desencadeadas”."
 
 msgid "Turn-Based Actions"
-msgstr ""
+msgstr "Ações Baseadas-no-Turno"
 
 msgid "Game actions that happen automatically when certain steps or phases begin, or when each step or phase ends. See rule 703, “Turn-Based Actions.”"
-msgstr ""
+msgstr "Ações do jogo que acontecem automaticamente quando começam determinadas etapas ou fases, ou quando termina cada etapa ou fase. Consulte a regra 703, “Ações Baseadas-no-Turno'."
 
 msgid "Turn Markers"
 msgstr ""
@@ -12160,10 +12161,10 @@ msgid "An attacking creature once no creature has been declared as a blocker for
 msgstr ""
 
 msgid "Undaunted"
-msgstr ""
+msgstr "Inabalável"
 
 msgid "A keyword ability that reduces the cost of a spell based on the number of opponents you have. See rule 702.124, “Undaunted.”"
-msgstr ""
+msgstr "Uma palavra-chave de habilidade que reduz o custo de uma mágica baseado no número de oponente que você tiver. Consulte a regra 702.124, “Inabalável”."
 
 msgid "Undying"
 msgstr "Imortal"
