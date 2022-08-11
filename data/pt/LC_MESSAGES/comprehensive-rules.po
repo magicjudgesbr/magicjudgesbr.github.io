@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2022-08-11 14:32\n"
+"PO-Revision-Date: 2022-08-11 15:45\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -673,10 +673,10 @@ msgid "104.2d In an Emperor game, a team wins the game if its emperor wins the g
 msgstr "104.2d Num jogo de Imperador, uma equipe vence o jogo se seu imperador vencer o jogo. (Consulte a regra 809.5.)"
 
 msgid "104.3. There are several ways to lose the game."
-msgstr ""
+msgstr "104.3. Há diversas maneiras de se perder o jogo."
 
 msgid "104.3a A player can concede the game at any time. A player who concedes leaves the game immediately. That player loses the game."
-msgstr ""
+msgstr "104.3a Um jogador pode conceder o jogo a qualquer momento. Um jogador que concede o jogo deixa o jogo imediatamente. Aquele jogador perde o jogo."
 
 msgid "104.3b If a player’s life total is 0 or less, that player loses the game the next time a player would receive priority. (This is a state-based action. See rule 704.)"
 msgstr ""
