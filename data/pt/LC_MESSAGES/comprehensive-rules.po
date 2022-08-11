@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2022-08-11 19:13\n"
+"PO-Revision-Date: 2022-08-11 23:42\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -728,31 +728,32 @@ msgid "104.4e In a multiplayer game using the limited range of influence option,
 msgstr "104.4e Num jogo multijogador usando a opção de alcance de influência limitado, o efeito de uma mágica ou habilidade que afirma que o jogo é empatado faz com que o jogo seja empatado para o controlador da mágica ou habilidade e para todos os jogadores dentro de seu alcance de influência. Apenas esse jogadores deixam o jogo; o jogo continua para todos os outros jogadores."
 
 msgid "104.4f In a multiplayer game using the limited range of influence option, if the game somehow enters a “loop” of mandatory actions, repeating a sequence of events with no way to stop, the game is a draw for each player who controls an object that’s involved in that loop, as well as for each player within the range of influence of any of those players. Only those players leave the game; the game continues for all other players."
-msgstr ""
+msgstr "104.4f Num jogo multijogador usando a opção de alcance de influência limitado, se o jogo de alguma maneira entrar em um \"loop\" de ações obrigatórias, repetindo uma sequência de eventos impossível de ser interrompida, o jogo é um empate para cada jogador que tenha um objeto envolvido naquele loop, assim como para cada jogador dentro do alcance de influência de qualquer um daqueles jogadores. Apenas estes jogadores deixam o jogo; o jogo continua para todos os outros jogadores."
 
 msgid "104.4g In a multiplayer game between teams, the game is a draw for a team if the game is a draw for all remaining players on that team."
-msgstr ""
+msgstr "104.4g Num jogo multijogador entre equipes, o jogo acaba empatado para uma equipe se o jogo acaba empatado para todos os jogadores restantes daquela equipe."
 
 msgid "104.4h In the Emperor variant, the game is a draw for a team if the game is a draw for its emperor. (See rule 809.5.)"
-msgstr ""
+msgstr "104.4h Na variante Imperador, o jogo acaba empatado para uma equipe se seu imperador empatar. (Consulte a regra 809.5.)"
 
 msgid "104.4i In a tournament, all players in the game may agree to an intentional draw. See rule 100.6."
-msgstr ""
+msgstr "104.4i Em um torneio, todos os jogadores no jogo podem concordar com o empate intencional. Consulte a regra 100.6."
 
 msgid "104.5. If a player loses the game, that player leaves the game. If the game is a draw for a player, that player leaves the game. The multiplayer rules handle what happens when a player leaves the game; see rule 800.4."
-msgstr ""
+msgstr "104.5. Se um jogador perde o jogo, aquele jogador deixa o jogo. Se o jogo acaba empatado para um jogador, aquele jogador deixa o jogo. As regras de multijogador lidam com o que acontece quando um jogador deixa o jogo; consulte a regra 800.4."
 
 msgid "104.6. One card (Karn Liberated) restarts the game. All players still in the game when it restarts then immediately begin a new game. See rule 719, “Restarting the Game.”"
-msgstr ""
+msgstr "104.6. Um card (Karn Liberated) reinicia o jogo. Todos os jogadores permanecem no jogo quando ele é\n"
+"reiniciado e imediatamente inicia-se um novo jogo. Consulte a regra 719, “Reiniciando o jogo”."
 
 msgid "105.1. There are five colors in the Magic game: white, blue, black, red, and green."
-msgstr ""
+msgstr "105.1. Existem cinco cores no jogo Magic: branco, azul, preto, vermelho e verde."
 
 msgid "105.2. An object can be one or more of the five colors, or it can be no color at all. An object is the color or colors of the mana symbols in its mana cost, regardless of the color of its frame. An object’s color or colors may also be defined by a color indicator or a characteristic-defining ability. See rule 202.2."
-msgstr ""
+msgstr "105.2. Um objeto pode ser de uma ou mais de uma das cinco cores, ou pode ser de nenhuma cor. Um objeto é da cor ou cores dos símbolos de mana no seu custo de mana, independentemente da cor da sua moldura. A cor ou cores de um objeto também podem ser definidas por um indicador de cor ou uma habilidade definidora de características. Consulte a regra 202.2."
 
 msgid "105.2a A monocolored object is exactly one of the five colors."
-msgstr ""
+msgstr "105.2a Um objeto monocolorido é somente de uma das cinco cores."
 
 msgid "105.2b A multicolored object is two or more of the five colors."
 msgstr ""
