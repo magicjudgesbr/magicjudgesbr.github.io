@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2022-08-11 17:58\n"
+"PO-Revision-Date: 2022-08-11 19:13\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -697,34 +697,35 @@ msgid "104.3g In a multiplayer game between teams, a team loses the game if all 
 msgstr "104.3g Num jogo multijogador por equipes, uma equipe perde o jogo se todos os jogadores daquela equipe tiverem perdido o jogo."
 
 msgid "104.3h In a multiplayer game using the limited range of influence option (see rule 801), an effect that states that a player wins the game instead causes all of that player’s opponents within the player’s range of influence to lose the game. This may not cause the game to end."
-msgstr ""
+msgstr "104.3h Num jogo multijogador utilizando a opção de alcance de influência limitado (consulte a regra 801), um efeito que afirma que um jogador vence o jogo, ao invés disso faz com que todos oponentes daquele jogador dentro do alcance de influência percam o jogo. Isso pode não causar o término do jogo."
 
 msgid "104.3i In an Emperor game, a team loses the game if its emperor loses the game. (See rule 809.5.)"
-msgstr ""
+msgstr "104.3i Num jogo de Imperador, uma equipe perde o jogo se seu imperador perder o jogo. (Consulte a regra 809.5)"
 
 msgid "104.3j In a Commander game, a player that’s been dealt 21 or more combat damage by the same commander over the course of the game loses the game. (This is a state-based action. See rule 704. See also rule 903.10.)"
-msgstr ""
+msgstr "104.3j Num jogo de Commander, um jogador que recebeu 21 ou mais de dano de combate de um mesmo\n"
+"comandante durante o curso do jogo perde o jogo. (Isso é uma ação baseada-no-estado. Consulte a regra 704. Consulte também a regra 903.10.)"
 
 msgid "104.3k In a tournament, a player may lose the game as a result of a penalty given by a judge. See rule 100.6."
-msgstr ""
+msgstr "104.3k Num torneio, um jogador pode perder um jogo como resultado de uma penalidade aplicada por um juiz. Consulte a regra 100.6."
 
 msgid "104.4. There are several ways for the game to be a draw."
-msgstr ""
+msgstr "104.4. Há diversas maneiras de se empatar o jogo."
 
 msgid "104.4a If all the players remaining in a game lose simultaneously, the game is a draw."
-msgstr ""
+msgstr "104.4a Se todos os jogadores que ainda estiverem num jogo perderem simultaneamente, o jogo será um empate."
 
 msgid "104.4b If a game that’s not using the limited range of influence option (including a two-player game) somehow enters a “loop” of mandatory actions, repeating a sequence of events with no way to stop, the game is a draw. Loops that contain an optional action don’t result in a draw."
-msgstr ""
+msgstr "104.4b Se um jogo que não faz uso da opção de alcance de influência limitado (inclusive jogos com dois jogadores) de alguma maneira entrar em um \"loop\" de ações obrigatórias, repetindo uma sequência de eventos impossível de ser interrompida, o jogo será um empate. Loops que possuem uma ação opcional não resultam em empate."
 
 msgid "104.4c An effect may state that the game is a draw."
-msgstr ""
+msgstr "104.4c Um efeito pode fazer com que o jogo seja um empate."
 
 msgid "104.4d In a multiplayer game between teams, the game is a draw if all remaining teams lose simultaneously."
-msgstr ""
+msgstr "104.4d Num jogo multijogador de equipes, o jogo será um empate se todas as equipes que ainda estiverem no jogo perderem simultaneamente."
 
 msgid "104.4e In a multiplayer game using the limited range of influence option, the effect of a spell or ability that states that the game is a draw causes the game to be a draw for that spell or ability’s controller and all players within their range of influence. Only those players leave the game; the game continues for all other players."
-msgstr ""
+msgstr "104.4e Num jogo multijogador usando a opção de alcance de influência limitado, o efeito de uma mágica ou habilidade que afirma que o jogo é empatado faz com que o jogo seja empatado para o controlador da mágica ou habilidade e para todos os jogadores dentro de seu alcance de influência. Apenas esse jogadores deixam o jogo; o jogo continua para todos os outros jogadores."
 
 msgid "104.4f In a multiplayer game using the limited range of influence option, if the game somehow enters a “loop” of mandatory actions, repeating a sequence of events with no way to stop, the game is a draw for each player who controls an object that’s involved in that loop, as well as for each player within the range of influence of any of those players. Only those players leave the game; the game continues for all other players."
 msgstr ""
