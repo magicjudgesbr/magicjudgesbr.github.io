@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2021-10-06 21:06\n"
+"PO-Revision-Date: 2022-08-11 14:32\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -655,22 +655,22 @@ msgid "103.7c In all other multiplayer games, no player skips the draw step of t
 msgstr "103.7c Em todos os outros jogos multijogador, nenhum jogador pula a etapa de compra de seu primeiro turno."
 
 msgid "104.1. A game ends immediately when a player wins, when the game is a draw, or when the game is restarted."
-msgstr ""
+msgstr "104.1. Um jogo termina imediatamente quando um jogador vence, quando o jogo é um empate ou quando o jogo é reiniciado."
 
 msgid "104.2. There are several ways to win the game."
-msgstr ""
+msgstr "104.2. Há diversas maneiras de se vencer o jogo."
 
 msgid "104.2a A player still in the game wins the game if that player’s opponents have all left the game. This happens immediately and overrides all effects that would preclude that player from winning the game."
-msgstr ""
+msgstr "104.2a Um jogador que ainda esteja no jogo vence o jogo se seus oponentes tiverem deixado o jogo. Isso acontece imediatamente e sobrepõe-se a todos os efeitos que impeçam este jogador de vencer o jogo."
 
 msgid "104.2b An effect may state that a player wins the game."
-msgstr ""
+msgstr "104.2b Um efeito pode afirmar que um jogador vence o jogo."
 
 msgid "104.2c In a multiplayer game between teams, a team with at least one player still in the game wins the game if all other teams have left the game. Each player on the winning team wins the game, even if one or more of those players had previously lost that game."
-msgstr ""
+msgstr "104.2c Num jogo multijogador por equipes, uma equipe com pelo menos um jogador ainda no jogo vence o jogo se todas as outras equipes tiverem deixado o jogo. Cada jogador na equipe vencedora vence o jogo, ainda que um ou mais daqueles jogadores tenham perdido previamente aquele jogo."
 
 msgid "104.2d In an Emperor game, a team wins the game if its emperor wins the game. (See rule 809.5.)"
-msgstr ""
+msgstr "104.2d Num jogo de Imperador, uma equipe vence o jogo se seu imperador vencer o jogo. (Consulte a regra 809.5.)"
 
 msgid "104.3. There are several ways to lose the game."
 msgstr ""
