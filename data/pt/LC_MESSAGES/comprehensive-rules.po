@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2022-08-11 15:45\n"
+"PO-Revision-Date: 2022-08-11 17:58\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -679,22 +679,22 @@ msgid "104.3a A player can concede the game at any time. A player who concedes l
 msgstr "104.3a Um jogador pode conceder o jogo a qualquer momento. Um jogador que concede o jogo deixa o jogo imediatamente. Aquele jogador perde o jogo."
 
 msgid "104.3b If a player’s life total is 0 or less, that player loses the game the next time a player would receive priority. (This is a state-based action. See rule 704.)"
-msgstr ""
+msgstr "104.3b Se o total de pontos de vida de um jogador for 0 ou menos, aquele jogador perde o jogo na próxima vez que um jogador receberia prioridade. (Esta é uma ação baseada-no-estado. Consulte a regra 704.)"
 
 msgid "104.3c If a player is required to draw more cards than are left in their library, they draw the remaining cards and then lose the game the next time a player would receive priority. (This is a state-based action. See rule 704.)"
-msgstr ""
+msgstr "104.3c Se um jogador for obrigado a comprar mais cards do que o número de cards existentes em seu grimório, ele compra os cards restante e então perde o jogo na próxima vez que um jogador receberia prioridade. (Esta é uma ação baseadano-estado. Consulte a regra 704.)"
 
 msgid "104.3d If a player has ten or more poison counters, that player loses the game the next time a player would receive priority. (This is a state-based action. See rule 704.)"
-msgstr ""
+msgstr "104.3d Se um jogador tiver dez ou mais marcadores de veneno, aquele jogador perde o jogo na próxima vez que um jogador receberia prioridade. (Esta é uma ação baseada-no-estado. Consulte a regra 704.)"
 
 msgid "104.3e An effect may state that a player loses the game."
-msgstr ""
+msgstr "104.3e Um efeito pode fazer com que um jogador perca o jogo."
 
 msgid "104.3f If a player would both win and lose the game simultaneously, that player loses the game."
-msgstr ""
+msgstr "104.3f Se um jogador fosse vencer e perder o jogo simultaneamente, aquele jogador perde o jogo."
 
 msgid "104.3g In a multiplayer game between teams, a team loses the game if all players on that team have lost the game."
-msgstr ""
+msgstr "104.3g Num jogo multijogador por equipes, uma equipe perde o jogo se todos os jogadores daquela equipe tiverem perdido o jogo."
 
 msgid "104.3h In a multiplayer game using the limited range of influence option (see rule 801), an effect that states that a player wins the game instead causes all of that player’s opponents within the player’s range of influence to lose the game. This may not cause the game to end."
 msgstr ""
