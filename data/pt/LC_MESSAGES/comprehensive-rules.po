@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2022-08-12 00:40\n"
+"PO-Revision-Date: 2022-08-12 13:46\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -808,7 +808,7 @@ msgstr "Exemplo: A reserva de mana de um jogador contém {R}{G} que só podem se
 "criatura. Esse jogador ativa a habilidade de [[Doubling Cube]], que diz “{3}, {T}: Duplique a quantidade de cada tipo de mana não gasto que você tiver”. A reserva de mana daquele jogador agora tem {R}{R}{G}{G}, sendo que {R}{G} pode ser utilizado em qualquer coisa."
 
 msgid "106.6a Some replacement effects increase the amount of mana produced by a spell or ability. In these cases, any restrictions or additional effects created by the spell or ability will apply to all mana produced. If the spell or ability creates a delayed triggered ability that triggers when the mana is spent, a separate delayed triggered ability is created for each mana produced. If the spell or ability creates a continuous effect or replacement effect if the mana is spent, a separate effect is created once for each mana produced."
-msgstr ""
+msgstr "106.6a Alguns efeitos de substituição aumentam a quantidade de mana produzida por uma mágica ou habilidade. Nesses casos, quaisquer restrições ou efeitos adicionais criados pela mágica ou habilidade serão aplicados a todo mana produzido. Se a mágica ou habilidade cria uma habilidade desencadeada retardada que é desencadeada quando o mana é gasto, uma habilidade desencadeada retardada separada é criada para cada mana produzido. Se a mágica ou habilidade criar um efeito contínuo ou efeito de substituição se o mana for gasto, um efeito separado é criado uma vez para cada mana produzido."
 
 msgid "106.7. Some abilities produce mana based on the type of mana another permanent or permanents “could produce.” The type of mana a permanent could produce at any time includes any type of mana that an ability of that permanent would produce if the ability were to resolve at that time, taking into account any applicable replacement effects in any possible order. Ignore whether any costs of the ability could or could not be paid. If that permanent wouldn’t produce any mana under these conditions, or no type of mana can be defined this way, there’s no type of mana it could produce."
 msgstr ""
