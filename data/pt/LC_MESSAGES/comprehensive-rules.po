@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2022-08-11 23:42\n"
+"PO-Revision-Date: 2022-08-12 00:40\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -743,7 +743,7 @@ msgid "104.5. If a player loses the game, that player leaves the game. If the ga
 msgstr "104.5. Se um jogador perde o jogo, aquele jogador deixa o jogo. Se o jogo acaba empatado para um jogador, aquele jogador deixa o jogo. As regras de multijogador lidam com o que acontece quando um jogador deixa o jogo; consulte a regra 800.4."
 
 msgid "104.6. One card (Karn Liberated) restarts the game. All players still in the game when it restarts then immediately begin a new game. See rule 719, “Restarting the Game.”"
-msgstr "104.6. Um card (Karn Liberated) reinicia o jogo. Todos os jogadores permanecem no jogo quando ele é\n"
+msgstr "104.6. Um card ([[Karn Liberated]]) reinicia o jogo. Todos os jogadores permanecem no jogo quando ele é\n"
 "reiniciado e imediatamente inicia-se um novo jogo. Consulte a regra 719, “Reiniciando o jogo”."
 
 msgid "105.1. There are five colors in the Magic game: white, blue, black, red, and green."
@@ -756,55 +756,56 @@ msgid "105.2a A monocolored object is exactly one of the five colors."
 msgstr "105.2a Um objeto monocolorido é somente de uma das cinco cores."
 
 msgid "105.2b A multicolored object is two or more of the five colors."
-msgstr ""
+msgstr "105.2b Um objeto multicolorido é de duas ou mais de duas das cinco cores."
 
 msgid "105.2c A colorless object has no color."
-msgstr ""
+msgstr "105.2c Um objeto incolor não tem cor."
 
 msgid "105.3. Effects may change an object’s color or give a color to a colorless object. If an effect gives an object a new color, the new color replaces all previous colors the object had (unless the effect said the object became that color “in addition” to its other colors). Effects may also make a colored object become colorless."
-msgstr ""
+msgstr "105.3. Efeitos podem mudar a cor de um objeto ou dar uma cor a um objeto incolor. Se um efeito dá a um objeto uma nova cor, a nova cor substitui todas as cores anteriores que o objeto tinha (a não ser que o efeito diga que o objeto tem aquela cor “em adição” a suas outras cores). Efeitos podem fazer com que um objeto colorido torne-se incolor."
 
 msgid "105.4. If a player is asked to choose a color, they must choose one of the five colors. “Multicolored” is not a color. Neither is “colorless.”"
-msgstr ""
+msgstr "105.4. Se for solicitado a um jogador que ele escolha uma cor, ele deve escolher uma das cinco cores. \"Multicolorido” não é uma cor. Assim como “incolor” também não é."
 
 msgid "105.5. If an effect refers to a color pair, it means exactly two of the five colors. There are ten color pairs: white and blue, white and black, blue and black, blue and red, black and red, black and green, red and green, red and white, green and white, and green and blue."
-msgstr ""
+msgstr "105.5. Se um efeito fizer referência a um par de cores, ele se refere a exatamente duas das cinco cores. Existem dez pares de cores: branco e azul, branco e preto, azul e preto, azul e vermelho, preto e vermelho, preto e verde, vermelho e verde, vermelho e branco, verde e branco, e verde e azul."
 
 msgid "106.1. Mana is the primary resource in the game. Players spend mana to pay costs, usually when casting spells and activating abilities."
-msgstr ""
+msgstr "106.1. Mana é o principal recurso do jogo. Os jogadores gastam mana para pagar custos, geralmente quando conjuram mágicas ou ativam habilidades."
 
 msgid "106.1a There are five colors of mana: white, blue, black, red, and green."
-msgstr ""
+msgstr "106.1a Existem cinco cores de mana: branco, azul, preto, vermelho e verde."
 
 msgid "106.1b There are six types of mana: white, blue, black, red, green, and colorless."
-msgstr ""
+msgstr "106.1b Existem seis tipos de mana: branco, azul, preto, vermelho, verde e incolor."
 
 msgid "106.2. Mana is represented by mana symbols (see rule 107.4). Mana symbols also represent mana costs (see rule 202)."
-msgstr ""
+msgstr "106.2. Mana é representado por símbolos de mana (consulte a regra 107.4). Os símbolos de mana também representam custos de mana (consulte a regra 202)."
 
 msgid "106.3. Mana is produced by the effects of mana abilities (see rule 605). It may also be produced by the effects of spells, as well as by the effects of abilities that aren’t mana abilities. A spell or ability that produces mana instructs a player to add that mana."
-msgstr ""
+msgstr "106.3. Mana é produzido pelos efeitos das habilidades de mana (consulte a regra 605). Ele também pode ser produzido pelos efeitos de mágicas, bem como pelos efeitos de habilidades que não sejam habilidades de mana. Uma mágica ou habilidade que produz mana instrui o jogador à adicionar aquele mana."
 
 msgid "106.4. When an effect instructs a player to add mana, that mana goes into a player’s mana pool. From there, it can be used to pay costs immediately, or it can stay in the player’s mana pool as unspent mana. Each player’s mana pool empties at the end of each step and phase, and the player is said to lose this mana. Cards with abilities that produce mana or refer to unspent mana have received errata in the Oracle™ card reference to no longer explicitly refer to the mana pool."
-msgstr ""
+msgstr "106.4. Quando um efeito instruir um jogador a adicionar mana, aquele mana vai para a reserva de mana do jogador. De lá, ele pode ser usado para pagar custos imediatamente ou pode ficar na reserva de mana do jogador como mana não utilizado. A reserva de mana de cada jogador esvazia-se no final de cada etapa e fase, e é considerado que o jogador perdeu este mana. Cards com habilidades que produzem mana ou referem-se a mana não gasto receberam uma errata na referência da carta do Oracle™ para não mais se referir-se explicitamente à reserva de mana."
 
 msgid "106.4a If any mana remains in a player’s mana pool after mana is spent to pay a cost, that player announces what mana is still there."
-msgstr ""
+msgstr "106.4a Se um algum mana permanece na reserva de mana depois do mana ser gasto para pagar um custo, aquele jogador anuncia qual mana ainda está lá."
 
 msgid "106.4b If a player passes priority (see rule 117) while there is mana in their mana pool, that player announces what mana is there."
-msgstr ""
+msgstr "106.4b Se um jogador passar a prioridade (consulte a regra 117) enquanto houver mana na sua reserva de mana, aquele jogador anuncia qual mana está lá."
 
 msgid "106.5. If an ability would produce one or more mana of an undefined type, it produces no mana instead."
-msgstr ""
+msgstr "106.5. Se uma habilidade produziria um ou mais um mana de um tipo indefinido, ao invés disso, ela não produz nenhum mana."
 
 msgid "Example: Meteor Crater has the ability “{T}: Choose a color of a permanent you control. Add one mana of that color.” If you control no colored permanents, activating Meteor Crater’s mana ability produces no mana."
-msgstr ""
+msgstr "Exemplo: [[Meteor Crater]] possui a habilidade “{T}: Escolha a cor de uma permanente que você controla. Adicione uma mana daquela cor”. Se você controla permanentes sem cor, a habilidade ativada de [[Meteor Crater]] não produz mana."
 
 msgid "106.6. Some spells or abilities that produce mana restrict how that mana can be spent, have an additional effect that affects the spell or ability that mana is spent on, or create a delayed triggered ability (see rule 603.7a) that triggers when that mana is spent. This doesn’t affect the mana’s type."
-msgstr ""
+msgstr "106.6. Algumas mágicas ou habilidades que produzem mana restringem como essa mana pode ser utilizada, ou possuem um efeito adicional que afeta a mágica na qual essa mana foi utilizada, ou cria uma habilidade desencadeada atrasada (consulte a regra 603.7a) que desencadeia quando aquela mana é utilizada. Isso não afeta o tipo da mana."
 
 msgid "Example: A player’s mana pool contains {R}{G} which can be spent only to cast creature spells. That player activates Doubling Cube’s ability, which reads “{3}, {T}: Double the amount of each type of unspent mana you have.” The player’s mana pool now has {R}{R}{G}{G} in it, {R}{G} of which can be spent on anything."
-msgstr ""
+msgstr "Exemplo: A reserva de mana de um jogador contém {R}{G} que só podem ser utilizadas para conjurar mágicas de\n"
+"criatura. Esse jogador ativa a habilidade de [[Doubling Cube]], que diz “{3}, {T}: Duplique a quantidade de cada tipo de mana não gasto que você tiver”. A reserva de mana daquele jogador agora tem {R}{R}{G}{G}, sendo que {R}{G} pode ser utilizado em qualquer coisa."
 
 msgid "106.6a Some replacement effects increase the amount of mana produced by a spell or ability. In these cases, any restrictions or additional effects created by the spell or ability will apply to all mana produced. If the spell or ability creates a delayed triggered ability that triggers when the mana is spent, a separate delayed triggered ability is created for each mana produced. If the spell or ability creates a continuous effect or replacement effect if the mana is spent, a separate effect is created once for each mana produced."
 msgstr ""
