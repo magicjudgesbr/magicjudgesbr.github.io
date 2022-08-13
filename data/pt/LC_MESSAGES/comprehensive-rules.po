@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2022-08-13 19:11\n"
+"PO-Revision-Date: 2022-08-13 20:11\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -943,52 +943,52 @@ msgid "107.4g In rules text, the Phyrexian symbol {P} with no colored background
 msgstr "107.4g No texto de regras, o símbolo Phyrexiano {P} sem fundo colorido significa qualquer um dos cinco símbolos de mana Phyrexianos."
 
 msgid "107.4h The snow mana symbol {S} represents one mana in a cost. This mana can be paid with one mana of any type produced by a snow permanent (see rule 205.4g). Effects that reduce the amount of generic mana you pay don’t affect {S} costs. Snow is neither a color nor a type of mana."
-msgstr ""
+msgstr "107.4h O símbolo de mana da neve {S} representa um mana em um custo. Este mana pode ser pago com um mana de qualquer tipo produzido por uma permanente da neve (consulte a regra 205.4g). Efeitos que reduzem a quantidade de mana genérico a ser pago não afetam os custos {S}. Neve não é uma cor nem um tipo de mana."
 
 msgid "107.5. The tap symbol is {T}. The tap symbol in an activation cost means “Tap this permanent.” A permanent that’s already tapped can’t be tapped again to pay the cost. A creature’s activated ability with the tap symbol in its activation cost can’t be activated unless the creature has been under its controller’s control continuously since their most recent turn began. See rule 302.6."
-msgstr ""
+msgstr "107.5. O símbolo de virar é {T}. O símbolo de virar em um custo de ativação significa “Vire esta permanente”. Uma permanente que já esteja virada não pode ser virada novamente para pagar o custo. Uma habilidade ativada de uma criatura com o símbolo de virar em seu custo de ativação, não pode ser ativada a não ser que a criatura esteja sob o controle de seu controlador continuamente desde o início do seu turno mais recente. Consulte a regra 302.6."
 
 msgid "107.6. The untap symbol is {Q}. The untap symbol in an activation cost means “Untap this permanent.” A permanent that’s already untapped can’t be untapped again to pay the cost. A creature’s activated ability with the untap symbol in its activation cost can’t be activated unless the creature has been under its controller’s control continuously since their most recent turn began. See rule 302.6."
-msgstr ""
+msgstr "107.6. O símbolo de desvirar é {Q}. O símbolo de desvirar em um custo de ativação significa “Desvire esta permanente”. Uma permanente que já esteja desvirada não pode ser desvirada novamente para pagar o custo. Uma habilidade ativada de uma criatura, que tenha o símbolo de desvirar em seu custo de ativação, não pode ser ativada a não ser que a criatura esteja sob o controle de seu controlador continuamente desde o início do seu turno mais recente. Consulte a regra 302.6."
 
 msgid "107.7. Each activated ability of a planeswalker has a loyalty symbol in its cost. Positive loyalty symbols point upward and feature a plus sign followed by a number. Negative loyalty symbols point downward and feature a minus sign followed by a number or an X. Neutral loyalty symbols don’t point in either direction and feature a 0. [+N] means “Put N loyalty counters on this permanent,” [-N] means “Remove N loyalty counters from this permanent,” and [0] means “Put zero loyalty counters on this permanent.”"
-msgstr ""
+msgstr "107.7. Cada habilidade ativada de um planeswalker tem um símbolo de lealdade em seu custo. Símbolos de lealdade positivos apontam para cima e mostram o sinal de mais, seguidos de um número. Símbolos de lealdade negativos apontam para baixo e mostram o sinal de menos, seguidos de um número ou de X. Símbolos de lealdade neutros não apontam para nenhuma direção e mostram um 0. [+N] significa “Coloque N marcadores de lealdade nesta permanente”, e [-N] significa “Remova N marcadores de lealdade desta permanente”, e [0] significa “Coloque zero marcadores de lealdade nesta permanente”."
 
 msgid "107.8. The text box of a leveler card contains two level symbols, each of which is a keyword ability that represents a static ability. The level symbol includes either a range of numbers, indicated here as “N1-N2,” or a single number followed by a plus sign, indicated here as “N3+.” Any abilities printed within the same text box striation as a level symbol are part of its static ability. The same is true of the power/toughness box printed within that striation, indicated here as “[P/T].” See rule 710, “Leveler Cards.”"
-msgstr ""
+msgstr "107.8. A caixa de texto de um card nivelador possui dois símbolos de nível, cada qual é uma palavra-chave de habilidade que representa uma habilidade estática. O símbolo de nível inclui uma série de números, indicados aqui como “N1-N2”, ou um único número seguido de um sinal de adição, indicado aqui como “N3+”. Quaisquer habilidades impressas dentro da mesma faixa de caixa de texto como um símbolo de nível são parte de sua habilidade estática. O mesmo é válido para a caixa de poder/resistência impressa naquela faixa, indicados aqui como “[P/T]”. Consulte a regra 710, “Cards Niveladores”."
 
 msgid "107.8a “{LEVEL N1-N2} [Abilities] [P/T]” means “As long as this creature has at least N1 level counters on it, but no more than N2 level counters on it, it has base power and toughness [P/T] and has [abilities].”"
-msgstr ""
+msgstr "107.8a “{NÍVEL N1-N2} [Habilidades] [P/T]” significa “Enquanto esta criatura tiver pelo menos N1 marcadores de nível sobre ela, mas não mais de N2 marcadores de nível, ela terá poder e resistência base [P/T] e terá [habilidades]”."
 
 msgid "107.8b “{LEVEL N3+} [Abilities] [P/T]” means “As long as this creature has N3 or more level counters on it, it has base power and toughness [P/T] and has [abilities].”"
-msgstr ""
+msgstr "107.8b “{NÍVEL N3+} [Habilidades] [P/T]” significa “Enquanto esta criatura tiver N3 ou mais marcadores de nível, ela terá poder e resistência base [P/T] e terá [habilidades]”."
 
 msgid "107.9. A tombstone icon appears to the left of the name of many Odyssey™ block cards with abilities that are relevant in a player’s graveyard. The purpose of the icon is to make those cards stand out when they’re in a graveyard. This icon has no effect on game play."
-msgstr ""
+msgstr "107.9. O ícone de uma lápide {extras:tombstone} aparece à esquerda do nome de vários cards do bloco de [[set:Odyssey]]™ com habilidades que sejam relevantes no cemitério de um jogador. O propósito deste ícone é fazer com que estes cards se destaquem quando estejam em um cemitério. Este ícone não tem qualquer efeito no jogo."
 
 msgid "107.10. A type icon appears in the upper left corner of each card from the Future Sight® set printed with an alternate “timeshifted” frame. If the card has a single card type, this icon indicates what it is: claw marks for creature, a flame for sorcery, a lightning bolt for instant, a sunrise for enchantment, a chalice for artifact, and a pair of mountain peaks for land. If the card has multiple card types, that’s indicated by a black and white cross. This icon has no effect on game play."
-msgstr ""
+msgstr "107.10. Um ícone de tipo aparece no canto superior esquerdo de todos os cards da expansão [[set:Future Sight]]® que foram impressos com uma moldura alternativa de “desviados no tempo”. Se o card tem apenas um tipo, este símbolo indica a qual tipo este card pertence: marcas de uma garra para criatura {ts:creature}, uma chama para feitiço {ts:sorcery}, um relâmpago para mágica instantânea {ts:instant}, um nascer do sol para encantamento {ts:enchantment}, um cálice para artefato {ts:artifact}, e um par de montanhas para terreno {ts:land}. Se o card tem mais de um tipo, isso é representado por uma cruz preta e branca {ts:many}. Este ícone não tem qualquer efeito no jogo."
 
 msgid "107.11. The Planeswalker symbol is {PW}. It appears on one face of the planar die used in the Planechase casual variant. See rule 901, “Planechase.”"
-msgstr ""
+msgstr "107.11. O símbolo de Planeswalker é {PW}. Ele aparece em uma das faces do dado planar usado na variante casual Planechase. Consulte a regra 901, “Planechase”."
 
 msgid "107.12. The chaos symbol is {CHAOS}. It appears on one face of the planar die used in the Planechase casual variant, as well as in abilities that refer to the results of rolling the planar die. See rule 901, “Planechase.”"
-msgstr ""
+msgstr "107.12. O símbolo do Caos é {CHAOS}. Ele aparece em uma das faces do dado planar usado na variante casual Planechase, tal como em habilidades desencadeadas que se referem a resultados obtidos por lançar o dado planar. Consulte a regra 901, “Planechase”."
 
 msgid "107.13. A color indicator is a circular symbol that appears to the left of the type line on some cards. The color of the symbol defines the card’s color or colors. See rule 202, “Mana Cost and Color.”"
-msgstr ""
+msgstr "107.13. Um indicador de cor é um símbolo circular que aparece à esquerda da linha de tipo em alguns cards. A cor ou cores do símbolo definem a cor ou cores do card. Consulte a regra 202, “Custo de Mana e Cor”."
 
 msgid "107.14. The energy symbol is {E}. It represents one energy counter. To pay {E}, a player removes one energy counter from themselves."
-msgstr ""
+msgstr "107.14. O símbolo de energia é {E}. Ele representa um marcador de energia. Para pagar {E}, o jogador remove um marcador de energia dele ou dela."
 
 msgid "107.15. The text box of a Saga card contains chapter symbols, each of which is a keyword ability that represents a triggered ability. A chapter symbol includes a Roman numeral, indicated here as “rN”. The text printed in the text box striation to the right of a chapter symbol is the effect of the triggered ability it represents. See rule 714, “Saga Cards.”"
-msgstr ""
+msgstr "107.15. A caixa de texto dos cards de Saga contém símbolos de capitulos, cada um é uma palavra-chave de habilidade que representa uma habilidade desencadeada. Um símbolo de capítulo possui um numeral romano, indicado aqui como “{rN}”. O texto impresso na caixa de texto à direita de um símbolo de capítulo é o efeito da habilidade desencadeada que ela representa. Consulte a regra 714, \"Cards de Saga\"."
 
 msgid "107.15a “{rN}—[Effect]” means “When one or more lore counters are put onto this Saga, if the number of lore counters on it was less than N and became at least N, [effect].”"
-msgstr ""
+msgstr "107.15a “{rN}—[Efeito]” significa “Quando um ou mais marcadores de conhecimento é colocado nesta Saga, se o número de marcadores de conhecimento nela era menos de N e tornou-se N, [efeito]”."
 
 msgid "107.15b “{rN1}, {rN2}—[Effect]” is the same as “{rN1}—[Effect]” and “{rN2}—[Effect].”"
-msgstr ""
+msgstr "107.15b “{rN1}, {rN2}—[Efeito]” é o mesmo que “{rN1}—[Efeito]” e “{rN2}—[Efeito]”."
 
 msgid "108.1. Use the Oracle card reference when determining a card’s wording. A card’s Oracle text can be found using the Gatherer card database at Gatherer.Wizards.com."
 msgstr ""
