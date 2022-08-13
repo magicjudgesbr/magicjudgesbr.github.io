@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2022-08-13 00:15\n"
+"PO-Revision-Date: 2022-08-13 01:13\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -904,10 +904,10 @@ msgid "107.3k If an object’s activated ability has an {X}, [-X], or X in its a
 msgstr "107.3j Se uma habilidade ativada de um objeto tem um {X}, [-X] ou X em seu custo de ativação, o valor de X para aquela habilidade é independente de quaisquer outros valores de X escolhidos para aquele objeto ou para outras ocorrências de habilidades daquele objeto. Essa é uma excessão da regra 107.3i."
 
 msgid "107.3m If an object’s enters-the-battlefield triggered ability or replacement effect refers to X, and the spell that became that object as it resolved had a value of X chosen for any of its costs, the value of X for that ability is the same as the value of X for that spell, although the value of X for that permanent is 0. This is an exception to rule 107.3i."
-msgstr ""
+msgstr "107.3m Se a habilidade desencadeada de entrar no campo de batalha de um objeto ou efeito de substituição se refere a X, e a mágica que se tornou aquele objeto, tal como resolveu, tivesse um valor de X escolhido para qualquer um de seus custos, o valor de X para aquela habilidade é o mesmo que o valor de X daquela mágica, embora o valor de X para aquela permanente é 0. Isso é uma exceção para a regra 107.3i."
 
 msgid "107.3n Some objects use the letter Y in addition to the letter X. Y follows the same rules as X."
-msgstr ""
+msgstr "107.3n Alguns objetos usam a letra Y, além da letra X. Y segue as mesmas regras que X."
 
 msgid "107.4. The mana symbols are {W}, {U}, {B}, {R}, {G}, and {C}; the numerical symbols {0}, {1}, {2}, {3}, {4}, and so on; the variable symbol {X}; the hybrid symbols {W/U}, {W/B}, {U/B}, {U/R}, {B/R}, {B/G}, {R/G}, {R/W}, {G/W}, and {G/U}; the monocolored hybrid symbols {2/W}, {2/U}, {2/B}, {2/R}, and {2/G}; the Phyrexian mana symbols {W/P}, {U/P}, {B/P}, {R/P}, and {G/P}; and the snow symbol {S}."
 msgstr ""
