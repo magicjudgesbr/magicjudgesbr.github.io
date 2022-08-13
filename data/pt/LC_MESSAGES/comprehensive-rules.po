@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2022-08-12 16:58\n"
+"PO-Revision-Date: 2022-08-13 00:15\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -874,34 +874,34 @@ msgid "107.3a If a spell or activated ability has a mana cost, alternative cost,
 msgstr "107.3a Se uma mágica ou habilidade ativada tiver um custo de mana, custo alternativo, custo adicional e/ou custo de ativação que inclua um {X}, [-X], ou X, e o valor de X não for definido pelo texto dessa mágica ou habilidade, então o seu controlador escolhe e anuncia o valor de X como parte de conjurar a mágica ou ativar a habilidade (Consulte a regra 601, “Conjurando Mágicas”). Enquanto uma mágica estiver na pilha, qualquer X no seu custo de mana ou em qualquer custo alternativo ou adicional que ela tenha é igual ao valor anunciado. Enquanto uma habilidade ativada estiver na pilha, qualquer X no seu custo de ativação é igual ao valor anunciado."
 
 msgid "107.3b If a player is casting a spell that has an {X} in its mana cost, the value of X isn’t defined by the text of that spell, and an effect lets that player cast that spell while paying neither its mana cost nor an alternative cost that includes X, then the only legal choice for X is 0. This doesn’t apply to effects that only reduce a cost, even if they reduce it to zero. See rule 601, “Casting Spells.”"
-msgstr ""
+msgstr "107.3b Se um jogador estiver conjurando uma mágica que tenha um {X} em seu custo de mana, o valor de X não é definido pelo texto da mágica, e um efeito permite ao jogador conjurar essa mágica sem pagar o seu custo de mana nem um custo alternativo que inclua esse X, então a única escolha válida para X é 0. Isto não se aplica a efeitos que apenas reduzem um custo, mesmo que reduzam o custo a zero. Consulte a regra 601, “Conjurando Mágicas”."
 
 msgid "107.3c If a spell or activated ability has an {X}, [-X], or X in its cost and/or its text, and the value of X is defined by the text of that spell or ability, then that’s the value of X while that spell or ability is on the stack. The controller of that spell or ability doesn’t get to choose the value. Note that the value of X may change while that spell or ability is on the stack."
-msgstr ""
+msgstr "107.3c Se uma mágica ou habilidade ativada inclui um {X}, [-X] ou X em seu custo e/ou em seu texto, e o valor de X é definido pelo texto da mágica ou habilidade, então esse é o valor de X enquanto a mágica ou habilidade estiver na pilha. O controlador da mágica ou habilidade não escolhe o valor. Observe que o valor de X pode variar enquanto a mágica ou habilidade estiver na pilha."
 
 msgid "107.3d If a cost associated with a special action, such as a suspend cost or a morph cost, has an {X} or an X in it, the value of X is chosen by the player taking the special action immediately before they pay that cost."
-msgstr ""
+msgstr "107.3d Se um custo associado a uma ação especial, como um custo de suspender ou metamorfose, incluir um {X} ou um X, o valor de X é escolhido pelo jogador que executa a ação especial quando ele pagar esse custo."
 
 msgid "107.3e If a spell or ability refers to the {X} or X in the mana cost, alternative cost, additional cost, or activation cost of another object, any X in that spell or ability’s text uses the value of X chosen or defined for the other object."
-msgstr ""
+msgstr "107.3e Se uma mágica ou habilidade se refere a {X} ou X no custo de mana, custo alternativo, custo adicional, ou custo de ativação de outro objeto, quaisquer X no texto daquela mágica ou habilidade usa o valor de X escolhido ou definido para o outro objeto."
 
 msgid "107.3f Sometimes X appears in the text of a spell or ability but not in a mana cost, alternative cost, additional cost, or activation cost. If the value of X isn’t defined, the controller of the spell or ability chooses the value of X at the appropriate time (either as it’s put on the stack or as it resolves)."
-msgstr ""
+msgstr "107.3f Algumas vezes X aparece no texto de uma mágica ou habilidade mas não no custo de mana, custo alternativo, custo adicional, ou custo de ativação. Se o valor de X não é definido, o controlador da mágica ou habilidade escolhe o valor de X no momento apropriado (seja quando ela é colocada na pilha ou quando ela resolve)."
 
 msgid "107.3g If a card in any zone other than the stack has an {X} in its mana cost, the value of {X} is treated as 0, even if the value of X is defined somewhere within its text."
-msgstr ""
+msgstr "107.3g Se um card, em qualquer zona que não seja a pilha, incluir um {X} no seu custo de mana, o valor de {X} é tratado como sendo 0, mesmo se o valor de X for definido em algum lugar dentro de seu texto."
 
 msgid "107.3h If an effect instructs a player to pay an object’s mana cost that includes {X}, the value of X is treated as 0 unless the object is a spell on the stack. In that case, the value of X is the value chosen or determined for it as the spell was cast."
-msgstr ""
+msgstr "107.3h Se um efeito instruí um jogador a pagar o custo de mana de um objeto que inclui {X}, o valor de X é tratado como 0 a não ser que o objeto seja uma mágica na pilha. Neste caso, o valor de X é o valor escolhido ou determinado conforme a mágica foi conjurada."
 
 msgid "107.3i Normally, all instances of X on an object have the same value at any given time."
-msgstr ""
+msgstr "107.3i Normalmente, todas as ocorrências de X em um objeto têm o mesmo valor a qualquer dado momento."
 
 msgid "107.3j If an object gains an ability, the value of X within that ability is the value defined by that ability, or 0 if that ability doesn’t define a value of X. This is an exception to rule 107.3i. This may occur with ability-adding effects, text-changing effects, or copy effects."
-msgstr ""
+msgstr "107.3j Se um objeto ganha uma habilidade, o valor de X dentro desta habilidade é o valor definido por aquela habilidade, ou 0 se aquela habilidade não define um valor de X. Essa é uma excessão da regra 107.3i. Isso pode ocorrer com efeitos de adição de habilidade, efeitos de mudança de texto, ou efeitos de cópia."
 
 msgid "107.3k If an object’s activated ability has an {X}, [-X], or X in its activation cost, the value of X for that ability is independent of any other values of X chosen for that object or for other instances of abilities of that object. This is an exception to rule 107.3i."
-msgstr ""
+msgstr "107.3j Se uma habilidade ativada de um objeto tem um {X}, [-X] ou X em seu custo de ativação, o valor de X para aquela habilidade é independente de quaisquer outros valores de X escolhidos para aquele objeto ou para outras ocorrências de habilidades daquele objeto. Essa é uma excessão da regra 107.3i."
 
 msgid "107.3m If an object’s enters-the-battlefield triggered ability or replacement effect refers to X, and the spell that became that object as it resolved had a value of X chosen for any of its costs, the value of X for that ability is the same as the value of X for that spell, although the value of X for that permanent is 0. This is an exception to rule 107.3i."
 msgstr ""
