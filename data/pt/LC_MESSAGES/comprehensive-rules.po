@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2022-08-13 01:13\n"
+"PO-Revision-Date: 2022-08-13 19:11\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -910,34 +910,37 @@ msgid "107.3n Some objects use the letter Y in addition to the letter X. Y follo
 msgstr "107.3n Alguns objetos usam a letra Y, além da letra X. Y segue as mesmas regras que X."
 
 msgid "107.4. The mana symbols are {W}, {U}, {B}, {R}, {G}, and {C}; the numerical symbols {0}, {1}, {2}, {3}, {4}, and so on; the variable symbol {X}; the hybrid symbols {W/U}, {W/B}, {U/B}, {U/R}, {B/R}, {B/G}, {R/G}, {R/W}, {G/W}, and {G/U}; the monocolored hybrid symbols {2/W}, {2/U}, {2/B}, {2/R}, and {2/G}; the Phyrexian mana symbols {W/P}, {U/P}, {B/P}, {R/P}, and {G/P}; and the snow symbol {S}."
-msgstr ""
+msgstr "107.4. Os símbolos de mana são {W}, {U}, {B}, {R}, {G} e {C}; os símbolos numéricos {0}, {1}, {2}, {3}, {4}, e assim por diante; o símbolo variável {X}; os símbolos híbridos {W/U}, {W/B}, {U/B}, {U/R}, {B/R}, {B/G}, {R/G}, {R/W}, {G/W}, e\n"
+"{G/U}; os símbolos híbridos monocoloridos {2/W}, {2/U}, {2/B}, {2/R} e {2/G}; os símbolos de mana Phyrexianos\n"
+"{W/P}, {U/P}, {B/P}, {R/P} e {G/P}; e o símbolo de neve {S}."
 
 msgid "107.4a There are five primary colored mana symbols: {W} is white, {U} blue, {B} black, {R} red, and {G} green. These symbols are used to represent colored mana, and also to represent colored mana in costs. Colored mana in costs can be paid only with the appropriate color of mana. See rule 202, “Mana Cost and Color.”"
-msgstr ""
+msgstr "107.4a Existem cinco símbolos de mana colorida primários: {W} é branco, {U} azul, {B} preto, {R} vermelho, e {G}\n"
+"verde. Estes símbolos são usados para representar mana colorido, e também para representar mana colorido nos custos. Mana colorido em custos só podem ser pagos com a cor de mana apropriada. Consulte a regra 202, “Custo de Mana e Cores”."
 
 msgid "107.4b Numerical symbols (such as {1}) and variable symbols (such as {X}) represent generic mana in costs. Generic mana in costs can be paid with any type of mana. For more information about {X}, see rule 107.3."
-msgstr ""
+msgstr "107.4b Símbolos numéricos (como {1}) e símbolos variáveis (como {X}) representam mana genérico em custos. Mana genérico em custos pode ser paga com qualquer tipo de mana. Para mais informação sobre {X}, consulte a regra 107.3."
 
 msgid "107.4c The colorless mana symbol {C} is used to represent one colorless mana, and also to represent a cost that can be paid only with one colorless mana."
-msgstr ""
+msgstr "107.4c O símbolo de mana incolor {C} é usado para representar um mana incolor, e também para representar um custo que pode ser pago somente com um mana incolor."
 
 msgid "107.4d The symbol {0} represents zero mana and is used as a placeholder for a cost that can be paid with no resources. (See rule 118.5.)"
-msgstr ""
+msgstr "107.4d O símbolo {0} representa zero mana e é usado como representação de um custo que pode ser pago sem recursos. (Consulte a regra 118.5.)"
 
 msgid "107.4e Hybrid mana symbols are also colored mana symbols. Each one represents a cost that can be paid in one of two ways, as represented by the two halves of the symbol. A hybrid symbol such as {W/U} can be paid with either white or blue mana, and a monocolored hybrid symbol such as {2/B} can be paid with either one black mana or two mana of any type. A hybrid mana symbol is all of its component colors."
-msgstr ""
+msgstr "107.4e Os símbolos de mana híbridos são também símbolos de mana coloridos. Cada um representa um custo que pode ser pago de uma de duas maneiras, como representado pelas duas metades do símbolo. Um símbolo híbrido como {W/U} pode ser pago com um mana branco ou azul e um símbolo híbrido monocolorido como {2/B} pode ser pago com um mana preto ou dois manas de qualquer tipo. Um símbolo de mana híbrido é de todas as cores que lá estão representadas."
 
 msgid "Example: {G/W}{G/W} can be paid by spending {G}{G}, {G}{W}, or {W}{W}."
-msgstr ""
+msgstr "Exemplo: {G/W}{G/W} pode ser pago com {G}{G}, {G}{W}, ou {W}{W}."
 
 msgid "107.4f Phyrexian mana symbols are colored mana symbols: {W/P} is white, {U/P} is blue, {B/P} is black, {R/P} is red, and {G/P} is green. A Phyrexian mana symbol represents a cost that can be paid either with one mana of its color or by paying 2 life."
-msgstr ""
+msgstr "107.4f Símbolos de mana Phyrexiano são símbolos de mana coloridos: {W/P} é branco, {U/P} é azul, {B/P} é preto, {R/P} é vermelho, e {G/P} é verde. Um símbolo de mana Phyrexiano representa um custo mana que pode ser pago com um mana de sua cor ou pagando 2 pontos de vida."
 
 msgid "Example: {W/P}{W/P} can be paid by spending {W}{W}, by spending {W} and paying 2 life, or by paying 4 life."
-msgstr ""
+msgstr "Exemplo: {W/P}{W/P} pode ser pago com {W}{W}, com {W} e 2 pontos de vida, ou com 4 pontos de vida."
 
 msgid "107.4g In rules text, the Phyrexian symbol {P} with no colored background means any of the five Phyrexian mana symbols."
-msgstr ""
+msgstr "107.4g No texto de regras, o símbolo Phyrexiano {P} sem fundo colorido significa qualquer um dos cinco símbolos de mana Phyrexianos."
 
 msgid "107.4h The snow mana symbol {S} represents one mana in a cost. This mana can be paid with one mana of any type produced by a snow permanent (see rule 205.4g). Effects that reduce the amount of generic mana you pay don’t affect {S} costs. Snow is neither a color nor a type of mana."
 msgstr ""
