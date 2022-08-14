@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2022-08-13 20:11\n"
+"PO-Revision-Date: 2022-08-14 00:35\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -991,37 +991,37 @@ msgid "107.15b “{rN1}, {rN2}—[Effect]” is the same as “{rN1}—[Effect]�
 msgstr "107.15b “{rN1}, {rN2}—[Efeito]” é o mesmo que “{rN1}—[Efeito]” e “{rN2}—[Efeito]”."
 
 msgid "108.1. Use the Oracle card reference when determining a card’s wording. A card’s Oracle text can be found using the Gatherer card database at Gatherer.Wizards.com."
-msgstr ""
+msgstr "108.1. Use o texto da referência de cards Oracle para determinar o texto de um card. O texto do Oracle de um card pode ser encontrado usando a base de dados Gatherer em Gatherer.Wizards.com."
 
 msgid "108.2. When a rule or text on a card refers to a “card,” it means only a Magic card or an object represented by a Magic card."
-msgstr ""
+msgstr "108.2. Quando uma regra ou texto em um card refere-se a um “card”, este quer dizer somente um card de Magic ou um objeto representado por um card de Magic."
 
 msgid "108.2a Most Magic games use only traditional Magic cards, which measure approximately 2.5 inches (6.3 cm) by 3.5 inches (8.8 cm). Certain formats also use nontraditional Magic cards, oversized cards that may have different backs."
-msgstr ""
+msgstr "108.2a A maioria dos jogos de Magic usam apenas os cards de Magic tradicionais, que medem aproximadamente 2.5 polegadas (6.3 cm) por 3.5 polegadas (8.8 cm). Alguns formatos também usam cards de Magic não tradicionais, que tem medidas maiores e versos diferentes."
 
 msgid "108.2b Tokens aren’t considered cards—even a card-sized game supplement that represents a token isn’t considered a card for rules purposes."
-msgstr ""
+msgstr "108.2b Fichas não são consideradas como cards – nem mesmo cards que representam uma ficha não é considerado um card para o propósito das regras."
 
 msgid "108.3. The owner of a card in the game is the player who started the game with it in their deck. If a card is brought into the game from outside the game rather than starting in a player’s deck, its owner is the player who brought it into the game. If a card starts the game in the command zone, its owner is the player who put it into the command zone to start the game. Legal ownership of a card in the game is irrelevant to the game rules except for the rules for ante. (See rule 407.)"
-msgstr ""
+msgstr "108.3. O dono de um card é o jogador que iniciou o jogo com este card em seu deck. Se um card é trazido ao jogo de fora do jogo ao invés de iniciar o jogo no deck de um jogador, seu dono é o jogador que trouxe o card para o jogo. Se um card inicia o jogo na zona de comando, seu dono é o jogador que colocou o card na zona de comando para iniciar o jogo. A propriedade jurídica de um card é irrelevante para as regras do jogo, exceto para as regras de aposta. (Consulte a regra 407.)"
 
 msgid "108.3a In a Planechase game using the single planar deck option, the planar controller is considered to be the owner of all cards in the planar deck. See rule 901.6."
-msgstr ""
+msgstr "108.3a Num jogo de Planechase usando a opção de deck planar único, o controlador planar é considerado como sendo o dono de todos os card de planos. Consulte a regra 901.6."
 
 msgid "108.3b Some spells and abilities allow a player to take cards they own from outside the game and bring them into the game. (See rule 400.11b.) If a card outside that game is involved in a Magic game, its owner is determined as described in rule 108.3. If a card outside that game is in the sideboard of a Magic game (see rule 100.4), its owner is considered to be the player who started the game with it in their sideboard. In all other cases, the owner of a card outside the game is its legal owner."
-msgstr ""
+msgstr "108.3b Algumas mágicas e habilidades permitem que um jogador pegue cards que ele possui de fora do jogo e as traga para o jogo. (Consulte a regra 400.11b.) Se um card de fora daquele jogo estiver envolvida num jogo de Magic, seu dono é determinado conforme descrito na regra 108.3. Se um card fora desse jogo estiver na reserva de um jogo de Magic (consulte a regra 100.4), considera-se que seu dono é o jogador que iniciou o jogo com o card em sua reserva. Em todos os outros casos, o dono de um card fora do jogo é o seu dono legal."
 
 msgid "108.4. A card doesn’t have a controller unless that card represents a permanent or spell; in those cases, its controller is determined by the rules for permanents or spells. See rules 110.2 and 112.2."
-msgstr ""
+msgstr "108.4. Um card não possui um controlador a não ser que esse card represente uma permanente ou mágica; nesses casos, seu controlador será determinado pelas regras para permanentes ou mágicas. Consulte as regras 110.2 e 112.2."
 
 msgid "108.4a If anything asks for the controller of a card that doesn’t have one (because it’s not a permanent or spell), use its owner instead."
-msgstr ""
+msgstr "108.4a Se qualquer coisa perguntar pelo controlador de um card que não possuir um controlador (por não ser uma permanente ou mágica), em vez disso use o dono do card."
 
 msgid "108.5. Nontraditional Magic cards can’t start the game in any zone other than the command zone (see rule 408). If an effect would bring a nontraditional Magic card into the game from outside the game, it doesn’t; that card remains outside the game."
-msgstr ""
+msgstr "108.5. Cards não tradicionais de Magic não podem iniciar o jogo em uma zona que não seja a zona de comando (consulte a regra 408). Se um efeito traria um card não tradicional de Magic para o jogo vindo de fora do jogo, ele não o faz; aquele card permanece fora do jogo."
 
 msgid "108.6. For more information about cards, see section 2, “Parts of a Card.”"
-msgstr ""
+msgstr "108.6. Para mais informações a respeito dos cards, ver seção 2, “Partes de um Card”."
 
 msgid "109.1. An object is an ability on the stack, a card, a copy of a card, a token, a spell, a permanent, or an emblem."
 msgstr ""
