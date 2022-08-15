@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2022-08-15 16:07\n"
+"PO-Revision-Date: 2022-08-15 23:29\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -1192,43 +1192,43 @@ msgid "113.1c An ability can be an activated or triggered ability on the stack. 
 msgstr "113.1c Uma habilidade pode ser uma habilidade ativada ou desencadeada na pilha. Este tipo de habilidade é um objeto. (Ver seção 6, “Mágicas, Habilidades, e Efeitos”)."
 
 msgid "113.2. Abilities can affect the objects they’re on. They can also affect other objects and/or players."
-msgstr ""
+msgstr "113.2. Habilidades podem afetar os objetos em que estão. Elas também podem afetar outros objetos e/ou jogadores."
 
 msgid "113.2a Abilities can be beneficial or detrimental."
-msgstr ""
+msgstr "113.2a Habilidades podem ser benéficas ou prejudiciais."
 
 msgid "Example: “[This creature] can’t block” is an ability."
-msgstr ""
+msgstr "Exemplo: “[Esta criatura] não pode bloquear” é uma habilidade."
 
 msgid "113.2b An additional cost or alternative cost to cast a card is an ability of the card."
-msgstr ""
+msgstr "113.2b Um custo adicional ou custo alternativo para conjurar um card é uma habilidade do card."
 
 msgid "113.2c An object may have multiple abilities. If the object is represented by a card, then aside from certain defined abilities that may be strung together on a single line (see rule 702, “Keyword Abilities”), each paragraph break in a card’s text marks a separate ability. If the object is not represented by a card, the effect that created it may have given it multiple abilities. An object may also be granted additional abilities by a spell or ability. If an object has multiple instances of the same ability, each instance functions independently. This may or may not produce more effects than a single instance; refer to the specific ability for more information."
-msgstr ""
+msgstr "113.2c Um objeto pode ter múltiplas habilidades. Se o objeto é representado por um card, então, com a exceção de certas habilidades que podem ser escritas em uma única linha (consulte a regra 702. “Palavras-chave de Habilidade”), cada quebra de parágrafo no texto de um card marca uma habilidade distinta. Se o objeto não é representado por um card, o efeito que o criou pode ter dado a ele múltiplas habilidades. Um objeto também pode receber habilidades adicionais provenientes de uma mágica ou habilidade. Se um objeto tiver várias ocorrências da mesma habilidade, cada ocorrência funciona de forma independente. Isto pode ou não produzir mais efeitos que uma única ocorrência; consulte a habilidade específica para mais informações."
 
 msgid "113.2d Abilities can generate one-shot effects or continuous effects. Some continuous effects are replacement effects or prevention effects. See rule 609, “Effects.”"
-msgstr ""
+msgstr "113.2d Habilidades podem gerar efeitos simples ou efeitos contínuos. Alguns efeitos contínuos são efeitos de substituição ou efeitos de prevenção. Consulte a regra 609, “Efeitos”."
 
 msgid "113.3. There are four general categories of abilities:"
-msgstr ""
+msgstr "113.3. Existem quatro categorias gerais de habilidades:"
 
 msgid "113.3a Spell abilities are abilities that are followed as instructions while an instant or sorcery spell is resolving. Any text on an instant or sorcery spell is a spell ability unless it’s an activated ability, a triggered ability, or a static ability that fits the criteria described in rule 113.6."
-msgstr ""
+msgstr "113.3a Habilidades da mágica são habilidades que são cumpridas enquanto uma mágica instantânea ou feitiço está resolvendo. Qualquer texto em uma mágica instantânea ou feitiço é uma habilidade da mágica, a menos que seja uma habilidade ativada, uma habilidade desencadeada, ou uma habilidade estática que se encaixe nos critérios descritos nas regras 113.6."
 
 msgid "113.3b Activated abilities have a cost and an effect. They are written as “[Cost]: [Effect.] [Activation instructions (if any).]” A player may activate such an ability whenever they have priority. Doing so puts it on the stack, where it remains until it’s countered, it resolves, or it otherwise leaves the stack. See rule 602, “Activating Activated Abilities.”"
-msgstr ""
+msgstr "113.3b Habilidades ativadas têm um custo e um efeito. Elas são escritas da seguinte forma “[Custo]: [Efeito.] [Instruções de Ativação (se houver)]”. Um jogador pode ativar essa habilidade sempre que ele tiver prioridade. Fazer isso coloca a habilidade é colocada na pilha, onde ela permanece até que seja anulada, resolva ou de alguma outra forma deixe a pilha. Consulte a regra 602, “Ativando Habilidades Ativadas”."
 
 msgid "113.3c Triggered abilities have a trigger condition and an effect. They are written as “[Trigger condition], [effect],” and include (and usually begin with) the word “when,” “whenever,” or “at.” Whenever the trigger event occurs, the ability is put on the stack the next time a player would receive priority and stays there until it’s countered, it resolves, or it otherwise leaves the stack. See rule 603, “Handling Triggered Abilities.”"
-msgstr ""
+msgstr "113.3c Habilidades desencadeadas têm uma condição de desencadeamento e um efeito. Elas são escritas da seguinte forma “[Condição de desencadeamento], [efeito]” e incluem (e geralmente começam com) “quando”, “toda vez que” ou “no”. Toda vez que o evento desencadeador ocorre, a habilidade é colocada na pilha na próxima vez que um jogador receberia prioridade e permanece lá até que seja anulada, resolva ou deixa a pilha de outra forma. Consulte a regra 603, “Lidando com habilidades Desencadeadas”."
 
 msgid "113.3d Static abilities are written as statements. They’re simply true. Static abilities create continuous effects which are active while the permanent with the ability is on the battlefield and has the ability, or while the object with the ability is in the appropriate zone. See rule 604, “Handling Static Abilities.”"
-msgstr ""
+msgstr "113.3d Habilidades estáticas são escritas como declarações. Elas são verdadeiras. Habilidades estáticas criam efeitos contínuos que estão ativos enquanto a permanente com a habilidade estiver no campo de batalha e possuir a habilidade, ou enquanto o objeto com a habilidade estiver na zona apropriada. Consulte a regra 604, “Lidando com Habilidades Estáticas”."
 
 msgid "113.4. Some activated abilities and some triggered abilities are mana abilities. Mana abilities follow special rules: They don’t use the stack, and, under certain circumstances, a player can activate mana abilities even if they don’t have priority. See rule 605, “Mana Abilities.”"
-msgstr ""
+msgstr "113.4. Algumas habilidades ativadas e algumas habilidades desencadeadas são habilidades de mana. Habilidades de mana seguem regras especiais: Elas não usam a pilha e em algumas circunstâncias, um jogador pode ativar habilidades de mana mesmo quando ele não tem prioridade. Consulte a regra 605, “Habilidades de Mana”."
 
 msgid "113.5. Some activated abilities are loyalty abilities. Loyalty abilities follow special rules: A player may activate a loyalty ability of a permanent they control any time they have priority and the stack is empty during a main phase of their turn, but only if no player has previously activated a loyalty ability of that permanent that turn. See rule 606, “Loyalty Abilities.”"
-msgstr ""
+msgstr "113.5. Algumas habilidades ativadas são habilidades de lealdade. Habilidades de lealdade seguem regras especiais: Um jogador pode ativar uma habilidade de lealdade de uma permanente que ele controla a qualquer momento em que ele tiver prioridade e a pilha estiver vazia durante uma fase principal de seu turno, mas somente se previamente nenhum jogador tiver ativado uma habilidade de lealdade daquela permanente neste tuno. Consulte a regra 606, “Habilidades de Lealdade”."
 
 msgid "113.6. Abilities of an instant or sorcery spell usually function only while that object is on the stack. Abilities of all other objects usually function only while that object is on the battlefield. The exceptions are as follows:"
 msgstr ""
