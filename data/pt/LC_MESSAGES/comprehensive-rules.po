@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2022-08-15 14:44\n"
+"PO-Revision-Date: 2022-08-15 16:07\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -1141,55 +1141,55 @@ msgid "111.8. A token that has left the battlefield can’t move to another zone
 msgstr "111.8 Uma ficha que deixou o campo de batalha não pode ser movido para outra zona ou voltar ao campo de batalha. Se tal ficha mudaria de zona, em vez disso ela permanece em sua zona atual. Ela deixa de existir na próxima vez que as ações baseadas-no-estado são checadas; consulte a regra 704."
 
 msgid "111.9. Some effects instruct a player to create a legendary token. These may be written “create [name], a . . .” and list characteristics for the token. This is the same as an instruction to create a token with the listed characteristics that has the given name."
-msgstr ""
+msgstr "111.9. Alguns efeitos instruem um jogador a criar um token lendário. Estes podem ser escritos \"crie [nome], a...\" e lista características para o token. Isto é o mesmo que uma instrução para criar um token com as características listadas que tem o nome dado."
 
 msgid "111.10. Some effects instruct a player to create a predefined token. These effects use the definition below to determine the characteristics the token is created with. The effect that creates a predefined token may also modify or add to the predefined characteristics."
-msgstr ""
+msgstr "111.10. Alguns efeitos instruem um jogador a criar um token predefinido. Estes efeitos usam a definição abaixo para determinar as características com as quais o token é criado. O efeito que cria um token predefinido também pode modificar ou adicionar às características predefinidas."
 
 msgid "111.10a A Treasure token is a colorless Treasure artifact token with “{T}, Sacrifice this artifact: Add one mana of any color.”"
-msgstr ""
+msgstr "111.10a Um token do Tesouro é um token de artefato Tesouro incolor com \"{T}, Sacrifique este artefato: Adicione um mana de qualquer cor.\""
 
 msgid "111.10b A Food token is a colorless Food artifact token with “{2}, {T}, Sacrifice this artifact: You gain 3 life.”"
-msgstr ""
+msgstr "111.10b Um token de Comida é um token de artefato Comida incolor com \"{2}, {T}, Sacrifique este artefato: Você ganha 3 vida.\""
 
 msgid "111.10c A Gold token is a colorless Gold artifact token with “Sacrifice this artifact: Add one mana of any color.”"
-msgstr ""
+msgstr "111.10c Um token de Ouro é um token de artefato Ouro incolor com \"Sacrifique este artefato: Adicione um mana de qualquer cor.\""
 
 msgid "111.11. A copy of a permanent spell becomes a token as it resolves. The token has the characteristics of the spell that became that token. The token is not “created” for the purposes of any replacement effects or triggered abilities that refer to creating a token."
-msgstr ""
+msgstr "111.11. Uma cópia de uma mágica de permanente se torna um token conforme ele resolve. O token tem as características da mágica que se tornou esse token. O token não é \"criado\" para fins de quaisquer efeitos de substituição ou habilidades desencadeadas que se referem à criação de um token."
 
 msgid "112.1. A spell is a card on the stack. As the first step of being cast (see rule 601, “Casting Spells”), the card becomes a spell and is moved to the top of the stack from the zone it was in, which is usually its owner’s hand. (See rule 405, “Stack.”) A spell remains on the stack as a spell until it resolves (see rule 608, “Resolving Spells and Abilities”), is countered (see rule 701.5), or otherwise leaves the stack. For more information, see section 6, “Spells, Abilities, and Effects.”"
-msgstr ""
+msgstr "112.1 Uma mágica é um card na pilha. Como primeiro passo para ser conjurado (consulte a regra 601, “Conjurando Mágicas”), o card torna-se uma mágica e é colocado no topo da pilha, vindo da zona em que estava, que normalmente é a mão de seu dono. (Consulte a regra 405, “Pilha.”) Uma mágica permanece na pilha até resolver (consulte a regra 608, “Resolvendo Mágicas e Habilidades”), ser anulada (consulte a regra 701.5) ou sair da pilha de outra forma. Para mais informações, veja a seção 6, “Mágicas, Habilidades e Efeitos”."
 
 msgid "112.1a A copy of a spell is also a spell, even if it has no card associated with it. See rule 706.10."
-msgstr ""
+msgstr "112.1a Uma cópia de uma mágica também é uma mágica, mesmo que não tenha nenhum card associado a ela. Consulte a regra 706.10."
 
 msgid "112.1b Some effects allow a player to cast a copy of a card; if the player does, that copy is a spell as well. See rule 706.12."
-msgstr ""
+msgstr "112.1b Alguns efeitos permitem aos jogadores conjurarem uma cópia de um card; se um jogador o fizer, essa cópia também é uma mágica. Consulte a regra 706.12."
 
 msgid "112.2. A spell’s owner is the same as the owner of the card that represents it, unless it’s a copy. In that case, the owner of the spell is the player under whose control it was put on the stack. A spell’s controller is, by default, the player who put it on the stack. Every spell has a controller."
-msgstr ""
+msgstr "112.2. O dono de uma mágica é o mesmo que o dono do card que a representa, a menos que ela seja uma cópia. Nesse caso, o dono da mágica é o jogador que a controlava quando ela foi colocada na pilha. O controlador de uma mágica, por padrão, é o jogador a colocou na pilha. Todas as mágicas têm um controlador."
 
 msgid "112.3. A noncopy spell’s characteristics are the same as those printed on its card, as modified by any continuous effects. See rule 613, “Interaction of Continuous Effects.”"
-msgstr ""
+msgstr "112.3. As características de uma mágica que não é uma cópia são as mesmas daquelas impressas em seu card, modificadas por quaisquer efeitos contínuos. Consulte a regra 613, “Interação de Efeitos Contínuos”."
 
 msgid "112.4. If an effect changes any characteristics of a permanent spell, the effect continues to apply to the permanent when the spell resolves. See rule 400.7."
-msgstr ""
+msgstr "112.4. Se um efeito muda quaisquer características de uma mágica de permanente, o efeito continua a aplicar-se à permanente quando a mágica é resolvida. Consulte a regra 400.7."
 
 msgid "Example: If an effect changes a black creature spell to white, the creature is white when it enters the battlefield and remains white for the duration of the effect changing its color."
-msgstr ""
+msgstr "Exemplo: Se um efeito muda a cor de uma mágica de criatura preta para branca, a criatura é branca quando entra no campo de batalha e continua a ser branca, enquanto durar o efeito que alterou sua cor."
 
 msgid "113.1. An ability can be one of three things:"
-msgstr ""
+msgstr "113.1. Uma habilidade pode ser uma de três coisas:"
 
 msgid "113.1a An ability can be a characteristic an object has that lets it affect the game. An object’s abilities are defined by its rules text or by the effect that created it. Abilities can also be granted to objects by rules or effects. (Effects that grant abilities usually use the words “has,” “have,” “gains,” or “gain.”) Abilities generate effects. (See rule 609, “Effects.”)"
-msgstr ""
+msgstr "113.1a Uma habilidade pode ser uma característica de um objeto que permite a ele afetar o jogo. As habilidades de um objeto são definidas pelo seu texto de regras ou pelo efeito que o criou. Habilidades também podem ser concedidas a objetos através de regras ou efeitos. (Efeitos que concedem habilidades normalmente usam as palavras “tem”, “têm,” “ganha” ou “ganham”) Habilidades geram efeitos. (Consulte a regra 608. “Efeitos”)."
 
 msgid "113.1b An ability can be something that a player has that changes how the game affects the player. A player normally has no abilities unless granted to that player by effects."
-msgstr ""
+msgstr "113.1b Uma habilidade pode ser algo que um jogador tenha e que muda como o jogo afeta o jogador. Um jogador normalmente não tem habilidades a menos que concedida ao jogador por algum efeito."
 
 msgid "113.1c An ability can be an activated or triggered ability on the stack. This kind of ability is an object. (See section 6, “Spells, Abilities, and Effects.”)"
-msgstr ""
+msgstr "113.1c Uma habilidade pode ser uma habilidade ativada ou desencadeada na pilha. Este tipo de habilidade é um objeto. (Ver seção 6, “Mágicas, Habilidades, e Efeitos”)."
 
 msgid "113.2. Abilities can affect the objects they’re on. They can also affect other objects and/or players."
 msgstr ""
@@ -12028,10 +12028,10 @@ msgid "A Magic card that measures approximately 2.5 inches (6.3 centimeters) by 
 msgstr ""
 
 msgid "Trample"
-msgstr ""
+msgstr "Atropelar"
 
 msgid "A keyword ability that modifies how a creature assigns combat damage. See rule 702.19, “Trample.”"
-msgstr ""
+msgstr "Uma palavra-chave de habilidade que modifica a forma como uma criatura atribui o dano de combate. Consulte a regra 702.19, “Atropelar”."
 
 msgid "Transfigure"
 msgstr ""
@@ -12064,7 +12064,7 @@ msgid "A Treasure token is a colorless artifact token with “{T}, Sacrifice thi
 msgstr ""
 
 msgid "Tribal"
-msgstr ""
+msgstr "Tribal"
 
 msgid "A card type. Whether or not a tribal is a permanent depends on its other card type. See rule 308, “Tribals.”"
 msgstr "Um tipo de card. Se um card tribal é ou não uma permanente depende do seu outro tipo de card. Consulte a regra 308, “Tribais”."
