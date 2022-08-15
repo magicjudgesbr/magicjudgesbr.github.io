@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2022-08-14 00:35\n"
+"PO-Revision-Date: 2022-08-15 13:41\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -1024,10 +1024,10 @@ msgid "108.6. For more information about cards, see section 2, “Parts of a Car
 msgstr "108.6. Para mais informações a respeito dos cards, ver seção 2, “Partes de um Card”."
 
 msgid "109.1. An object is an ability on the stack, a card, a copy of a card, a token, a spell, a permanent, or an emblem."
-msgstr ""
+msgstr "109.1. Um objeto é uma habilidade na pilha, um card, uma cópia de um card, uma ficha, uma mágica, uma permanente, ou um emblema."
 
 msgid "109.2. If a spell or ability uses a description of an object that includes a card type or subtype, but doesn’t include the word “card,” “spell,” “source,” or “scheme,” it means a permanent of that card type or subtype on the battlefield."
-msgstr ""
+msgstr "109.2. Se uma mágica ou habilidade utiliza a descrição de um objeto que inclui um tipo de card ou subtipo, mas não inclui a palavra “card”, “mágica”, “fonte”, ou “esquema”, ela faz referência a uma permanente daquele tipo de card ou subtipo no campo de batalha."
 
 msgid "109.2a If a spell or ability uses a description of an object that includes the word “card” and the name of a zone, it means a card matching that description in the stated zone."
 msgstr ""
