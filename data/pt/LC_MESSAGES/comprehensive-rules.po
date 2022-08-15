@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2022-08-15 13:41\n"
+"PO-Revision-Date: 2022-08-15 14:44\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -1030,115 +1030,115 @@ msgid "109.2. If a spell or ability uses a description of an object that include
 msgstr "109.2. Se uma mágica ou habilidade utiliza a descrição de um objeto que inclui um tipo de card ou subtipo, mas não inclui a palavra “card”, “mágica”, “fonte”, ou “esquema”, ela faz referência a uma permanente daquele tipo de card ou subtipo no campo de batalha."
 
 msgid "109.2a If a spell or ability uses a description of an object that includes the word “card” and the name of a zone, it means a card matching that description in the stated zone."
-msgstr ""
+msgstr "109.2a Se uma mágica ou habilidade utiliza a descrição de um objeto que inclui a palavra “card” e o nome de uma zona, ela faz referência a um card coincidindo com essa descrição na zona especificada."
 
 msgid "109.2b If a spell or ability uses a description of an object that includes the word “spell,” it means a spell matching that description on the stack."
-msgstr ""
+msgstr "109.2b Se uma mágica ou habilidade utiliza a descrição de um objeto que inclui a palavra “mágica”, ela faz referência a uma mágica coincidindo com essa descrição na pilha."
 
 msgid "109.2c If a spell or ability uses a description of an object that includes the word “source,” it means a source matching that description—either a source of an ability or a source of damage—in any zone. See rule 609.7."
-msgstr ""
+msgstr "109.2c Se uma mágica ou habilidade utiliza a descrição de um objeto que inclui a palavra “fonte”, ela faz referência a uma fonte coincidindo com essa descrição — uma fonte de uma habilidade ou uma fonte de dano — em qualquer zona. Consulte a regra 609.7."
 
 msgid "109.2d If an ability of a scheme card includes the text “this scheme,” it means the scheme card in the command zone on which that ability is printed."
-msgstr ""
+msgstr "109.2d Se uma habilidade de um card de esquema incluir o texto “este esquema”, ela se refere ao card de esquema na zona de comando na qual aquela habilidade está impressa."
 
 msgid "109.3. An object’s characteristics are name, mana cost, color, color indicator, card type, subtype, supertype, rules text, abilities, power, toughness, loyalty, hand modifier, and life modifier. Objects can have some or all of these characteristics. Any other information about an object isn’t a characteristic. For example, characteristics don’t include whether a permanent is tapped, a spell’s target, an object’s owner or controller, what an Aura enchants, and so on."
-msgstr ""
+msgstr "109.3. As características de um objeto são nome, custo de mana, cor, indicador de cor, tipo de card, subtipo, supertipo, texto de regras, habilidades, poder, resistência, lealdade, modificador de mão, e modificador de vida. Objetos podem ter algumas ou todas essas características. Qualquer outra informação sobre um objeto não é uma característica. Por exemplo, não se inclui nas características se uma permanente está virada, o alvo de uma mágica, o dono ou controlador do objeto, o que uma Aura encanta, e assim por diante."
 
 msgid "109.4. Only objects on the stack or on the battlefield have a controller. Objects that are neither on the stack nor on the battlefield aren’t controlled by any player. See rule 108.4. There are six exceptions to this rule:"
-msgstr ""
+msgstr "109.4. Apenas objetos na pilha ou no campo de batalha possuem um controlador. Objetos que não estão na pilha nem no campo de batalha não são controladas por nenhum jogador. Consulte a regra 108.4. Existem seis exceções a esta regra:"
 
 msgid "109.4a The controller of a mana ability is determined as though it were on the stack. See rule 605, “Mana Abilities.”"
-msgstr ""
+msgstr "109.4a O controlador de uma habilidade de mana é determinado como se estivesse na pilha. Consulte a regra 605, \"Habilidades de Mana\"."
 
 msgid "109.4b An emblem is controlled by the player that puts it into the command zone. See rule 114, “Emblems.”"
-msgstr ""
+msgstr "109.4b Um emblema é controlador pelo jogador que o colocou na zona de comando. Consulte a regra 114, “Emblemas”."
 
 msgid "109.4c In a Planechase game, a face-up plane or phenomenon card is controlled by the player designated as the planar controller. This is usually the active player. See rule 901.6."
-msgstr ""
+msgstr "109.4c Num jogo de Planechase, um card de plano ou fenômeno, com a face voltada para cima, é controlado pelo jogador designado como controlador planar. Este é normalmente o jogador ativo. Consulte a regra 901.6."
 
 msgid "109.4d In a Vanguard game, each vanguard card is controlled by its owner. See rule 902.6."
-msgstr ""
+msgstr "109.4d Num jogo de Vanguard, cada card de vanguard é controlado por seu dono. Consulte a regra 902.6."
 
 msgid "109.4e In an Archenemy game, each scheme card is controlled by its owner. See rule 904.7."
-msgstr ""
+msgstr "109.4e Num jogo de Archenemy, cada card de esquema é controlado por seu dono. Consulte a regra 904.7."
 
 msgid "109.4f In a Conspiracy Draft game, each conspiracy card is controlled by its owner. See rule 905.5."
-msgstr ""
+msgstr "109.4e Em um jogo de Draft de Conspiracy, cada card de conspiracy é controlado pelo seu dono. Consulte a regra 905.5."
 
 msgid "109.5. The words “you” and “your” on an object refer to the object’s controller, its would-be controller (if a player is attempting to play, cast, or activate it), or its owner (if it has no controller). For a static ability, this is the current controller of the object it’s on. For an activated ability, this is the player who activated the ability. For a triggered ability, this is the controller of the object when the ability triggered, unless it’s a delayed triggered ability. To determine the controller of a delayed triggered ability, see rules 603.7d–f."
-msgstr ""
+msgstr "109.5. As palavras “você” e “seu” num objeto fazem referência ao controlador do objeto, seu candidato a controlador (se um jogador está tentando jogá-lo, conjurá-lo, ou ativá-lo), ou a seu dono (se ele não tiver um controlador). Para uma habilidade estática, é o atual controlador do objeto que gera a habilidade estática. Para uma habilidade ativada, é o jogador que ativou a habilidade. Para uma habilidade desencadeada, é o controlador do objeto quando a habilidade desencadeou, a não ser que seja uma habilidade desencadeada retardada. Para determinar o controlador de uma habilidade desencadeada retardada, consulte as regras 603.7d–f."
 
 msgid "110.1. A permanent is a card or token on the battlefield. A permanent remains on the battlefield indefinitely. A card or token becomes a permanent as it enters the battlefield and it stops being a permanent as it’s moved to another zone by an effect or rule."
-msgstr ""
+msgstr "110.1. Uma permanente é um card ou ficha no campo de batalha. Uma permanente permanece no campo de batalha por tempo indeterminado. Um card ou ficha torna-se uma permanente conforme entra no campo de batalha e deixa de ser uma permanente assim que é movido para outra zona por um efeito ou regra."
 
 msgid "110.2. A permanent’s owner is the same as the owner of the card that represents it (unless it’s a token; see rule 111.2). A permanent’s controller is, by default, the player under whose control it entered the battlefield. Every permanent has a controller."
-msgstr ""
+msgstr "110.2. O dono de uma permanente é o mesmo que o dono do card que a representa (a menos que seja uma ficha; consulte a regra 111.2). O controlador de uma permanente é, por padrão, o jogador que detinha o controle da permanente no momento que a mesma entrou no campo de batalha. Cada permanente tem um controlador."
 
 msgid "110.2a If an effect instructs a player to put an object onto the battlefield, that object enters the battlefield under that player’s control unless the effect states otherwise."
-msgstr ""
+msgstr "110.2a Se um efeito instrui um jogador a colocar um objeto no campo de batalha, esse objeto entra no campo de batalha sob controle deste jogador a não ser que o efeito afirme o contrário."
 
 msgid "110.2b If an effect causes a player to gain control of another player’s permanent spell, the first player controls the permanent that spell becomes, but the permanent’s controller by default is the player who put that spell onto the stack. (This distinction is relevant in multiplayer games; see rule 800.4c.)"
-msgstr ""
+msgstr "110.2b Se um efeito faz com que o jogador ganhe o controle de uma mácia de permamente de outro jogador, o primeiro jogador controla a permanente que a mágica se torna, mas o controlador da permanente por padrão é o jogador que colocou essa mágica na pilha. (Esta distinção é relevante em jogos multijogador; consulte a regra 800.4c.)"
 
 msgid "110.3. A nontoken permanent’s characteristics are the same as those printed on its card, as modified by any continuous effects. See rule 613, “Interaction of Continuous Effects.”"
-msgstr ""
+msgstr "110.3. As características de uma permanente que não seja uma ficha são as mesmas daquelas impressas em seu card, alteradas por quaisquer efeitos contínuos. Consulte a regra 613, “Interação de Efeitos Contínuos”."
 
 msgid "110.4. There are five permanent types: artifact, creature, enchantment, land, and planeswalker. Instant and sorcery cards can’t enter the battlefield and thus can’t be permanents. Some tribal cards can enter the battlefield and some can’t, depending on their other card types. See section 3, “Card Types.”"
-msgstr ""
+msgstr "110.4. Existem cinco tipos de permanentes: artefato, criatura, encantamento, terreno, e planeswalker. Mágicas instantâneas e feitiços não podem entrar no campo de batalha portanto não podem ser permanentes. Alguns cards tribais podem entrar no campo de batalha e outros não, dependendo de seus outros tipos de card. Ver seção 3, “Tipos de Card”."
 
 msgid "110.4a The term “permanent card” is used to refer to a card that could be put onto the battlefield. Specifically, it means an artifact, creature, enchantment, land, or planeswalker card."
-msgstr ""
+msgstr "110.4a O termo “card de permanente” é utilizado para fazer referência a um card que pode ser colocado no campo de batalha. Especificamente, ele significa um card de artefato, criatura, encantamento, terreno, ou planeswalker."
 
 msgid "110.4b The term “permanent spell” is used to refer to a spell that will enter the battlefield as a permanent as part of its resolution. Specifically, it means an artifact, creature, enchantment, or planeswalker spell."
-msgstr ""
+msgstr "110.4b O termo “mágica de permanente” é utilizado para fazer referência a uma mágica que entrará no campo de batalha sendo uma permanente como parte de sua resolução. Especificamente, ele significa uma mágica de artefato, criatura, encantamento, ou planeswalker."
 
 msgid "110.4c If a permanent somehow loses all its permanent types, it remains on the battlefield. It’s still a permanent."
-msgstr ""
+msgstr "110.4c Se uma permanente de alguma maneira perder todos os seus tipos permanentes, ela permanece no campo de batalha. Ela ainda é uma permanente."
 
 msgid "110.5. A permanent’s status is its physical state. There are four status categories, each of which has two possible values: tapped/untapped, flipped/unflipped, face up/face down, and phased in/phased out. Each permanent always has one of these values for each of these categories."
-msgstr ""
+msgstr "110.5 O status de uma permanente é o seu estado físico. Existem quatro categorias de status e cada uma delas tem dois valores possíveis: virado/desvirado, girado/não girado, face voltada para cima/face voltada para baixo e em fase/fora de fase. As permanentes sempre têm um destes valores para cada uma das quatro categorias."
 
 msgid "110.5a Status is not a characteristic, though it may affect a permanent’s characteristics."
-msgstr ""
+msgstr "110.5a O status não é uma característica, embora possa afetar as características de uma permanente."
 
 msgid "110.5b Permanents enter the battlefield untapped, unflipped, face up, and phased in unless a spell or ability says otherwise."
-msgstr ""
+msgstr "110.5b As permanentes entram no campo de batalha desviradas, não giradas, com a face para cima e em fase a menos que uma mágica ou habilidade afirme o contrário."
 
 msgid "110.5c A permanent retains its status until a spell, ability, or turn-based action changes it, even if that status is not relevant to it."
-msgstr ""
+msgstr "110.5c Uma permanente mantém o seu status até que uma mágica, habilidade, ou ação baseada-no-estado mude seu status, mesmo se o status é irrelevante para a permanente."
 
 msgid "Example: Dimir Doppelganger says “{1}{U}{B}: Exile target creature card from a graveyard. Dimir Doppelganger becomes a copy of that card and gains this ability.” It becomes a copy of Jushi Apprentice, a flip card. Through use of Jushi Apprentice’s ability, this creature flips, making it a copy of Tomoya the Revealer with the Dimir Doppelganger ability. If this permanent then becomes a copy of Runeclaw Bear, it will retain its flipped status even though that has no relevance to Runeclaw Bear. If its copy ability is activated again, this time targeting a Nezumi Shortfang card (another flip card), this permanent’s flipped status means it will have the characteristics of Stabwhisker the Odious (the flipped version of Nezumi Shortfang) with the Dimir Doppelganger ability."
-msgstr ""
+msgstr "Exemplo: [[card:Dimir Doppelganger]] diz “{1}{U}{B}: Exile o card de criatura alvo de um cemitério. [[card:Dimir Doppelganger]] torna-se uma cópia daquele card e ganha esta habilidade“. Ele torna-se uma cópia de [[card:Jushi Apprentice]], um card que gira. Através do uso da habilidade de [[card:Jushi Apprentice]], a criatura gira, tornando-a numa cópia de [[card:Tomoya the Revealer]] com a habilidade de [[card:Dimir Doppelganger]]. Se esta permanente posteriormente torna-se uma cópia de [[card:Runeclaw Bear]], ela manterá o seu status de girada, mesmo que isso não tenha qualquer relevância para [[card: Runeclaw Bear]]. Se a sua habilidade de cópia for novamente ativada, tendo desta vez como alvo [[card:Nezumi Shortfang]], que é outro card que gira, o status de girada desta permanente fará com que esta fique com as características de [[card:Stabwhisker the Odious]], a versão girada de [[card:Nezumi Shortfang]], com a habilidade de [[card:Dimir Doppelganger]]."
 
 msgid "110.5d Only permanents have status. Cards not on the battlefield do not. Although an exiled card may be face down, this has no correlation to the face-down status of a permanent. Similarly, cards not on the battlefield are neither tapped nor untapped, regardless of their physical state."
-msgstr ""
+msgstr "110.6d Apenas permanentes possuem status. Cards que não estejam no campo de batalha não possuem status. Apesar de um card exilado poder ter sua face voltada para baixo, isso não tem correlação com o status de face voltada para baixo de uma permanente. Da mesma forma, os cards que não esteja no campo de batalha não estão nem virados ou desvirados, independentemente de seu estado físico."
 
 msgid "111.1. Some effects put tokens onto the battlefield. A token is a marker used to represent any permanent that isn’t represented by a card."
-msgstr ""
+msgstr "111.1 Alguns efeitos colocam fichas no campo de batalha. Uma ficha é um marcador utilizado para representar qualquer permanente que não seja representada por um card."
 
 msgid "111.2. The player who creates a token is its owner. The token enters the battlefield under that player’s control."
-msgstr ""
+msgstr "111.2 Um jogador que cria uma ficha é o dono daquela ficha. A ficha entra no campo de batalha sob controle daquele jogador."
 
 msgid "111.3. The spell or ability that creates a token may define the values of any number of characteristics for the token. This becomes the token’s “text.” The characteristic values defined this way are functionally equivalent to the characteristic values that are printed on a card; for example, they define the token’s copiable values. A token doesn’t have any characteristics not defined by the spell or ability that created it."
-msgstr ""
+msgstr "111.3 A mágica ou habilidade que cria uma ficha pode definir os valores de qualquer número de características para a ficha. Isto se torna o “texto” da ficha. Os valores das características definidos desta maneira são funcionalmente equivalentes aos valores característicos impressos em um card; por exemplo, elas definem os valores copiáveis da ficha. Uma ficha não possui nenhuma característica que não sejam aquelas definidas pela mágica ou habilidade que a criou."
 
 msgid "Example: Jade Mage has the ability “{2}{G}: Create a 1/1 green Saproling creature token.” The resulting token has no mana cost, supertypes, rules text, or abilities."
-msgstr ""
+msgstr "Exemplo: [[card:Jade Mage]] tem a habilidade “{2}{G}: Crie uma ficha de criatura 1/1 do tipo Saprófita”. A ficha resultante não tem custo de mana, supertipos, texto de regras ou habilidades."
 
 msgid "111.4. A spell or ability that creates a token sets both its name and its subtype(s). If the spell or ability doesn’t specify the name of the token, its name is the same as its subtype(s). A “Goblin Scout creature token,” for example, is named “Goblin Scout” and has the creature subtypes Goblin and Scout. Once a token is on the battlefield, changing its name doesn’t change its subtype, and vice versa."
-msgstr ""
+msgstr "111.4 Uma mágica ou habilidade que cria uma ficha define tanto seu nome como o seu(s) subtipo(s). Se a mágica ou habilidade não especificar o nome da ficha, seu nome é o mesmo que seu(s) subtipo(s). Uma “ficha de criatura do tipo Goblin Batedor”, por exemplo, tem como nome “Goblin Batedor” e possui os subtipos de criatura Goblin e Batedor. Uma vez que a ficha esteja no campo de batalha, mudar seu nome não muda o seu subtipo, e vice-versa."
 
 msgid "111.5. If a spell or ability would create a token, but a rule or effect states that a permanent with one or more of that token’s characteristics can’t enter the battlefield, the token is not created."
-msgstr ""
+msgstr "111.5 Se uma mágica ou habilidade criaria uma ficha, mas uma regra ou efeito diz que uma permanente com uma ou mais características daquela ficha não podem entrar no campo de batalha, então a ficha não é criada."
 
 msgid "111.6. A token is subject to anything that affects permanents in general or that affects the token’s card type or subtype. A token isn’t a card (even if represented by a card that has a Magic back or that came from a Magic booster pack)."
-msgstr ""
+msgstr "111.6 Uma ficha está sujeita a tudo que em geral afeta permanentes ou que afeta o subtipo ou o tipo de card da ficha. Uma ficha não é um card (mesmo se a ficha for representada por um card com um verso de card de Magic ou se a ficha é proveniente de um pacotinho de Magic)."
 
 msgid "111.7. A token that’s in a zone other than the battlefield ceases to exist. This is a state-based action; see rule 704. (Note that if a token changes zones, applicable triggered abilities will trigger before the token ceases to exist.)"
-msgstr ""
+msgstr "111.7 Uma ficha que está em uma zona que não seja o campo de batalha, deixa de existir. Isto é uma ação baseada-no-estado; consulte a regra 704. (Observe que quando uma ficha muda de zona, qualquer habilidade desencadeada relevante desencadeará antes que a ficha deixe de existir)."
 
 msgid "111.8. A token that has left the battlefield can’t move to another zone or come back onto the battlefield. If such a token would change zones, it remains in its current zone instead. It ceases to exist the next time state-based actions are checked; see rule 704."
-msgstr ""
+msgstr "111.8 Uma ficha que deixou o campo de batalha não pode ser movido para outra zona ou voltar ao campo de batalha. Se tal ficha mudaria de zona, em vez disso ela permanece em sua zona atual. Ela deixa de existir na próxima vez que as ações baseadas-no-estado são checadas; consulte a regra 704."
 
 msgid "111.9. Some effects instruct a player to create a legendary token. These may be written “create [name], a . . .” and list characteristics for the token. This is the same as an instruction to create a token with the listed characteristics that has the given name."
 msgstr ""
