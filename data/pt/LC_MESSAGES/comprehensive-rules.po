@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2022-08-16 18:26\n"
+"PO-Revision-Date: 2022-08-16 23:58\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -1261,10 +1261,10 @@ msgid "113.6i An object’s activated ability that has a cost that can’t be pa
 msgstr "113.6i Uma habilidade ativada de um objeto que tem um custo que não pode ser pago enquanto o objeto estiver no campo de batalha funciona em qualquer zona na qual seus custos podem ser pagos."
 
 msgid "113.6j A trigger condition that can’t trigger from the battlefield functions in all zones it can trigger from. Other trigger conditions of the same triggered ability may function in different zones."
-msgstr ""
+msgstr "113.6j Uma condição de desencadeamento que não pode desencadear a partir do campo de batalha funciona em qualquer zona na qual possa desencadear. Outras condições de desencadeamento da mesma habilidade desencadeada podem funcionar em zonas diferentes."
 
 msgid "Example: Absolver Thrull has the ability “When Absolver Thrull enters the battlefield or the creature it haunts dies, destroy target enchantment.” The first trigger condition functions from the battlefield and the second trigger condition functions from the exile zone. (See rule 702.54, “Haunt.”)"
-msgstr ""
+msgstr "Exemplo: [[card:Absolver Thrull]] tem a habilidade “Quando [[card:Absolver Thrull] entra no campo de batalha ou quando a criatura que ele assombra morre, destrua o encantamento alvo”. A primeira condição de desencadeamento funciona a partir do campo de batalha e a segundo funciona a partir da zona de exílio. (Consulte a regra 702.54, “Assombrar”)."
 
 msgid "113.6k An ability whose cost or effect specifies that it moves the object it’s on out of a particular zone functions only in that zone, unless its trigger condition or a previous part of its cost or effect specifies that the object is put into that zone or, if the object is an Aura, that the object it enchants leaves the battlefield. The same is true if the effect of that ability creates a delayed triggered ability whose effect moves the object out of a particular zone."
 msgstr ""
