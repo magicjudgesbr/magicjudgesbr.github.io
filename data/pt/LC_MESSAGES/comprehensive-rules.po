@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2022-08-15 23:29\n"
+"PO-Revision-Date: 2022-08-16 17:26\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -1231,16 +1231,16 @@ msgid "113.5. Some activated abilities are loyalty abilities. Loyalty abilities 
 msgstr "113.5. Algumas habilidades ativadas são habilidades de lealdade. Habilidades de lealdade seguem regras especiais: Um jogador pode ativar uma habilidade de lealdade de uma permanente que ele controla a qualquer momento em que ele tiver prioridade e a pilha estiver vazia durante uma fase principal de seu turno, mas somente se previamente nenhum jogador tiver ativado uma habilidade de lealdade daquela permanente neste tuno. Consulte a regra 606, “Habilidades de Lealdade”."
 
 msgid "113.6. Abilities of an instant or sorcery spell usually function only while that object is on the stack. Abilities of all other objects usually function only while that object is on the battlefield. The exceptions are as follows:"
-msgstr ""
+msgstr "113.6. Habilidades de uma mágica instantânea ou feitiço normalmente funcionam apenas enquanto esse objeto estiver na pilha. Habilidades dos outros objetos normalmente funcionam apenas enquanto aquele objeto estiver no campo de batalha. As exceções são as seguintes:"
 
 msgid "113.6a Characteristic-defining abilities function everywhere, even outside the game. (See rule 604.3.)"
-msgstr ""
+msgstr "113.6a Habilidades definidoras de características funcionam em todo lugar, mesmo fora do jogo. (Consulte a regra 604.3.)"
 
 msgid "113.6b An ability that states which zones it functions in functions only from those zones."
-msgstr ""
+msgstr "113.6b Uma habilidade que afirma em quais zonas ela funciona, funciona apenas nessas zonas."
 
 msgid "113.6c An object’s ability that allows a player to pay an alternative cost rather than its mana cost or otherwise modifies what that particular object costs to cast functions on the stack."
-msgstr ""
+msgstr "113.6c Uma habilidade de um objeto que permite a um jogador pagar um custo alternativo em vez de seu custo de mana ou modifica de outra maneira o custo para conjurar de um objeto específico funciona na pilha."
 
 msgid "113.6d An object’s ability that restricts or modifies how that particular object can be played or cast functions in any zone from which it could be played or cast and also on the stack. An object’s ability that grants it another ability that restricts or modifies how that particular object can be played or cast functions only on the stack."
 msgstr ""
