@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2022-08-16 17:26\n"
+"PO-Revision-Date: 2022-08-16 18:26\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -1243,22 +1243,22 @@ msgid "113.6c An object’s ability that allows a player to pay an alternative c
 msgstr "113.6c Uma habilidade de um objeto que permite a um jogador pagar um custo alternativo em vez de seu custo de mana ou modifica de outra maneira o custo para conjurar de um objeto específico funciona na pilha."
 
 msgid "113.6d An object’s ability that restricts or modifies how that particular object can be played or cast functions in any zone from which it could be played or cast and also on the stack. An object’s ability that grants it another ability that restricts or modifies how that particular object can be played or cast functions only on the stack."
-msgstr ""
+msgstr "113.6d Uma habilidade de um objeto que restringe ou modifica como aquele objeto em particular pode ser jogado ou conjurado funciona em qualquer zona da qual ele possa ser jogado ou conjurado e também na pilha. Uma habilidade de um objeto que concede outra habilidade que restringe ou modifica como um objeto em especifico pode ser jogado ou conjurado funciona apenas na pilha."
 
 msgid "113.6e An object’s ability that restricts or modifies what zones that particular object can be played or cast from functions everywhere, even outside the game."
-msgstr ""
+msgstr "113.6e Uma habilidade de um objeto que restringe ou modifica de quais zonas aquele objeto pode ser jogado ou conjurado funciona em todas as zonas, mesmo fora do jogo."
 
 msgid "113.6f An object’s ability that states it can’t be countered functions on the stack."
-msgstr ""
+msgstr "113.6f A habilidade de um objeto que afirma que ele não pode ser anulado funciona na pilha."
 
 msgid "113.6g An object’s ability that modifies how that particular object enters the battlefield functions as that object is entering the battlefield. See rule 614.12."
-msgstr ""
+msgstr "113.6g Uma habilidade de um objeto que modifica como aquele objeto em particular entra no campo de batalha funciona conforme aquele objeto está entrando no campo de batalha. Consulte a regra 614.12."
 
 msgid "113.6h An object’s ability that states counters can’t be put on that object functions as that object is entering the battlefield in addition to functioning while that object is on the battlefield."
-msgstr ""
+msgstr "113.6h Uma habilidade de um objeto que afirma que marcadores não podem ser colocados naquele objeto funciona enquanto aquele objeto está entrando no campo de batalha em adição a funcionar enquanto o objeto está no campo de batalha."
 
 msgid "113.6i An object’s activated ability that has a cost that can’t be paid while the object is on the battlefield functions from any zone in which its cost can be paid."
-msgstr ""
+msgstr "113.6i Uma habilidade ativada de um objeto que tem um custo que não pode ser pago enquanto o objeto estiver no campo de batalha funciona em qualquer zona na qual seus custos podem ser pagos."
 
 msgid "113.6j A trigger condition that can’t trigger from the battlefield functions in all zones it can trigger from. Other trigger conditions of the same triggered ability may function in different zones."
 msgstr ""
