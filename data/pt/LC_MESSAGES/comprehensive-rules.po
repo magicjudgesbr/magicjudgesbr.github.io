@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2022-08-16 23:58\n"
+"PO-Revision-Date: 2022-08-17 19:12\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -1267,13 +1267,13 @@ msgid "Example: Absolver Thrull has the ability “When Absolver Thrull enters t
 msgstr "Exemplo: [[card:Absolver Thrull]] tem a habilidade “Quando [[card:Absolver Thrull] entra no campo de batalha ou quando a criatura que ele assombra morre, destrua o encantamento alvo”. A primeira condição de desencadeamento funciona a partir do campo de batalha e a segundo funciona a partir da zona de exílio. (Consulte a regra 702.54, “Assombrar”)."
 
 msgid "113.6k An ability whose cost or effect specifies that it moves the object it’s on out of a particular zone functions only in that zone, unless its trigger condition or a previous part of its cost or effect specifies that the object is put into that zone or, if the object is an Aura, that the object it enchants leaves the battlefield. The same is true if the effect of that ability creates a delayed triggered ability whose effect moves the object out of a particular zone."
-msgstr ""
+msgstr "113.6k Uma habilidade cujo custo ou efeito especifica que move o objeto a que pertence para fora de uma determinada zona funciona apenas nessa zona, a não ser que a condição de desencadeamento dela, ou uma parte prévia do custo ou efeito da habilidade especifica que o objeto é colocado nessa zona, ou se o objeto é uma Aura, cujo objeto que ela encantava deixou o campo de batalha. O mesmo é verdadeiro se o efeito daquela habilidade criar uma habilidade desencadeada retardada cujo efeito remove o objeto de uma zona em particular."
 
 msgid "Example: Reassembling Skeleton says “{1}{B}: Return Reassembling Skeleton from your graveyard to the battlefield tapped.” A player may activate this ability only if Reassembling Skeleton is in their graveyard."
-msgstr ""
+msgstr "Exemplo: [[card:Reassembling Skeleton]] diz “{1}{B}: Devolva [[card:Reassembling Skeleton]] de seu cemitério para o campo de batalha virado”. Um jogador pode ativar esta habilidade apenas se [[card:Reassembling Skeleton]] estiver em seu cemitério."
 
 msgid "113.6m An ability that modifies the rules for deck construction functions before the game begins. Such an ability modifies not just the Comprehensive Rules, but also the Magic: The Gathering Tournament Rules and any other documents that set the deck construction rules for a specific format. However, such an ability can’t affect the format legality of a card, including whether it’s banned or restricted. The current Magic: The Gathering Tournament Rules can be found at WPN.Wizards.com/en/resources/rules-documents."
-msgstr ""
+msgstr "113.6m Uma habilidade que modifica as regras para construção de deck funciona antes de o jogo começar. Tal habilidade modifica não apenas as Regras Abrangentes, mas também as Regras de Torneio de Magic: The Gathering e qualquer outro documento que determine as regras de construção de deck para um formato especifico. No entanto, tal habilidade não pode afetar a legalidade de um card em um formato, incluindo se o card é banido ou restrito. As Regras de Torneio de Magic: The Gathering atuais podem ser encontradas em WPN.Wizards.com/en/resources/rules-documents."
 
 msgid "113.6n Abilities of emblems, plane cards, vanguard cards, scheme cards, and conspiracy cards function in the command zone. See rule 114, “Emblems”; rule 901, “Planechase”; rule 902, “Vanguard”; rule 904, “Archenemy”; and rule 905, “Conspiracy Draft.”"
 msgstr ""
