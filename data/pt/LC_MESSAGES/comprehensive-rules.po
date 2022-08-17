@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2022-08-17 19:12\n"
+"PO-Revision-Date: 2022-08-17 20:08\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -1276,55 +1276,55 @@ msgid "113.6m An ability that modifies the rules for deck construction functions
 msgstr "113.6m Uma habilidade que modifica as regras para construção de deck funciona antes de o jogo começar. Tal habilidade modifica não apenas as Regras Abrangentes, mas também as Regras de Torneio de Magic: The Gathering e qualquer outro documento que determine as regras de construção de deck para um formato especifico. No entanto, tal habilidade não pode afetar a legalidade de um card em um formato, incluindo se o card é banido ou restrito. As Regras de Torneio de Magic: The Gathering atuais podem ser encontradas em WPN.Wizards.com/en/resources/rules-documents."
 
 msgid "113.6n Abilities of emblems, plane cards, vanguard cards, scheme cards, and conspiracy cards function in the command zone. See rule 114, “Emblems”; rule 901, “Planechase”; rule 902, “Vanguard”; rule 904, “Archenemy”; and rule 905, “Conspiracy Draft.”"
-msgstr ""
+msgstr "113.6n Habilidades de emblemas, cards de planos, cards de vanguarda, cards de esquema, e cards de conspiracy funcionam na zona de comando. Consulte a regra 114, “Emblemas”; regra 901, “Planechase”; regra 902, “Vanguard”; regra 904, “Archenemy”; e regra 905 “Draft de Conspiracy”."
 
 msgid "113.7. The source of an ability is the object that generated it. The source of an activated ability on the stack is the object whose ability was activated. The source of a triggered ability (other than a delayed triggered ability) on the stack, or one that has triggered and is waiting to be put on the stack, is the object whose ability triggered. To determine the source of a delayed triggered ability, see rules 603.7d–f."
-msgstr ""
+msgstr "113.7. A fonte de uma habilidade na pilha é o objeto que gerou aquela habilidade. A fonte de uma habilidade ativada na pilha é o objeto de onde a habilidade foi ativada. A fonte de uma habilidade desencadeada (que não seja uma habilidade desencadeada retardada) na pilha, ou que desencadeou mas aguarda para ser colocada na pilha é o objeto de onde a habilidade desencadeou. Para determinar a fonte de uma habilidade desencadeada retardada, consulte as regras 603.7d–f."
 
 msgid "113.7a Once activated or triggered, an ability exists on the stack independently of its source. Destruction or removal of the source after that time won’t affect the ability. Note that some abilities cause a source to do something (for example, “Prodigal Pyromancer deals 1 damage to any target”) rather than the ability doing anything directly. In these cases, any activated or triggered ability that references information about the source for use while announcing an activated ability or putting a triggered ability on the stack checks that information when the ability is put onto the stack. Otherwise, it will check that information when it resolves. In both instances, if the source is no longer in the zone it’s expected to be in at that time, its last known information is used. The source can still perform the action even though it no longer exists."
-msgstr ""
+msgstr "113.7a Uma vez ativada ou desencadeada, uma habilidade existe na pilha independentemente de sua fonte. A destruição ou remoção da fonte após esse dado momento não afeta a habilidade. Observe que algumas habilidades fazem com que a fonte faça alguma coisa (por exemplo, “[[card:Prodigal Pyromancer]] causa 1 ponto de dano à criatura alvo ou ao jogador alvo”) ao invés da habilidade fazer algo diretamente. Nestes casos, qualquer habilidade ativada ou desencadeada que faz referência a informações sobre a fonte para uso enquanto estiver anunciando uma habilidade ativada ou colocando uma habilidade desencadeada na pilha, checa a informação quando a habilidade é colocada na pilha. Caso contrário, ela verificará essa informação quando ela resolve. Em ambos os casos, se a fonte não está mais na zona em que era esperado que estivesse, a sua última informação conhecida é usada. A fonte ainda pode executar a ação mesmo que ela não exista mais."
 
 msgid "113.8. The controller of an activated ability on the stack is the player who activated it. The controller of a triggered ability on the stack (other than a delayed triggered ability) is the player who controlled the ability’s source when it triggered, or, if it had no controller, the player who owned the ability’s source when it triggered. To determine the controller of a delayed triggered ability, see rules 603.7d–f."
-msgstr ""
+msgstr "113.8. O controlador de uma habilidade ativada na pilha é o jogador que ativou a habilidade. O controlador de uma habilidade desencadeada na pilha (que não seja uma habilidade desencadeada retardada) é o jogador que controlava a fonte da habilidade quando esta desencadeou, ou se ela não tiver um controlador, o jogador que era o dono da fonte da habilidade quando esta desencadeou. Para determinar o controlador de uma habilidade desencadeada retardada, consulte as regras 603.7d–f."
 
 msgid "113.9. Activated and triggered abilities on the stack aren’t spells, and therefore can’t be countered by anything that counters only spells. Activated and triggered abilities on the stack can be countered by effects that specifically counter abilities. Static abilities don’t use the stack and thus can’t be countered at all."
-msgstr ""
+msgstr "113.9. Habilidades ativadas e desencadeadas na pilha não são mágicas, portanto não podem ser anuladas por qualquer coisa que anule apenas mágicas. Habilidades ativadas e desencadeadas na pilha podem ser anuladas por efeitos que anulam especificamente habilidades. Habilidades estáticas não usam a pilha, portanto não podem ser anuladas de nenhuma maneira."
 
 msgid "113.10. Effects can add or remove abilities of objects. An effect that adds an ability will state that the object “gains” or “has” that ability, or similar. An effect that removes an ability will state that the object “loses” that ability."
-msgstr ""
+msgstr "113.10. Efeitos podem adicionar ou remover habilidades dos objetos. Um efeito que adiciona uma habilidade indicará que o objeto “ganha” ou “tem” essa habilidade, ou similar. Um efeito que remove uma habilidade indicará que o objeto “perde” aquela habilidade."
 
 msgid "113.10a An effect that adds an activated ability may include activation instructions for that ability. These instructions become part of the ability that’s added to the object."
-msgstr ""
+msgstr "113.10a a Um efeito que adiciona uma habilidade ativada pode incluir instruções de ativação para aquela habilidade. Essas instruções tornam-se parte da habilidade que foi adicionada ao objeto."
 
 msgid "113.10b Effects that remove an ability remove all instances of it."
-msgstr ""
+msgstr "113.10b Efeitos que removem uma habilidade removem todas as ocorrências daquela habilidade."
 
 msgid "113.10c If two or more effects add and remove the same ability, in general the most recent one prevails. See rule 613 for more information about the interaction of continuous effects."
-msgstr ""
+msgstr "113.10c Se dois ou mais efeitos adicionam e removem a mesma habilidade, em geral o efeito mais recente prevalece. Consulte a regra 613 para mais informações sobre a interação de efeitos contínuos."
 
 msgid "113.11. Effects can stop an object from having a specified ability. These effects say that the object “can’t have” that ability. If the object has that ability, it loses it. It’s also impossible for an effect to add that ability to the object. If a resolving spell or ability creates a continuous effect that would add the specified ability to such an object, that part of that continuous effect does not apply; however, other parts of that continuous effect will still apply, and that resolving spell or ability can still create other continuous effects. Continuous effects created by static abilities that would add the specified ability won’t apply to that object."
-msgstr ""
+msgstr "113.11. Efeitos podem fazer com que objetos deixem de ter uma habilidade específica. Estes efeitos dizem que o objeto “não pode ter” aquela habilidade. Se o objeto possui aquela habilidade, ele a perde. É também impossível para um efeito conceder aquela habilidade ao objeto. Se a resolução de uma mágica ou habilidade cria um efeito contínuo que adicionaria a habilidade especificada a tal objeto, esta parte do efeito contínuo não se aplica; entretanto, outras partes do efeito contínuo ainda se aplicam, e aquela mágica ou habilidade ainda podem criar outros efeitos contínuos. Efeitos contínuos criados por habilidades estáticas que adicionariam a habilidade especificada não são aplicados ao objeto."
 
 msgid "113.12. An effect that sets an object’s characteristic, or simply states a quality of that object, is different from an ability granted by an effect. When an object “gains” or “has” an ability, that ability can be removed by another effect. If an effect defines a characteristic of the object (“[permanent] is [characteristic value]”), it’s not granting an ability. (See rule 604.3.) Similarly, if an effect states a quality of that object (“[creature] can’t be blocked,” for example), it’s neither granting an ability nor setting a characteristic."
-msgstr ""
+msgstr "113.12. Um efeito que define uma característica de um objeto, ou simplesmente afirma a qualidade de um objeto, é diferente de uma habilidade concedida por um efeito. Quando um objeto “ganha” ou “tem” uma habilidade, essa habilidade pode ser removido por outro efeito. Se um efeito define uma característica do objeto ( “[permanente] é [valor da característica]”), não é uma concessão de uma habilidade (consulte a regra 604.3). Da mesma forma, se um efeito afirma uma qualidade do objeto (“[criatura] não pode ser bloqueada”, por exemplo), não é concessão de uma habilidade ou definição de uma característica."
 
 msgid "Example: Muraganda Petroglyphs reads, “Creatures with no abilities get +2/+2.” A Runeclaw Bear (a creature with no abilities) enchanted by an Aura that says “Enchanted creature has flying” would not get +2/+2. A Runeclaw Bear enchanted by an Aura that says “Enchanted creature is red” or “Enchanted creature can’t be blocked” would get +2/+2."
-msgstr ""
+msgstr "Exemplo: [[card:Muraganda Petroglyphs]] diz “Criaturas sem habilidades recebem +2/+2”. Um [[card:Runeclaw Bear]] (uma criatura sem habilidades) encantado por uma Aura que diga “A criatura encantada tem a habilidade voar” não receberia +2/+2. Um [[card:Runeclaw Bear]] encantado por uma Aura que diz “A criatura encantada é vermelha” ou “A criatura encantada não pode ser bloqueada” receberia +2/+2."
 
 msgid "114.1. Some effects put emblems into the command zone. An emblem is a marker used to represent an object that has one or more abilities, but no other characteristics."
-msgstr ""
+msgstr "114.1. Alguns efeitos colocam emblemas na zona de comando. Um emblema é um marcador usado para representar um objeto que tem uma ou mais habilidades e nenhuma outra característica."
 
 msgid "114.2. An effect that creates an emblem is written “[Player] gets an emblem with [ability].” This means that [player] puts an emblem with [ability] into the command zone. The emblem is both owned and controlled by that player."
-msgstr ""
+msgstr "114.2. Um efeito que cria um emblema é escrito da seguinte forma “[O jogador] recebe um emblema com [habilidade]”. Isso significa que aquele [jogador] coloca um emblema com [habilidade] na zona de comando. O controlador e o dono daquele emblema é aquele jogador."
 
 msgid "114.3. An emblem has no characteristics other than the abilities defined by the effect that created it. In particular, an emblem has no name, no types, no mana cost, and no color."
-msgstr ""
+msgstr "114.3. Um emblema não tem nenhuma característica a não ser as habilidades definidas pelo efeito que criou aquele emblema. Em específico, um emblema não tem nome, tipos, custo de mana ou cor."
 
 msgid "114.4. Abilities of emblems function in the command zone."
-msgstr ""
+msgstr "114.4. As habilidades de um emblema funcionam na zona de comando."
 
 msgid "114.5. An emblem is neither a card nor a permanent. Emblem isn’t a card type."
-msgstr ""
+msgstr "114.5. Um emblema não é um card ou uma permanente. Emblema não é um tipo de card."
 
 msgid "115.1. Some spells and abilities require their controller to choose one or more targets for them. The targets are object(s) and/or player(s) the spell or ability will affect. These targets are declared as part of the process of putting the spell or ability on the stack. The targets can’t be changed except by another spell or ability that explicitly says it can do so."
 msgstr ""
