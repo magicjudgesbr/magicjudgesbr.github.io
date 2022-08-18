@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2022-08-18 18:06\n"
+"PO-Revision-Date: 2022-08-18 19:09\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -1370,31 +1370,31 @@ msgstr "115.7a Se um efeito permite que um jogador “mude o(s) alvo(s)” de um
 "para outros alvos válido, nenhum deles é mudado."
 
 msgid "115.7b If an effect allows a player to “change a target” of a spell or ability, the process described in rule 115.7a is followed, except that only one of those targets may be changed (rather than all of them or none of them)."
-msgstr ""
+msgstr "115.7b Se um efeito permitir que um jogador \"mude um alvo\" de uma mágica ou habilidade, o processo descrito na regra 115.7a é seguido, exceto que somente um daqueles alvos pode ser mudado (em vez de todos eles ou nenhum deles)."
 
 msgid "115.7c If an effect allows a player to “change any targets” of a spell or ability, the process described in rule 115.7a is followed, except that any number of those targets may be changed (rather than all of them or none of them)."
-msgstr ""
+msgstr "115.7c Se um efeito permite que um jogador “mude quaisquer alvos” de uma mágica ou habilidade, o processo descrito na regra 115.7a é seguido, exceto que qualquer número daqueles alvos podem ser mudados (ao invés de todos eles ou nenhum deles)."
 
 msgid "115.7d If an effect allows a player to “choose new targets” for a spell or ability, the player may leave any number of the targets unchanged, even if those targets would be illegal. If the player chooses to change some or all of the targets, the new targets must be legal and must not cause any unchanged targets to become illegal."
-msgstr ""
+msgstr "115.7d Se um efeito permite que um jogador “escolha novos alvos” para uma mágica ou habilidade, o jogador pode deixar qualquer quantidade de alvos inalterados, mesmo que esses alvos sejam inválidos. Se o jogador escolher mudar algum ou todos os alvos, os novos alvos devem ser válidos e não podem fazer com que qualquer alvo inalterado torne-se inválido."
 
 msgid "115.7e When changing targets or choosing new targets for a spell or ability, only the final set of targets is evaluated to determine whether the change is legal."
-msgstr ""
+msgstr "115.7e Ao mudar de alvos ou escolher novos alvos para uma mágica ou habilidade, apenas o conjunto final de alvos é avaliado para determinar se a alteração é válida."
 
 msgid "Example: Arc Trail is a sorcery that reads “Arc Trail deals 2 damage to any target and 1 damage to another target.” The current targets of Arc Trail are Runeclaw Bear and Llanowar Elves, in that order. You cast Redirect, an instant that reads “You may choose new targets for target spell,” targeting Arc Trail. You can change the first target to Llanowar Elves and change the second target to Runeclaw Bear."
-msgstr ""
+msgstr "Exemplo: [[card:Arc Trail]] é um feitiço que diz \"[[card:Arc Trail]] causa 2 pontos de dano à qualquer alvo e 1 ponto de dano a outro alvo\". Os alvos atuais de [[card:Arc Trail]] são [[card:Runeclaw Bear]] e [[card:Llanowar Elves]], nesta ordem. Você conjura [[card:Redirect]], uma mágica instantânea que diz \"Você pode escolher novos alvos para a mágica alvo\", tendo como alvo [[card:Arc Trail]]. Você pode mudar o primeiro alvo para [[card:Llanowar Elves]] e o segundo alvo para [[card:Runeclaw Bear]]."
 
 msgid "115.7f A spell or ability may “divide” or “distribute” an effect (such as damage or counters) among one or more targets. When changing targets or choosing new targets for that spell or ability, the original division can’t be changed."
-msgstr ""
+msgstr "115.7f Uma mágica ou habilidade pode \"dividir\" ou \"distribuir\" um efeito (como dano ou contadores) entre um ou mais alvos. Quando estiver mudando os alvos ou escolhendo novos alvos para essa mágica ou habilidade, a divisão original não pode ser alterada."
 
 msgid "115.8. Modal spells and abilities may have different targeting requirements for each mode. An effect that allows a player to change the target(s) of a modal spell or ability, or to choose new targets for a modal spell or ability, doesn’t allow that player to change its mode. (See rule 700.2.)"
-msgstr ""
+msgstr "115.8. Mágicas e habilidades modais podem ter diferentes requisitos de alvo para cada modo. Um efeito que permite que um jogador mude o(s) alvo(s) de uma mágica ou habilidade modal, ou escolher novos alvos para uma mágica ou habilidade modal, não permite ao jogador mudar seus modos. (Consulte a regra 700.2)"
 
 msgid "115.9. Some objects check what another spell or ability is targeting. Depending on the wording, these may check the current state of the targets, the state of the targets at the time they were selected, or both."
-msgstr ""
+msgstr "115.9. Alguns objetos verificam o que outra mágica ou habilidade tem como alvo. Dependendo do texto, esses efeitos podem verificar o estado atual dos alvos, o estado dos alvos no momento em que foram selecionados, ou ambos."
 
 msgid "115.9a An object that looks for a “[spell or ability] with a single target” checks the number of times any object or player was chosen as the target of that spell or ability when it was put on the stack, not the number of its targets that are currently legal. If the same object or player became a target more than once, each of those instances is counted separately."
-msgstr ""
+msgstr "115.9a Um objeto que checa por uma “[mágica ou habilidade] com um único alvo” verifica o número de vezes que qualquer objeto ou jogador foi escolhido como alvo daquela mágica ou habilidade quando ela foi colocada na pilha, não o número dos seus alvos que são atualmente válidos. Se o mesmo objeto ou jogador se torna um alvo mais de uma vez, cada uma dessas ocorrências é contada separadamente."
 
 msgid "115.9b An object that looks for a “[spell or ability] that targets [something]” checks the current state of that spell or ability’s targets. If an object it targets is still in the zone it’s expected to be in or a player it targets is still in the game, that target’s current information is used, even if it’s not currently legal for that spell or ability. If an object it targets is no longer in the zone it’s expected to be in or a player it targets is no longer in the game, that target is ignored; its last known information is not used."
 msgstr ""
