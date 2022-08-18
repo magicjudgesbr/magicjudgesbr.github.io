@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2022-08-17 20:08\n"
+"PO-Revision-Date: 2022-08-18 17:03\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -1327,13 +1327,13 @@ msgid "114.5. An emblem is neither a card nor a permanent. Emblem isn’t a card
 msgstr "114.5. Um emblema não é um card ou uma permanente. Emblema não é um tipo de card."
 
 msgid "115.1. Some spells and abilities require their controller to choose one or more targets for them. The targets are object(s) and/or player(s) the spell or ability will affect. These targets are declared as part of the process of putting the spell or ability on the stack. The targets can’t be changed except by another spell or ability that explicitly says it can do so."
-msgstr ""
+msgstr "115.1. Algumas mágicas e habilidades necessitam que seu controlador escolha um ou mais alvos para elas. Os alvos são objeto(s) e/ou jogador(es) que a mágica ou habilidade afetará. Estes alvos são declarados como parte do processo de colocar a mágica ou habilidade na pilha. Os alvos não podem ser mudados exceto por outra mágica ou habilidade que explicitamente diz que pode fazê-lo."
 
 msgid "115.1a An instant or sorcery spell is targeted if its spell ability identifies something it will affect by using the phrase “target [something],” where the “something” is a phrase that describes an object and/or player. The target(s) are chosen as the spell is cast; see rule 601.2c. (If an activated or triggered ability of an instant or sorcery uses the word target, that ability is targeted, but the spell is not.)"
-msgstr ""
+msgstr "115.1a Uma mágica instantânea ou feitiço possui alvos se a habilidade da mágica identifica algo que ela afetará usando a frase “[alguma coisa] alvo”, onde o “alguma coisa” é uma frase que descreve um objeto e/ou jogador. O(s) alvo(s) é(são) escolhido(s) conforme a mágica é conjurada; consulte a regra 601.2c. (Se uma habilidade ativada ou desencadeada de uma mágica instantânea ou feitiço usa a palavra alvo, a habilidade possui um alvo, mas a mágica não)."
 
 msgid "Example: A sorcery card has the ability “When you cycle this card, target creature gets -1/-1 until end of turn.” This triggered ability is targeted, but that doesn’t make the card it’s on targeted."
-msgstr ""
+msgstr "Exemplo: Um card de feitiço tem a habilidade “Quando você reciclar este card, a criatura alvo recebe -1/-1 até o final do turno”. Esta habilidade desencadeada possui alvos, mas isso não faz com que o card no qual ela está possua alvos."
 
 msgid "115.1b Aura spells are always targeted. An Aura’s target is specified by its enchant keyword ability (see rule 702.5, “Enchant”). The target is chosen as the spell is cast; see rule 601.2c. An Aura permanent doesn’t target anything; only the spell is targeted. (An activated or triggered ability of an Aura permanent can also be targeted.)"
 msgstr ""
