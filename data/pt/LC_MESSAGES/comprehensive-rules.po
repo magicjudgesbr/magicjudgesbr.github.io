@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2022-08-18 17:03\n"
+"PO-Revision-Date: 2022-08-18 18:06\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -1336,37 +1336,38 @@ msgid "Example: A sorcery card has the ability “When you cycle this card, targ
 msgstr "Exemplo: Um card de feitiço tem a habilidade “Quando você reciclar este card, a criatura alvo recebe -1/-1 até o final do turno”. Esta habilidade desencadeada possui alvos, mas isso não faz com que o card no qual ela está possua alvos."
 
 msgid "115.1b Aura spells are always targeted. An Aura’s target is specified by its enchant keyword ability (see rule 702.5, “Enchant”). The target is chosen as the spell is cast; see rule 601.2c. An Aura permanent doesn’t target anything; only the spell is targeted. (An activated or triggered ability of an Aura permanent can also be targeted.)"
-msgstr ""
+msgstr "115.1b Mágicas de Aura sempre possuem alvos. O alvo de uma Aura é especificado por sua palavra-chave de habilidade encantar (consulte a regra 702.5, “Encantar”). O alvo é escolhido conforme a mágica é conjurada; consulte a regra 601.2c. Uma permanente Aura não possui alvos; apenas a mágica possui alvos. (Uma habilidade ativada ou desencadeada de uma permanente Aura também pode possuir alvos.)"
 
 msgid "115.1c An activated ability is targeted if it identifies something it will affect by using the phrase “target [something],” where the “something” is a phrase that describes an object and/or player. The target(s) are chosen as the ability is activated; see rule 602.2b."
-msgstr ""
+msgstr "115.1c Uma habilidade ativada possui alvos se ela identificar algo que afetará usando a frase “[alguma coisa] alvo”, onde o “alguma coisa” é uma frase que descreve um objeto e/ou jogador. Os alvos são escolhidos conforme a habilidade é ativada; consulte a regra 602.2b."
 
 msgid "115.1d A triggered ability is targeted if it identifies something it will affect by using the phrase “target [something],” where the “something” is a phrase that describes an object and/or player. The target(s) are chosen as the ability is put on the stack; see rule 603.3d."
-msgstr ""
+msgstr "115.1d Uma habilidade desencadeada possui alvos se ela identificar algo que afetará, usando a frase “[alguma coisa] alvo”, onde o “alguma coisa” é uma frase que descreve um objeto e/ou jogador. Os alvos são escolhidos conforme a habilidade é colocada na pilha; consulte a regra 603.3d."
 
 msgid "115.1e Some keyword abilities, such as equip and modular, represent targeted activated or triggered abilities, and some keyword abilities, such as mutate, cause spells to have targets. In those cases, the phrase “target [something]” appears in the rule for that keyword ability rather than in the ability itself. (The keyword’s reminder text will often contain the word “target.”) See rule 702, “Keyword Abilities.”"
-msgstr ""
+msgstr "115.1e Algumas palavras-chave de habilidade, como equipar e modular, representam habilidades ativadas ou desencadeadas que possuem alvo, e algumas palavras-chave de habilidade, como mutação, fazem com que as mágicas tenham alvos. Nesses casos, a frase “[alguma coisa] alvo” aparece na regra da palavras-chave de habilidade e não na própria habilidade. (O texto explicativo da palavra-chave normalmente conterá a palavra “alvo”.) Consulte a regra 702, “Palavras-Chave De Habilidade”."
 
 msgid "115.2. Only permanents are legal targets for spells and abilities, unless a spell or ability (a) specifies that it can target an object in another zone or a player, or (b) targets an object that can’t exist on the battlefield, such as a spell or ability. See also rule 115.4."
-msgstr ""
+msgstr "115.2. Apenas permanentes são alvos válidos para mágicas e habilidades, a menos que uma mágica ou habilidade (a) especificamente diga que ela pode ter como alvo um objeto em outra zona ou um jogador, ou (b) tenha como alvo um objeto que não pode existir no campo de batalha, como uma mágica ou habilidade. Consulte a regra 115.4."
 
 msgid "115.3. The same target can’t be chosen multiple times for any one instance of the word “target” on a spell or ability. If the spell or ability uses the word “target” in multiple places, the same object or player can be chosen once for each instance of the word “target” (as long as it fits the targeting criteria). This rule applies both when choosing targets for a spell or ability and when changing targets or choosing new targets for a spell or ability (see rule 115.7)."
-msgstr ""
+msgstr "115.3. O mesmo alvo não pode ser escolhido várias vezes para uma mesma ocorrência da palavra “alvo” em uma mágica ou habilidade. Se a mágica ou habilidade usa a palavra “alvo” em vários lugares, o mesmo objeto ou jogador podem ser escolhidos uma vez para cada ocorrência da palavra “alvo” (desde que ele se encaixa nos critérios dos alvos). Esta regra aplica-se quando se escolhe os alvos para uma mágica ou habilidade e quando se mudam os alvos ou se escolhe novos alvos para uma mágica ou habilidade (consulte a regra 115.7)."
 
 msgid "115.4. Some spells and abilities that refer to damage require “any target,” “another target,” “two targets,” or similar rather than “target [something].” These targets may be creatures, players, or planeswalkers. Other game objects, such as noncreature artifacts or spells, can’t be chosen."
-msgstr ""
+msgstr "115.4. Algumas mágicas e habilidades que se referem a dano requerem “qualquer alvo”, “outro alvo”, “dois alvos” ou algo similar a “[alguma coisa] alvo”. Esses alvos podem ser criaturas, jogadores ou planeswalkers. Outros objetos de jogo, como artefatos que não sejam criaturas ou mágicas, não podem ser escolhidos."
 
 msgid "115.5. A spell or ability on the stack is an illegal target for itself."
-msgstr ""
+msgstr "115.5. Uma mágica ou habilidade na pilha é um alvo inválido para ela mesma."
 
 msgid "115.6. A spell or ability that requires targets may allow zero targets to be chosen. Such a spell or ability is still said to require targets, but that spell or ability is targeted only if one or more targets have been chosen for it."
-msgstr ""
+msgstr "115.6. Uma mágica ou habilidade que exige alvos pode permitir que zero alvos sejam escolhidos. Tal mágica ou habilidade ainda é considerada que exige alvos, mas a mágica ou habilidade terá alvos somente se um ou mais alvos forem escolhidos pra ela."
 
 msgid "115.7. Some effects allow a player to change the target(s) of a spell or ability, and other effects allow a player to choose new targets for a spell or ability."
-msgstr ""
+msgstr "115.7. Alguns efeitos permitem que um jogador mude o(s) alvo(s) de uma mágica ou habilidade, e outros efeitos permitem que um jogador escolha novos alvos para uma mágica ou habilidade."
 
 msgid "115.7a If an effect allows a player to “change the target(s)” of a spell or ability, each target can be changed only to another legal target. If a target can’t be changed to another legal target, the original target is unchanged, even if the original target is itself illegal by then. If all the targets aren’t changed to other legal targets, none of them are changed."
-msgstr ""
+msgstr "115.7a Se um efeito permite que um jogador “mude o(s) alvo(s)” de uma mágica ou habilidade, cada alvo pode ser mudado apenas para outro alvo válido. Se um alvo não pode ser mudado para outro alvo válido, o alvo original permanece inalterado, mesmo se o alvo original for inválido neste momento. Se todos os alvos não forem mudados\n"
+"para outros alvos válido, nenhum deles é mudado."
 
 msgid "115.7b If an effect allows a player to “change a target” of a spell or ability, the process described in rule 115.7a is followed, except that only one of those targets may be changed (rather than all of them or none of them)."
 msgstr ""
