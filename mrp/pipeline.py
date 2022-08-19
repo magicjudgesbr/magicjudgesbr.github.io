@@ -6,6 +6,7 @@ import sass
 import json
 import gettext
 import re
+from requests import request
 from slugify import slugify
 from livereload import Server
 from jinja2 import Environment, FileSystemLoader, contextfilter
@@ -24,11 +25,12 @@ def copy_tree(src, dst, ignore=None):
         item_src = os.path.join(src, item)
         item_dst = os.path.join(dst, item)
         if os.path.isdir(item_src):
+            if os.path.exists(item_dst):
+                shutil.rmtree(item_dst)
             shutil.copytree(
                 item_src,
                 item_dst,
                 ignore=shutil.ignore_patterns(*ignore) if ignore is not None else ignore,
-                dirs_exist_ok=True
             )
         else:
             shutil.copy2(item_src, item_dst)
@@ -67,6 +69,7 @@ class TemplateFilters(object):
     rule_pattern = re.compile(r'((\d{3}(\.\d+\w?)?)(, [“"][\w,.\s]+[”"])?)')
     rule_section_pattern = re.compile(r'((\d), [“"][\s\w.,]+[”"])')
     symbols_pattern = re.compile(r'\{([^{}]+)\}')
+    card_img_pattern = re.compile(r'\[\[([^\[\]]+)\]\]')
 
     def __init__(self, cr, symbols):
         self.terms = []
@@ -102,6 +105,15 @@ class TemplateFilters(object):
                 print(symbol, value)
         return value
 
+    def mtg_card_image(self, value):
+        matches = self.card_img_pattern.finditer(value)
+
+        for match in reversed([m for m in matches]):
+            card_name = match.group(1)
+            if card_name:
+                value = self._wrap_card_img(value, match, card_name)
+        return value
+
     def _wrap_term(self, value, match, term):
         term = slug_filter(term)
         return f"{value[:match.start()]}<span class='tooltip term-{term}'>{value[match.start():match.end()]}</span>{value[match.end():]}"
@@ -109,6 +121,17 @@ class TemplateFilters(object):
     def _wrap_symbol(self, value, match, symbol):
         text_symbol = value[match.start():match.end()]
         return f"{value[:match.start()]}<span class='symbol'><img title={text_symbol} src='/symbols/{symbol}.png' alt='{text_symbol}'/><span>{text_symbol}</span></span>{value[match.end():]}"
+
+    def _wrap_card_img(self, value, match, card_name):
+        response = request("GET", f"https://api.scryfall.com/cards/named?exact={card_name}")
+        if response.ok:
+            payload = response.json()
+            gatherer = payload["related_uris"]["gatherer"]
+            card_img = payload["image_uris"]["normal"]
+            return f"{value[:match.start()]}<span class='card-img'><a href='{gatherer}' target='_blank'>{card_name}<span><img src='{card_img}' alt='{card_name}'s image'/></span></a></span>{value[match.end():]}"
+        else:
+            self.logger.warning(f"Card {card_name} not found!")
+        return card_name
 
     def _wrap_rule_link(self, value, match, link):
         try:
@@ -161,6 +184,45 @@ class TemplateFilters(object):
         return text
 
 
+def translate_glossary_entry(entry):
+    term = entry["term"]
+    desc = entry["desc"]
+    entries = []
+    if term == "Counter":
+        entries.append({
+            "term": translations.gettext(term),
+            "desc": [translations.gettext(desc[0])]
+        })
+        entries.append({
+            "term": "Marcadores",
+            "desc": [translations.gettext(desc[1])]
+        })
+    elif term == "Draw":
+        entries.append({
+            "term": translations.gettext(term),
+            "desc": [translations.gettext(desc[0])]
+        })
+        entries.append({
+            "term": "Empate",
+            "desc": [translations.gettext(desc[1])]
+        })
+    elif term == "Exile":
+        entries.append({
+            "term": translations.gettext(term),
+            "desc": [translations.gettext(desc[0]), translations.gettext(desc[2])]
+        })
+        entries.append({
+            "term": "Exilar",
+            "desc": [translations.gettext(desc[1])]
+        })
+    else:
+        entries.append({
+            "term": translations.gettext(entry["term"]),
+            "desc": map(translations.gettext, desc)
+        })
+    return entries
+
+
 class BuildPipeline(object):
     logger = logging.getLogger(__name__)
     src_dir = "src/"
@@ -195,6 +257,7 @@ class BuildPipeline(object):
         template_env.filters["ref_rules"] = filters.ref_rules
         template_env.filters["glossary"] = filters.glossary
         template_env.filters["mtg_symbols"] = filters.mtg_symbols
+        template_env.filters["mtg_card_image"] = filters.mtg_card_image
         template_env.filters["slug"] = slug_filter
 
         self._copy_assets()
@@ -329,12 +392,9 @@ class BuildPipeline(object):
                     if page_data["template"] == "glossary":
                         translated_glossary = []
                         for entry in self.cr["glossary"]:
-                            term = translations.gettext(entry["term"])
-                            desc = map(translations.gettext, entry["desc"])
-                            translated_glossary.append({
-                                "term": term,
-                                "desc": desc
-                            })
+                            translated_entries = translate_glossary_entry(entry)
+                            translated_glossary.extend(translated_entries)
+
                         out.write(template.render(page=page_data, **self.config, glossary=translated_glossary))
                     elif "subgroup" in page_data:
                         items = self.cr["rules"][page_data["group"]]["items"]
