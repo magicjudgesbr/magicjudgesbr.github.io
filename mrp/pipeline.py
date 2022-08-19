@@ -78,6 +78,7 @@ class TemplateFilters(object):
                 self.terms.append(translations.gettext(entry["term"]).lower())
 
         self.symbols = symbols
+        self.logger = logging.getLogger(__name__)
 
     def ref_rules(self, value):
         id, text = value.split(" ", maxsplit=1)
