@@ -8,18 +8,32 @@ $color-scheme: "light";
 .rules {
   h3 {
     font-weight: inherit;
+    padding-top: $sp-5;
+    padding-bottom: $sp-1;
+    margin-top: 0;
+    margin-bottom: 0;
   }
 
   h4 {
     text-transform: inherit;
-    margin-left: $sp-4;
+    padding-left: $sp-4;
     letter-spacing: inherit;
-    @include fs-4
+    padding-top: $sp-5;
+    padding-bottom: $sp-1;
+    margin-top: 0;
+    margin-bottom: 0;
+    @include fs-4;
   }
 
   blockquote {
     font-style: italic;
   }
+
+}
+
+.anchor-highlight {
+  background-color: lighten($link-color, 33);
+  transition: background-color 1s linear;
 }
 
 .symbol-switch {
@@ -58,8 +72,26 @@ $color-scheme: "light";
     img {
       display: none;
     }
+
     span {
       display: inherit;
     }
   }
 }
+
+.card-img a { position:relative; }
+.card-img a span { position:absolute; display:none; z-index:99; left:0; width: max-content;}
+.card-img a::after {
+  content: "";
+  width: 11px;
+  height: 11px;
+  margin-left: 4px;
+  background-image: url('/icons/external_link.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  display: inline-block;
+
+}
+.card-img a:hover span { display:block; }
+.card-img img { height: 250px;}

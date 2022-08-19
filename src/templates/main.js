@@ -484,10 +484,31 @@
         })
     }
 
+    function highlightAnchors() {
+        const hash = document.location.hash;
+        if (!hash) {
+            return;
+        }
+        const [begin, end] = hash.substr(1).split("-");
+        const firstElement = document.getElementById(begin);
+        firstElement.classList.add('anchor-highlight');
+
+        const lastElement = document.getElementById(end);
+        if (!lastElement) {
+            return;
+        }
+        let current = firstElement;
+        do {
+            current = current.nextElementSibling;
+            current.classList.add('anchor-highlight');
+        } while (current !== lastElement);
+    }
+
     // Document ready
 
     jtd.onReady(function () {
         initNav();
+        highlightAnchors();
         {%- if site.search_enabled %}
         initSearch();
         {%-endif %}

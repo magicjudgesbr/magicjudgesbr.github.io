@@ -3,3 +3,5 @@ Jinja2
 pyyaml
 libsass
 python-slugify
+tika
+pipe

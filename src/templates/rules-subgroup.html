@@ -15,7 +15,7 @@
                 </svg>
             </a>
             {% set text = rule["rule"] + " " + rule["text"] %}
-            {{ gettext(text) | ref_rules | glossary | mtg_symbols }}
+            {{ gettext(text) | ref_rules | glossary | mtg_symbols | mtg_card_image }}
         </{{ tag }}>
         {%-for note in notes %}
             <blockquote>
@@ -24,7 +24,7 @@
         {%-endfor %}
         {%-for example in examples %}
             <blockquote>
-            {{ gettext(example) | mtg_symbols }}
+            {{ gettext(example) | mtg_symbols | mtg_card_image }}
             </blockquote>
         {%-endfor %}
     {%-endfor %}
