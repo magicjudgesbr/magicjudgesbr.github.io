@@ -5,3 +5,4 @@ libsass
 python-slugify
 tika
 pipe
+requests
