@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2022-08-18 19:09\n"
+"PO-Revision-Date: 2022-08-19 18:03\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -1397,55 +1397,55 @@ msgid "115.9a An object that looks for a “[spell or ability] with a single tar
 msgstr "115.9a Um objeto que checa por uma “[mágica ou habilidade] com um único alvo” verifica o número de vezes que qualquer objeto ou jogador foi escolhido como alvo daquela mágica ou habilidade quando ela foi colocada na pilha, não o número dos seus alvos que são atualmente válidos. Se o mesmo objeto ou jogador se torna um alvo mais de uma vez, cada uma dessas ocorrências é contada separadamente."
 
 msgid "115.9b An object that looks for a “[spell or ability] that targets [something]” checks the current state of that spell or ability’s targets. If an object it targets is still in the zone it’s expected to be in or a player it targets is still in the game, that target’s current information is used, even if it’s not currently legal for that spell or ability. If an object it targets is no longer in the zone it’s expected to be in or a player it targets is no longer in the game, that target is ignored; its last known information is not used."
-msgstr ""
+msgstr "115.9b Um objeto que checa por uma “[mágica ou habilidade] que tenha [alguma coisa] como alvo” verifica o estado atual do alvo daquela mágica ou habilidade. Se um objeto que ela tem como alvo ainda está na zona onde é esperado que esteja ou um jogador que é escolhido como alvo ainda está no jogo, a informação atual do alvo é usada, mesmo que ele não é seja um alvo válido para a mágica ou habilidade nessa altura. Se um objeto que ela tem como alvo não está na zona onde é esperado que esteja ou um jogador que é escolhido como alvo não está mais no jogo, esse alvo é ignorado; sua última informação conhecida não é usada."
 
 msgid "115.9c An object that looks for a “[spell or ability] that targets only [something]” checks the number of different objects or players that were chosen as targets of that spell or ability when it was put on the stack (as modified by effects that changed those targets), not the number of those objects or players that are currently legal targets. If that number is one (even if the spell or ability targets that object or player multiple times), the current state of that spell or ability’s target is checked as described in rule 115.9b."
-msgstr ""
+msgstr "115.9c Um objeto que checa por uma “[mágica ou habilidade] que tem somente [alguma coisa] como alvo” verifica a quantidade de objetos ou jogadores diferentes que foram escolhidos como alvos daquela mágica ou habilidade quando ela foi colocada na pilha (com as modificações por efeitos que mudaram esses alvos), não o número de objetos ou jogadores que neste momento são alvos válidos. Se esse número é um (mesmo se a mágica ou habilidade tiver esse objeto ou jogador como alvo múltiplas vezes), o estado atual do alvo daquela mágica ou habilidade é verificado da maneira descrita na regra 115.9b."
 
 msgid "115.10. Spells and abilities can affect objects and players they don’t target. In general, those objects and players aren’t chosen until the spell or ability resolves. See rule 608, “Resolving Spells and Abilities.”"
-msgstr ""
+msgstr "115.10. Mágicas e habilidades podem afetar objetos e jogadores sem ter eles como alvo. Em geral, esses objetos ou jogadores não são escolhidos até a mágica ou habilidade resolver. Consulte a regra 608, “Resolvendo Mágicas e Habilidades”."
 
 msgid "115.10a Just because an object or player is being affected by a spell or ability doesn’t make that object or player a target of that spell or ability. Unless that object or player is identified by the word “target” in the text of that spell or ability, or the rule for that keyword ability, it’s not a target."
-msgstr ""
+msgstr "115.10a O fato de um objeto ou jogador ser afetado por uma mágica ou habilidade não faz com que ele seja o alvo da mágica ou habilidade. A menos que esse objeto ou jogador seja identificado pela palavra “alvo” no texto daquela mágica ou habilidade, ou pela regra daquela palavra-chave de habilidade, não é um alvo."
 
 msgid "115.10b In particular, the word “you” in an object’s text doesn’t indicate a target."
-msgstr ""
+msgstr "115.10b Em particular, a palavra “você” no texto de um objeto não indica alvos."
 
 msgid "116.1. Special actions are actions a player may take when they have priority that don’t use the stack. These are not to be confused with turn-based actions and state-based actions, which the game generates automatically. (See rule 703, “Turn-Based Actions,” and rule 704, “State-Based Actions.”)"
-msgstr ""
+msgstr "116.1. Ações especiais são ações que os jogadores podem fazer se tiverem prioridade e não usam a pilha. Elas não devem ser confundidas com as ações baseadas-no-turno nem com as ações baseadas-no-estado, essas são geradas automaticamente pelo jogo. (Consulte a regra 703, “Ações Baseadas-no-Turno” e regra 704, “Ações Baseadas-no-Estado”)."
 
 msgid "116.2. There are nine special actions:"
-msgstr ""
+msgstr "116.2. Existem nove ações especiais:"
 
 msgid "116.2a Playing a land is a special action. To play a land, a player puts that land onto the battlefield from the zone it was in (usually that player’s hand). By default, a player can take this action only once during each of their turns. A player can take this action any time they have priority and the stack is empty during a main phase of their turn. See rule 305, “Lands.”"
-msgstr ""
+msgstr "116.2a Jogar um terreno é uma ação especial. Para jogar um terreno, o jogador coloca aquele terreno no campo de batalha vindo da zona em que estava (normalmente a mão do jogador). Por padrão, um jogador pode realizar essa ação somente uma vez durante seu turno. Um jogador pode fazer esta ação a qualquer momento em que tiver prioridade e a pilha estiver vazia durante uma fase principal do seu turno. Consulte a regra 305, “Terrenos”."
 
 msgid "116.2b Turning a face-down creature face up is a special action. A player can take this action any time they have priority. See rule 707, “Face-Down Spells and Permanents.”"
-msgstr ""
+msgstr "116.2b Voltar para cima a face de uma criatura com a face voltada para baixo é uma ação especial. Um jogador pode fazer esta ação a qualquer momento em que ele tiver prioridade. Consulte a regra 707, “Mágicas e Permanentes com a Face Voltada para Baixo”)."
 
 msgid "116.2c Some effects allow a player to take an action at a later time, usually to end a continuous effect or to stop a delayed triggered ability from triggering. Doing so is a special action. A player can take such an action any time they have priority, unless that effect specifies another timing restriction, for as long as the effect allows it."
-msgstr ""
+msgstr "116.2c Alguns efeitos permitem a um jogadores fazer uma ação mais tarde, geralmente para encerrar um efeito contínuo ou impedir que uma habilidade desencadeada retardada desencadeie. Fazer isso é uma ação especial. Um jogador pode fazer esta ação a qualquer momento em que tiver prioridade, a não ser que aquele efeito especifique outra restrição de tempo, enquanto o efeito permití-lo."
 
 msgid "116.2d Some effects from static abilities allow a player to take an action to ignore the effect from that ability for a duration. Doing so is a special action. A player can take such an action any time they have priority."
-msgstr ""
+msgstr "116.2d Alguns efeitos de habilidades estáticas permitem a um jogador fazer uma ação para ignorar efeito daquela habilidade durante algum tempo. Fazer isso é uma ação especial. Um jogador pode fazer esta ação a qualquer momento em que tiver prioridade."
 
 msgid "116.2e One card (Circling Vultures) has the ability “You may discard Circling Vultures any time you could cast an instant.” Doing so is a special action. A player can take such an action any time they have priority."
-msgstr ""
+msgstr "116.2e Um card ([[card:Circling Vultures]]) possui a habilidade “Você pode descartar [[card:Circling Vultures]] a qualquer momento em que pudesse conjurar uma mágica instantânea”. Fazer isso é uma ação especial. Um jogador pode fazer essa ação em qualquer momento em que ele tiver prioridade."
 
 msgid "116.2f A player who has a card with suspend in their hand may exile that card. This is a special action. A player can take this action any time they have priority, but only if they could begin to cast that card by putting it onto the stack. See rule 702.61, “Suspend.”"
-msgstr ""
+msgstr "116.2f Um jogador que tenha um card com suspender na mão pode exilar aquele card. Fazer isso é uma ação especial. Um jogador pode fazer esta ação a qualquer momento em que tiver prioridade, mas apenas se ele pudesse começar a conjuração daquele card colocando-o na pilha. Consulte a regra 702.61, “Suspender”."
 
 msgid "116.2g A player who has chosen a companion may pay {3} to put that card from outside the game into their hand. This is a special action. A player can take this action any time they have priority and the stack is empty during a main phase of their turn, but only if they haven’t done so yet this game. (See rule 702.138, “Companion.”)"
-msgstr ""
+msgstr "116.2g Um jogador que escolheu um companheiro pode pagar {3} para colocar aquele card de fora do jogo na sua mão. Esta é uma ação especial. Um jogador pode fazer esta ação a qualquer momento em que tiver aprioridade e a pilha estiver vazia durante uma fase principal do seu turno, mas somente se não o fez ainda nesse jogo. (Consulte a regra 702.138, \"Companheiro\")."
 
 msgid "116.2h In a Planechase game, rolling the planar die is a special action. A player can take this action any time they have priority and the stack is empty during a main phase of their turn. Taking this action costs a player an amount of mana equal to the number of times they have previously taken this action on that turn. Note that this number won’t be equal to the number of times the player has rolled the planar die that turn if an effect has caused the player to roll the planar die that turn. See rule 901, “Planechase.”"
-msgstr ""
+msgstr "116.2h Num jogo de Planechase, lançar o dado planar é uma ação especial. Um jogador pode fazer esta ação a qualquer momento em que tiver prioridade e a pilha estiver vazia durante uma fase principal do seu turno. Fazer esta ação requer um pagamento de mana igual à quantidade de vezes que o jogador já realizou esta ação naquele turno. Observe que este número não será igual ao número de vezes que o jogador já rolou o dado planar naquele turno se um efeito fez com que o jogador rolasse o dado planar naquele turno. Consulte a regra 901, “Planechase”."
 
 msgid "116.2i In a Conspiracy Draft game, turning a face-down conspiracy card in the command zone face up is a special action. A player can take this action any time they have priority. See rule 905.4a."
-msgstr ""
+msgstr "116.2i Em um jogo Draft de Conspiracy, voltar para cima a face de um card de conspiracy na zona de comando é uma ação especial. Um jogador pode tomar esta ação a qualquer momento que ele ou ela tenha a prioridade. Consulte a regra 905.4a."
 
 msgid "116.3. If a player takes a special action, that player receives priority afterward."
-msgstr ""
+msgstr "116.3. Se um jogador fizer uma ação especial, aquele jogador recebe prioridade após isso."
 
 msgid "117.1. Unless a spell or ability is instructing a player to take an action, which player can take actions at any given time is determined by a system of priority. The player with priority may cast spells, activate abilities, and take special actions."
 msgstr ""
