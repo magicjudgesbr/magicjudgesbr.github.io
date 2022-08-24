@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2022-08-19 18:03\n"
+"PO-Revision-Date: 2022-08-24 23:39\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -743,7 +743,7 @@ msgid "104.5. If a player loses the game, that player leaves the game. If the ga
 msgstr "104.5. Se um jogador perde o jogo, aquele jogador deixa o jogo. Se o jogo acaba empatado para um jogador, aquele jogador deixa o jogo. As regras de multijogador lidam com o que acontece quando um jogador deixa o jogo; consulte a regra 800.4."
 
 msgid "104.6. One card (Karn Liberated) restarts the game. All players still in the game when it restarts then immediately begin a new game. See rule 719, “Restarting the Game.”"
-msgstr "104.6. Um card ([[Karn Liberated]]) reinicia o jogo. Todos os jogadores permanecem no jogo quando ele é\n"
+msgstr "104.6. Um card ([[card:Karn Liberated]]) reinicia o jogo. Todos os jogadores permanecem no jogo quando ele é\n"
 "reiniciado e imediatamente inicia-se um novo jogo. Consulte a regra 719, “Reiniciando o jogo”."
 
 msgid "105.1. There are five colors in the Magic game: white, blue, black, red, and green."
@@ -798,14 +798,14 @@ msgid "106.5. If an ability would produce one or more mana of an undefined type,
 msgstr "106.5. Se uma habilidade produziria um ou mais um mana de um tipo indefinido, ao invés disso, ela não produz nenhum mana."
 
 msgid "Example: Meteor Crater has the ability “{T}: Choose a color of a permanent you control. Add one mana of that color.” If you control no colored permanents, activating Meteor Crater’s mana ability produces no mana."
-msgstr "Exemplo: [[Meteor Crater]] possui a habilidade “{T}: Escolha a cor de uma permanente que você controla. Adicione uma mana daquela cor”. Se você controla permanentes sem cor, a habilidade ativada de [[Meteor Crater]] não produz mana."
+msgstr "Exemplo: [[card:Meteor Crater]] possui a habilidade “{T}: Escolha a cor de uma permanente que você controla. Adicione uma mana daquela cor”. Se você controla permanentes sem cor, a habilidade ativada de [[card:Meteor Crater]] não produz mana."
 
 msgid "106.6. Some spells or abilities that produce mana restrict how that mana can be spent, have an additional effect that affects the spell or ability that mana is spent on, or create a delayed triggered ability (see rule 603.7a) that triggers when that mana is spent. This doesn’t affect the mana’s type."
 msgstr "106.6. Algumas mágicas ou habilidades que produzem mana restringem como essa mana pode ser utilizada, ou possuem um efeito adicional que afeta a mágica na qual essa mana foi utilizada, ou cria uma habilidade desencadeada atrasada (consulte a regra 603.7a) que desencadeia quando aquela mana é utilizada. Isso não afeta o tipo da mana."
 
 msgid "Example: A player’s mana pool contains {R}{G} which can be spent only to cast creature spells. That player activates Doubling Cube’s ability, which reads “{3}, {T}: Double the amount of each type of unspent mana you have.” The player’s mana pool now has {R}{R}{G}{G} in it, {R}{G} of which can be spent on anything."
 msgstr "Exemplo: A reserva de mana de um jogador contém {R}{G} que só podem ser utilizadas para conjurar mágicas de\n"
-"criatura. Esse jogador ativa a habilidade de [[Doubling Cube]], que diz “{3}, {T}: Duplique a quantidade de cada tipo de mana não gasto que você tiver”. A reserva de mana daquele jogador agora tem {R}{R}{G}{G}, sendo que {R}{G} pode ser utilizado em qualquer coisa."
+"criatura. Esse jogador ativa a habilidade de [[card:Doubling Cube]], que diz “{3}, {T}: Duplique a quantidade de cada tipo de mana não gasto que você tiver”. A reserva de mana daquele jogador agora tem {R}{R}{G}{G}, sendo que {R}{G} pode ser utilizado em qualquer coisa."
 
 msgid "106.6a Some replacement effects increase the amount of mana produced by a spell or ability. In these cases, any restrictions or additional effects created by the spell or ability will apply to all mana produced. If the spell or ability creates a delayed triggered ability that triggers when the mana is spent, a separate delayed triggered ability is created for each mana produced. If the spell or ability creates a continuous effect or replacement effect if the mana is spent, a separate effect is created once for each mana produced."
 msgstr "106.6a Alguns efeitos de substituição aumentam a quantidade de mana produzida por uma mágica ou habilidade. Nesses casos, quaisquer restrições ou efeitos adicionais criados pela mágica ou habilidade serão aplicados a todo mana produzido. Se a mágica ou habilidade cria uma habilidade desencadeada retardada que é desencadeada quando o mana é gasto, uma habilidade desencadeada retardada separada é criada para cada mana produzido. Se a mágica ou habilidade criar um efeito contínuo ou efeito de substituição se o mana for gasto, um efeito separado é criado uma vez para cada mana produzido."
@@ -814,8 +814,8 @@ msgid "106.7. Some abilities produce mana based on the type of mana another perm
 msgstr "106.7. Algumas habilidades produzem mana, baseada no tipo de mana que outra permanente ou permanentes “poderiam produzir”. O tipo de mana que uma permanente poderia produzir a qualquer momento inclui qualquer tipo de mana que uma habilidade daquela permanente poderia produzir se a habilidade resolvesse naquele momento, levando em conta qualquer efeito de substituição em qualquer ordem possível. Ignore se quaisquer custos da habilidade poderiam ou não ser pagos. Se aquela permanente não produziria nenhuma mana sob essas condições, ou nenhum tipo de mana puder ser definido dessa forma, ela não poderia produzir nenhum tipo de mana."
 
 msgid "Example: Exotic Orchard has the ability “{T}: Add one mana of any color that a land an opponent controls could produce.” If your opponent controls no lands, activating Exotic Orchard’s mana ability will produce no mana. The same is true if you and your opponent each control no lands other than Exotic Orchards. However, if you control a Forest and an Exotic Orchard, and your opponent controls an Exotic Orchard, then each Exotic Orchard could produce {G}."
-msgstr "Exemplo: [[Exotic Orchard]] possui a habilidade “{T}: Adicione uma mana de qualquer cor que um terreno controlado por um oponente poderia produzir”. Se seu oponente não controla nenhum terreno, ativando a habilidade de mana de [[Exotic Orchard]] não será produzido nenhum mana. O mesmo é verdade se você e seu\n"
-"oponente não controlarem nenhum terreno além de [[Exotic Orchard]]. Entretanto, se você controlar uma Floresta e um [[Exotic Orchard]], e seu oponente controla um [[Exotic Orchard]] então cada [[Exotic Orchard]] pode produzir {G}."
+msgstr "Exemplo: [[card:Exotic Orchard]] possui a habilidade “{T}: Adicione uma mana de qualquer cor que um terreno controlado por um oponente poderia produzir”. Se seu oponente não controla nenhum terreno, ativando a habilidade de mana de [[card:Exotic Orchard]] não será produzido nenhum mana. O mesmo é verdade se você e seu\n"
+"oponente não controlarem nenhum terreno além de [[card:Exotic Orchard]]. Entretanto, se você controlar uma Floresta e um [[card:Exotic Orchard]], e seu oponente controla um [[card:Exotic Orchard]] então cada [[card:Exotic Orchard]] pode produzir {G}."
 
 msgid "106.8. If an effect would add mana represented by a hybrid mana symbol to a player’s mana pool, that player chooses one half of that symbol. If a colored half is chosen, one mana of that color is added to that player’s mana pool. If a generic half is chosen, an amount of colorless mana represented by that half’s number is added to that player’s mana pool."
 msgstr "106.8. Se um efeito adicionaria mana representado por um símbolo de mana híbrido à reserva de mana de um jogador, aquele jogador escolhe uma metade daquele símbolo. Se a metade colorida for escolhida uma mana daquela cor é adicionada à reserva de mana daquele jogador. Se a metade sem cor for escolhida uma quantidade de mana sem cor representada pelo número dessa metade é adicionada à reserva de mana daquele jogador."
@@ -839,7 +839,7 @@ msgid "106.12b A replacement effect that applies if a permanent “is tapped for
 msgstr "106.12b Um efeito de substituição que se aplica se uma permanente “for virada pra mana” ou virada pra mana de um tipo específico e/ou quantidade modifica o evento de produção de mana enquanto tal habilidade está resolvendo e produzindo mana ou o tipo especificado e/ou quantidade de mana."
 
 msgid "106.13. One card (Drain Power) causes one player to lose unspent mana and another to add “the mana lost this way.” (Note that these may be the same player.) This empties the former player’s mana pool and causes the mana emptied this way to be put into the latter player’s mana pool. Which permanents, spells, and/or abilities produced that mana are unchanged, as are any restrictions or additional effects associated with any of that mana."
-msgstr "106.13. Um card ([[Drain Power]]) faz com que um jogador perca toda mana não gasta e que outro jogador adicione \"a mana perdida desta maneira” (Observe que estes jogadores podem ser o mesmo). Isso esvazia a reserva de mana do primeiro jogador e faz com que o mana esvaziado desta maneira seja colocado na reserva de mana do segundo jogador. Quais permanentes, mágicas, e/ou habilidades que produziram aqueles manas permanecem inalterados, assim como quaisquer restrições ou efeitos adicionais associados a quaisquer daqueles manas."
+msgstr "106.13. Um card ([[card:Drain Power]]) faz com que um jogador perca toda mana não gasta e que outro jogador adicione \"a mana perdida desta maneira” (Observe que estes jogadores podem ser o mesmo). Isso esvazia a reserva de mana do primeiro jogador e faz com que o mana esvaziado desta maneira seja colocado na reserva de mana do segundo jogador. Quais permanentes, mágicas, e/ou habilidades que produziram aqueles manas permanecem inalterados, assim como quaisquer restrições ou efeitos adicionais associados a quaisquer daqueles manas."
 
 msgid "107.1. The only numbers the Magic game uses are integers."
 msgstr "107.1. Os únicos números que o jogo de Magic utiliza são inteiros."
@@ -855,10 +855,10 @@ msgstr "Exemplo: Se uma criatura 3/4 recebe -5/-0, ela é uma criatura -2/4. Ela
 "de poder e resistência é 2. Dando +3/+0 aumentaria seu poder a 1."
 
 msgid "Example: Viridian Joiner is a 1/2 creature with the ability “{T}: Add an amount of {G} equal to Viridian Joiner’s power.” An effect gives it -2/-0, then its ability is activated. The ability adds no mana to your mana pool."
-msgstr "Exemplo: [[Viridian Joiner]] é uma criatura 1/2 com a habilidade “{T}: Adicione uma quantidade de {G}, igual ao poder de [[Viridian Joiner]]”. Um efeito dá a ele -2/-0, e depois a habilidade é ativada. A habilidade não adiciona mana à sua reserva de mana."
+msgstr "Exemplo: [[card:Viridian Joiner]] é uma criatura 1/2 com a habilidade “{T}: Adicione uma quantidade de {G}, igual ao poder de [[card:Viridian Joiner]]”. Um efeito dá a ele -2/-0, e depois a habilidade é ativada. A habilidade não adiciona mana à sua reserva de mana."
 
 msgid "Example: Chameleon Colossus is a 4/4 creature with the ability “{2}{G}{G}: Chameleon Colossus gets +X/+X until end of turn, where X is its power.” An effect gives it -6/-0, then its ability is activated. It remains a -2/4 creature. It doesn’t become -4/2."
-msgstr "Exemplo: [[Chameleon Colossus]] é uma criatura 4/4 com a habilidade “{2}{G}{G}: [[Chameleon Colossus]] recebe +X/+X até o final do turno, sendo X igual ao seu poder”. Se um efeito dá a ele -6/-0, então sua habilidade é ativada. Ele permanecerá como uma criatura -2/4. Ele não se torna -4/2."
+msgstr "Exemplo: [[card:Chameleon Colossus]] é uma criatura 4/4 com a habilidade “{2}{G}{G}: [[card:Chameleon Colossus]] recebe +X/+X até o final do turno, sendo X igual ao seu poder”. Se um efeito dá a ele -6/-0, então sua habilidade é ativada. Ele permanecerá como uma criatura -2/4. Ele não se torna -4/2."
 
 msgid "107.1c If a rule or ability instructs a player to choose “any number,” that player may choose any positive number or zero."
 msgstr "107.1c Se uma regra ou habilidade instrui um jogador a escolher “qualquer número”, aquele jogador pode escolher\n"
@@ -1448,37 +1448,37 @@ msgid "116.3. If a player takes a special action, that player receives priority 
 msgstr "116.3. Se um jogador fizer uma ação especial, aquele jogador recebe prioridade após isso."
 
 msgid "117.1. Unless a spell or ability is instructing a player to take an action, which player can take actions at any given time is determined by a system of priority. The player with priority may cast spells, activate abilities, and take special actions."
-msgstr ""
+msgstr "117.1. A não ser que uma mágica ou habilidade instrua um jogador a fazer uma ação, qual jogador pode fazer ações é determinado por um sistema de prioridade. O jogador com prioridade pode conjurar mágicas, ativar habilidades e fazer ações especiais."
 
 msgid "117.1a A player may cast an instant spell any time they have priority. A player may cast a noninstant spell during their main phase any time they have priority and the stack is empty."
-msgstr ""
+msgstr "117.1a Um jogador pode conjurar uma mágica instantânea a qualquer momento que ele tenha prioridade. Um jogador pode conjurar mágicas que não sejam mágicas instantâneas durante sua fase principal a qualquer momento que ele tenha prioridade e a pilha esteja vazia."
 
 msgid "117.1b A player may activate an activated ability any time they have priority."
-msgstr ""
+msgstr "117.1b Um jogador pode ativar uma habilidade ativada a qualquer momento que ele tenha prioridade."
 
 msgid "117.1c A player may take some special actions any time they have priority. A player may take other special actions during their main phase any time they have priority and the stack is empty. See rule 116, “Special Actions.”"
-msgstr ""
+msgstr "117.1c Um jogador pode fazer algumas ações especiais a qualquer momento que ele tenha prioridade. Um jogador pode fazer outras ações especiais durante sua fase principal a qualquer momento que ele tenha prioridade e a pilha esteja vazia. Consulte a regra 116, “Ações Especiais”."
 
 msgid "117.1d A player may activate a mana ability whenever they have priority, whenever they are casting a spell or activating an ability that requires a mana payment, or whenever a rule or effect asks for a mana payment (even in the middle of casting or resolving a spell or activating or resolving an ability)."
-msgstr ""
+msgstr "117.1d Um jogador pode ativar uma habilidade de mana sempre que ele tiver prioridade, sempre que ele conjurar uma mágica ou ativar uma habilidade que exige um pagamento de mana, ou sempre que uma regra ou efeito solicitar um pagamento de mana (mesmo no meio da conjuração ou resolução de uma mágica ou da ativação ou resolução de uma habilidade)."
 
 msgid "117.2. Other kinds of abilities and actions are automatically generated or performed by the game rules, or are performed by players without receiving priority."
-msgstr ""
+msgstr "117.2. Outros tipos de habilidades e ações são geradas ou executadas automaticamente pelas regras do jogo, ou são executadas por jogadores sem o recebimento da prioridade."
 
 msgid "117.2a Triggered abilities can trigger at any time, including while a spell is being cast, an ability is being activated, or a spell or ability is resolving. (See rule 603, “Handling Triggered Abilities.”) However, nothing actually happens at the time an ability triggers. Each time a player would receive priority, each ability that has triggered but hasn’t yet been put on the stack is put on the stack. See rule 117.5."
-msgstr ""
+msgstr "117.2a Habilidades desencadeadas podem desencadear a qualquer momento, inclusive enquanto uma mágica é conjurada, uma habilidade está sendo ativada ou uma mágica ou habilidade está resolvendo (Consulte a regra 603, “Lidando com Habilidades Desencadeadas”). No entanto, nada realmente acontece no momento em que a habilidade desencadeia. Cada vez que um jogador receberia a prioridade, cada habilidade que desencadeou mas ainda não foi colocada na pilha é colocada na pilha. Consulte a regra 117.5."
 
 msgid "117.2b Static abilities continuously affect the game. Priority doesn’t apply to them. (See rule 604, “Handling Static Abilities,” and rule 611, “Continuous Effects.”)"
-msgstr ""
+msgstr "117.2b Habilidades estáticas afetam continuamente o jogo. Prioridade não se aplica a elas. (Consulte a regra 604, “Lidando com Habilidades Estáticas” e a regra 611, “Efeitos Contínuos”)."
 
 msgid "117.2c Turn-based actions happen automatically when certain steps or phases begin. They’re dealt with before a player would receive priority. See rule 117.3a. Turn-based actions also happen automatically when each step and phase ends; no player receives priority afterward. See rule 703, “Turn-Based Actions.”"
-msgstr ""
+msgstr "117.2c Ações baseadas-no-turno acontecem automaticamente quando determinadas etapas ou fases começam. Elas são executadas antes que um jogador receberia prioridade. Consulte a regra 117.3a. Ações baseadas-no-turno também acontecem automaticamente quando cada etapa ou fase termina; após isso nenhum jogador recebe prioridade. Consulte a regra 703. “Ações Baseadas-no-Turno”."
 
 msgid "117.2d State-based actions happen automatically when certain conditions are met. See rule 704. They’re dealt with before a player would receive priority. See rule 117.5."
-msgstr ""
+msgstr "117.2d Ações baseadas-no-estado acontecem automaticamente quando determinadas condições são satisfeitas. Consulte a regra 704. Elas são executadas antes que um jogador receberia a prioridade. Consulte a regra 117.5."
 
 msgid "117.2e Resolving spells and abilities may instruct players to make choices or take actions, or may allow players to activate mana abilities. Even if a player is doing so, no player has priority while a spell or ability is resolving. See rule 608, “Resolving Spells and Abilities.”"
-msgstr ""
+msgstr "117.2e A resolução de mágicas e habilidades pode instruir os jogadores a tomarem decisões ou fazerem ações, ou pode permitir aos jogadores ativarem habilidades de mana. Mesmo que um jogador esteja fazendo isso, nenhum jogador recebe prioridade enquanto uma mágica ou habilidade está resolvendo. Consulte a regra 608, \"Resolvendo Mágicas e Habilidades”."
 
 msgid "117.3. Which player has priority is determined by the following rules:"
 msgstr ""
