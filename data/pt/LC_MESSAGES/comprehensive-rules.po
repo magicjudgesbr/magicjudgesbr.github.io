@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2022-08-25 21:56\n"
+"PO-Revision-Date: 2022-08-25 23:38\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -1520,91 +1520,93 @@ msgid "118.3a Paying mana is done by removing the indicated mana from a player�
 msgstr "118.3a O pagamento de mana é feito através da remoção do mana indicado da reserva de mana de um jogador (os jogadores podem sempre pagar 0 mana). Se houver mana remanescente na reserva de mana de um jogador depois de fazer esse pagamento, o jogador anuncia que mana ainda está lá."
 
 msgid "118.3b Paying life is done by subtracting the indicated amount of life from a player’s life total. (Players can always pay 0 life.)"
-msgstr ""
+msgstr "118.3b Pagar pontos de vida é feito subtraindo-se a quantidade indicada de pontos de vida do total de pontos de vida de um jogador (os jogadores podem sempre pagar 0 pontos de vida)."
 
 msgid "118.3c Activating mana abilities is not mandatory, even if paying a cost is."
-msgstr ""
+msgstr "118.3c Ativar habilidade de mana não é obrigatório, mesmo que pagar um custo seja."
 
 msgid "Example: A player controls Lodestone Golem, which says “Nonartifact spells cost {1} more to cast.” Another player removes the last time counter from a suspended sorcery card. That player must cast that spell if able, but doing so costs {1}. The player is forced to pay that cost if enough mana is in their mana pool, but the player isn’t forced to activate a mana ability to produce that mana. If they don’t, the card simply remains exiled."
-msgstr ""
+msgstr "Exemplo: Um jogador controla [[card:Lodestone Golem]], que diz “As mágicas que não sejam de artefato custam {1} a mais para jogar”. Outro jogador remove o último marcador temporal de um card de feitiço suspenso. Esse jogador deve conjurar aquela mágica se for capaz, mas fazer isso custa {1}. O jogador é forçado a pagar aquele custo se houver mana suficiente em sua reserva de mana, mas o jogador não é forçado a ativar uma habilidade de mana para produzir esse mana. Se ele não o fizer, o card simplesmente permanece exilado."
 
 msgid "118.4. Some costs include an {X} or an X. See rule 107.3."
-msgstr ""
+msgstr "118.4. Alguns custos incluem um {X} ou um X. Consulte a regra 107.3."
 
 msgid "118.5. Some costs are represented by {0}, or are reduced to {0}. The action necessary for a player to pay such a cost is the player’s acknowledgment that they are paying it. Even though such a cost requires no resources, it’s not automatically paid."
-msgstr ""
+msgstr "118.5. Alguns custos são representados por {0} ou são reduzidos a {0}. A ação necessária para um jogador pagar tais custos é o reconhecimento do jogador que ele está pagando isso. Mesmo que tal custo não necessite de recursos, ele não é pago automaticamente."
 
 msgid "118.5a A spell whose mana cost is {0} must still be cast the same way as one with a cost greater than zero; it won’t cast itself automatically. The same is true for an activated ability whose cost is {0}."
-msgstr ""
+msgstr "118.5a Uma mágica cujo custo de mana é {0} deve ainda ser conjurada da mesma forma que uma com custo maior que zero; a mágica não se conjura automaticamente. O mesmo é verdadeiro para uma habilidade ativada cujo custo é {0}."
 
 msgid "118.6. Some objects have no mana cost. This represents an unpayable cost. An ability can also have an unpayable cost if its cost is based on the mana cost of an object with no mana cost. Attempting to cast a spell or activate an ability that has an unpayable cost is a legal action. However, attempting to pay an unpayable cost is an illegal action."
-msgstr ""
+msgstr "118.6. Alguns objetos não tem custo de mana. Isso representa um custo impagável. Uma habilidade também pode ter um custo impagável, se o seu custo é baseado no custo de mana de uma mágica sem custo de mana. Tentar conjurar uma mágica ou ativar uma habilidade que tem um custo impagável é uma ação válida. Entretanto, tentar pagar um custo impagável é uma ação inválida."
 
 msgid "118.6a If an unpayable cost is increased by an effect or an additional cost is imposed, the cost is still unpayable. If an alternative cost is applied to an unpayable cost, including an effect that allows a player to cast a spell without paying its mana cost, the alternative cost may be paid."
-msgstr ""
+msgstr "118.6a Se um custo impagável é aumentado por um efeito ou um custo adicional é imposto, o custo ainda é impagável. Se um custo alternativo é aplicado a um custo impagável, incluindo um efeito que permite a um jogador conjurar uma mágica sem pagar seu custo de mana, o custo alternativo pode ser pago."
 
 msgid "118.7. What a player actually needs to do to pay a cost may be changed or reduced by effects. If the mana component of a cost is reduced to nothing by cost reduction effects, it’s considered to be {0}. Paying a cost changed or reduced by an effect counts as paying the original cost."
-msgstr ""
+msgstr "118.7. O que um jogador realmente precisa fazer para pagar um custo pode ser alterado ou reduzido por efeitos. Se o componente de mana do custo é reduzido a nada por efeitos de redução de custos, considera-se que ele é {0}. Pagar um custo alterado ou reduzido por um efeito conta como pagar o custo original."
 
 msgid "118.7a Effects that reduce a cost by an amount of generic mana affect only the generic mana component of that cost. They can’t affect the colored or colorless mana components of that cost."
-msgstr ""
+msgstr "118.7a Efeitos que reduzem um custo em uma quantidade de mana genérica afetam apenas o componente de mana genérico daquele custo. Eles não afetam os componente de mana colorido ou incolor daquele custo."
 
 msgid "118.7b If a cost is reduced by an amount of colored or colorless mana, but the cost doesn’t require mana of that type, the cost is reduced by that amount of generic mana."
-msgstr ""
+msgstr "118.7b Se um custo é reduzido por uma quantidade de mana colorido ou incolor, mas o custo não requer mana desse tipo, o custo é reduzido por essa quantidade de mana genérica."
 
 msgid "118.7c If a cost is reduced by an amount of colored mana that exceeds its mana component of that color, the cost’s mana component of that color is reduced to nothing and the cost’s generic mana component is reduced by the difference."
-msgstr ""
+msgstr "118.7c Se um custo é reduzido por uma quantidade de mana colorido que excede seu componente de mana daquela cor, o componente daquela cor do custo de mana é reduzido a nada e o componente de mana genérico daquele custo é reduzido pela diferença."
 
 msgid "118.7d If a cost is reduced by an amount of colorless mana that exceeds its colorless mana component, the cost’s colorless mana component is reduced to nothing and the cost’s generic mana component is reduced by the difference."
-msgstr ""
+msgstr "118.7d Se um custo é reduzido por uma quantidade de mana incolor que excede seu componente de mana incolor, o componente do custo de mana incolor é reduzido a zero e o componente de mana genérico do custo é reduzido pela diferença."
 
 msgid "118.7e If a cost is reduced by an amount of mana represented by a hybrid mana symbol, the player paying that cost chooses one half of that symbol at the time the cost reduction is applied (see rule 601.2f). If a colored half is chosen, the cost is reduced by one mana of that color. If a generic half is chosen, the cost is reduced by an amount of generic mana equal to that half’s number."
-msgstr ""
+msgstr "118.7e Se um custo é reduzido por uma quantidade de mana representada por um símbolo de mana híbrido, o jogador pagando esse custo escolhe uma metade daquele símbolo no momento em que a redução de custos é aplicada (consulte a regra 601.2f). Se uma metade colorida é escolhida, o custo é reduzido em um mana daquela cor. Se um lado genérico é\n"
+"escolhido, o custo é reduzido por uma quantidade de mana genérico igual ao número daquele lado."
 
 msgid "118.7f If a cost is reduced by an amount of mana represented by a Phyrexian mana symbol, the cost is reduced by one mana of that symbol’s color."
-msgstr ""
+msgstr "118.7f Se um custo é reduzido por uma quantidade de mana representado por um símbolo de mana Phyrexiano, o custo é reduzido em um mana da cor daquele símbolo."
 
 msgid "118.7g If a cost is reduced by an amount of mana represented by one or more snow mana symbols, the cost is reduced by that much generic mana."
-msgstr ""
+msgstr "118.7g Se um custo é reduzido por uma quantidade de mana representado por um ou mais símbolos de mana nevada, o custo é reduzido por essa quantidade de mana genérica."
 
 msgid "118.8. Some spells and abilities have additional costs. An additional cost is a cost listed in a spell’s rules text, or applied to a spell or ability from another effect, that its controller must pay at the same time they pay the spell’s mana cost or the ability’s activation cost. Note that some additional costs are listed in keywords; see rule 702."
-msgstr ""
+msgstr "118.8. Algumas mágicas e habilidades têm custos adicionais. Um custo adicional é um custo listado no texto de regras da mágica, ou aplicado a uma mágica ou habilidade de outro efeito, que o seu controlador tem que pagar ao mesmo tempo em que paga o custo de mana da mágica ou o custo de ativação da habilidade. Observe que alguns custos adicionais estão listados em palavras-chave; consulte a regra 702."
 
 msgid "118.8a Any number of additional costs may be applied to a spell as it’s being cast or to an ability as it’s being activated. The controller of the spell or ability announces their intentions to pay any or all of those costs as described in rule 601.2b."
-msgstr ""
+msgstr "118.8a Qualquer número de custos adicionais podem ser aplicados a uma mágica que está sendo conjurada ou a uma habilidade que está sendo ativada. O controlador da mágica ou habilidade anuncia a sua intenção de pagar qualquer um ou todos esses custos, como descrito na regra 601.2b."
 
 msgid "118.8b Some additional costs are optional."
-msgstr ""
+msgstr "118.8b Alguns custos adicionais são opcionais."
 
 msgid "118.8c If an effect instructs a player to cast a spell “if able,” and that spell has a mandatory additional cost that includes actions involving cards with a stated quality in a hidden zone, the player isn’t required to cast that spell, even if those cards are present in that zone."
-msgstr ""
+msgstr "118.8c Se um efeito instrui um jogador a conjurar uma mágica “se for capaz”, e aquela mágica tem um custo adicional obrigatório que inclua ações envolvendo cards com certa qualidade numa zona não revelada, o jogador não é obrigado a conjurar aquela mágica, mesmo se esses cards estejam presentes naquela zona."
 
 msgid "118.8d Additional costs don’t change a spell’s mana cost, only what its controller has to pay to cast it. Spells and abilities that ask for that spell’s mana cost still see the original value."
-msgstr ""
+msgstr "118.8d Custos adicionais não alteram o custo de mana de uma mágica, apenas o que seu controlador tem que pagar para conjurar aquela mágica. Mágicas e habilidades que perguntam pelo custo de mana da mágica ainda enxergarão o seu valor original."
 
 msgid "118.9. Some spells have alternative costs. An alternative cost is a cost listed in a spell’s text, or applied to it from another effect, that its controller may pay rather than paying the spell’s mana cost. Alternative costs are usually phrased, “You may [action] rather than pay [this object’s] mana cost,” or “You may cast [this object] without paying its mana cost.” Note that some alternative costs are listed in keywords; see rule 702."
-msgstr ""
+msgstr "118.9. Algumas mágicas têm custos alternativos. Um custo alternativo é um custo listado no texto de uma mágica, ou aplicado a ela de outro efeito, que seu controlador pode pagar ao invés de pagar o custo de mana da mágica. Custos alternativos geralmente são escritos da seguinte maneira “Você pode [ação] em vez de pagar o custo de mana [deste objeto]” ou “Você\n"
+"pode conjurar [esse objeto] sem pagar seu custo de mana”. Observe que alguns custos alternativos são listados em palavras-chave; consulte a regra 702."
 
 msgid "118.9a Only one alternative cost can be applied to any one spell as it’s being cast. The controller of the spell announces their intentions to pay that cost as described in rule 601.2b."
-msgstr ""
+msgstr "118.9a Apenas um custo alternativo pode ser aplicado a qualquer mágica quando ela é conjurada. O controlador da mágica anuncia sua intenção de pagar aquele custo, como descrito na regra 601.2b."
 
 msgid "118.9b Alternative costs are generally optional. An effect that allows you to cast a spell may require a certain alternative cost to be paid."
-msgstr ""
+msgstr "118.9b Custos alternativos geralmente são opcionais. Um efeito que permiti conjurar uma mágica pode exigir que algum custo alternativo seja pago."
 
 msgid "118.9c An alternative cost doesn’t change a spell’s mana cost, only what its controller has to pay to cast it. Spells and abilities that ask for that spell’s mana cost still see the original value."
-msgstr ""
+msgstr "118.9c Um custo alternativo não altera o custo de mana da mágica, apenas o que seu controlador tem que pagar para conjurar aquela mágica. Mágicas e habilidades que perguntam pelo custo de mana da mágica ainda enxergarão seu valor original."
 
 msgid "118.9d If an alternative cost is being paid to cast a spell, any additional costs, cost increases, and cost reductions that affect that spell are applied to that alternative cost. (See rule 601.2f.)"
-msgstr ""
+msgstr "118.9d Se um custo alternativo está sendo pago para conjurar uma mágica, quaisquer custos adicionais, aumentos de custos e reduções de custos que afetem a mágica são aplicadas para esse custo alternativo. (Consulte a regra 601.2f)."
 
 msgid "118.10. Each payment of a cost applies to only one spell, ability, or effect. For example, a player can’t sacrifice just one creature to activate the activated abilities of two permanents that each require sacrificing a creature as a cost. Also, the resolution of a spell or ability doesn’t pay another spell or ability’s cost, even if part of its effect is doing the same thing the other cost asks for."
-msgstr ""
+msgstr "118.10. Cada pagamento de um custo aplica-se a apenas uma mágica, habilidade ou efeito. Por exemplo, um jogador não pode sacrificar apenas uma criatura para ativar as habilidades ativadas de duas permanentes que exigem cada uma sacrificar uma criatura como um custo. Além disso, a resolução de uma mágica ou habilidade não paga o custo de outra mágica ou habilidade, mesmo que parte de seu efeito seja fazer a mesma coisa que o outro custo pede."
 
 msgid "118.11. The actions performed when paying a cost may be modified by effects. Even if they are, meaning the actions that are performed don’t match the actions that are called for, the cost has still been paid."
-msgstr ""
+msgstr "118.11. As ações executadas quando se paga um custo podem ser modificada por efeitos. Caso isso aconteça, as ações realizadas não corresponderão às ações que eram esperadas, porém os custos terão sido pagos."
 
 msgid "Example: A player controls Psychic Vortex, an enchantment with a cumulative upkeep cost of “Draw a card,” and Obstinate Familiar, a creature that says “If you would draw a card, you may skip that draw instead.” The player may decide to pay Psychic Vortex’s cumulative upkeep cost and then draw no cards instead of drawing the appropriate amount. The cumulative upkeep cost has still been paid."
-msgstr ""
+msgstr "Exemplo: Um jogador controla [[card:Psychic Vortex]], um encantamento com um custo de manutenção cumulativa de “Compre um card” e [[card:Obstinate Familiar]], uma criatura que diz “Se você fosse comprar um card, em vez disso, você pode deixar de comprá-lo”. O jogador pode decidir pagar o custo de manutenção cumulativa de Vórtice Psíquico e então não comprar nenhum card ao invés de comprar o montante apropriado. O custo de manutenção cumulativa terá sido pago."
 
 msgid "118.12. Some spells, activated abilities, and triggered abilities read, “[Do something]. If [a player] [does, doesn’t, or can’t], [effect].” or “[A player] may [do something]. If [that player] [does, doesn’t, or can’t], [effect].” The action [do something] is a cost, paid when the spell or ability resolves. The “If [a player] [does, doesn’t, or can’t]” clause checks whether the player chose to pay an optional cost or started to pay a mandatory cost, regardless of what events actually occurred."
 msgstr ""
