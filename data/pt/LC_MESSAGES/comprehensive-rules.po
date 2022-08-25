@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2022-08-24 23:39\n"
+"PO-Revision-Date: 2022-08-25 00:35\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -1481,31 +1481,31 @@ msgid "117.2e Resolving spells and abilities may instruct players to make choice
 msgstr "117.2e A resolução de mágicas e habilidades pode instruir os jogadores a tomarem decisões ou fazerem ações, ou pode permitir aos jogadores ativarem habilidades de mana. Mesmo que um jogador esteja fazendo isso, nenhum jogador recebe prioridade enquanto uma mágica ou habilidade está resolvendo. Consulte a regra 608, \"Resolvendo Mágicas e Habilidades”."
 
 msgid "117.3. Which player has priority is determined by the following rules:"
-msgstr ""
+msgstr "117.3. Qual jogador tem prioridade é determinado pelas seguintes regras:"
 
 msgid "117.3a The active player receives priority at the beginning of most steps and phases, after any turn-based actions (such as drawing a card during the draw step; see rule 703) have been dealt with and abilities that trigger at the beginning of that phase or step have been put on the stack. No player receives priority during the untap step. Players usually don’t get priority during the cleanup step (see rule 514.3)."
-msgstr ""
+msgstr "117.3a O jogador ativo recebe prioridade no início da maioria das etapas e fases, após quaisquer ações baseadas-no-turno serem executadas (como a compra de um card durante a etapa de compra; consulte a regra 703) e habilidades que foram desencadeadas no início daquela fase ou etapa serem colocadas na pilha. Nenhum jogador recebe prioridade durante a etapa de desvirar. Os jogadores normalmente não recebem prioridade durante a etapa de limpeza (consulte a regra 514.3)."
 
 msgid "117.3b The active player receives priority after a spell or ability (other than a mana ability) resolves."
-msgstr ""
+msgstr "117.3b O jogador ativo recebe prioridade após a resolução de uma mágica ou habilidade (que não seja uma habilidade de mana)."
 
 msgid "117.3c If a player has priority when they cast a spell, activate an ability, or take a special action, that player receives priority afterward."
-msgstr ""
+msgstr "117.3c Se um jogador tem prioridade quando conjura uma mágica, ativa uma habilidade ou faz uma ação especial, esse jogador recebe a prioridade após isso."
 
 msgid "117.3d If a player has priority and chooses not to take any actions, that player passes. If any mana is in that player’s mana pool, they announce what mana is there. Then the next player in turn order receives priority."
-msgstr ""
+msgstr "117.3d Se um jogador tem prioridade e escolhe não fazer quaisquer ações, esse jogador passa. Se houver qualquer mana na reserva de mana do jogador, ele anuncia qual mana está lá. Então o próximo jogador na ordem de turno recebe prioridade."
 
 msgid "117.4. If all players pass in succession (that is, if all players pass without taking any actions in between passing), the spell or ability on top of the stack resolves or, if the stack is empty, the phase or step ends."
-msgstr ""
+msgstr "117.4. Se todos os jogadores passam em sucessão (ou seja, se todos os jogadores passam sem fazer quaisquer ações entre as passagens de prioridade), a mágica ou habilidade no topo da pilha resolve ou, se a pilha estiver vazia, a fase ou etapa termina."
 
 msgid "117.5. Each time a player would get priority, the game first performs all applicable state-based actions as a single event (see rule 704, “State-Based Actions”), then repeats this process until no state-based actions are performed. Then triggered abilities are put on the stack (see rule 603, “Handling Triggered Abilities”). These steps repeat in order until no further state-based actions are performed and no abilities trigger. Then the player who would have received priority does so."
-msgstr ""
+msgstr "117.5. Cada vez que um jogador receberia prioridade, o jogo primeiro executa todas as ações baseadas-no-estado aplicáveis como um único evento (consulte a regra 704, “Ações Baseadas-no-Estado”), então repete esse processo até que não existam mais ações baseadas-no-estado a serem executadas. Depois as habilidades desencadeadas são colocadas na pilha (consulte a regra 603, “Lidando com Habilidades Desencadeadas”). Estas etapas repetem-se até que nenhuma ação baseada-no-estado seja executada e nenhuma habilidade desencadeie. Em seguida, o jogador que receberia prioridade, efetivamente recebe prioridade."
 
 msgid "117.6. In a multiplayer game using the shared team turns option, teams rather than individual players have priority. See rule 805, “Shared Team Turns Option.”"
-msgstr ""
+msgstr "117.6. Num jogo multijogador que faz uso da opção de turnos compartilhados pela equipe, equipes ao invés de jogadores individuais recebem prioridade. Consulte a regra 805, “Opção de Turnos Compartilhados pela Equipe”."
 
 msgid "117.7. If a player with priority casts a spell or activates an activated ability while another spell or ability is already on the stack, the new spell or ability has been cast or activated “in response to” the earlier spell or ability. The new spell or ability will resolve first. See rule 608, “Resolving Spells and Abilities.”"
-msgstr ""
+msgstr "117.7. Se um jogador com prioridade conjura uma mágica ou ativa uma habilidade ativada enquanto outra mágica ou habilidade já estava na pilha, a mágica ou habilidade nova foi conjurada ou ativada “em resposta a” mágica ou habilidade mais antiga. A nova mágica ou habilidade resolve primeiro. Consulte a regra 608, “Resolvendo Mágicas e Habilidades”."
 
 msgid "118.1. A cost is an action or payment necessary to take another action or to stop another action from taking place. To pay a cost, a player carries out the instructions specified by the spell, ability, or effect that contains that cost."
 msgstr ""
