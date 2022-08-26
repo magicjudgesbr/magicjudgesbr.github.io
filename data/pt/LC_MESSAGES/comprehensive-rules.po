@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2022-08-26 12:29\n"
+"PO-Revision-Date: 2022-08-26 14:35\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -1636,10 +1636,10 @@ msgid "118.13c If the cost associated with a special action contains a mana symb
 msgstr "118.13c Se o custo associado a uma ação especial contiver um símbolo de mana que pode ser pago de várias maneiras, o jogador que toma a ação especial escolhe como pagar esse símbolo imediatamente antes de pagar esse custo."
 
 msgid "119.1. Each player begins the game with a starting life total of 20. Some variant games have different starting life totals."
-msgstr ""
+msgstr "119.1. Cada jogador começa o jogo com um total inicial de pontos de vida de 20. Algumas variantes tem totais iniciais de pontos de vida diferentes."
 
 msgid "119.1a In a Two-Headed Giant game, each team’s starting life total is 30. See rule 810, “Two-Headed Giant Variant.”"
-msgstr ""
+msgstr "119.1a Num jogo de Gigante de Duas Cabeças, o total inicial de pontos de vida de cada equipe é 30. Consulte a regra 810, “Variante Gigante de Duas Cabeças”."
 
 msgid "119.1b In a Vanguard game, each player’s starting life total is 20 plus or minus the life modifier of their vanguard card. See rule 902, “Vanguard.”"
 msgstr ""
