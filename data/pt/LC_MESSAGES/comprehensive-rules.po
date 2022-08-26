@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2022-08-26 00:33\n"
+"PO-Revision-Date: 2022-08-26 12:29\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -1624,16 +1624,16 @@ msgid "118.12b Some effects offer a player a choice to search a zone and take ad
 msgstr "118.12b Alguns efeitos oferecem ao jogador a opção de procurar numa zona e realizar ações adicionais com os cards encontradas naquela zona, seguidas por uma cláusula “Se [um jogador] o fizer”. Esta cláusula verifica se o jogador escolheu procurar, não se o jogador realizou alguma das ações adicionais."
 
 msgid "118.13. Some costs contain mana symbols that can be paid in multiple ways. These include hybrid mana symbols and Phyrexian mana symbols."
-msgstr ""
+msgstr "118.13. Alguns custos contêm símbolos de mana que podem ser pagos de várias maneiras. Estes incluem símbolos de mana híbridos e símbolos de mana Phyrexiana."
 
 msgid "118.13a If the mana cost of a spell or the activation cost of an activated ability contains a mana symbol that can be paid in multiple ways, the choice of how to pay for that symbol is made as its controller proposes that spell or ability (see rule 601.2b)."
-msgstr ""
+msgstr "118.13a Se o custo de mana de uma mágica ou o custo de ativação de uma habilidade ativada contém um símbolo de mana que pode ser pago de várias maneiras, a escolha de como pagar por esse símbolo é feita conforme o seu controlador propõe essa mágica ou habilidade (ver regra 601.2b)."
 
 msgid "118.13b If a cost paid during the resolution of a spell or ability contains a mana symbol that can be paid in multiple ways, the player paying that cost chooses how to pay for that symbol immediately before they pay that cost."
-msgstr ""
+msgstr "118.13b Se um custo pago durante a resolução de uma mágica ou habilidade contém um símbolo de mana que pode ser pago de várias maneiras, o jogador que paga esse custo escolhe como pagar por esse símbolo imediatamente antes de pagar esse custo."
 
 msgid "118.13c If the cost associated with a special action contains a mana symbol that can be paid in multiple ways, the player taking the special action chooses how to pay for that symbol immediately before they pay that cost."
-msgstr ""
+msgstr "118.13c Se o custo associado a uma ação especial contiver um símbolo de mana que pode ser pago de várias maneiras, o jogador que toma a ação especial escolhe como pagar esse símbolo imediatamente antes de pagar esse custo."
 
 msgid "119.1. Each player begins the game with a starting life total of 20. Some variant games have different starting life totals."
 msgstr ""
