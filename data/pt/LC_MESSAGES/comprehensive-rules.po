@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2022-08-26 16:51\n"
+"PO-Revision-Date: 2022-08-26 23:01\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -1654,13 +1654,13 @@ msgid "119.1e In an Archenemy game, the archenemy’s starting life total is 40.
 msgstr "119.1e Num jogo de Archenemy, o total inicial de pontos do vida do arquiinimigo é 40. Consulte a regra 904, “Archenemy”."
 
 msgid "119.2. Damage dealt to a player normally causes that player to lose that much life. See rule 120.3."
-msgstr ""
+msgstr "119.2. Dano causado a um jogador normalmente faz que aquele jogador perca aquela quantidade de pontos de vida. Consulte a regra 120.3."
 
 msgid "119.3. If an effect causes a player to gain life or lose life, that player’s life total is adjusted accordingly."
-msgstr ""
+msgstr "119.3. Se um efeito fizer com que um jogador ganhe ou perca pontos de vida, o total de pontos de vida daquele jogador é ajustado em conformidade."
 
 msgid "119.4. If a cost or effect allows a player to pay an amount of life greater than 0, the player may do so only if their life total is greater than or equal to the amount of the payment. If a player pays life, the payment is subtracted from their life total; in other words, the player loses that much life. (Players can always pay 0 life.)"
-msgstr ""
+msgstr "119.4. Se um custo ou efeito permite a um jogador pagar uma quantidade de pontos de vida maior que 0, o jogador pode fazê-lo apenas se o seu total de pontos de vida for maior ou igual a quantidade do pagamento. Se um jogador pagar pontos de vida, o pagamento é subtraído do seu total de pontos de vida; em outras palavras, o jogador perde aquela quantidade de pontos de vida. (Jogadores podem sempre pagar 0 pontos de vida)."
 
 msgid "119.4a If a cost or effect allows a player to pay an amount of life greater than 0 in a Two-Headed Giant game, the player may do so only if their team’s life total is greater than or equal to the total amount of life both team members are paying for that cost or effect. If a player pays life, the payment is subtracted from their team’s life total. (Players can always pay 0 life.)"
 msgstr ""
