@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2022-08-25 23:38\n"
+"PO-Revision-Date: 2022-08-26 00:33\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -1609,19 +1609,19 @@ msgid "Example: A player controls Psychic Vortex, an enchantment with a cumulati
 msgstr "Exemplo: Um jogador controla [[card:Psychic Vortex]], um encantamento com um custo de manutenção cumulativa de “Compre um card” e [[card:Obstinate Familiar]], uma criatura que diz “Se você fosse comprar um card, em vez disso, você pode deixar de comprá-lo”. O jogador pode decidir pagar o custo de manutenção cumulativa de Vórtice Psíquico e então não comprar nenhum card ao invés de comprar o montante apropriado. O custo de manutenção cumulativa terá sido pago."
 
 msgid "118.12. Some spells, activated abilities, and triggered abilities read, “[Do something]. If [a player] [does, doesn’t, or can’t], [effect].” or “[A player] may [do something]. If [that player] [does, doesn’t, or can’t], [effect].” The action [do something] is a cost, paid when the spell or ability resolves. The “If [a player] [does, doesn’t, or can’t]” clause checks whether the player chose to pay an optional cost or started to pay a mandatory cost, regardless of what events actually occurred."
-msgstr ""
+msgstr "118.12. Algumas mágicas, habilidades ativadas, e habilidades desencadeadas possuem o texto: “[Faça algo]. Se [um jogador] [fizer, não fizer ou não puder], [efeito.]” ou “[Um jogador] pode [fazer alguma coisa]. Se [esse jogador] [fizer, não fizer ou não puder], [efeito.]”. A ação [alguma coisa] é um custo pago quando a mágica ou habilidade resolve. A condição “Se [um jogador] [fizer, não fizer ou não puder]” é verificada quando o jogador escolher pagar o custo opcional ou quando começar a pagar um custo obrigatório, independentemente de quais eventos realmente ocorreram."
 
 msgid "Example: You control Standstill, an enchantment that says “When a player casts a spell, sacrifice Standstill. If you do, each of that player’s opponents draws three cards.” A spell is cast, causing Standstill’s ability to trigger. Then an ability is activated that exiles Standstill. When Standstill’s ability resolves, you’re unable to pay the “sacrifice Standstill” cost. No player will draw cards."
-msgstr ""
+msgstr "Exemplo: Você controla [[card:Standstill]], um encantamento que diz “Quando um jogador conjurar uma mágica, sacrifique [[card:Standstill]]. Se o fizer, cada oponente daquele jogador compra três cards”. Uma mágica é conjurada, fazendo com que a habilidade de [[card:Standstill]] desencadeie. Então uma habilidade que exila [[card:Standstill]] é ativada. Quando a habilidade de [[card:Standstill]] resolve, você é incapaz de pagar o custo “sacrifique [[card:Standstill]]”. Nenhum jogador comprará cards."
 
 msgid "Example: Your opponent has cast Gather Specimens, a spell that says “If a creature would enter the battlefield under an opponent’s control this turn, it enters the battlefield under your control instead.” You control a face-down Dermoplasm, a creature with morph that says “When Dermoplasm is turned face up, you may put a creature card with morph from your hand onto the battlefield face up. If you do, return Dermoplasm to its owner’s hand.” You turn Dermoplasm face up, and you choose to put a creature card with morph from your hand onto the battlefield. Due to Gather Specimens, it enters the battlefield under your opponent’s control instead of yours. However, since you chose to pay the cost, Dermoplasm is still returned to its owner’s hand."
-msgstr ""
+msgstr "Exemplo: Seu oponente conjurou [[card:Gather Specimens]], uma mágica que diz “Se uma criatura fosse entrar no campo de batalha sob o controle de um oponente neste turno, em vez disso, ela entrará no campo de batalha sob o seu controle”. Você controla um [[card:Desrmoplasm]] com a face voltada para baixo, uma criatura com metamorfose que diz “Quando a face de [[card:Dermoplasm]] for voltada para cima, você pode colocar no campo de batalha com a face voltada para cima, um card de criatura com metamorfose de sua mão. Se o fizer, devolva [[card:Dermoplasm]] para a mão de seu dono”. Você volta a face de [[card:Dermoplasm]] para cima e escolhe colocar um card de criatura com metamorfose de sua mão no campo de batalha. Devido ao [[card:Gather Specimens]], o card de criatura entra no campo de batalha sob controle de seu oponente, em vez de seu controle. No entanto, já que você optou por pagar o custo, [[card:Dermoplasm]] ainda é devolvido para a mão de seu dono."
 
 msgid "118.12a Some spells, activated abilities, and triggered abilities read, “[Do something] unless [a player does something else].” This means the same thing as “[A player may do something else]. If [that player doesn’t], [do something].”"
-msgstr ""
+msgstr "118.12a Em algumas mágicas, habilidades ativadas e habilidades desencadeadas se leem: “[Faça algo], a não ser que [um jogador faça outra coisa]”. Isto significa a mesma coisa que “[um jogador pode fazer outra coisa]. Se [aquele jogador não o fizer] , [faça algo]”."
 
 msgid "118.12b Some effects offer a player a choice to search a zone and take additional actions with the cards found in that zone, followed by an “If [a player] does” clause. This clause checks whether the player chose to search, not whether the player took any of the additional actions."
-msgstr ""
+msgstr "118.12b Alguns efeitos oferecem ao jogador a opção de procurar numa zona e realizar ações adicionais com os cards encontradas naquela zona, seguidas por uma cláusula “Se [um jogador] o fizer”. Esta cláusula verifica se o jogador escolheu procurar, não se o jogador realizou alguma das ações adicionais."
 
 msgid "118.13. Some costs contain mana symbols that can be paid in multiple ways. These include hybrid mana symbols and Phyrexian mana symbols."
 msgstr ""
