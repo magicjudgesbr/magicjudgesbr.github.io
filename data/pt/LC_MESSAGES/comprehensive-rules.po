@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2022-08-26 23:58\n"
+"PO-Revision-Date: 2022-08-27 15:26\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -1684,34 +1684,34 @@ msgid "119.10. Some replacement effects are written, “If [a player] would gain
 msgstr "119.10. Algumas efeitos de substituição são escritos, “Se [um jogador] fosse ganhar pontos de vida, ...”. Tais habilidades são tratadas como se fossem escritas da seguinte forma, “Se uma fonte fosse fazer com que [um jogador] ganhe pontos de vida, …”. Se um jogador ganhar 0 pontos de vida, nenhum evento de ganho de vida ocorreria, e essas efeitos não vão se aplicar."
 
 msgid "120.1. Objects can deal damage to creatures, planeswalkers, and players. This is generally detrimental to the object or player that receives that damage. An object that deals damage is the source of that damage."
-msgstr ""
+msgstr "120.1. Objetos podem causar dano a criaturas, planeswalkers e jogadores. Isso geralmente é prejudicial para o objeto ou jogador que recebe esse dano. Um objeto que causa dano é a fonte daquele dano."
 
 msgid "120.1a Damage can’t be dealt to an object that’s neither a creature nor a planeswalker."
-msgstr ""
+msgstr "120.1a Dano não pode ser causado a um objeto que não seja uma criatura nem um planeswalker."
 
 msgid "120.2. Any object can deal damage."
-msgstr ""
+msgstr "120.2. Qualquer objeto pode causar dano."
 
 msgid "120.2a Damage may be dealt as a result of combat. Each attacking and blocking creature deals combat damage equal to its power during the combat damage step."
-msgstr ""
+msgstr "120.2a Dano pode ser causado como resultado do combate. Cada criatura atacante e bloqueadora causa dano de combate igual ao seu poder durante a etapa de dano de combate."
 
 msgid "120.2b Damage may be dealt as an effect of a spell or ability. The spell or ability will specify which object deals that damage."
-msgstr ""
+msgstr "120.2b Dano pode ser causado como efeito de uma mágica ou habilidade. A mágica ou habilidade especificará qual objeto causa esse dano."
 
 msgid "120.3. Damage may have one or more of the following results, depending on whether the recipient of the damage is a player or permanent, the characteristics of the damage’s source, and the characteristics of the damage’s recipient (if it’s a permanent)."
-msgstr ""
+msgstr "120.3. O dano pode ter um ou mais dos seguintes resultados, dependendo se o recebedor do dano é um jogador ou uma permanente, as características da fonte do dano, e as características do recebedor do dano (se for uma permanente)."
 
 msgid "120.3a Damage dealt to a player by a source without infect causes that player to lose that much life."
-msgstr ""
+msgstr "120.3a Dano causado a um jogador por uma fonte que não tenha infectar faz aquele jogador perder aquela quantidade de pontos de vida."
 
 msgid "120.3b Damage dealt to a player by a source with infect causes that source’s controller to give the player that many poison counters."
-msgstr ""
+msgstr "120.3b Dano causado a um jogador por uma fonte que tenha infectar faz com que o controlador daquela fonte dê ao jogador aquela uma quantidade equivalente de marcadores de veneno."
 
 msgid "120.3c Damage dealt to a planeswalker causes that many loyalty counters to be removed from that planeswalker."
-msgstr ""
+msgstr "120.3c Dano causado a um planeswalker faz com que a mesma quantidade de marcadores de lealdade sejam removidos daquele planeswalker."
 
 msgid "120.3d Damage dealt to a creature by a source with wither and/or infect causes that source’s controller to put that many -1/-1 counters on that creature."
-msgstr ""
+msgstr "120.3d Dano causado a uma criatura por uma fonte com murchar e/ou infectar faz com o controlador daquela fonte coloque a mesma quantidade de marcadores -1/-1 sobre aquela criatura."
 
 msgid "120.3e Damage dealt to a creature by a source with neither wither nor infect causes that much damage to be marked on that creature."
 msgstr ""
