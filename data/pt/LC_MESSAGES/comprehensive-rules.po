@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2022-08-27 15:26\n"
+"PO-Revision-Date: 2022-08-27 16:44\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -1714,28 +1714,28 @@ msgid "120.3d Damage dealt to a creature by a source with wither and/or infect c
 msgstr "120.3d Dano causado a uma criatura por uma fonte com murchar e/ou infectar faz com o controlador daquela fonte coloque a mesma quantidade de marcadores -1/-1 sobre aquela criatura."
 
 msgid "120.3e Damage dealt to a creature by a source with neither wither nor infect causes that much damage to be marked on that creature."
-msgstr ""
+msgstr "120.3e Dano causado a uma criatura por uma fonte sem murchar e sem infectar faz com que aquela quantidade de dano seja assinalada sobre aquela criatura."
 
 msgid "120.3f Damage dealt by a source with lifelink causes that source’s controller to gain that much life, in addition to the damage’s other results."
-msgstr ""
+msgstr "120.3f Dano causado a um objeto ou jogador por uma fonte com vínculo com a vida faz com que o controlador daquela fonte ganhe a mesma quantidade de pontos de vida, em adição a quaisquer outros resultados do dano."
 
 msgid "120.4. Damage is processed in a four-part sequence."
-msgstr ""
+msgstr "120.4. O dano é processado em uma sequência de quatro partes."
 
 msgid "120.4a First, if an effect is causing damage to be dealt to a creature and that effect specifies that excess damage is dealt to another object or player instead, the damage event is modified to deal damage accordingly. Excess damage is damage greater than lethal damage that would be dealt to a creature. Lethal damage is the creature’s toughness minus damage marked on that creature and other damage being dealt to it at the same time as this damage. Any damage greater than 1 is excess damage if the source dealing that damage has deathtouch."
-msgstr ""
+msgstr "120.4a Primeiro, se um efeito estiver fazendo com que o dano seja causado a uma criatura e esse efeito especifica que o excesso de dano é causado a outro objeto ou do jogador, o evento de dano é modificado para causar dano apropriadamente. Excesso de dano é o dano maior que dano letal que seria causado a uma criatura. Dano letal é a resistência da criatura menos o dano assinalado sobre essa criatura e outros danos que lhe são causados ao mesmo tempo que este dano. Qualquer dano maior que 1 é um excesso de dano se a fonte que causa o dano tiver toque mortífero."
 
 msgid "120.4b Second, damage is dealt, as modified by replacement and prevention effects that interact with damage. (See rule 614, “Replacement Effects,” and rule 615, “Prevention Effects.”) Abilities that trigger when damage is dealt trigger now and wait to be put on the stack."
-msgstr ""
+msgstr "120.4b Segundo, o dano é causado, modificado por efeitos de substituição ou prevenção que possam interagir com esse dano. (Consulte a regra 614, “Efeitos de Substituição”, e regra 615, “Efeitos de Prevenção”). Habilidades que desencadeiam quando o dano é causado desencadeiam agora e aguardam para serem colocadas na pilha."
 
 msgid "120.4c Third, damage that’s been dealt is processed into its results, as modified by replacement effects that interact with those results (such as life loss or counters)."
-msgstr ""
+msgstr "120.4c Terceiro, o dano que foi causado é processado em seus resultados, modificados por efeitos de substituição que interagem com esses resultados (tais como perda de vida ou marcadores)."
 
 msgid "120.4d Finally, the damage event occurs."
-msgstr ""
+msgstr "120.4d Finalmente, o evento do dano acontece."
 
 msgid "Example: A player who controls Boon Reflection, an enchantment that says “If you would gain life, you gain twice that much life instead,” attacks with a 3/3 creature with wither and lifelink. It’s blocked by a 2/2 creature, and the defending player casts a spell that prevents the next 2 damage that would be dealt to the blocking creature. The damage event starts out as [3 damage is dealt to the 2/2 creature, 2 damage is dealt to the 3/3 creature]. The prevention effect is applied, so the damage event becomes [1 damage is dealt to the 2/2 creature, 2 damage is dealt to the 3/3 creature]. That’s processed into its results, so the damage event is now [one -1/-1 counter is put on the 2/2 creature, the active player gains 1 life, 2 damage is marked on the 3/3 creature]. Boon Reflection’s effect is applied, so the damage event becomes [one -1/-1 counter is put on the 2/2 creature, the active player gains 2 life, 2 damage is marked on the 3/3 creature]. Then the damage event occurs."
-msgstr ""
+msgstr "Exemplo: Um jogador que controla [[card:Boon Reflection]], um encantamento que diz “Se você fosse ganhar pontos de vida, em vez disso, ganhe o dobro daquela quantidade em pontos de vida”, ataca com uma criatura 3/3 com murchar e vínculo com a vida. Ela é bloqueada por uma criatura 2/2, e o jogador defensor conjura uma mágica que previne os próximos 2 pontos de dano que seriam causados à criatura bloqueadora. O evento de dano começa como [3 pontos de dano são causados à criatura 2/2, 2 pontos de dano são causados à criatura 3/3]. O efeito de prevenção é aplicado, de modo que o evento de dano torna-se [1 ponto de dano é causado à criatura 2/2, 2 pontos de dano são causados à criatura 3/3]. Isso é processado em seus resultados, portanto o evento de dano é agora [um marcador -1/-1 é colocado sobre a criatura 2/2, o jogador ativo ganha 1 ponto de vida, 2 pontos de dano são marcados na criatura 3/3]. O efeito de [[card:Boon Reflection]] é aplicado, assim o evento de dano torna-se [um marcador -1/-1 é colocado sobre a criatura 2/2, o jogador ativo ganha 2 pontos de vida, 2 pontos de dano são marcados na criatura 3/3]. Em seguida, o evento de dano acontece."
 
 msgid "Example: The defending player controls a creature and Worship, an enchantment that says “If you control a creature, damage that would reduce your life total to less than 1 reduces it to 1 instead.” That player is at 2 life, and is being attacked by two unblocked 5/5 creatures. The player casts Awe Strike, which says “The next time target creature would deal damage this turn, prevent that damage. You gain life equal to the damage prevented this way,” targeting one of the attackers. The damage event starts out as [10 damage is dealt to the defending player]. Awe Strike’s effect is applied, so the damage event becomes [5 damage is dealt to the defending player, the defending player gains 5 life]. That’s processed into its results, so the damage event is now [the defending player loses 5 life, the defending player gains 5 life]. Worship’s effect sees that the damage event would not reduce the player’s life total to less than 1, so Worship’s effect is not applied. Then the damage event occurs."
 msgstr ""
