@@ -538,7 +538,7 @@
                 </svg>
             </a>
             
-            120.3e Damage dealt to a creature by a source with neither wither nor infect causes that much damage to be marked on that creature.
+            120.3e Dano causado a uma criatura por uma fonte sem murchar e sem infectar faz com que aquela quantidade de dano seja assinalada sobre aquela criatura.
         </h4>
         <h4 id="3f">
             <a href="#3f" class="anchor-heading" aria-labelledby="3f">
@@ -547,7 +547,7 @@
                 </svg>
             </a>
             
-            120.3f Damage dealt by a source with lifelink causes that source’s controller to gain that much life, in addition to the damage’s other results.
+            120.3f Dano causado a um objeto ou jogador por uma fonte com vínculo com a vida faz com que o controlador daquela fonte ganhe a mesma quantidade de pontos de vida, em adição a quaisquer outros resultados do dano.
         </h4>
         <h3 id="4">
             <a href="#4" class="anchor-heading" aria-labelledby="4">
@@ -556,7 +556,7 @@
                 </svg>
             </a>
             
-            120.4. Damage is processed in a four-part sequence.
+            120.4. O dano é processado em uma sequência de quatro partes.
         </h3>
         <h4 id="4a">
             <a href="#4a" class="anchor-heading" aria-labelledby="4a">
@@ -565,7 +565,7 @@
                 </svg>
             </a>
             
-            120.4a First, if an effect is causing damage to be dealt to a creature and that effect specifies that excess damage is dealt to another object or player instead, the damage event is modified to deal damage accordingly. Excess damage is damage greater than lethal damage that would be dealt to a creature. Lethal damage is the creature’s toughness minus damage marked on that creature and other damage being dealt to it at the same time as this damage. Any damage greater than 1 is excess damage if the source dealing that damage has deathtouch.
+            120.4a Primeiro, se um efeito estiver fazendo com que o dano seja causado a uma criatura e esse efeito especifica que o excesso de dano é causado a outro objeto ou do jogador, o evento de dano é modificado para causar dano apropriadamente. Excesso de dano é o dano maior que dano letal que seria causado a uma criatura. Dano letal é a resistência da criatura menos o dano assinalado sobre essa criatura e outros danos que lhe são causados ao mesmo tempo que este dano. Qualquer dano maior que 1 é um excesso de dano se a fonte que causa o dano tiver toque mortífero.
         </h4>
         <h4 id="4b">
             <a href="#4b" class="anchor-heading" aria-labelledby="4b">
@@ -574,7 +574,7 @@
                 </svg>
             </a>
             
-            120.4b Second, damage is dealt, as modified by replacement and prevention effects that interact with damage. (See rule <a href='/regras/cr/6/614'>614, “Replacement Effects,”</a> and rule <a href='/regras/cr/6/615'>615, “Prevention Effects.”</a>) Abilities that trigger when damage is dealt trigger now and wait to be put on the stack.
+            120.4b Segundo, o dano é causado, modificado por efeitos de substituição ou prevenção que possam interagir com esse dano. (Consulte a regra <a href='/regras/cr/6/614'>614, “Efeitos de Substituição”</a>, e regra <a href='/regras/cr/6/615'>615, “Efeitos de Prevenção”</a>). Habilidades que desencadeiam quando o dano é causado desencadeiam agora e aguardam para serem colocadas na pilha.
         </h4>
         <h4 id="4c">
             <a href="#4c" class="anchor-heading" aria-labelledby="4c">
@@ -583,7 +583,7 @@
                 </svg>
             </a>
             
-            120.4c Third, damage that’s been dealt is processed into its results, as modified by replacement effects that interact with those results (such as life loss or counters).
+            120.4c Terceiro, o dano que foi causado é processado em seus resultados, modificados por efeitos de substituição que interagem com esses resultados (tais como perda de vida ou marcadores).
         </h4>
         <h4 id="4d">
             <a href="#4d" class="anchor-heading" aria-labelledby="4d">
@@ -592,10 +592,10 @@
                 </svg>
             </a>
             
-            120.4d Finally, the damage event occurs.
+            120.4d Finalmente, o evento do dano acontece.
         </h4>
             <blockquote>
-            Example: A player who controls Boon Reflection, an enchantment that says “If you would gain life, you gain twice that much life instead,” attacks with a 3/3 creature with wither and lifelink. It’s blocked by a 2/2 creature, and the defending player casts a spell that prevents the next 2 damage that would be dealt to the blocking creature. The damage event starts out as [3 damage is dealt to the 2/2 creature, 2 damage is dealt to the 3/3 creature]. The prevention effect is applied, so the damage event becomes [1 damage is dealt to the 2/2 creature, 2 damage is dealt to the 3/3 creature]. That’s processed into its results, so the damage event is now [one -1/-1 counter is put on the 2/2 creature, the active player gains 1 life, 2 damage is marked on the 3/3 creature]. Boon Reflection’s effect is applied, so the damage event becomes [one -1/-1 counter is put on the 2/2 creature, the active player gains 2 life, 2 damage is marked on the 3/3 creature]. Then the damage event occurs.
+            card:Boon Reflection
             </blockquote>
             <blockquote>
             Example: The defending player controls a creature and Worship, an enchantment that says “If you control a creature, damage that would reduce your life total to less than 1 reduces it to 1 instead.” That player is at 2 life, and is being attacked by two unblocked 5/5 creatures. The player casts Awe Strike, which says “The next time target creature would deal damage this turn, prevent that damage. You gain life equal to the damage prevented this way,” targeting one of the attackers. The damage event starts out as [10 damage is dealt to the defending player]. Awe Strike’s effect is applied, so the damage event becomes [5 damage is dealt to the defending player, the defending player gains 5 life]. That’s processed into its results, so the damage event is now [the defending player loses 5 life, the defending player gains 5 life]. Worship’s effect sees that the damage event would not reduce the player’s life total to less than 1, so Worship’s effect is not applied. Then the damage event occurs.
