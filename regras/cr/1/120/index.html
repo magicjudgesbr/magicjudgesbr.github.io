@@ -538,7 +538,7 @@
                 </svg>
             </a>
             
-            120.3e Dano causado a uma criatura por uma fonte sem murchar e sem infectar faz com que aquela quantidade de dano seja assinalada sobre aquela criatura.
+            120.3e Dano causado a uma criatura por uma fonte sem murchar e sem infectar faz com que aquela quantidade de dano seja marcado sobre aquela criatura.
         </h4>
         <h4 id="3f">
             <a href="#3f" class="anchor-heading" aria-labelledby="3f">
@@ -565,7 +565,7 @@
                 </svg>
             </a>
             
-            120.4a Primeiro, se um efeito estiver fazendo com que o dano seja causado a uma criatura e esse efeito especifica que o excesso de dano é causado a outro objeto ou do jogador, o evento de dano é modificado para causar dano apropriadamente. Excesso de dano é o dano maior que dano letal que seria causado a uma criatura. Dano letal é a resistência da criatura menos o dano assinalado sobre essa criatura e outros danos que lhe são causados ao mesmo tempo que este dano. Qualquer dano maior que 1 é um excesso de dano se a fonte que causa o dano tiver toque mortífero.
+            120.4a Primeiro, se um efeito estiver fazendo com que o dano seja causado a uma criatura e esse efeito especifica que o excesso de dano é causado a outro objeto ou do jogador, o evento de dano é modificado para causar dano apropriadamente. Excesso de dano é o dano maior que dano letal que seria causado a uma criatura. Dano letal é a resistência da criatura menos o dano marcado sobre essa criatura e outros danos que lhe são causados ao mesmo tempo que este dano. Qualquer dano maior que 1 é um excesso de dano se a fonte que causa o dano tiver toque mortífero.
         </h4>
         <h4 id="4b">
             <a href="#4b" class="anchor-heading" aria-labelledby="4b">
@@ -598,7 +598,7 @@
             card:Boon Reflection
             </blockquote>
             <blockquote>
-            Example: The defending player controls a creature and Worship, an enchantment that says “If you control a creature, damage that would reduce your life total to less than 1 reduces it to 1 instead.” That player is at 2 life, and is being attacked by two unblocked 5/5 creatures. The player casts Awe Strike, which says “The next time target creature would deal damage this turn, prevent that damage. You gain life equal to the damage prevented this way,” targeting one of the attackers. The damage event starts out as [10 damage is dealt to the defending player]. Awe Strike’s effect is applied, so the damage event becomes [5 damage is dealt to the defending player, the defending player gains 5 life]. That’s processed into its results, so the damage event is now [the defending player loses 5 life, the defending player gains 5 life]. Worship’s effect sees that the damage event would not reduce the player’s life total to less than 1, so Worship’s effect is not applied. Then the damage event occurs.
+            card:Worship
             </blockquote>
         <h3 id="5">
             <a href="#5" class="anchor-heading" aria-labelledby="5">
@@ -607,10 +607,10 @@
                 </svg>
             </a>
             
-            120.5. Damage dealt to a creature or planeswalker doesn’t destroy it. Likewise, the source of that damage doesn’t destroy it. Rather, state-based actions may destroy a creature or planeswalker, or otherwise put it into its owner’s graveyard, due to the results of the damage dealt to that permanent. See rule <a href='/regras/cr/7/704'>704</a>.
+            120.5. O dano causado a uma criatura ou planeswalker não irá destruí-los. Da mesma forma, a fonte deste dano não irá destruí-los. Entretanto, ações baseadas-no-estado podem destruir uma criatura ou planeswalker, ou colocá-los no cemitério de seu dono, devido aos resultados do dano causado a essa permanente. Consulte a regra <a href='/regras/cr/7/704'>704</a>.
         </h3>
             <blockquote>
-            Example: A player casts Lightning Bolt, an instant that says “Lightning Bolt deals 3 damage to any target,” targeting a 2/2 creature. After Lightning Bolt deals 3 damage to that creature, the creature is destroyed as a state-based action. Neither Lightning Bolt nor the damage dealt by Lightning Bolt destroyed that creature.
+            card:Lightning Bolt
             </blockquote>
         <h3 id="6">
             <a href="#6" class="anchor-heading" aria-labelledby="6">
@@ -619,7 +619,7 @@
                 </svg>
             </a>
             
-            120.6. Damage marked on a creature remains until the cleanup step, even if that permanent stops being a creature. If the total damage marked on a creature is greater than or equal to its toughness, that creature has been dealt lethal damage and is destroyed as a state-based action (see rule <a href='/regras/cr/7/704'>704</a>). All damage marked on a permanent is removed when it regenerates (see rule <a href='/regras/cr/7/701/#15'>701.15, “Regenerate”</a>) and during the cleanup step (see rule <a href='/regras/cr/5/514/#2'>514.2</a>).
+            120.6. O dano marcado em uma criatura permanece até a etapa de limpeza, mesmo que a permanente deixe de ser uma criatura. Se o dano total marcado em uma criatura for maior ou igual a sua resistência, essa criatura sofreu dano letal e é destruída por uma ação baseada-no-estado (consulte a regra <a href='/regras/cr/7/704'>704</a>). Todo dano marcado em uma permanente é removido quando ela é regenerada (consulte a regra <a href='/regras/cr/7/701/#15'>701.15, “Regeneração”</a>) e durante a etapa de limpeza (consulte a regra <a href='/regras/cr/5/514/#2'>514.2</a>).
         </h3>
         <h3 id="7">
             <a href="#7" class="anchor-heading" aria-labelledby="7">
@@ -628,7 +628,7 @@
                 </svg>
             </a>
             
-            120.7. The source of damage is the object that dealt it. If an effect requires a player to choose a source of damage, they may choose a permanent; a spell on the stack (including a permanent spell); any object referred to by an object on the stack, by a prevention or replacement effect that’s waiting to apply, or by a delayed triggered ability that’s waiting to trigger (even if that object is no longer in the zone it used to be in); or a face-up object in the command zone. A source doesn’t need to be capable of dealing damage to be a legal choice. See rule <a href='/regras/cr/6/609/#7'>609.7, “Sources of Damage.”</a>
+            120.7. A fonte de dano é o objeto de que causou o dano. Se um efeito exige que um jogador escolha uma fonte de dano, ele pode escolher uma permanente; uma mágica na pilha (incluindo uma mágica de permanente); qualquer objeto referido por um objeto na pilha, por um efeito de prevenção ou substituição que está aguardando para ser aplicado, por uma habilidade desencadeada retardada que está esperando para desencadear (mesmo que o objeto não esteja mais na zona que estava antes); ou em certas variantes do jogo casual, um card com a face voltada para cima na zona de comando. Uma fonte não precisa ser capaz de causar dano para ser uma escolha válida. Consulte a regra <a href='/regras/cr/6/609/#7'>609.7, “Fontes de Dano”</a>.
         </h3>
         <h3 id="8">
             <a href="#8" class="anchor-heading" aria-labelledby="8">
@@ -637,7 +637,7 @@
                 </svg>
             </a>
             
-            120.8. If a source would deal 0 damage, it does not deal damage at all. That means abilities that trigger on damage being dealt won’t trigger. It also means that replacement effects that would increase the damage dealt by that source, or would have that source deal that damage to a different object or player, have no event to replace, so they have no effect.
+            120.8. Se uma fonte fosse causar 0 pontos de dano, ela não causa dano algum. Isso significa que habilidades que desencadeiam quando o dano é causado não desencadearão. Significa também que os efeitos de substituição que aumentariam o dano causado por essa fonte, ou fariam com que aquela fonte causasse aquele dano a um objeto ou jogador diferente, não tem nenhum evento para substituir, de forma que eles não têm nenhum efeito.
         </h3>
         <h3 id="9">
             <a href="#9" class="anchor-heading" aria-labelledby="9">
@@ -646,7 +646,7 @@
                 </svg>
             </a>
             
-            120.9. If an ability triggers on damage being dealt by a specific source or sources, and the effect refers to the “damage dealt,” it refers only to the damage dealt by the specified sources and not to any damage dealt at the same time by other sources.
+            120.9. Se uma habilidade desencadeia quando o dano é causado por uma fonte ou fontes específicas, e o efeito se refere ao "dano causado", refere-se apenas ao dano causado pelas fontes especificadas e não a qualquer dano causado ao mesmo tempo por outras fontes.
         </h3>
 
             
