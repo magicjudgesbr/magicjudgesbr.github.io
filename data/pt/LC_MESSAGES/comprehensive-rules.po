@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2022-08-27 16:44\n"
+"PO-Revision-Date: 2022-08-29 23:24\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -1714,7 +1714,7 @@ msgid "120.3d Damage dealt to a creature by a source with wither and/or infect c
 msgstr "120.3d Dano causado a uma criatura por uma fonte com murchar e/ou infectar faz com o controlador daquela fonte coloque a mesma quantidade de marcadores -1/-1 sobre aquela criatura."
 
 msgid "120.3e Damage dealt to a creature by a source with neither wither nor infect causes that much damage to be marked on that creature."
-msgstr "120.3e Dano causado a uma criatura por uma fonte sem murchar e sem infectar faz com que aquela quantidade de dano seja assinalada sobre aquela criatura."
+msgstr "120.3e Dano causado a uma criatura por uma fonte sem murchar e sem infectar faz com que aquela quantidade de dano seja marcado sobre aquela criatura."
 
 msgid "120.3f Damage dealt by a source with lifelink causes that source’s controller to gain that much life, in addition to the damage’s other results."
 msgstr "120.3f Dano causado a um objeto ou jogador por uma fonte com vínculo com a vida faz com que o controlador daquela fonte ganhe a mesma quantidade de pontos de vida, em adição a quaisquer outros resultados do dano."
@@ -1723,7 +1723,7 @@ msgid "120.4. Damage is processed in a four-part sequence."
 msgstr "120.4. O dano é processado em uma sequência de quatro partes."
 
 msgid "120.4a First, if an effect is causing damage to be dealt to a creature and that effect specifies that excess damage is dealt to another object or player instead, the damage event is modified to deal damage accordingly. Excess damage is damage greater than lethal damage that would be dealt to a creature. Lethal damage is the creature’s toughness minus damage marked on that creature and other damage being dealt to it at the same time as this damage. Any damage greater than 1 is excess damage if the source dealing that damage has deathtouch."
-msgstr "120.4a Primeiro, se um efeito estiver fazendo com que o dano seja causado a uma criatura e esse efeito especifica que o excesso de dano é causado a outro objeto ou do jogador, o evento de dano é modificado para causar dano apropriadamente. Excesso de dano é o dano maior que dano letal que seria causado a uma criatura. Dano letal é a resistência da criatura menos o dano assinalado sobre essa criatura e outros danos que lhe são causados ao mesmo tempo que este dano. Qualquer dano maior que 1 é um excesso de dano se a fonte que causa o dano tiver toque mortífero."
+msgstr "120.4a Primeiro, se um efeito estiver fazendo com que o dano seja causado a uma criatura e esse efeito especifica que o excesso de dano é causado a outro objeto ou do jogador, o evento de dano é modificado para causar dano apropriadamente. Excesso de dano é o dano maior que dano letal que seria causado a uma criatura. Dano letal é a resistência da criatura menos o dano marcado sobre essa criatura e outros danos que lhe são causados ao mesmo tempo que este dano. Qualquer dano maior que 1 é um excesso de dano se a fonte que causa o dano tiver toque mortífero."
 
 msgid "120.4b Second, damage is dealt, as modified by replacement and prevention effects that interact with damage. (See rule 614, “Replacement Effects,” and rule 615, “Prevention Effects.”) Abilities that trigger when damage is dealt trigger now and wait to be put on the stack."
 msgstr "120.4b Segundo, o dano é causado, modificado por efeitos de substituição ou prevenção que possam interagir com esse dano. (Consulte a regra 614, “Efeitos de Substituição”, e regra 615, “Efeitos de Prevenção”). Habilidades que desencadeiam quando o dano é causado desencadeiam agora e aguardam para serem colocadas na pilha."
@@ -1738,43 +1738,43 @@ msgid "Example: A player who controls Boon Reflection, an enchantment that says 
 msgstr "Exemplo: Um jogador que controla [[card:Boon Reflection]], um encantamento que diz “Se você fosse ganhar pontos de vida, em vez disso, ganhe o dobro daquela quantidade em pontos de vida”, ataca com uma criatura 3/3 com murchar e vínculo com a vida. Ela é bloqueada por uma criatura 2/2, e o jogador defensor conjura uma mágica que previne os próximos 2 pontos de dano que seriam causados à criatura bloqueadora. O evento de dano começa como [3 pontos de dano são causados à criatura 2/2, 2 pontos de dano são causados à criatura 3/3]. O efeito de prevenção é aplicado, de modo que o evento de dano torna-se [1 ponto de dano é causado à criatura 2/2, 2 pontos de dano são causados à criatura 3/3]. Isso é processado em seus resultados, portanto o evento de dano é agora [um marcador -1/-1 é colocado sobre a criatura 2/2, o jogador ativo ganha 1 ponto de vida, 2 pontos de dano são marcados na criatura 3/3]. O efeito de [[card:Boon Reflection]] é aplicado, assim o evento de dano torna-se [um marcador -1/-1 é colocado sobre a criatura 2/2, o jogador ativo ganha 2 pontos de vida, 2 pontos de dano são marcados na criatura 3/3]. Em seguida, o evento de dano acontece."
 
 msgid "Example: The defending player controls a creature and Worship, an enchantment that says “If you control a creature, damage that would reduce your life total to less than 1 reduces it to 1 instead.” That player is at 2 life, and is being attacked by two unblocked 5/5 creatures. The player casts Awe Strike, which says “The next time target creature would deal damage this turn, prevent that damage. You gain life equal to the damage prevented this way,” targeting one of the attackers. The damage event starts out as [10 damage is dealt to the defending player]. Awe Strike’s effect is applied, so the damage event becomes [5 damage is dealt to the defending player, the defending player gains 5 life]. That’s processed into its results, so the damage event is now [the defending player loses 5 life, the defending player gains 5 life]. Worship’s effect sees that the damage event would not reduce the player’s life total to less than 1, so Worship’s effect is not applied. Then the damage event occurs."
-msgstr ""
+msgstr "Exemplo: O jogador defensor controla uma criatura e [[card:Worship]], um encantamento que diz “Se você controlar uma criatura, todo o dano causado a você que reduziria o seu total de pontos de vida para menos de 1, em vez disso reduzirá para 1”. Esse jogador está com 2 pontos de vida, e está sendo atacado por duas criaturas 5/5 que não foram bloqueadas. O jogador conjura [[card::Awe Strike]], que diz “Na próxima vez em que a criatura alvo fosse causar dano neste turno, previna aquele dano. Você ganha uma quantidade de pontos de vida igual ao dano prevenido desta maneira”, tendo como alvo uma das criaturas atacantes. O evento de dano começa como [10 pontos de dano são causados ao jogador defensor]. O efeito de [[card:Awe Strike]] é aplicado, de modo que o evento de dano torna-se [5 pontos de dano são causados ao jogador defensor. O jogador defensor ganha 5 pontos de vida]. Isso é transformado em seus resultados, portanto o evento de dano agora é [o jogador defensor perde 5 pontos de vida, o jogador defensor ganha 5 pontos de vida]. O efeito de [[card:Worship]] vê que o evento de dano não reduzirá o total de pontos de vida do jogador para menos de 1, portanto o efeito de [[card:Worship]] não é aplicado. Em seguida, o evento de dano acontece."
 
 msgid "120.5. Damage dealt to a creature or planeswalker doesn’t destroy it. Likewise, the source of that damage doesn’t destroy it. Rather, state-based actions may destroy a creature or planeswalker, or otherwise put it into its owner’s graveyard, due to the results of the damage dealt to that permanent. See rule 704."
-msgstr ""
+msgstr "120.5. O dano causado a uma criatura ou planeswalker não irá destruí-los. Da mesma forma, a fonte deste dano não irá destruí-los. Entretanto, ações baseadas-no-estado podem destruir uma criatura ou planeswalker, ou colocá-los no cemitério de seu dono, devido aos resultados do dano causado a essa permanente. Consulte a regra 704."
 
 msgid "Example: A player casts Lightning Bolt, an instant that says “Lightning Bolt deals 3 damage to any target,” targeting a 2/2 creature. After Lightning Bolt deals 3 damage to that creature, the creature is destroyed as a state-based action. Neither Lightning Bolt nor the damage dealt by Lightning Bolt destroyed that creature."
-msgstr ""
+msgstr "Exemplo: Um jogador conjura [[card:Lightning Bolt]], uma mágica instantânea que diz “[[card:Lightning Bolt]] causa 3 pontos de dano a qualquer o alvo”, tendo como alvo uma criatura 2/2. Após [[card:Lightning Bolt]] causar 3 pontos de dano àquela criatura, a criatura é destruída por uma ação baseada-no-estado. Nem [[card:Lightning Bolt]] nem o dano causado por [[card:Lightning Bolt]] destruíram aquela criatura."
 
 msgid "120.6. Damage marked on a creature remains until the cleanup step, even if that permanent stops being a creature. If the total damage marked on a creature is greater than or equal to its toughness, that creature has been dealt lethal damage and is destroyed as a state-based action (see rule 704). All damage marked on a permanent is removed when it regenerates (see rule 701.15, “Regenerate”) and during the cleanup step (see rule 514.2)."
-msgstr ""
+msgstr "120.6. O dano marcado em uma criatura permanece até a etapa de limpeza, mesmo que a permanente deixe de ser uma criatura. Se o dano total marcado em uma criatura for maior ou igual a sua resistência, essa criatura sofreu dano letal e é destruída por uma ação baseada-no-estado (consulte a regra 704). Todo dano marcado em uma permanente é removido quando ela é regenerada (consulte a regra 701.15, “Regeneração”) e durante a etapa de limpeza (consulte a regra 514.2)."
 
 msgid "120.7. The source of damage is the object that dealt it. If an effect requires a player to choose a source of damage, they may choose a permanent; a spell on the stack (including a permanent spell); any object referred to by an object on the stack, by a prevention or replacement effect that’s waiting to apply, or by a delayed triggered ability that’s waiting to trigger (even if that object is no longer in the zone it used to be in); or a face-up object in the command zone. A source doesn’t need to be capable of dealing damage to be a legal choice. See rule 609.7, “Sources of Damage.”"
-msgstr ""
+msgstr "120.7. A fonte de dano é o objeto de que causou o dano. Se um efeito exige que um jogador escolha uma fonte de dano, ele pode escolher uma permanente; uma mágica na pilha (incluindo uma mágica de permanente); qualquer objeto referido por um objeto na pilha, por um efeito de prevenção ou substituição que está aguardando para ser aplicado, por uma habilidade desencadeada retardada que está esperando para desencadear (mesmo que o objeto não esteja mais na zona que estava antes); ou em certas variantes do jogo casual, um card com a face voltada para cima na zona de comando. Uma fonte não precisa ser capaz de causar dano para ser uma escolha válida. Consulte a regra 609.7, “Fontes de Dano”."
 
 msgid "120.8. If a source would deal 0 damage, it does not deal damage at all. That means abilities that trigger on damage being dealt won’t trigger. It also means that replacement effects that would increase the damage dealt by that source, or would have that source deal that damage to a different object or player, have no event to replace, so they have no effect."
-msgstr ""
+msgstr "120.8. Se uma fonte fosse causar 0 pontos de dano, ela não causa dano algum. Isso significa que habilidades que desencadeiam quando o dano é causado não desencadearão. Significa também que os efeitos de substituição que aumentariam o dano causado por essa fonte, ou fariam com que aquela fonte causasse aquele dano a um objeto ou jogador diferente, não tem nenhum evento para substituir, de forma que eles não têm nenhum efeito."
 
 msgid "120.9. If an ability triggers on damage being dealt by a specific source or sources, and the effect refers to the “damage dealt,” it refers only to the damage dealt by the specified sources and not to any damage dealt at the same time by other sources."
-msgstr ""
+msgstr "120.9. Se uma habilidade desencadeia quando o dano é causado por uma fonte ou fontes específicas, e o efeito se refere ao \"dano causado\", refere-se apenas ao dano causado pelas fontes especificadas e não a qualquer dano causado ao mesmo tempo por outras fontes."
 
 msgid "121.1. A player draws a card by putting the top card of their library into their hand. This is done as a turn-based action during each player’s draw step. It may also be done as part of a cost or effect of a spell or ability."
-msgstr ""
+msgstr "121.1. Um jogador compra um card colocando o card do topo de seu grimório em sua mão. Isso é feito como uma ação baseada-no-turno durante a etapa de compra de cada jogador. Isso também pode ser feito como parte de um custo ou um efeito de uma mágica ou habilidade."
 
 msgid "121.2. Cards may only be drawn one at a time. If a player is instructed to draw multiple cards, that player performs that many individual card draws."
-msgstr ""
+msgstr "121.2. Cards são comprados um de cada vez. Se um jogador é instruído a comprar vários cards, esse jogador executa aquela quantidade de compras individuais de card."
 
 msgid "121.2a An instruction to draw multiple cards can be modified by replacement effects that refer to the number of cards drawn. This modification occurs before considering any of the individual card draws. See rule 616.1f."
-msgstr ""
+msgstr "121.2a Uma instrução para comprar múltiplos cards pode ser modificada por efeitos de substituição que fazem referência ao número de cards comprados. Essa modificação acontece antes de considerar qualquer uma das compras individuais. Consulte a regra 616.1f."
 
 msgid "121.2b Some effects say that a player can’t draw more than one card each turn. Such an effect applies to individual card draws. Instructions to draw multiple cards may still be partially carried out. However, if an effect offers the player a choice to draw multiple cards, the affected player can’t choose to do so. Similarly, the player can’t pay a cost that includes drawing multiple cards."
-msgstr ""
+msgstr "121.2b Alguns efeitos dizem que um jogador não pode comprar mais de um card a cada turno. Esses efeitos aplicam-se a compras individuais. Instruções para comprar múltiplos cards podem ser parcialmente realizadas. No entanto, se um efeito oferecer ao jogador a opção de comprar múltiplos cards, o jogador afetado não pode escolher essa opção. Da mesma forma, um jogador não pode pagar custos que incluam comprar múltiplos cards."
 
 msgid "121.2c If an effect instructs more than one player to draw cards, the active player performs all of their draws first, then each other player in turn order does the same."
-msgstr ""
+msgstr "121.2c Se um efeito instrui mais que um jogador a comprar cards, o jogador ativo realiza as suas compras primeiro, depois cada jogador em ordem de turno faz o mesmo."
 
 msgid "121.2d If a rule or effect instructs more than one player to draw cards in a game that’s using the shared team turns option (such as a Two-Headed Giant game), first each player on the active team, in whatever order that team likes, performs their draws, then each player on each nonactive team in turn order does the same."
-msgstr ""
+msgstr "121.2d Se uma regra ou efeito instruir mais que um jogador a comprar cards em um jogo que faz uso da opção de turnos compartilhados pela equipe (como no Gigante De Duas Cabeças), primeiro cada jogador da equipe ativa, na ordem escolhida pela equipe, realiza suas compras, depois cada outro jogador das equipes não ativas fazem o mesmo seguindo a ordem de turno."
 
 msgid "121.3. If there are no cards in a player’s library and an effect offers that player the choice to draw a card, that player can choose to do so. However, if an effect says that a player can’t draw cards and another effect offers that player the choice to draw a card, that player can’t choose to do so."
 msgstr ""
