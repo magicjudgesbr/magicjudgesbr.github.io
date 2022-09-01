@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2022-09-01 18:02\n"
+"PO-Revision-Date: 2022-09-01 20:04\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -1811,37 +1811,38 @@ msgid "121.9. If an effect gives a player the option to reveal a card as they dr
 msgstr "121.9. Se um efeito der ao jogador a opção de rever um card conforme a compra é feita, aquele jogador pode olhar o card que será comprador antes de escolher revela-lo."
 
 msgid "122.1. A counter is a marker placed on an object or player that modifies its characteristics and/or interacts with a rule, ability, or effect. Counters are not objects and have no characteristics. Notably, a counter is not a token, and a token is not a counter. Counters with the same name or description are interchangeable."
-msgstr ""
+msgstr "121.1. Um marcador é uma marca colocada num objeto ou jogador que modifica as suas características e/ou interage com uma regra, habilidade, ou efeito. Marcadores não são objetos e não têm características. Notadamente, um marcador não é uma ficha, e uma ficha não é um marcador. Marcadores com o mesmo nome ou descrição são compatíveis."
 
 msgid "122.1a A +X/+Y counter on a creature or on a creature card in a zone other than the battlefield, where X and Y are numbers, adds X to that object’s power and Y to that object’s toughness. Similarly, -X/-Y counters subtract from power and toughness. See rule 613.4c."
-msgstr ""
+msgstr "121.1a Um marcador +X/+Y em uma criatura ou card de criatura em uma zona differente do campo de batalha, onde X e Y são números, adiciona X ao poder daquele objeto e Y à\n"
+"resistência daquele objeto. De modo análogo, marcadores -X/-Y reduzem o poder e resistência. Consulte a regra 613.4c."
 
 msgid "122.1b A keyword counter on a permanent or on a card in a zone other than the battlefield causes that object to gain that keyword. The keywords that a keyword counter can be are flying, first strike, double strike, deathtouch, haste, hexproof, indestructible, lifelink, menace, reach, trample, and vigilance, as well as any variants of those keywords. See rule 613.1f."
-msgstr ""
+msgstr "122.1b Um marcador de palavras-chave em uma permanente ou um card em uma zona diferente do campo de batalha faz com que esse objeto ganhe essa palavra-chave. As palavras-chave que um marcador de palavras-chave pode ser, são, voar, iniciativa, golpe duplo, toque mortífero, ímpeto, resistência à magia, indestrutível, vínculo com a vida, ameaçar, alcance, atropelar, e vigilância, bem como quaisquer variantes dessas palavras-chave. Ver a regra 613.1f."
 
 msgid "122.1c The number of loyalty counters on a planeswalker on the battlefield indicates how much loyalty it has. A planeswalker with 0 loyalty is put into its owner’s graveyard as a state-based action. See rule 704."
-msgstr ""
+msgstr "122.1c O número de marcadores de lealdade em um planeswalker no campo de batalha indica quanta lealdade ele possui. Um planeswalker com 0 marcadores de lealdade é colocado no cemitério do seu dono como uma ação baseada-no-estado. Consulte a regra 704."
 
 msgid "122.1d If a player has ten or more poison counters, that player loses the game as a state-based action. See rule 704. A player is “poisoned” if they have one or more poison counters. (See rule 810 for additional rules for Two-Headed Giant games.)"
-msgstr ""
+msgstr "122.1d Se um jogador tiver dez ou mais marcadores de veneno, ele perde o jogo como uma ação baseada-no-estado. Consulte a regra 704. Um jogador está \"envenenado\" se tiver um ou mais marcadores de veneno. (Consulte a regra 810 para regras adicionais de jogos de Gigante de Duas Cabeças)."
 
 msgid "122.2. Counters on an object are not retained if that object moves from one zone to another. The counters are not “removed”; they simply cease to exist. See rule 400.7."
-msgstr ""
+msgstr "122.2. Marcadores num objeto não são mantidos se o objeto se move de uma zona para outra. Os marcadores não são \"removidos\", eles simplesmente deixam de existir. Consulte a regra 400.7."
 
 msgid "122.3. If a permanent has both a +1/+1 counter and a -1/-1 counter on it, N +1/+1 and N -1/-1 counters are removed from it as a state-based action, where N is the smaller of the number of +1/+1 and -1/-1 counters on it. See rule 704."
-msgstr ""
+msgstr "122.3. Se uma permanente tem sobre ela um marcador +1/+1 e um marcador -1/-1, N marcadores +1/+1 e N marcadores -1/-1 são removidos como uma ação baseada-no-estado, onde N é o menor número de marcadores +1/+1 e -1/-1 sobre a permanente. Consulte a regra 704."
 
 msgid "122.4. If a permanent with an ability that says it can’t have more than N counters of a certain kind on it has more than N counters of that kind on it, all but N of those counters are removed from it as a state-based action. See rule 704."
-msgstr ""
+msgstr "122.4. Se uma permanente com uma habilidade que diz que ela não pode ter mais de N marcadores de certo tipo sobre ela tiver mais do que N marcadores daquele tipo sobre ela, todos menos N daqueles contadores são removidos da permanente como uma ação baseada-no-estado. Consulte a regra 704."
 
 msgid "122.5. If an effect says to “move” a counter, it means to remove that counter from the object it’s currently on and put it onto a second object. If either of these actions isn’t possible, it’s not possible to move a counter, and no counter is removed from or put onto anything. This may occur if the first and second objects are the same object; if the first object doesn’t have the appropriate kind of counter on it; if the second object can’t have counters put onto it; or if either object is no longer in the correct zone."
-msgstr ""
+msgstr "122.5. Se um efeito diz para “mover” um marcador, isso significa remover o marcador do objeto em que ele está e colocá-lo em um segundo objeto. Se alguma destas ações não for possível, não é possível mover um marcador, e nenhum marcador é removido ou colocado. Isso pode acontecer se o primeiro e o segundo objeto são o mesmo objeto; se o primeiro objeto não possuir o tipo apropriado de marcador; se o segundo objeto não puder ter marcadores sobre ele; ou se qualquer um dos objetos não estiver mais na zona correta."
 
 msgid "122.6. Some spells and abilities refer to counters being put on an object. This refers to putting counters on that object while it’s on the battlefield and also to an object that’s given counters as it enters the battlefield."
-msgstr ""
+msgstr "122.6. Algumas mágicas e habilidades referem-se a marcadores sendo colocados em um objeto. Isto quer dizer colocar marcadores naquele objeto enquanto ele esteja no campo de batalha e também a um objeto que é dado marcadores conforme ele entra no campo de batalha."
 
 msgid "122.6a If an object enters the battlefield with counters on it, the effect causing the object to be given counters may specify which player puts those counters on it. If the effect doesn’t specify a player, the object’s controller puts those counters on it."
-msgstr ""
+msgstr "122.6a Se um objeto entra no campo de batalha com marcadores sobre ele, o efeito que faz com que os marcadores sejam colocados pode especificar qual jogador coloca esses marcadores. Se o efeito não o fizer, o controlador do objeto coloca os marcadores na permanente."
 
 msgid "122.7. An ability that triggers “When/Whenever the Nth [kind] counter” is put on an object triggers when one or more counters of the appropriate kind are put on the object such that the object had fewer than N counters on it before the counters were put on it and N or more counters on it after."
 msgstr ""
