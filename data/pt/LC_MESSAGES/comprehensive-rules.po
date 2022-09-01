@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2022-09-01 13:41\n"
+"PO-Revision-Date: 2022-09-01 18:02\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -1804,10 +1804,11 @@ msgid "121.7. Some replacement effects and prevention effects result in one or m
 msgstr "121.7. Alguns efeitos de substituição e de prevenção resultam em mais de uma compra de card. Nesse caso, se houver qualquer parte do evento original que não foi substituída, essa parte ocorre primeiro, depois a compra de cards ocorre uma de cada vez."
 
 msgid "121.8. If a spell or ability causes a card to be drawn while another spell is being cast, the drawn card is kept face down until that spell becomes cast (see rule 601.2i) or until the casting process is reversed (see rule 723, “Handling Illegal Actions”). The same is true with relation to another ability being activated. If an effect allows or instructs a player to reveal the card as it’s being drawn, it’s revealed after the spell becomes cast or the ability becomes activated. While face down, the drawn card is considered to have no characteristics and can’t be used to pay any part of the cost of the spell or ability that would require the card to have specific characteristics."
-msgstr ""
+msgstr "121.8. Se uma mágica ou habilidade faz com que um card seja comprado enquanto outra mágica está sendo conjurada, o card comprado é mantido com a face voltada para baixo até que aquela mágica torne-se conjurada (consulte a regra 601.2i) ou até que o processo de conjuração seja revertido (consulte a regra 723, \"Lidando com Ações Ilegais\"). O mesmo se aplica\n"
+"com relação a outra habilidade sendo ativada. Se um efeito permite ou instrui o jogador que revele o card quando ele for comprado, ele é revelado após a mágica tornar-se conjurada ou a habilidade ser ativada. Enquanto estiver com a face voltada para baixo, o card comprado é considerado não possui características e não pode ser usado para pagar parte de um custo de uma mágica ou habilidade que exigiria que o card tivesse características específicas."
 
 msgid "121.9. If an effect gives a player the option to reveal a card as they draw it, that player may look at that card as they draw it before choosing whether to reveal it."
-msgstr ""
+msgstr "121.9. Se um efeito der ao jogador a opção de rever um card conforme a compra é feita, aquele jogador pode olhar o card que será comprador antes de escolher revela-lo."
 
 msgid "122.1. A counter is a marker placed on an object or player that modifies its characteristics and/or interacts with a rule, ability, or effect. Counters are not objects and have no characteristics. Notably, a counter is not a token, and a token is not a counter. Counters with the same name or description are interchangeable."
 msgstr ""
