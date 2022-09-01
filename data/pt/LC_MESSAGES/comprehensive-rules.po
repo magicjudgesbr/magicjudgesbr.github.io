@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2022-09-01 20:04\n"
+"PO-Revision-Date: 2022-09-01 23:45\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -1845,7 +1845,7 @@ msgid "122.6a If an object enters the battlefield with counters on it, the effec
 msgstr "122.6a Se um objeto entra no campo de batalha com marcadores sobre ele, o efeito que faz com que os marcadores sejam colocados pode especificar qual jogador coloca esses marcadores. Se o efeito não o fizer, o controlador do objeto coloca os marcadores na permanente."
 
 msgid "122.7. An ability that triggers “When/Whenever the Nth [kind] counter” is put on an object triggers when one or more counters of the appropriate kind are put on the object such that the object had fewer than N counters on it before the counters were put on it and N or more counters on it after."
-msgstr ""
+msgstr "122.7. Uma que desencadeia \"Quando/sempre que o N-ésimo marcador de [tipo]\" for colocado em um objeto, desencadeia quando um ou mais marcadores do tipo apropriado são colocados no objeto de forma que o objeto tinha menos que N marcadores nele antes de os marcadores serem colocados e N ou mais marcadores após."
 
 msgid "122.8. If a triggered ability instructs a player to “put those counters” or to “put [an object’s] counters” on another object and that ability’s trigger condition or effect checks that the object with those counters left the battlefield, that player puts a number of counters on the second object of each kind the first object had before it left the battlefield. The player doesn’t move counters from one object to another."
 msgstr ""
