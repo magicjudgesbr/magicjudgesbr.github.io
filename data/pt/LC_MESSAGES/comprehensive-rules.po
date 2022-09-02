@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2022-09-02 00:58\n"
+"PO-Revision-Date: 2022-09-02 18:37\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -1851,52 +1851,52 @@ msgid "122.8. If a triggered ability instructs a player to “put those counters
 msgstr "122.8. Se uma habilidade desencadeada instruir um jogador a \"colocar esses marcadores\" ou a \"colocar os marcadores [de um objeto] em outro objeto e a condição de desencadeamento dessa habilidade ou efeito checa se o objeto com esses marcadores saiu do campo de batalha, aquele jogador coloca um número de marcadores no segundo objeto de cada tipo que o primeiro objeto possuia antes de sair do campo de batalha. O jogador não move marcadores de um objeto para outro."
 
 msgid "200.1. The parts of a card are name, mana cost, illustration, color indicator, type line, expansion symbol, text box, power and toughness, loyalty, hand modifier, life modifier, illustration credit, legal text, and collector number. Some cards may have more than one of any or all of these parts."
-msgstr ""
+msgstr "200.1. As partes de um card são nome, custo de mana, ilustração, indicador de cor, linha de tipo, símbolo da expansão, caixa de texto, poder e resistência, lealdade, modificador de mão, modificador de vida, crédito da ilustração, texto legal, e número na coleção. Alguns cards podem ter mais do que uma ou todas essas partes."
 
 msgid "200.2. Some parts of a card are also characteristics of the object that has them. See rule 109.3."
-msgstr ""
+msgstr "200.2. Algumas partes de um card são também características que o objeto possui. Consulte a regra 109.3."
 
 msgid "200.3. Some objects that aren’t cards (tokens, copies of cards, and copies of spells) have some of the parts of a card, but only the ones that are also characteristics. See rule 111 and rule 706."
-msgstr ""
+msgstr "200.3. Alguns objetos que não são cards (fichas, cópias de cards, e cópias de mágicas) têm algumas partes de um card, mas apenas aquelas partes que são também características. Consulte a regra 111 e regra 706."
 
 msgid "201.1. The name of a card is printed on its upper left corner."
-msgstr ""
+msgstr "201.1. O nome de um card está impresso no seu canto superior esquerdo."
 
 msgid "201.2. A card’s name is always considered to be the English version of its name, regardless of printed language."
-msgstr ""
+msgstr "201.2. O nome de um card sempre é considerado como sendo a versão em Inglês de seu nome, indiferente do idioma em que tenha sido impresso."
 
 msgid "201.2a Two objects have the same name if their names are identical. An object with no name doesn’t have the same name as any other object, including another object with no name."
-msgstr ""
+msgstr "201.2a Dois objeros possuem o mesmo nome caso seus nomes sejam idênticos. Um objeto sem nome não possui o mesmo nome que qualquer outro objeto, incluindo outro objeto sem nome."
 
 msgid "201.2b If an object has more than one name, it has the same name as another object if there are one or more names that both objects have in common."
-msgstr ""
+msgstr "201.2b Se um objeto possuir mais de um nome, ele possui o mesmo nome de outro objeto se existirem um ou mais nomes que ambos objetos possuam em comum."
 
 msgid "201.2c Two or more objects have different names only if each of them has at least one name and no two objects in that group have the same name."
-msgstr ""
+msgstr "201.2c Dois ou mais objetos possuem nomes diferentes se cada um deles tiver pelo menos um nome e nenhum outro objeto desse grupo tiver o mesmo nome."
 
 msgid "201.3. If an effect instructs a player to choose a card name, the player must choose the name of a card in the Oracle card reference. (See rule 108.1.) A player may not choose the name of a token unless it’s also the name of a card."
-msgstr ""
+msgstr "201.3 Se um efeito instruir um jogador a escolher um nome de card, o jogador deve escolher o nome de um card do Oracle (consulte a regra 108.1). Um jogador não pode escolher o nome de uma ficha a menos que também seja o nome de um card."
 
 msgid "201.3a If a player is instructed to choose a card name with certain characteristics, the player must choose the name of a card whose Oracle text matches those characteristics. (See rule 108.1.)"
-msgstr ""
+msgstr "201.3a Se um jogador é instruído a escolher um nome de card com certas características, o jogador deve escolher um nome de card cujo texto da referência de cards Oracle corresponda a essas características (consulte a regra 108.1)."
 
 msgid "Example: Dispossess reads, in part, “Choose an artifact card name.” The player can choose the name of any artifact card, even one that’s not legal in the format of the current game. The player can’t choose Island, even if an Island on the battlefield has been turned into artifact by some effect."
-msgstr ""
+msgstr "Exemplo: [[card:Dispossess]] diz, em partes, “Escolha um nome de card de artefato”. O jogador pode escolher o nome de qualquer card de artefato, mesmo que ele não seja válido no formato do jogo atual. O jogador não pode escolher Ilha, mesmo se uma Ilha no campo de batalha tenha se tornado um artefato por algum efeito."
 
 msgid "201.3b If a player wants to choose the name of a split card, the player must choose the name of one of its halves, but not both. (See rule 708.) If a player is instructed to choose a card name with certain characteristics, use only that half’s characteristics to determine if this name can be chosen."
-msgstr ""
+msgstr "201.3b Se o jogador quiser escolher o nome de um card duplo, o jogador deve escolher o nome de um dos lados, mas não ambos (consulte a regra 708). Se um jogador for instruído a escolher o nome de um card com certas características, utilize somente as características daquele lado para determinar se esse nome pode ser escolhido."
 
 msgid "201.3c If a player wants to choose a flip card’s alternative name, the player may do so. (See rule 709.) If a player is instructed to choose a card name with certain characteristics, use the card’s characteristics as modified by its alternative characteristics to determine if this name can be chosen."
-msgstr ""
+msgstr "201.3c Se o jogador quiser escolher o nome alternativo de um card que gira, o jogador pode fazê-lo (consulte a regra 709). Se um jogador for instruído a escolher o nome de um card com certas características, utilize as características modificadas por suas características alternativas para determinar se esse nome pode ser escolhido."
 
 msgid "201.3d If a player wants to choose the name of the back face of a double-faced card, the player may do so. (See rule 711.) If a player is instructed to choose a card name with certain characteristics, use only the characteristics of the back face to determine if this name can be chosen."
-msgstr ""
+msgstr "201.3d Se o jogador quiser escolher o nome alternativo de um card dupla face, o jogador pode fazê-lo (consulte a regra 711). Se um jogador for instruído a escolher o nome de um card com certas características, utilize somente as características da face traseira para determinar se esse nome pode ser escolhido."
 
 msgid "201.3e If a player wants to choose the name of the combined back face of a meld pair, the player may do so. (See rule 712.) If a player is instructed to choose a card name with certain characteristics, use only the characteristics of the combined back face to determine if this name can be chosen."
-msgstr ""
+msgstr "201.3e Se o jogador quiser escolher o nome combinado de um par fundido, o jogador pode fazê-lo (consulte a regra 712). Se um jogador for instruído a escolher o nome de um card com certas características, utilize somente as características combinadas da face traseira do par fundido para determinar se esse nome pode ser escolhido."
 
 msgid "201.3f If a player wants to choose an adventurer card’s alternative name, the player may do so. (See rule 715.) If a player is instructed to choose a card name with certain characteristics, use the card’s characteristics as modified by its alternative characteristics to determine if this name can be chosen."
-msgstr ""
+msgstr "201.3f Se um jogador quiser escolher o nome alternativo de um card de aventureiro, o jogador pode fazê-lo. (Veja a regra 715.) Se um jogador for instruído a escolher um nome de carta com certas características, use as características do card como modificado por suas características alternativas para determinar se este nome pode ser escolhido."
 
 msgid "201.4. Text that refers to the object it’s on by name means just that particular object and not any other objects with that name, regardless of any name changes caused by game effects."
 msgstr ""
