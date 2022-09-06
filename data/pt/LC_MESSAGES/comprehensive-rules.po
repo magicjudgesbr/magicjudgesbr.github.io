@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2022-09-02 18:37\n"
+"PO-Revision-Date: 2022-09-06 23:40\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -1899,31 +1899,31 @@ msgid "201.3f If a player wants to choose an adventurer card’s alternative nam
 msgstr "201.3f Se um jogador quiser escolher o nome alternativo de um card de aventureiro, o jogador pode fazê-lo. (Veja a regra 715.) Se um jogador for instruído a escolher um nome de carta com certas características, use as características do card como modificado por suas características alternativas para determinar se este nome pode ser escolhido."
 
 msgid "201.4. Text that refers to the object it’s on by name means just that particular object and not any other objects with that name, regardless of any name changes caused by game effects."
-msgstr ""
+msgstr "201.4 O texto que faz referência ao objeto em que está pelo nome refere-se apenas a esse objeto em particular e não a qualquer outro objeto com aquele nome, independentemente de quaisquer mudanças de nome causadas por efeitos de jogo."
 
 msgid "201.4a If an ability’s effect grants another ability to an object, and that second ability refers to that first ability’s source by name, the name refers only to the specific object that is that first ability’s source, not to any other object with the same name. This is also true if the second ability is copied onto a new object."
-msgstr ""
+msgstr "201.4a Se o efeito de uma habilidade confere outra habilidade a um objeto, e essa segunda habilidade faz referência à fonte da primeira habilidade pelo nome, esse nome refere-se somente ao objeto especifico que é a fonte da primeira habilidade, e não a qualquer outro objeto com o mesmo nome. Isso também acontece caso a segunda habilidade seja copiada em um novo objeto."
 
 msgid "Example: Gutter Grime has an ability that reads “Whenever a nontoken creature you control dies, put a slime counter on Gutter Grime, then create a green Ooze creature token with ‘This creature’s power and toughness are each equal to the number of slime counters on Gutter Grime.’” The ability granted to the token only looks at the Gutter Grime that created the token, not at any other Gutter Grime on the battlefield. A copy of that token would also have an ability that referred only to the Gutter Grime that created the original token."
-msgstr ""
+msgstr "Exemplo: [[card:Gutter Grime]] tem uma habilidade que diz “Toda vez que uma criatura que não seja ficha que você controla morrer, coloque um marcador de limo sobre [[card:Gutter Grime]], depois crie uma ficha de criatura verde do tipo Lodo com ‘O poder e a resistência desta criatura são ambos iguais ao número de marcadores de limo sobre [[card:Gutter Grime]]’”. A habilidade conferida à ficha observará apenas a [[card:Gutter Grime]] que criou a ficha, e não outra [[card:Gutter Grime]] que esteja no campo de batalha. Uma cópia daquela ficha também possui uma habilidade que faz referência à [[card:Gutter Grime]] que criou a ficha original."
 
 msgid "201.4b If an ability of an object refers to that object by name, and an object with a different name gains that ability, each instance of the first name in the gained ability that refers to the first object by name should be treated as the second name."
-msgstr ""
+msgstr "201.4b Se uma habilidade de um objeto fizer referência àquele objeto pelo nome, e um objeto com um nome diferente ganha aquela habilidade, todas as ocorrências do nome do primeiro objeto na habilidade ganhada devem se tratadas como o segundo nome."
 
 msgid "Example: Quicksilver Elemental says, in part, “{U}: Quicksilver Elemental gains all activated abilities of target creature until end of turn.” If it gains an ability that says “{G}: Regenerate Cudgel Troll,” activating that ability will regenerate Quicksilver Elemental, not the Cudgel Troll it gained the ability from."
-msgstr ""
+msgstr "Exemplo: [[card:Quicksilver Elemental]] diz, em partes, “{U}: [[card:Quicksilver Elemental]] ganha todas as habilidades ativadas da criatura alvo até o final do turno”, se ele ganhar uma habilidade que diz “{G}: Regenere [[card:Cudgel Troll]]”, ativar essa habilidade regenerará [[card:Quicksilver Elemental]] e não [[card:Cudgel Troll] de onde ganhou a habilidade."
 
 msgid "Example: Glacial Ray is an instant with splice onto Arcane that says “Glacial Ray deals 2 damage to any target.” If it’s spliced onto a Kodama’s Reach, that Kodama’s Reach deals 2 damage to the target."
-msgstr ""
+msgstr "Exemplo: [[card:Glacial Ray]] é uma mágica instantânea com “unir em arcana” que diz “[[card:Glacial Ray]] causa 2 pontos de dano à qualquer alvo”. Se ele for unido em um [[card: Kodama's Reach]], esse [[card:Kodama's Reach]] causará 2 pontos à qualquer alvo."
 
 msgid "Example: Dimir Doppelganger says “{1}{U}{B}: Exile target creature card from a graveyard. Dimir Doppelganger becomes a copy of that card and gains this ability.” Dimir Doppelganger’s ability is activated targeting a Runeclaw Bear card. The Doppelganger becomes a copy of Runeclaw Bear and gains an ability that should be treated as saying “{1}{U}{B}: Exile target creature card from a graveyard. Runeclaw Bear becomes a copy of that card and gains this ability.”"
-msgstr ""
+msgstr "Exemplo: [[card:Dimir Doppelganger]] diz “{1}{U}{B}: Exile o card de criatura alvo de um cemitério. [[card:Dimir Doppelganger]] torna-se uma cópia daquele card e ganha esta habilidade”. A habilidade de [[card:Dimir Doppelganger]] é ativada tendo como alvo um card de [[card:Runeclaw Bear]]. O [[card:Dimir Doppelganger]] torna-se uma cópia de [[card:Runeclaw Bear]] e ganha uma habilidade que deve ser tratada da seguinte “{1}{U}{B}: Exile o card de criatura alvo de um cemitério. [[card:Runeclaw Bear]] torna-se uma cópia daquele card e ganha esta habilidade.”"
 
 msgid "201.4c Text printed on some legendary cards refers to that card by a shortened version of its name. Instances of a card’s shortened name used in this manner are treated as though they used the card’s full name."
-msgstr ""
+msgstr "201.4c O texto impresso em alguns cards lendários referem-se àqueles cards por uma versão reduzida de seus nomes. As ocorrências do nome reduzido de um card usadas desta maneira são tratadas como se fosse usado o nome completo do card."
 
 msgid "201.5. Some versions of Ikoria™: Lair of Behemoths cards and other promotional cards feature a name other than their own in the upper left corner, with their normal name in a secondary title bar below it. These cards have only the card name specified in the secondary title bar, not the name printed where a card’s name would normally appear. That name is considered flavor text and has no effect on game play."
-msgstr ""
+msgstr "2015.5. Algumas versões de cards de [[set:Ikoria™: Lair of Behemoths]] e outros cards promocionais apresentam um nome diferente do seu no canto superior esquerdo, com o seu nome normal em uma barra de título secundário abaixo dela. Estes cards têm apenas o nome de card especificado na barra de título secundária, não o nome impresso onde o nome de um card normalmente apareceria. Esse nome é considerado sabor texto ilustrativo e não tem efeito na jogabilidade."
 
 msgid "202.1. A card’s mana cost is indicated by mana symbols near the top of the card. (See rule 107.4.) On most cards, these symbols are printed in the upper right corner. Some cards from the Future Sight set have alternate frames in which the mana symbols appear to the left of the illustration."
 msgstr ""
