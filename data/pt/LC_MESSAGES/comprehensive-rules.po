@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2022-09-06 23:40\n"
+"PO-Revision-Date: 2022-09-08 01:26\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -1926,37 +1926,37 @@ msgid "201.5. Some versions of Ikoria™: Lair of Behemoths cards and other prom
 msgstr "2015.5. Algumas versões de cards de [[set:Ikoria™: Lair of Behemoths]] e outros cards promocionais apresentam um nome diferente do seu no canto superior esquerdo, com o seu nome normal em uma barra de título secundário abaixo dela. Estes cards têm apenas o nome de card especificado na barra de título secundária, não o nome impresso onde o nome de um card normalmente apareceria. Esse nome é considerado sabor texto ilustrativo e não tem efeito na jogabilidade."
 
 msgid "202.1. A card’s mana cost is indicated by mana symbols near the top of the card. (See rule 107.4.) On most cards, these symbols are printed in the upper right corner. Some cards from the Future Sight set have alternate frames in which the mana symbols appear to the left of the illustration."
-msgstr ""
+msgstr "202.1. O custo de mana de um card é indicado pelos símbolos de mana próximos à parte superior do card. (Consulte a regra 107.4.) Na maioria dos cards, estes símbolos estão impressos no canto superior direito. Alguns cards da expansão [[set:Future Sight]] têm uma moldura alternativa na qual os símbolos de mana aparecem à esquerda da ilustração."
 
 msgid "202.1a The mana cost of an object represents what a player must spend from their mana pool to cast that card. Unless an object’s mana cost includes Phyrexian mana symbols (see rule 107.4f), paying that mana cost requires matching the type of any colored or colorless mana symbols as well as paying the generic mana indicated in the cost."
-msgstr ""
+msgstr "202.1a O custo de mana de um objeto representa o que um jogador deve gastar de sua reserva de mana para conjurar aquele card. A não ser que o custo de mana do objeto inclua símbolos de mana Phyrexianos (consulte a regra 107.4f), pagar o custo de mana de um objeto requer gastar mana do mesmo tipo que os símbolos de mana coloridos ou incolores que aparecem no custo, assim como pagar mana genérico indicado no custo."
 
 msgid "202.1b Some objects have no mana cost. This normally includes all land cards, any other cards that have no mana symbols where their mana cost would appear, tokens (unless the effect that creates them specifies otherwise), and nontraditional Magic cards. Having no mana cost represents an unpayable cost (see rule 118.6). Note that lands are played without paying any costs (see rule 305, “Lands”)."
-msgstr ""
+msgstr "202.1b Alguns objetos não têm custo de mana. Isso normalmente inclui todos os cards de terreno, qualquer card que não tenha símbolos de mana onde deveria aparecer o seu custo de mana, fichas (a não ser que o efeito que as tenha criado diga o contrário), e cards não tradicionais de Magic. Não ter um custo de mana significa um custo impagável (consulte a regra 118.6). Observe que os terrenos são jogados sem pagar quaisquer custos (consulte a regra 305, “Terrenos”)."
 
 msgid "202.2. An object is the color or colors of the mana symbols in its mana cost, regardless of the color of its frame."
-msgstr ""
+msgstr "202.2. Um objeto é da cor ou cores dos símbolos de mana em seu custo de mana, independentemente da cor da sua moldura."
 
 msgid "202.2a The five colors are white, blue, black, red, and green. The white mana symbol is represented by {W}, blue by {U}, black by {B}, red by {R}, and green by {G}."
-msgstr ""
+msgstr "202.2a As cinco cores são branco, azul, preto, vermelho e verde. O símbolo de mana branco é representado por {W}, azul por {U}, preto por {B}, vermelho por {R}, e verde por {G}."
 
 msgid "Example: An object with a mana cost of {2}{W} is white, an object with a mana cost of {2} is colorless, and one with a mana cost of {2}{W}{B} is both white and black."
-msgstr ""
+msgstr "Exemplo: Um objeto com custo de mana de {2}{W} é branco, um objeto com custo de mana de {2} é incolor e um com custo de mana de {2}{W}{B} é tanto preto como branco."
 
 msgid "202.2b Objects with no colored mana symbols in their mana costs are colorless."
-msgstr ""
+msgstr "202.2b Objetos sem símbolos de mana coloridos em seus custos são incolores."
 
 msgid "202.2c An object with two or more different colored mana symbols in its mana cost is each of the colors of those mana symbols. Most multicolored cards are printed with a gold frame, but this is not a requirement for a card to be multicolored."
-msgstr ""
+msgstr "202.2c Um objeto com dois ou mais símbolos de mana coloridos diferentes em seu custo é de cada uma das cores desses símbolos. A maioria dos cards multicoloridos é impressa com uma moldura dourada, mas isso não é um requisito para um card ser multicolorido."
 
 msgid "202.2d An object with one or more hybrid mana symbols and/or Phyrexian mana symbols in its mana cost is all of the colors of those mana symbols, in addition to any other colors the object might be. (Most cards with hybrid mana symbols in their mana costs are printed in a two-tone frame. See rule 107.4e.)"
-msgstr ""
+msgstr "202.2d Um objeto com um ou mais símbolos de mana híbridos e/ou Phyrexianos em seu custo é de todas as cores desses símbolos de mana em adição a quaisquer outras cores que esse objeto possa ser. (A maioria dos cards com símbolos de mana híbridos em seu custo é impressa em uma moldura com dois tons. Consulte a regra 107.4e)."
 
 msgid "202.2e An object may have a color indicator printed to the left of the type line. That object is each color denoted by that color indicator. (See rule 204.)"
-msgstr ""
+msgstr "202.2e Um objeto pode ter um indicador de cor impresso à esquerda da linha de tipo. Esse objeto é de cada uma das cores indicadas pelo indicador de cor. (Veja a regra 204.)"
 
 msgid "202.2f Effects may change an object’s color, give a color to a colorless object, or make a colored object become colorless; see rule 105.3."
-msgstr ""
+msgstr "202.2f Efeitos podem mudar a cor de um objeto, conferir uma cor a um objeto incolor, ou fazer um objeto colorido tornar-se incolor; consulte a regra 105.3."
 
 msgid "202.3. The converted mana cost of an object is a number equal to the total amount of mana in its mana cost, regardless of color."
 msgstr ""
