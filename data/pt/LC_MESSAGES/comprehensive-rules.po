@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2022-09-08 17:14\n"
+"PO-Revision-Date: 2022-09-08 18:26\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -1980,40 +1980,40 @@ msgid "Example: Insectile Aberration is the back face of a transforming double-f
 msgstr "Exemplo: [[card:Insectile Aberration]] é a face traseira de um card dupla-face cuja face frontal tem custo de mana {U}. Ela se torna uma cópia de [[card:Ravager of the Fells]]. Seu custo de mana se torna 0."
 
 msgid "202.3c The converted mana cost of a melded permanent is calculated as though it had the combined mana cost of the front faces of each card that represents it. If a permanent is a copy of a melded permanent (even if that copy is represented by two other meld cards), the converted mana cost of the copy is 0."
-msgstr ""
+msgstr "202.3c O custo de mana convertido de uma permanente fundida é calculado como se se aquela permanente tivesse o custo de mana combinado das faces dianteiras de cada card que representa a permanente fundida. Se uma permanente é uma cópia de uma permanente fundida (mesmo que aquela cópia seja representada por dois cards com fusão), o custo de mana convertido da cópia é 0."
 
 msgid "202.3d The converted mana cost of a split card not on the stack or of a fused split spell on the stack is determined from the combined mana costs of its halves. Otherwise, while a split card is on the stack, the converted mana cost of the spell is determined by the mana cost of the half that was chosen to be cast. See rule 708, “Split Cards.”"
-msgstr ""
+msgstr "202.3d O custo de mana convertido de um card duplo na pilha ou um card com fusão na pilha é determinado usando os custos de mana combinados de seus lados. Caso contrário, enquanto um card duplo estiver na pilha, o custo de mana convertido da mágica é determinado pelo custo de mana da metade que foi escolhida para ser conjurada. Veja a regra 708, \"Cards Duplos\"."
 
 msgid "202.3e When calculating the converted mana cost of an object with an {X} in its mana cost, X is treated as 0 while the object is not on the stack, and X is treated as the number chosen for it while the object is on the stack."
-msgstr ""
+msgstr "202.3e Quando se calcula o custo de mana convertido de um objeto que inclui um {X} em seu custo de mana, X é tratado como sendo 0 enquanto o objeto não estiver na pilha, e X é tratado como o número escolhido para ele enquanto o objeto estiver na pilha."
 
 msgid "202.3f When calculating the converted mana cost of an object with a hybrid mana symbol in its mana cost, use the largest component of each hybrid symbol."
-msgstr ""
+msgstr "202.3f Quando se calcula o custo de mana convertido de um objeto com um símbolo de mana híbrido em seu custo de mana, usa-se o maior componente de cada símbolo de mana híbrido."
 
 msgid "Example: The converted mana cost of a card with mana cost {1}{W/U}{W/U} is 3."
-msgstr ""
+msgstr "Exemplo: O custo de mana convertido de um card com custo de mana {1}{W/U}{W/U} é 3."
 
 msgid "Example: The converted mana cost of a card with mana cost {2/B}{2/B}{2/B} is 6."
-msgstr ""
+msgstr "Exemplo: O custo de mana convertido de um card com custo de mana {2/B}{2/B}{2/B} é 6."
 
 msgid "202.3g Each Phyrexian mana symbol in a card’s mana cost contributes 1 to its converted mana cost."
-msgstr ""
+msgstr "202.3g Cada símbolo de mana Phyrexiano no custo de mana de um card contribui em 1 a seu custo de mana convertido."
 
 msgid "Example: The converted mana cost of a card with mana cost {1}{W/P}{W/P} is 3."
-msgstr ""
+msgstr "Exemplo: O custo de mana convertido de um card com o custo de mana de {1}{W/P}{W/P} é 3."
 
 msgid "202.4. Any additional cost listed in an object’s rules text or imposed by an effect isn’t part of the mana cost. (See rule 601, “Casting Spells.”) Such costs are paid at the same time as the spell’s other costs."
-msgstr ""
+msgstr "202.4. Qualquer custo adicional apresentado no texto de regras de um objeto ou imposto por um efeito não é parte do custo de mana (consulte a regra 601, “Conjurando Mágicas”). Tais custo são pagos ao mesmo tempo em que os outros custos da mágica."
 
 msgid "203.1. The illustration is printed on the upper half of a card and has no effect on game play. For example, a creature doesn’t have the flying ability unless stated in its rules text, even if it’s depicted as flying."
-msgstr ""
+msgstr "203.1. A ilustração é impressa na metade superior de um card e não tem efeito no jogo. Por exemplo, uma criatura não tem a habilidade de voar a não ser que isso esteja escrito em seu texto de regras, mesmo que a sua ilustração a apresente voando."
 
 msgid "204.1. The color indicator is printed to the left of the type line directly below the illustration. It consists of a circular symbol filled in with one or more colors. A color indicator is usually found on nonland cards without a mana cost."
-msgstr ""
+msgstr "204.1. O indicador de cor é impresso à esquerda na linha de tipo diretamente abaixo da ilustração. O indicador consiste de um símbolo circular preenchido com uma ou mais cores. Indicadores de cor são normalmente encontrados cards que não sejam de terreno sem custo de mana."
 
 msgid "204.2. An object with a color indicator is each color denoted by that color indicator."
-msgstr ""
+msgstr "204.2. Um objeto com um indicador de cor é de cada cor mostrada pelo esse indicador de cor."
 
 msgid "205.1. The type line is printed directly below the illustration. It contains the card’s card type(s). It also contains the card’s subtype(s) and supertype(s), if applicable."
 msgstr ""
