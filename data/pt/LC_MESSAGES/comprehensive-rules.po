@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2022-09-08 01:26\n"
+"PO-Revision-Date: 2022-09-08 17:14\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -1959,25 +1959,25 @@ msgid "202.2f Effects may change an object’s color, give a color to a colorles
 msgstr "202.2f Efeitos podem mudar a cor de um objeto, conferir uma cor a um objeto incolor, ou fazer um objeto colorido tornar-se incolor; consulte a regra 105.3."
 
 msgid "202.3. The converted mana cost of an object is a number equal to the total amount of mana in its mana cost, regardless of color."
-msgstr ""
+msgstr "202.3. O custo de mana convertido de um objeto é um número igual à quantidade total de mana no seu custo de mana, independentemente da cor."
 
 msgid "Example: A mana cost of {3}{U}{U} translates to a converted mana cost of 5."
-msgstr ""
+msgstr "Exemplo: Um custo de mana de {3}{U}{U} representa um custo de mana convertido de 5."
 
 msgid "202.3a The converted mana cost of an object with no mana cost is 0, unless that object is the back face of a transforming double-faced permanent or is a melded permanent."
-msgstr ""
+msgstr "202.3a O custo de mana convertido de um objeto sem custo de mana é 0, exceto se aquele objeto é a face traseira de uma permanente dupla-face ou é uma permanente fundida."
 
 msgid "202.3b The converted mana cost of a transforming double-faced permanent’s back face is calculated as though it had the mana cost of its front face. If a permanent is a copy of the back face of a transforming double-faced card (even if the card representing that copy is itself a double-faced card), the converted mana cost of that permanent is 0."
-msgstr ""
+msgstr "202.3b O custo de mana convertido da parte traseira de uma permanente dupla-face é calculado como se esta tivesse o custo de mana de sua face frontal. Se uma permanente é uma cópia da face traseira de um card dupla-face (mesmo se o card representando aquela cópia é ela mesma um card dupla-face), o custo de mana convertido daquela permanente é 0."
 
 msgid "Example: Huntmaster of the Fells is a transforming double-faced card with mana cost {2}{R}{G}. Its converted mana cost is 4. After it transforms to its other face (Ravager of the Fells), its converted mana cost remains 4."
-msgstr ""
+msgstr "Exemplo: [[card:Huntmaster of the Fells]] é um card dupla-face com custo de mana {2}{R}{G}. Seu custo de mana convertido é 4. Depois que ele se transforma em sua outra face, [[card::Ravager of the Fells]], seu custo de mana convertido permanecerá 4."
 
 msgid "Example: A Clone enters the battlefield as a copy of Ravager of the Fells. Its converted mana cost is 0."
-msgstr ""
+msgstr "Exemplo: Um Clone entra no campo de batalha como uma cópia de [[card:Ravager of the Fells]]. Seu custo de mana convertido é 0."
 
 msgid "Example: Insectile Aberration is the back face of a transforming double-faced card whose front face has mana cost {U}. It becomes a copy of Ravager of the Fells. Its converted mana cost becomes 0."
-msgstr ""
+msgstr "Exemplo: [[card:Insectile Aberration]] é a face traseira de um card dupla-face cuja face frontal tem custo de mana {U}. Ela se torna uma cópia de [[card:Ravager of the Fells]]. Seu custo de mana se torna 0."
 
 msgid "202.3c The converted mana cost of a melded permanent is calculated as though it had the combined mana cost of the front faces of each card that represents it. If a permanent is a copy of a melded permanent (even if that copy is represented by two other meld cards), the converted mana cost of the copy is 0."
 msgstr ""
