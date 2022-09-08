@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2022-09-08 19:37\n"
+"PO-Revision-Date: 2022-09-08 20:46\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -2032,19 +2032,19 @@ msgid "Example: An ability reads, “All artifacts are 1/1 artifact creatures.�
 msgstr "Exemplo: Uma habilidade diz, “Todos os artefatos são criaturas artefato 1/1”. Se uma permanente é tanto um artefato quanto um encantamento, ela se tornará uma “criatura artefato encantamento”."
 
 msgid "205.2. Card Types"
-msgstr ""
+msgstr "205.2. Tipos de Card"
 
 msgid "205.2a The card types are artifact, conspiracy, creature, enchantment, instant, land, phenomenon, plane, planeswalker, scheme, sorcery, tribal, and vanguard. See section 3, “Card Types.”"
-msgstr ""
+msgstr "205.2a Os tipos de card são artefato, conspiracy, criatura, encantamento, mágica instantânea, terreno, fenômeno, plano, planeswalker, esquema, feitiço, tribal, e vanguard. Ver seção 3, “Tipos de Card”."
 
 msgid "205.2b Some objects have more than one card type (for example, an artifact creature). Such objects satisfy the criteria for any effect that applies to any of their card types."
-msgstr ""
+msgstr "205.2b Alguns objetos têm mais de um tipo de card (por exemplo, uma criatura artefato). Tais objetos satisfazem os critérios para qualquer efeito que se aplica a qualquer um dos seus tipos de card."
 
 msgid "205.2c Tokens have card types even though they aren’t cards. The same is true of copies of spells and copies of cards."
-msgstr ""
+msgstr "205.2c Fichas têm tipos de card, mesmo elas não sendo cards. O mesmo é verdade para cópias de mágicas e cópias de cards."
 
 msgid "205.3. Subtypes"
-msgstr ""
+msgstr "205.3. Subtipos"
 
 msgid "205.3a A card can have one or more subtypes printed on its type line."
 msgstr ""
