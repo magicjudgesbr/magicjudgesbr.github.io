@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2022-09-08 20:46\n"
+"PO-Revision-Date: 2022-09-10 00:24\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -2047,34 +2047,34 @@ msgid "205.3. Subtypes"
 msgstr "205.3. Subtipos"
 
 msgid "205.3a A card can have one or more subtypes printed on its type line."
-msgstr ""
+msgstr "205.3a Um card pode ter um ou mais subtipos impressos em sua linha de tipo."
 
 msgid "205.3b Subtypes of each card type except plane are always single words and are listed after a long dash. Each word after the dash is a separate subtype; such objects may have multiple types. Subtypes of planes are also listed after a long dash, but may be multiple words; all words after the dash are, collectively, a single subtype."
-msgstr ""
+msgstr "205.3b Os subtipos de cada tipo de card, exceto cards de plano são sempre uma única palavra, listada após um travessão. Cada palavra depois do travessão é um subtipo distinto; tais objetos podem ter múltiplos tipos. Os subtipos de planos também são listados após um travessão, mas podem ter múltiplas palavras, todas as palavras após o travessão representam um único subtipo."
 
 msgid "Example: “Basic Land — Mountain” means the card is a land with the subtype Mountain. “Creature — Goblin Wizard” means the card is a creature with the subtypes Goblin and Wizard. “Artifact — Equipment” means the card is an artifact with the subtype Equipment."
-msgstr ""
+msgstr "Exemplo: “Terreno Básico — Montanha” significa que o card é um terreno com o subtipo Montanha. “Criatura — Mago Goblin” significa que o card é uma criatura com os subtipos Mago e Goblin. “Artefato — Equipamento” significa que o card é um artefato com o subtipo Equipamento."
 
 msgid "205.3c If a card with multiple card types has one or more subtypes, each subtype is correlated to its appropriate card type."
-msgstr ""
+msgstr "205.3c Se um card com múltiplos tipos de card tem um ou mais subtipos, cada subtipo está relacionado ao seu tipo de card apropriado."
 
 msgid "Example: Dryad Arbor’s type line says “Land Creature — Forest Dryad.” Forest is a land type, and Dryad is a creature type."
-msgstr ""
+msgstr "Exemplo: A linha de tipo de [[card:Dryad Arbor]] diz “Terreno Criatura - Floresta Dríade”. Floresta é um tipo de terreno e Dríade é um tipo de criatura."
 
 msgid "205.3d An object can’t gain a subtype that doesn’t correspond to one of that object’s types."
-msgstr ""
+msgstr "205.3d Um objeto não pode ganhar um subtipo que não corresponda a um dos tipos daquele objeto."
 
 msgid "205.3e If an effect instructs a player to choose a subtype, that player must choose one, and only one, existing subtype, and the subtype must be for the appropriate card type. For example, the player can’t choose a land type if an instruction requires choosing a creature type."
-msgstr ""
+msgstr "205.3e Se um efeito instrui um jogador a escolher um subtipo, aquele jogador deve escolher um, e apenas um, subtipo existente, e o subtipo escolhido deve ser para o tipo de card apropriado. Por exemplo, um jogador não pode escolher um tipo de terreno se uma instrução requer a escolha de um tipo de criatura."
 
 msgid "Example: When choosing a creature type, “Merfolk” or “Wizard” is acceptable, but “Merfolk Wizard” is not. Words like “artifact,” “opponent,” “Swamp,” or “truck” can’t be chosen because they aren’t creature types."
-msgstr ""
+msgstr "Exemplo: Ao escolher um tipo de criatura, “Tritão” ou “Mago” são aceitáveis, mas “Tritão Mago” não é. Palavras como “artefato”, “oponente”, “Pântano” ou “caminhão” não podem ser escolhidas porque não são tipos de criatura."
 
 msgid "205.3f Many cards were printed with subtypes that are now obsolete. Many cards have retroactively received subtypes. Use the Oracle card reference to determine what a card’s subtypes are. (See rule 108.1.)"
-msgstr ""
+msgstr "205.3f Muitos cards foram impressas com subtipos que agora são obsoletos. Muitos cards retroativamente receberam subtipos. Use a referência de cards Oracle para determinar quais são os subtipos de um card. (Consulte a regra 108.1.)"
 
 msgid "205.3g Artifacts have their own unique set of subtypes; these subtypes are called artifact types. The artifact types are Clue, Contraption, Equipment (see rule 301.5), Food, Fortification (see rule 301.6), Gold, Treasure, and Vehicle (see rule 301.7)."
-msgstr ""
+msgstr "205.3g Artefatos têm seu próprio conjunto de subtipos; esses subtipos são chamados de tipos de artefato. Os tipos de artefatos são Pista, Aparelho, Equipamento (consulte a regra 301.5), Comida, Fortificação (consulte a regra 301.6), Ouro, Tesouro, e Veículo (consulte a regra 301.7)."
 
 msgid "205.3h Enchantments have their own unique set of subtypes; these subtypes are called enchantment types. The enchantment types are Aura (see rule 303.4), Cartouche, Curse, Saga (see rule 714), and Shrine."
 msgstr ""
