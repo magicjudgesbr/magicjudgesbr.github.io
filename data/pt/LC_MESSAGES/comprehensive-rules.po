@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2022-09-28 17:22\n"
+"PO-Revision-Date: 2022-09-28 19:17\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -2189,7 +2189,7 @@ msgid "208.2a The card may have a characteristic-defining ability that sets its 
 msgstr "208.2a O card pode ter uma habilidade definidora de característica que define o seu poder e/ou resistência de acordo com alguma condição definida (Consulte a regra 604.3). Tal habilidade é escrita da seguinte forma “[o poder ou a resistência] [desta criatura] é igual a …” ou “O poder e a resistência [desta criatura] são ambos iguais a …”. Esta habilidade funciona em todos os lugares, mesmo fora do jogo. Se a habilidade precisa usar um número que não pode ser determinado, inclusive dentro de um cálculo, use 0 em vez deste número."
 
 msgid "Example: Lost Order of Jarkeld has power and toughness each equal to 1+*. It has the abilities “As Lost Order of Jarkeld enters the battlefield, choose an opponent” and “Lost Order of Jarkeld’s power and toughness are each equal to 1 plus the number of creatures the chosen player controls.” While Lost Order of Jarkeld isn’t on the battlefield, there won’t be a chosen player. Its power and toughness will each be equal to 1 plus 0, so it’s 1/1."
-msgstr ""
+msgstr "Exemplo: Lost Order of Jarkeld tem poder e resistência iguais a 1+*. A habilidade diz “Conforme Lost Order of Jarkeld entra no campo de batalha, escolha um oponente” e “O poder e a resistência de Lost Order of Jarkeld são ambos iguais a 1 mais o número de criaturas controladas por aquele oponente”. Enquanto Lost Order of Jarkeld não estiver no campo de batalha, não haverá um oponente escolhido. O seu poder e resistência serão ambos iguais a 1 acrescido de 0, portanto ele é 1/1."
 
 msgid "208.2b The card may have a static ability that creates a replacement effect that sets the creature’s power and toughness to one of a number of specific values as it enters the battlefield or is turned face up. (See rule 614, “Replacement Effects.”) Such an ability is worded “As [this creature] enters the battlefield . . . ,” “As [this creature] is turned face up . . . ,” or “[This creature] enters the battlefield as . . .” and lists two or more specific power and toughness values (and may also list additional characteristics). The characteristics chosen or determined with these effects affect the creature’s copiable values. (See rule 706.2.) While the card isn’t on the battlefield, its power and toughness are each considered to be 0."
 msgstr ""
