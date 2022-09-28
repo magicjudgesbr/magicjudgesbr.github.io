@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2022-09-28 19:17\n"
+"PO-Revision-Date: 2022-09-28 20:28\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -2192,55 +2192,55 @@ msgid "Example: Lost Order of Jarkeld has power and toughness each equal to 1+*.
 msgstr "Exemplo: Lost Order of Jarkeld tem poder e resistência iguais a 1+*. A habilidade diz “Conforme Lost Order of Jarkeld entra no campo de batalha, escolha um oponente” e “O poder e a resistência de Lost Order of Jarkeld são ambos iguais a 1 mais o número de criaturas controladas por aquele oponente”. Enquanto Lost Order of Jarkeld não estiver no campo de batalha, não haverá um oponente escolhido. O seu poder e resistência serão ambos iguais a 1 acrescido de 0, portanto ele é 1/1."
 
 msgid "208.2b The card may have a static ability that creates a replacement effect that sets the creature’s power and toughness to one of a number of specific values as it enters the battlefield or is turned face up. (See rule 614, “Replacement Effects.”) Such an ability is worded “As [this creature] enters the battlefield . . . ,” “As [this creature] is turned face up . . . ,” or “[This creature] enters the battlefield as . . .” and lists two or more specific power and toughness values (and may also list additional characteristics). The characteristics chosen or determined with these effects affect the creature’s copiable values. (See rule 706.2.) While the card isn’t on the battlefield, its power and toughness are each considered to be 0."
-msgstr ""
+msgstr "208.2b O card pode ter uma habilidade estática que gera um efeito de substituição que define o poder e a resistência da criatura a um número de uma série de valores específicos conforme ela entra no campo de batalha ou tem sua face voltada para cima (consulte a regra 614, “Efeitos de Substituição”). Esta habilidade é redigida da seguinte forma “Conforme [esta criatura] entra no campo de batalha …”, “Conforme [esta criatura] tem sua face voltada para cima …”, ou “[Esta criatura] entra no campo de batalha como …” e lista dois ou mais valores específicos de poder e resistência (e pode também listar características adicionais). As características escolhidas ou determinadas com estes efeitos afetam os valores copiáveis da criatura (consulte a regra 706.2). Enquanto o card não está no campo de batalha, seu poder e resistência são considerados como sendo 0."
 
 msgid "208.3. A noncreature permanent has no power or toughness, even if it’s a card with a power and toughness printed on it (such as a Vehicle). A noncreature object not on the battlefield has power or toughness only if it has a power and toughness printed on it."
-msgstr ""
+msgstr "208.3. Uma permanente que não seja uma criatura não tem poder ou resistência, mesmo que seja um card com um poder e resistência impresso nele (como um Veículo). Um objeto que não seja criatura e que não esteja no campo de batalha não possui poder ou resistência a não ser que tenha poder e resistência impressos nele."
 
 msgid "208.3a If an effect would be created that affects the power and/or toughness of a noncreature permanent, that effect is created even though it doesn’t do anything unless that permanent becomes a creature."
-msgstr ""
+msgstr "208.3a Se um efeito que seria criado afeta o poder e/ou resistência de uma permanente que não é cri taura, aquele efeito é criado mesmo que ele não faça nada a menos que aquela permanente torne-se uma criatura."
 
 msgid "Example: Veteran Motorist has the ability “Whenever Veteran Motorist crews a Vehicle, that Vehicle gets +1/+1 until end of turn,” and it’s tapped to pay the crew cost of a Vehicle. This triggered ability resolves while the Vehicle it crewed isn’t yet a creature. The continuous effect is created and will apply to the Vehicle once it becomes a creature."
-msgstr ""
+msgstr "Exemplo: Veteran Motorist tem a habilidade “Toda vez que Veteran Motorist tripula um Veículo, aquele Veículo recebe +1/+1 até o final do turno”, e ele é virado para pagar o custo de tripular de um Veículo. Essa habilidade desencadeada resolve enquanto o Veículo está sendo tripulado e ele não é uma criatura. O efeito contínuo é criado e será aplicado assim que o Veículo tornar-se uma criatura."
 
 msgid "208.4. Effects that set a creature’s power and/or toughness to specific values may refer to that creature’s “base power,” “base toughness,” or “base power and toughness.” Other continuous effects may further modify the creature’s power and toughness. See rule 613, “Interaction of Continuous Effects.”"
-msgstr ""
+msgstr "208.4. Efeitos que definem o poder e/ou resistência de uma criatura para valores específicos podem referir-se ao “poder base,” “resistência base,” ou “poder e resistência base”. Outros efeitos contínuos ainda podem modificar o poder e resistência daquela criatura. Consulte a regra 613, “Interação de Efeitos Contínuos”."
 
 msgid "208.5. If a creature somehow has no value for its power, its power is 0. The same is true for toughness."
-msgstr ""
+msgstr "208.5. Se de alguma maneira uma criatura não possuir valores para o poder, seu poder é 0. O mesmo acontece com a resistência."
 
 msgid "209.1. Each planeswalker card has a loyalty number printed in its lower right corner. This indicates its loyalty while it’s not on the battlefield, and it also indicates that the planeswalker enters the battlefield with that many loyalty counters on it."
-msgstr ""
+msgstr "209.1. Cada card de planeswalker tem um número de lealdade impresso no canto inferior direito. Isso indica a sua lealdade enquanto não está no campo de batalha, também indica que o planeswalker entra no campo de batalha com aquela quantidade de marcadores de lealdade sobre ele."
 
 msgid "209.2. An activated ability with a loyalty symbol in its cost is a loyalty ability. Loyalty abilities follow special rules: A player may activate a loyalty ability of a permanent they control any time they have priority and the stack is empty during a main phase of their turn, but only if none of that permanent’s loyalty abilities have been activated that turn. See rule 606, “Loyalty Abilities.”"
-msgstr ""
+msgstr "209.2. Uma habilidade ativada com um símbolo de lealdade em seu custo é de uma habilidade de lealdade. Habilidades de lealdade seguem regras especiais: Um jogador pode ativar uma habilidade de lealdade de uma permanente que ele controla a qualquer momento que ele tenha prioridade e a pilha esteja vazia durante uma fase principal de seu turno, mas somente se nenhuma das habilidade de lealdade daquela permanente tenha sido ativada naquele turno. Consulte a regra 606, “Habilidades de Lealdade”."
 
 msgid "210.1. Each vanguard card has a hand modifier printed in its lower left corner. This is a number preceded by a plus sign, a number preceded by a minus sign, or a zero. This modifier is applied as the starting hand size and the maximum hand size of the vanguard card’s owner are determined. See rule 103.4."
-msgstr ""
+msgstr "210.1. Cada card de vanguard tem um modificador de mão impresso no canto inferior esquerdo. Este é um número precedido por um sinal de mais, por um sinal de menos, ou um zero. Este modificador é aplicado ao tamanho inicial da mão e ao número máximo de cards na mão do dono do card de vanguard. Consulte a regra 103.4."
 
 msgid "211.1. Each vanguard card has a life modifier printed in its lower right corner. This is a number preceded by a plus sign, a number preceded by a minus sign, or a zero. This modifier is applied as the starting life total of the vanguard card’s owner is determined. See rule 103.3."
-msgstr ""
+msgstr "211.1. Cada card de vanguard tem um modificador de vida impresso no canto inferior direito. Este é um número precedido por um sinal de mais, por um sinal de menos, ou um zero. Este modificador é aplicado ao total inicial de ponto de vida do dono do card vanguard. Consulte a regra 103.3."
 
 msgid "212.1. Each card features text printed below the text box that has no effect on game play. Not all card sets were printed with all of the information listed below on each card."
-msgstr ""
+msgstr "212.1. Cada card apresenta um texto impresso abaixo da caixa de texto que não tem efeito no jogo. Nem todas as coleções foram impressas com todas as informações abaixo em cada card."
 
 msgid "212.1a Most card sets feature collector numbers. This information is printed in the form [card number]/[total cards in the set] or simply [card number]. Some cards, such as unique cards in Planeswalker Decks, have card numbers that exceed the listed total number of cards."
-msgstr ""
+msgstr "212.1a A maioria dos coleções possui números de colecionador. Esta informação é impressa no formato [número do card]/[total de cards da coleção] ou simplesmente [número do card]. Alguns cards, como os cards exclusivos em Decks de Planeswalker, têm números de cards que excedem o número total de cartas listadas."
 
 msgid "212.1b A card’s rarity is indicated with a single letter following the collector number."
-msgstr ""
+msgstr "212.1b A raridade do card é indicada por uma única letra após o número de colecionador."
 
 msgid "212.1c Some promotional cards include information to indicate the specific promotion the card is associated with."
-msgstr ""
+msgstr "212.1c Alguns cards promocionais incluem informações para indicar a promoção específica à qual o card está associado."
 
 msgid "212.1d The three-character code representing the set in which a card is printed and the two-character code representing the language in which a card is printed are separated by a bullet point. If a card is premium, these codes are instead separated by a star."
-msgstr ""
+msgstr "212.1d O código de três caracteres representando a coleção na qual o card foi impresso e o código de dois caracteres representando o idioma no qual o card foi impresso são separados por um marcador. Se for card premium, esses códigos são separados por uma estrela."
 
 msgid "212.1e The illustration credit for a card follows the paintbrush icon or, on older cards, the abbreviation “Illus.”"
-msgstr ""
+msgstr "212.1e O crédito da ilustração de um card é impresso após o ícone de um pincel ou, em cards mais antigos, após a abreviação “Ilust”."
 
 msgid "212.1f Legal text (the fine print at the bottom or bottom-right of the card) lists the trademark and copyright information."
-msgstr ""
+msgstr "212.1f O texto legal (a fina linha impressa na parte inferior do card, ou inferior direita), lista as informações de marca registrada e direitos autorais."
 
 msgid "300.1. The card types are artifact, conspiracy, creature, enchantment, instant, land, phenomenon, plane, planeswalker, scheme, sorcery, tribal, and vanguard."
 msgstr ""
