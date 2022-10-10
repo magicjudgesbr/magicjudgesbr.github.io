@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2022-10-10 02:45\n"
+"PO-Revision-Date: 2022-10-10 12:47\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -2255,10 +2255,10 @@ msgid "300.2b Each tribal card has another card type. Casting and resolving a tr
 msgstr "300.2b Cada card tribal tem outro tipo de card. Conjurar e resolver um card tribal segue as regras para conjurar e resolver um card de seu outro tipo de card."
 
 msgid "301.1. A player who has priority may cast an artifact card from their hand during a main phase of their turn when the stack is empty. Casting an artifact as a spell uses the stack. (See rule 601, “Casting Spells.”)"
-msgstr ""
+msgstr "301.1. Um jogador que tem prioridade pode conjurar um card de artefato de sua mão durante uma fase principal de seu turno quando a pilha está vazia. Conjurar um artefato como uma mágica usa a pilha. (Consulte a regra 601, “Conjurando Mágicas”.)"
 
 msgid "301.2. When an artifact spell resolves, its controller puts it onto the battlefield under their control."
-msgstr ""
+msgstr "301.2. Quando uma mágica de artefato resolve, seu controlador o coloca no campo de batalha sob seu controle."
 
 msgid "301.3. Artifact subtypes are always a single word and are listed after a long dash: “Artifact — Equipment.” Artifact subtypes are also called artifact types. Artifacts may have multiple subtypes. See rule 205.3g for the complete list of artifact types."
 msgstr ""
