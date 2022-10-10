@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2022-10-10 12:47\n"
+"PO-Revision-Date: 2022-10-10 23:22\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -2261,10 +2261,10 @@ msgid "301.2. When an artifact spell resolves, its controller puts it onto the b
 msgstr "301.2. Quando uma mágica de artefato resolve, seu controlador o coloca no campo de batalha sob seu controle."
 
 msgid "301.3. Artifact subtypes are always a single word and are listed after a long dash: “Artifact — Equipment.” Artifact subtypes are also called artifact types. Artifacts may have multiple subtypes. See rule 205.3g for the complete list of artifact types."
-msgstr ""
+msgstr "301.3. Os subtipos de artefato são sempre uma única palavra e são listados após um travessão: “Artefato — Equipamento”. Os subtipos de artefato também são chamados de tipos de artefato. Artefatos podem ter múltiplos subtipos. Consulte a regra 205.3g para a lista completa dos tipos de artefato."
 
 msgid "301.4. Artifacts have no characteristics specific to their card type. Most artifacts have no colored mana symbols in their mana costs, and are therefore colorless. However, there is no correlation between being colorless and being an artifact: artifacts may be colored, and colorless objects may be card types other than artifact."
-msgstr ""
+msgstr "301.4. Artefatos não têm características específicas para seu tipo de card. A maioria dos artefatos não têm símbolos de mana coloridos em seus custos de mana, sendo portanto incolores. Entretanto, não há correlação entre ser incolor e ser um artefato: artefatos podem ser coloridos e objetos incolores podem ser de outros tipos de card além de artefato."
 
 msgid "301.5. Some artifacts have the subtype “Equipment.” An Equipment can be attached to a creature. It can’t legally be attached to anything that isn’t a creature."
 msgstr ""
