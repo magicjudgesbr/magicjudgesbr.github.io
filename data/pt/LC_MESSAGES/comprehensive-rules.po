@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2022-10-10 23:22\n"
+"PO-Revision-Date: 2022-10-11 22:55\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -2267,16 +2267,16 @@ msgid "301.4. Artifacts have no characteristics specific to their card type. Mos
 msgstr "301.4. Artefatos não têm características específicas para seu tipo de card. A maioria dos artefatos não têm símbolos de mana coloridos em seus custos de mana, sendo portanto incolores. Entretanto, não há correlação entre ser incolor e ser um artefato: artefatos podem ser coloridos e objetos incolores podem ser de outros tipos de card além de artefato."
 
 msgid "301.5. Some artifacts have the subtype “Equipment.” An Equipment can be attached to a creature. It can’t legally be attached to anything that isn’t a creature."
-msgstr ""
+msgstr "301.5. Alguns artefatos têm o subtipo “Equipamento”. Um Equipamento pode ser anexado a uma criatura. Ele não pode ser validamente anexado a uma permanente que não seja uma criatura."
 
 msgid "301.5a The creature an Equipment is attached to is called the “equipped creature.” The Equipment is attached to, or “equips,” that creature."
-msgstr ""
+msgstr "301.5a A criatura que tem um equipamento anexado a ela é chamada de “criatura equipada”. O Equipamento está anexado a, ou “equipa”, aquela criatura."
 
 msgid "301.5b An Equipment is cast and enters the battlefield just like any other artifact. An Equipment doesn’t enter the battlefield attached to a creature. The equip keyword ability attaches the Equipment to a creature you control (see rule 702.6, “Equip”). Control of the creature matters only when the equip ability is activated and when it resolves. Spells and other abilities may also attach an Equipment to a creature. If an effect attempts to attach an Equipment to an object that can’t be equipped by it, the Equipment doesn’t move."
-msgstr ""
+msgstr "301.5b Um Equipamento é conjurado e entra no campo de batalha como qualquer outro artefato. Um Equipamento não entra no campo de batalha anexado a uma criatura. A palavra-chave equipar anexa o Equipamento a uma criatura que você controla (consulte a regra 702.6, “Equipar”). O controle da criatura importa apenas quando a habilidade de equipar é ativada e quando ela resolve. Mágicas e outras habilidades também podem anexar um Equipamento a uma criatura. Se um efeito tentar anexar um Equipamento a um objeto que não pode ser equipado por ele, o Equipamento não se move."
 
 msgid "301.5c An Equipment that’s also a creature can’t equip a creature. An Equipment that loses the subtype “Equipment” can’t equip a creature. An Equipment can’t equip itself. An Equipment that equips an illegal or nonexistent permanent becomes unattached from that permanent but remains on the battlefield. (This is a state-based action. See rule 704.) An Equipment can’t equip more than one creature. If a spell or ability would cause an Equipment to equip more than one creature, the Equipment’s controller chooses which creature it equips."
-msgstr ""
+msgstr "301.5c Um Equipamento que também é uma criatura não pode equipar uma criatura. Um Equipamento que perde o subtipo “Equipamento” não pode equipar uma criatura. Um Equipamento não pode equipar ele mesmo. Um Equipamento que equipa uma permanente inválida ou inexistente é solto daquela permanente porém permanece no campo de batalha. (Esta é uma ação baseada-no-estado. Consulte a regra 704.) Um equipamento não pode equipar mais de uma criatura. Se uma mágica ou habilidade fosse fazer com que um Equipamento equipasse mais de uma criatura, o controlador do Equipamento escolhe qual criatura ele equipa."
 
 msgid "301.5d An Equipment’s controller is separate from the equipped creature’s controller; the two need not be the same. Changing control of the creature doesn’t change control of the Equipment, and vice versa. Only the Equipment’s controller can activate its abilities. However, if the Equipment grants an ability to the equipped creature (with “gains” or “has”), the equipped creature’s controller is the only one who can activate that ability."
 msgstr ""
