@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2022-10-11 22:55\n"
+"PO-Revision-Date: 2022-10-12 10:52\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -2279,10 +2279,10 @@ msgid "301.5c An Equipment that’s also a creature can’t equip a creature. An
 msgstr "301.5c Um Equipamento que também é uma criatura não pode equipar uma criatura. Um Equipamento que perde o subtipo “Equipamento” não pode equipar uma criatura. Um Equipamento não pode equipar ele mesmo. Um Equipamento que equipa uma permanente inválida ou inexistente é solto daquela permanente porém permanece no campo de batalha. (Esta é uma ação baseada-no-estado. Consulte a regra 704.) Um equipamento não pode equipar mais de uma criatura. Se uma mágica ou habilidade fosse fazer com que um Equipamento equipasse mais de uma criatura, o controlador do Equipamento escolhe qual criatura ele equipa."
 
 msgid "301.5d An Equipment’s controller is separate from the equipped creature’s controller; the two need not be the same. Changing control of the creature doesn’t change control of the Equipment, and vice versa. Only the Equipment’s controller can activate its abilities. However, if the Equipment grants an ability to the equipped creature (with “gains” or “has”), the equipped creature’s controller is the only one who can activate that ability."
-msgstr ""
+msgstr "301.5d O controlador de um Equipamento não tem ligação com o controlador da criatura equipada; os dois não precisam ser o mesmo. Mudar o controlador de uma criatura não muda o controlador do Equipamento e vice-versa. Apenas o controlador do Equipamento pode ativar as suas habilidades. Entretanto, se o Equipamento garante uma habilidade à criatura equipada (usando as palavras “ganha” ou “tem”), o controlador da criatura equipada é o único que pode ativar aquela habilidade."
 
 msgid "301.5e An ability of a permanent that refers to the “equipped creature” refers to whatever creature that permanent is attached to, even if the permanent with the ability isn’t an Equipment."
-msgstr ""
+msgstr "301.5e Uma habilidade de uma permanente que faz referência à “criatura equipada” refere-se a qualquer criatura que aquela permanente está anexada, mesmo se a permante com essa habilidade não for um Equipamento."
 
 msgid "301.6. Some artifacts have the subtype “Fortification.” A Fortification can be attached to a land. It can’t legally be attached to an object that isn’t a land. Fortification’s analog to the equip keyword ability is the fortify keyword ability. Rules 301.5a–e apply to Fortifications in relation to lands just as they apply to Equipment in relation to creatures, with one clarification relating to rule 301.5c: a Fortification that’s also a creature (not a land) can’t fortify a land. (See rule 702.66, “Fortify.”)"
 msgstr ""
