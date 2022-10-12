@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2022-10-12 10:52\n"
+"PO-Revision-Date: 2022-10-12 14:20\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -2285,16 +2285,16 @@ msgid "301.5e An ability of a permanent that refers to the “equipped creature�
 msgstr "301.5e Uma habilidade de uma permanente que faz referência à “criatura equipada” refere-se a qualquer criatura que aquela permanente está anexada, mesmo se a permante com essa habilidade não for um Equipamento."
 
 msgid "301.6. Some artifacts have the subtype “Fortification.” A Fortification can be attached to a land. It can’t legally be attached to an object that isn’t a land. Fortification’s analog to the equip keyword ability is the fortify keyword ability. Rules 301.5a–e apply to Fortifications in relation to lands just as they apply to Equipment in relation to creatures, with one clarification relating to rule 301.5c: a Fortification that’s also a creature (not a land) can’t fortify a land. (See rule 702.66, “Fortify.”)"
-msgstr ""
+msgstr "301.6. Alguns artefatos têm o subtipo “Fortificação”. Uma Fortificação pode ser anexada a um terreno. Ela não pode validamente ser anexada a um objeto que não seja um terreno. A analogia da Fortificação para a palavra-chave de habilidade equipar é a palavra-chave de habilidade fortificar. As regras 301.5a–e aplicam-se a Fortificações em relação aos terrenos da mesma forma que se aplicam a Equipamentos em relação às criaturas, com uma clarificação relativa à regra 301.5c: uma Fortificação que também é uma criatura (não um terreno) não pode equipar um terreno. (Consulte a regra 702.66, “Fortificar”.)"
 
 msgid "301.7. Some artifacts have the subtype “Vehicle.” Vehicles have a crew ability, which allows them to become artifact creatures. See rule 702.121, “Crew.”"
-msgstr ""
+msgstr "301.7. Alguns artefatos possuem o subtipo “Veículo”. Veículos tem a habilidade de tripular, possibilitando que eles tornem-se criaturas artefato. Consulte a regra 702.121, “Tripular”."
 
 msgid "301.7a Each Vehicle has a printed power and toughness, but it has these characteristics only if it’s also a creature. See rule 208.3."
-msgstr ""
+msgstr "301.7a Cada Veículo possui poder e resistência impressos, porém eles tem essas características somente se ele forem uma criatura. Consulte a regra 208.3."
 
 msgid "301.7b If a Vehicle becomes a creature, it immediately has its printed power and toughness. Other effects, including the effect that makes it a creature, may modify these values or set them to different values."
-msgstr ""
+msgstr "301.7b Se um Veículo torna-se uma criatura, ele imediatamente tem o valor impresso de poder e resistência. Outros efeitos, incluindo o efeito que os torna uma criatura podem modificar esses valores ou definir um valor diferente."
 
 msgid "302.1. A player who has priority may cast a creature card from their hand during a main phase of their turn when the stack is empty. Casting a creature as a spell uses the stack. (See rule 601, “Casting Spells.”)"
 msgstr ""
