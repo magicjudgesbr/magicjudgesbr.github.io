@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2022-10-12 14:20\n"
+"PO-Revision-Date: 2022-10-12 19:46\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -2297,10 +2297,10 @@ msgid "301.7b If a Vehicle becomes a creature, it immediately has its printed po
 msgstr "301.7b Se um Veículo torna-se uma criatura, ele imediatamente tem o valor impresso de poder e resistência. Outros efeitos, incluindo o efeito que os torna uma criatura podem modificar esses valores ou definir um valor diferente."
 
 msgid "302.1. A player who has priority may cast a creature card from their hand during a main phase of their turn when the stack is empty. Casting a creature as a spell uses the stack. (See rule 601, “Casting Spells.”)"
-msgstr ""
+msgstr "302.1. Um jogador que tem prioridade pode conjurar um card de criatura de sua mão durante uma fase principal do seu turno quando a pilha está vazia. Conjurar uma criatura como uma mágica usa a pilha. (Consulte a regra 601, “Conjurando Mágicas”.)"
 
 msgid "302.2. When a creature spell resolves, its controller puts it onto the battlefield under their control."
-msgstr ""
+msgstr "302.2. Quando uma mágica de criatura resolve, o seu controlador a coloca no campo de batalha sob o seu controle."
 
 msgid "302.3. Creature subtypes are always a single word and are listed after a long dash: “Creature — Human Soldier,” “Artifact Creature — Golem,” and so on. Creature subtypes are also called creature types. Creatures may have multiple subtypes. See rule 205.3m for the complete list of creature types."
 msgstr ""
