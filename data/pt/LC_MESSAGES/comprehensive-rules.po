@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2022-10-12 19:46\n"
+"PO-Revision-Date: 2022-10-13 14:54\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -2303,10 +2303,10 @@ msgid "302.2. When a creature spell resolves, its controller puts it onto the ba
 msgstr "302.2. Quando uma mágica de criatura resolve, o seu controlador a coloca no campo de batalha sob o seu controle."
 
 msgid "302.3. Creature subtypes are always a single word and are listed after a long dash: “Creature — Human Soldier,” “Artifact Creature — Golem,” and so on. Creature subtypes are also called creature types. Creatures may have multiple subtypes. See rule 205.3m for the complete list of creature types."
-msgstr ""
+msgstr "302.3. Os subtipos de criatura são sempre uma única palavra e são listados após um travessão: “Criatura — Humano Soldado”, “Criatura Artefato — Golem”, e assim por diante. Os subtipos de criatura também são chamados de tipos de criatura. Criaturas podem ter múltiplos subtipos. Veja a regra 205.3m para a lista completa de tipos de criatura."
 
 msgid "Example: “Creature — Goblin Wizard” means the card is a creature with the subtypes Goblin and Wizard."
-msgstr ""
+msgstr "Exemplo: “Criatura — Mago Goblin” significa que o card é uma criatura dos subtipos Mago e Goblin."
 
 msgid "302.4. Power and toughness are characteristics only creatures have."
 msgstr ""
