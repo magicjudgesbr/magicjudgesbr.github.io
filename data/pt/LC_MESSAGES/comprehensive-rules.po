@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2022-10-13 15:51\n"
+"PO-Revision-Date: 2022-10-13 18:39\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -2348,7 +2348,7 @@ msgid "303.4b The object or player an Aura is attached to is called enchanted. T
 msgstr "303.4b O objeto ou jogador ao qual a Aura está anexada é chamado de encantado. A Aura está anexada a, ou “encanta”, aquele objeto ou jogador."
 
 msgid "303.4c If an Aura is enchanting an illegal object or player as defined by its enchant ability and other applicable effects, the object it was attached to no longer exists, or the player it was attached to has left the game, the Aura is put into its owner’s graveyard. (This is a state-based action. See rule 704.)"
-msgstr ""
+msgstr "303.4c Se uma Aura encantar um objeto ou jogador que não seja válido como definido por sua habilidade de encantar e outros efeitos aplicáveis, o objeto ao qual ela estava anexada não mais existir, ou se o jogador ao qual estava anexada tiver deixado o jogo, a Aura é colocada no cemitério do seu dono. (Isto é uma ação baseada-no-estado. Consulte a regra 704.)"
 
 msgid "303.4d An Aura can’t enchant itself. If this occurs somehow, the Aura is put into its owner’s graveyard. An Aura that’s also a creature can’t enchant anything. If this occurs somehow, the Aura becomes unattached, then is put into its owner’s graveyard. (These are state-based actions. See rule 704.) An Aura can’t enchant more than one object or player. If a spell or ability would cause an Aura to become attached to more than one object or player, the Aura’s controller chooses which object or player it becomes attached to."
 msgstr ""
