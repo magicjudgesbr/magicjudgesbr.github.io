@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2022-10-13 14:54\n"
+"PO-Revision-Date: 2022-10-13 15:51\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -2309,43 +2309,43 @@ msgid "Example: “Creature — Goblin Wizard” means the card is a creature wi
 msgstr "Exemplo: “Criatura — Mago Goblin” significa que o card é uma criatura dos subtipos Mago e Goblin."
 
 msgid "302.4. Power and toughness are characteristics only creatures have."
-msgstr ""
+msgstr "302.4. Poder e resistência são características que apenas as criaturas possuem."
 
 msgid "302.4a A creature’s power is the amount of damage it deals in combat."
-msgstr ""
+msgstr "302.4a O poder de uma criatura é a quantidade de dano que ela causa em combate."
 
 msgid "302.4b A creature’s toughness is the amount of damage needed to destroy it."
-msgstr ""
+msgstr "302.4b A resistência de uma criatura é a quantidade de dano necessária para destruí-la."
 
 msgid "302.4c To determine a creature’s power and toughness, start with the numbers printed in its lower right corner, then apply any applicable continuous effects. (See rule 613, “Interaction of Continuous Effects.”)"
-msgstr ""
+msgstr "302.4c Para determinar o poder e resistência de uma criatura, inicie com o número impresso no canto inferior direito, então aplique os efeitos contínuos aplicáveis. (Consulte a regra 613, “Interação de Efeitos Contínuos”.)"
 
 msgid "302.5. Creatures can attack and block. (See rule 508, “Declare Attackers Step,” and rule 509, “Declare Blockers Step.”)"
-msgstr ""
+msgstr "302.5. Criaturas podem atacar e bloquear. (Consulte a regra 508, “Etapa de Declaração de Atacantes”, e a regra 509, “Etapa de Declaração de Bloqueadores”.)"
 
 msgid "302.6. A creature’s activated ability with the tap symbol or the untap symbol in its activation cost can’t be activated unless the creature has been under its controller’s control continuously since their most recent turn began. A creature can’t attack unless it has been under its controller’s control continuously since their most recent turn began. This rule is informally called the “summoning sickness” rule."
-msgstr ""
+msgstr "302.6. Uma habilidade ativada de uma criatura com o símbolo de virar ou o símbolo de desvirar em seu custo de ativação não pode ser ativada a menos que a criatura esteja sob o controle de seu controlador continuamente desde o início de seu turno mais recente. Uma criatura não pode atacar, a menos que ela esteja sob o controle de seu controlador continuamente desde o início de seu turno mais recente. Essa regra é informalmente chamada de “enjoo de invocação”."
 
 msgid "302.7. Damage dealt to a creature by a source with neither wither nor infect is marked on that creature (see rule 120.3). If the total damage marked on that creature is greater than or equal to its toughness, that creature has been dealt lethal damage and is destroyed as a state-based action (see rule 704). All damage marked on a creature is removed when it regenerates (see rule 701.15, “Regenerate”) and during the cleanup step (see rule 514.2)."
-msgstr ""
+msgstr "302.7. O dano causado a uma criatura por uma fonte sem murchar ou infectar é marcado naquela criatura (consulte a regra 120.3). Se o dano total marcado naquela criatura for maior ou igual à sua resistência, aquela criatura sofreu dano letal e ela é destruída por uma ação baseada-no-estado (consulte a regra 704). Todo dano marcado em um criatura é removido quando ela é regenerada (consulte a regra 701.15, “Regenerar”) e durante a etapa de limpeza (consulte a regra 514.2)."
 
 msgid "303.1. A player who has priority may cast an enchantment card from their hand during a main phase of their turn when the stack is empty. Casting an enchantment as a spell uses the stack. (See rule 601, “Casting Spells.”)"
-msgstr ""
+msgstr "303.1. Um jogador que tem prioridade pode conjurar um card de encantamento da sua mão durante uma fase principal de seu turno quando a pilha está vazia. Conjurar um encantamento como uma mágica usa a pilha. (Consulte a regra 601, “Conjurando Mágicas”.)"
 
 msgid "303.2. When an enchantment spell resolves, its controller puts it onto the battlefield under their control."
-msgstr ""
+msgstr "303.2. Quando uma mágica de encantamento resolve, o seu controlador a coloca no campo de batalha sob o seu controle."
 
 msgid "303.3. Enchantment subtypes are always a single word and are listed after a long dash: “Enchantment — Shrine.” Each word after the dash is a separate subtype. Enchantment subtypes are also called enchantment types. Enchantments may have multiple subtypes. See rule 205.3h for the complete list of enchantment types."
-msgstr ""
+msgstr "303.3. Os subtipos de encantamento são sempre uma única palavra e são listados após um travessão: “Encantamento – Sacrário”. Cada palavra após o travessão é um subtipo distinto. Os subtipos de encantamento são também chamados de tipos de encantamento. Encantamentos podem ter múltiplos subtipos. Veja a regra 205.3h para ver a lista completa de tipos de encantamentos."
 
 msgid "303.4. Some enchantments have the subtype “Aura.” An Aura enters the battlefield attached to an object or player. What an Aura can be attached to is defined by its enchant keyword ability (see rule 702.5, “Enchant”). Other effects can limit what a permanent can be enchanted by."
-msgstr ""
+msgstr "303.4. Alguns encantamentos têm o subtipo “Aura”. Uma Aura entra no campo de batalha anexada a um objeto ou a um jogador. Ao que uma Aura pode ser anexada é definido por sua palavra-chave de habilidade de encantar (consulte a regra 702.5, “Encantar”). Outros efeitos podem limitar o que pode encantar uma permanente."
 
 msgid "303.4a An Aura spell requires a target, which is defined by its enchant ability."
-msgstr ""
+msgstr "303.4a Uma mágica de Aura necessita de um alvo, que é definido por sua habilidade de encantar."
 
 msgid "303.4b The object or player an Aura is attached to is called enchanted. The Aura is attached to, or “enchants,” that object or player."
-msgstr ""
+msgstr "303.4b O objeto ou jogador ao qual a Aura está anexada é chamado de encantado. A Aura está anexada a, ou “encanta”, aquele objeto ou jogador."
 
 msgid "303.4c If an Aura is enchanting an illegal object or player as defined by its enchant ability and other applicable effects, the object it was attached to no longer exists, or the player it was attached to has left the game, the Aura is put into its owner’s graveyard. (This is a state-based action. See rule 704.)"
 msgstr ""
