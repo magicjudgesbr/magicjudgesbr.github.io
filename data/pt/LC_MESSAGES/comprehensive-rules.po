@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2022-11-09 14:02\n"
+"PO-Revision-Date: 2022-11-09 14:57\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -2384,52 +2384,52 @@ msgid "304.1. A player who has priority may cast an instant card from their hand
 msgstr "304.1. Um jogador que tenha prioridade pode conjurar um card de mágica instantânea da sua mão. Conjurar uma mágica instantânea como uma mágica usa a pilha. (Consulte a regra 601, “Conjurando Mágicas”.)"
 
 msgid "304.2. When an instant spell resolves, the actions stated in its rules text are followed. Then it’s put into its owner’s graveyard."
-msgstr ""
+msgstr "304.2. Quando uma mágica instantânea resolve, as ações mencionadas no seu texto de regras são seguidas. Depois, ela é colocada no cemitério de seu dono."
 
 msgid "304.3. Instant subtypes are always a single word and are listed after a long dash: “Instant — Arcane.” Each word after the dash is a separate subtype. The set of instant subtypes is the same as the set of sorcery subtypes; these subtypes are called spell types. Instants may have multiple subtypes. See rule 205.3k for the complete list of spell types."
-msgstr ""
+msgstr "304.3. Os subtipos de mágica instantânea são sempre uma única palavra e são listados após um travessão: “Mágica Instantânea — Arcana”. Cada palavra após o travessão é um subtipo distinto. O conjunto de subtipos de mágica instantânea é o mesmo que o conjunto de subtipos de feitiço; esses subtipos são chamados de tipos de mágica. Mágicas instantâneas podem ter múltiplos subtipos. Veja a regra 205.3k para a lista completa de tipos de mágica."
 
 msgid "304.4. Instants can’t enter the battlefield. If an instant would enter the battlefield, it remains in its previous zone instead."
-msgstr ""
+msgstr "304.4. Mágicas instantâneas não podem entrar no campo de batalha. Se uma mágica instantânea fosse entrar no campo de batalha, em vez disso ela permanece em sua zona anterior."
 
 msgid "304.5. If text states that a player may do something “any time they could cast an instant,” it means only that the player must have priority. The player doesn’t need to have an instant they could cast. Effects that would preclude that player from casting a spell or casting an instant don’t affect the player’s capability to perform that action (unless the action is actually casting a spell or casting an instant)."
-msgstr ""
+msgstr "304.5. Se um texto afirma que um jogador pode fazer alguma coisa “a qualquer momento em que ele poderia conjurar uma mágica instantânea”, significa apenas que o jogador deve ter prioridade. O jogador não precisa ter uma mágica instantânea que possa conjurar. Os efeitos que impediriam um jogador de conjurar uma mágica ou uma mágica instantânea não afetam a capacidade do jogador para realizar essa ação (a menos que a ação seja realmente conjurar uma mágica ou uma mágica instantânea)."
 
 msgid "305.1. A player who has priority may play a land card from their hand during a main phase of their turn when the stack is empty. Playing a land is a special action; it doesn’t use the stack (see rule 116). Rather, the player simply puts the land onto the battlefield. Since the land doesn’t go on the stack, it is never a spell, and players can’t respond to it with instants or activated abilities."
-msgstr ""
+msgstr "305.1. Um jogador que tem prioridade pode jogar um card de terreno de sua mão durante uma fase principal de seu turno, quando a pilha está vazia. Jogar um terreno é uma ação especial que não usa a pilha (consulte a regra 116). Em vez disso, o jogador simplesmente coloca o terreno no campo de batalha. Já que o terreno não vai para a pilha, ele nunca é uma mágica e os jogadores não podem responder a ele com mágicas instantâneas ou habilidades ativadas."
 
 msgid "305.2. A player can normally play one land during their turn; however, continuous effects may increase this number."
-msgstr ""
+msgstr "305.2. Um jogador normalmente pode jogar apenas um terreno durante seu turno, entretanto, efeitos contínuos podem aumentar este número."
 
 msgid "305.2a To determine whether a player can play a land, compare the number of lands the player can play this turn with the number of lands they have already played this turn (including lands played as special actions and lands played during the resolution of spells and abilities). If the number of lands the player can play is greater, the play is legal."
-msgstr ""
+msgstr "305.2a Para determinar se um jogador pode jogar um terreno, compare o número de terrenos que o jogador pode jogar neste turno com o número de terrenos que o jogador já jogou neste turno (incluindo terrenos jogados como uma ação especial ou jogador durante a resolução de mágicas e habilidades). Se o número de terrenos que o jogador pode jogar é maior, a jogada é válida."
 
 msgid "305.2b A player can’t play a land, for any reason, if the number of lands the player can play this turn is equal to or less than the number of lands they have already played this turn. Ignore any part of an effect that instructs a player to do so."
-msgstr ""
+msgstr "305.2b Um jogador não pode jogar um terreno, por qualquer motivo, se o número de terrenos que o jogador pode jogar neste turno for igual ou menor que o número de terrenos que ele já jogou neste turno. Ignore qualquer parte de um efeito que instruir um jogador para fazê-lo."
 
 msgid "305.3. A player can’t play a land, for any reason, if it isn’t their turn. Ignore any part of an effect that instructs a player to do so."
-msgstr ""
+msgstr "305.3. Um jogador não pode jogar um terreno, por qualquer motivo, se não for o seu turno. Ignore qualquer parte de um efeito que instrui um jogador a fazê-lo."
 
 msgid "305.4. Effects may also allow players to “put” lands onto the battlefield. This isn’t the same as “playing a land” and doesn’t count as a land played during the current turn."
-msgstr ""
+msgstr "305.4. Efeitos podem também permitir que os jogadores “coloquem” terrenos no campo de batalha. Isto não é o mesmo que “jogar um terreno” e não conta como um terreno jogado pelo jogador durante o seu turno."
 
 msgid "305.5. Land subtypes are always a single word and are listed after a long dash. Land subtypes are also called land types. Lands may have multiple subtypes. See rule 205.3i for the complete list of land types."
-msgstr ""
+msgstr "305.5. Os subtipos de terreno são sempre uma única palavra e são listados após um travessão. Os subtipos de terreno são também chamados de tipos de terreno. Terrenos podem ter múltiplos subtipos. Veja a regra 205.3i para a lista completa de tipos de terreno."
 
 msgid "Example: “Basic Land — Mountain” means the card is a land with the subtype Mountain."
-msgstr ""
+msgstr "Exemplo: “Terreno Básico — Montanha” significa que o card é um terreno com o subtipo Montanha."
 
 msgid "305.6. The basic land types are Plains, Island, Swamp, Mountain, and Forest. If an object uses the words “basic land type,” it’s referring to one of these subtypes. An object with the land card type and a basic land type has the intrinsic ability “{T}: Add [mana symbol],” even if the text box doesn’t actually contain that text or the object has no text box. For Plains, [mana symbol] is {W}; for Islands, {U}; for Swamps, {B}; for Mountains, {R}; and for Forests, {G}. See rule 107.4a. See also rule 605, “Mana Abilities.”"
-msgstr ""
+msgstr "305.6. Os tipos de terreno básico são Planície, Ilha, Pântano, Montanha e Floresta. Se um objeto usa a expressão “tipo de terreno básico”, ele se refere a um destes subtipos. Um terreno com um tipo de terreno básico possui a habilidade intrínseca {“T}: Adicione [símbolo de mana]”, mesmo se a caixa de texto não contenha realmente esse texto ou se o objeto não tiver uma caixa de texto. Para Planícies, o [símbolo de mana] é {W}, para Ilhas é {U}, para Pântanos é {B}, para Montanhas é {R} e para Florestas é {G}. Consulte a regra 107.4a. Veja também a regra 605, “Habilidades de Mana”."
 
 msgid "305.7. If an effect sets a land’s subtype to one or more of the basic land types, the land no longer has its old land type. It loses all abilities generated from its rules text, its old land types, and any copy effects affecting that land, and it gains the appropriate mana ability for each new basic land type. Note that this doesn’t remove any abilities that were granted to the land by other effects. Setting a land’s subtype doesn’t add or remove any card types (such as creature) or supertypes (such as basic, legendary, and snow) the land may have. If a land gains one or more land types in addition to its own, it keeps its land types and rules text, and it gains the new land types and mana abilities."
-msgstr ""
+msgstr "305.7. Se um efeito definir o subtipo de um terreno para um ou mais dos tipos de terreno básico, o terreno já não tem mais seu tipo de terreno antigo. Ele perde todas as habilidades geradas a partir de seu texto de regras, seus tipos de terreno antigos e quaisquer efeitos de cópia afetando aquele terreno; ele ganha a habilidade de mana apropriada para cada novo tipo de terreno básico. Observe que isso não remove quaisquer habilidades que foram concedidos ao terreno por outros efeitos. Definir o subtipo de um terreno não adiciona ou remove quaisquer tipos de card (como criatura) ou supertipos (como básico, lendário e da neve) que o terreno possa ter. Se um terreno ganha um ou mais tipos de terreno em adição aos que já tem, ele mantém seus tipos de terrenos e texto de regras, e ganha os novos tipos de terreno e habilidades de mana."
 
 msgid "305.8. Any land with the supertype “basic” is a basic land. Any land that doesn’t have this supertype is a nonbasic land, even if it has a basic land type."
-msgstr ""
+msgstr "305.8. Qualquer terreno com o supertipo “básico” é um terreno básico. Qualquer terreno que não tenha esse supertipo é um terreno não básico, mesmo que ele tenha um tipo de terreno básico."
 
 msgid "305.9. If an object is both a land and another card type, it can be played only as a land. It can’t be cast as a spell."
-msgstr ""
+msgstr "305.9. Se um objeto é um terreno e outro tipo de card, ele pode ser jogado apenas como um terreno. Ele não pode ser conjurado como uma mágica."
 
 msgid "306.1. A player who has priority may cast a planeswalker card from their hand during a main phase of their turn when the stack is empty. Casting a planeswalker as a spell uses the stack. (See rule 601, “Casting Spells.”)"
 msgstr ""
