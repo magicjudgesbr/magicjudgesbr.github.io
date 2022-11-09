@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2022-11-08 19:03\n"
+"PO-Revision-Date: 2022-11-09 14:02\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -2372,7 +2372,7 @@ msgid "303.4j If an effect attempts to attach an Aura on the battlefield to an o
 msgstr "303.4j Se um efeito tentar anexar uma Aura que esteja no campo de batalha a um objeto ou jogador que não possa ser legalmente encantado, a Aura não se move então."
 
 msgid "303.4k If an effect allows an Aura that’s being turned face up to become attached to an object or player, the Aura’s controller considers the characteristics of that Aura as it would exist if it were face up to determine what it may be attached to, and they must choose a legal object or player according to the Aura’s enchant ability and any other applicable effects."
-msgstr ""
+msgstr "303.4k Se um efeito permite que uma Aura que esteja com a face voltada para cima se torne anexada a um objeto ou jogador, o controlador da Aura considera as características dessa Aura como se existiria com a face voltada para cima para determinar ao que ela pode ser anexada, e deve escolher um objeto ou jogador válido de acordo com a habilidade de encantar da Aura e quaisquer outros efeitos aplicáveis."
 
 msgid "303.4m An ability of a permanent that refers to the “enchanted [object or player]” refers to whatever object or player that permanent is attached to, even if the permanent with the ability isn’t an Aura."
 msgstr "303.4m Uma habilidade de uma permanente que faz referência ao “[objeto ou jogador] encantado” refere-se a qualquer objeto ou jogador a que aquela permanente está anexada, mesmo se a permanente com essa habilidade não seja uma Aura."
@@ -2381,7 +2381,7 @@ msgid "303.5. Some enchantments have the subtype “Saga.” See rule 714 for mo
 msgstr "303.5. Alguns encantamentos possuem o subtipo “Saga”. Consulte a regra 714 para obter mais informações sobre os cards de Saga."
 
 msgid "304.1. A player who has priority may cast an instant card from their hand. Casting an instant as a spell uses the stack. (See rule 601, “Casting Spells.”)"
-msgstr ""
+msgstr "304.1. Um jogador que tenha prioridade pode conjurar um card de mágica instantânea da sua mão. Conjurar uma mágica instantânea como uma mágica usa a pilha. (Consulte a regra 601, “Conjurando Mágicas”.)"
 
 msgid "304.2. When an instant spell resolves, the actions stated in its rules text are followed. Then it’s put into its owner’s graveyard."
 msgstr ""
