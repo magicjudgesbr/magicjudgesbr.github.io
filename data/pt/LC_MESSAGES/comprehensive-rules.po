@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2022-11-09 14:57\n"
+"PO-Revision-Date: 2022-11-28 20:03\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -2432,40 +2432,40 @@ msgid "305.9. If an object is both a land and another card type, it can be playe
 msgstr "305.9. Se um objeto é um terreno e outro tipo de card, ele pode ser jogado apenas como um terreno. Ele não pode ser conjurado como uma mágica."
 
 msgid "306.1. A player who has priority may cast a planeswalker card from their hand during a main phase of their turn when the stack is empty. Casting a planeswalker as a spell uses the stack. (See rule 601, “Casting Spells.”)"
-msgstr ""
+msgstr "306.1. Um jogador que tem prioridade pode conjurar um card de planeswalker de sua mão durante uma fase principal de seu turno quando a pilha está vazia. Conjurar um planeswalker como uma mágica usa a pilha (Consulte a regra 601, “Conjurando Mágicas”)."
 
 msgid "306.2. When a planeswalker spell resolves, its controller puts it onto the battlefield under their control."
-msgstr ""
+msgstr "306.2. Quando uma mágica de planeswalker resolve, o seu controlador coloca-o no campo de batalha sob o seu controle."
 
 msgid "306.3. Planeswalker subtypes are always a single word and are listed after a long dash: “Planeswalker — Jace.” Each word after the dash is a separate subtype. Planeswalker subtypes are also called planeswalker types. Planeswalkers may have multiple subtypes. See rule 205.3j for the complete list of planeswalker types."
-msgstr ""
+msgstr "306.3. Os subtipos de planeswalker são sempre uma única palavra e são listados após um travessão: “Planeswalker — Jace”. Cada palavra depois do travessão é um subtipo distinto. Os subtipos de planeswalker também são chamados de tipos de planeswalker. Planeswalkers podem ter múltiplos subtipos. Veja a regra 205.3j para a lista completa de tipos de planeswalker."
 
 msgid "306.4. Previously, planeswalkers were subject to a “planeswalker uniqueness rule” that stopped a player from controlling two planeswalkers of the same planeswalker type. This rule has been removed and planeswalker cards printed before this change have received errata in the Oracle card reference to have the legendary supertype. Like other legendary permanents, they are subject to the “legend rule” (see rule 704.5j)."
-msgstr ""
+msgstr "306.4. Antigamente, os planeswalkers estavam sujeitos à “regra de singularidade de planeswalkers” que impedia um jogador de controlar dois planeswalkers do mesmo tipo de planeswalker. Essa regra foi removida e todos os planeswalkers impressos anteriormente à essa mudança tiveram uma errata na referência de cards Oracle para ter o supertipo Lendário. Assim como outras permanentes, eles estão sujeitos a “regra de Lendas” (consulte a regra 704.5j)."
 
 msgid "306.5. Loyalty is a characteristic only planeswalkers have."
-msgstr ""
+msgstr "306.5. Lealdade é uma característica que somente planeswalkers possuem."
 
 msgid "306.5a The loyalty of a planeswalker card not on the battlefield is equal to the number printed in its lower right corner."
-msgstr ""
+msgstr "306.5a A lealdade de um card de planeswalker que não esteja no campo de batalha é igual ao número impresso no canto inferior direito."
 
 msgid "306.5b A planeswalker has the intrinsic ability “This permanent enters the battlefield with a number of loyalty counters on it equal to its printed loyalty number.” This ability creates a replacement effect (see rule 614.1c)."
-msgstr ""
+msgstr "306.5b Um planeswalker é tratado como se sua caixa de texto incluísse “Esta permanente entra no campo de batalha com um número de marcadores de lealdade sobre ela igual ao seu número de lealdade impresso”. Esta habilidade cria um efeito de substituição (consulte a regra 614.1c)."
 
 msgid "306.5c The loyalty of a planeswalker on the battlefield is equal to the number of loyalty counters on it."
-msgstr ""
+msgstr "306.5c A lealdade de um planeswalker no campo de batalha é igual ao número de marcadores de lealdade sobre ele."
 
 msgid "306.5d Each planeswalker has a number of loyalty abilities, which are activated abilities with loyalty symbols in their costs. Loyalty abilities follow special rules: A player may activate a loyalty ability of a permanent they control any time they have priority and the stack is empty during a main phase of their turn, but only if none of that permanent’s loyalty abilities have been activated that turn. See rule 606, “Loyalty Abilities.”"
-msgstr ""
+msgstr "306.5d Cada planeswalker tem um número de habilidades de lealdade, que são habilidades ativadas com símbolos de lealdade em seus custos. Habilidades de lealdade seguem regras especiais: Um jogador pode ativar uma habilidade de lealdade de uma permanente que ele controla a qualquer momento em que ele tem prioridade e a pilha está vazia durante uma fase principal de seu turno, mas somente se nenhuma das habilidades de lealdade daquela permanente tenha sido ativada naquele turno. Consulte a regra 606, “Habilidades de Lealdade”."
 
 msgid "306.6. Planeswalkers can be attacked. (See rule 508, “Declare Attackers Step.”)"
-msgstr ""
+msgstr "306.6. Planeswalkers podem ser atacados. (Consulte a regra 508, “Etapa de Declaração de Atacantes”)."
 
 msgid "306.7. Previously, planeswalkers were subject to a redirection effect that allowed a player to have noncombat damage that would be dealt to an opponent be dealt to a planeswalker under that opponent’s control instead. This rule has been removed and certain cards have received errata in the Oracle card reference to deal damage directly to planeswalkers."
-msgstr ""
+msgstr "306.7. Antigamente, os planeswalker estavam sujeito a efeitos de redirecionamento que permitiam que dano que não era de combate que seria causado a um jogador por uma fonte controlada por um oponente, em vez disso, pudesser ter o dano redirecionado a um planeswalker que o oponente controlava. Esta regra foi removida e alguns cards receberam errata na referência de cards Oracle para causar dano diretamente aos planeswalkers."
 
 msgid "306.8. Damage dealt to a planeswalker results in that many loyalty counters being removed from it."
-msgstr ""
+msgstr "306.8. Dano causado a um planeswalker resulta naquela mesma quantidade de marcadores de lealdade ser removido dele."
 
 msgid "306.9. If a planeswalker’s loyalty is 0, it’s put into its owner’s graveyard. (This is a state-based action. See rule 704.)"
 msgstr ""
