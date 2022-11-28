@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2022-11-28 20:03\n"
+"PO-Revision-Date: 2022-11-28 22:49\n"
 
 msgid "Magic: The Gathering Comprehensive Rules"
 msgstr "Magic: The Gathering Regras Abrangentes"
@@ -2468,7 +2468,7 @@ msgid "306.8. Damage dealt to a planeswalker results in that many loyalty counte
 msgstr "306.8. Dano causado a um planeswalker resulta naquela mesma quantidade de marcadores de lealdade ser removido dele."
 
 msgid "306.9. If a planeswalker’s loyalty is 0, it’s put into its owner’s graveyard. (This is a state-based action. See rule 704.)"
-msgstr ""
+msgstr "306.9. Se a lealdade de um planeswalker for 0, ele é colocado no cemitério de seu dono (essa é uma ação baseada-no-estado. Consulte a regra 704)."
 
 msgid "307.1. A player who has priority may cast a sorcery card from their hand during a main phase of their turn when the stack is empty. Casting a sorcery as a spell uses the stack. (See rule 601, “Casting Spells.”)"
 msgstr ""
